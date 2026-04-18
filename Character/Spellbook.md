@@ -35,3 +35,4 @@
 - [Confirmed] Dain's sheeted subclass is School of Conjuration.
 - [Confirmed] The user describes Dain as loving deception, illusion, and odd magical tricks.
 - [Inferred] The current list strongly supports misdirection, concealment, and socially disruptive magic even though his formal school is conjuration.
+- [Character-only] Dain's long-term magical ambition is to invent uniquely strange, marginal, and apparently useless spells no one else would bother to create.

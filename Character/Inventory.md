@@ -35,6 +35,9 @@
 ## Magic Items
 - Attuned Magic Items: none listed
 
+## Quest Items
+- Sealed letter from Commander Agland for the actual general in a settlement in the mountains x1 [Party] [Confirmed on 2026-04-18]
+
 ## Carry Load
 - Weight Carried: 53 lb.
 - Encumbered: 225 lb.
@@ -43,3 +46,4 @@
 ## Notes
 - [Confirmed] The sheet's total carried weight matches the duplicate weapon, robe, and book entries, so they are preserved as real items unless corrected later.
 - [To verify] Storage location and ownership notes have not been documented yet.
+- [To verify] Which party member is physically carrying Commander Agland's sealed letter.

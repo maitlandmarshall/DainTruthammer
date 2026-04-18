@@ -4,4 +4,4 @@
 - 2026-04-18: User correction confirmed Dain's alignment as `Chaotic Good` and current HP as `20`. The earlier lawful-good read from the blurb was preserved as personality framing, not the formal alignment label. [Confirmed] [Retcon]
 - 2026-04-18: Garl Glittergold was chosen as Dain's deity. [Confirmed]
 - 2026-04-18: Dain's personal arc was seeded from the user blurb: he delights in deception, illusion, and impractical magic, and actively seeks strange or ridiculous spells. [Confirmed]
-- 2026-04-18: A new session began with Dain along the coastline near the Iron Shore Tribes. [Party]
+- 2026-04-18: A new session began with Dain meeting the party near the watchtower of the Iron Shore Tribes along the coastline. [Party]
