@@ -1,6 +1,6 @@
 # Dain Truthammer
 
-![Dain Truthammer portrait](./Dain_Truthammer_portrait_v2.png)
+![Dain Truthammer portrait](./Dain_Truthammer_portrait_v3.png)
 
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
@@ -33,6 +33,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed] Wizard subclass on sheet: School of Conjuration.
 - [Confirmed] Deity: Garl Glittergold.
 - [Confirmed] Canonical portrait shows him slightly naturally disheveled, in fancy scholar's robes marked with the sigil of Garl Glittergold.
+- [Confirmed] Current portrait establishes the campaign's whimsical inked fantasy image style: comic/manga-inspired line art, expressive character acting, warm golden magic, and playful hidden-door motifs.
 - [Inferred] His current spell choices support misdirection, concealment, and magical stagecraft even though his formal specialty is conjuration.
 
 ## Personality And Play Texture
@@ -93,6 +94,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-04-18: Alignment confirmed as Chaotic Good, current HP confirmed as 20, and Garl Glittergold chosen as Dain's deity.
 - 2026-04-18: Canonical portrait updated to show Garl Glittergold's sigil worked into Dain's fancy but slightly disheveled scholar's robes.
 - 2026-04-18: A new session began with Dain along the coastline near the Iron Shore Tribes.
+- 2026-04-24: Canonical portrait regenerated as `Dain_Truthammer_portrait_v3.png`, establishing the campaign's whimsical inked fantasy style for future images.
+- 2026-04-24: The DM gave/approved `Truthhammer's Leaky Shelter` as the spell Dain created. His clan mountain was also placed near a volcano, with proposed volcanic-flow forge lore.
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
@@ -104,3 +107,6 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Dainisms](../Lore/Dainisms.md)
 - [Truthammer Tales](../Lore/Truthammer%20Tales.md)
 - [Dain Background Evasions](../Lore/Dain%20Background%20Evasions.md)
+- [Campaign Visual Style Guide](../Images/Campaign%20Visual%20Style%20Guide.md)
+- [Truthhammer's Leaky Shelter](../Powers/Truthhammer%20Leaky%20Shelter.md)
+- [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md)

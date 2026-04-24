@@ -19,7 +19,7 @@
 
 ## Core Numbers
 - Max HP: 20
-- Current HP: 20 [Confirmed by user on 2026-04-18]
+- Current HP: 20 [Confirmed at session start on 2026-04-18; [Inferred] restored to full by long rest after the ogre ambush]
 - Temp HP: [To verify] the Temp HP field shows `--`
 - AC: 10
 - Initiative: +0
@@ -52,13 +52,13 @@
 - Other noted skills: Athletics +2, Deception +2, Insight +1, Medicine +3, Perception +1, Survival +1
 
 ## Resources
-- Spell Slots: 1st level 4/4, 2nd level 2/2
+- Spell Slots: 1st level 4/4, 2nd level 1/2
 - Arcane Recovery: 1 / Long Rest
 - Stonecunning (Tremorsense): 2 / Long Rest
-- Chromatic Orb: 1 / Long Rest via Magic Initiate, or cast with spell slots
+- Chromatic Orb: [To verify] used during the alpha harpy immolation, either via Magic Initiate `1 / Long Rest` or by spending a spell slot
 - Heroic Inspiration: [To verify] not marked on the sheet
-- Active conditions: none recorded
-- Current location: Lerdar, a smaller dwarven city to the east, with the party [Confirmed on 2026-04-18]
+- Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
+- Current location: On the mountain route near the defeated harpy nest, beyond the Y-shaped creek fork and still bound toward Samyrn Torst after the party's victory [Confirmed on 2026-04-18] [To verify spelling]
 
 ## Combat Snapshot
 - Dagger: `+4`, `1d4+2` piercing
@@ -79,6 +79,7 @@
 - [Character-only] Quietly learn what the sealed-letter mission is truly about without shattering trust.
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.
+- [Character-only] Continue work on the anti-shelter spell concept; current research progress stands at four hours.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
 - [Character-only] Use harmless illusions, jokes, or little rituals to take the edge off fear during camp and travel.
 

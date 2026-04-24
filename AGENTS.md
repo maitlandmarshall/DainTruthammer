@@ -476,6 +476,7 @@ When the user asks what to do next, start here.
 ## Image Workflow
 
 Images are default-on for meaningful campaign documentation.
+The agent should assume that new important scene beats need images unless the user explicitly requests text-only handling.
 
 ### Goals of images
 
@@ -490,6 +491,32 @@ Use visuals to:
 
 * **Adventure logs**: include images for major scenes, reveals, combats, rituals, and other important story beats; if several distinct beats matter, document them with separate scene images rather than a single catch-all illustration
 * **Codex pages**: include at least one canonical reference image near the top for substantive codex entries by default, including recurring characters, places, items, factions, powers, lore subjects, and important events, unless the user explicitly wants a text-only entry
+
+### Mandatory image triggers
+
+Generate or queue an image whenever any of the following occurs:
+
+* arrival at a new meaningful location
+* a new recurring NPC, creature, item, faction, or landmark appears
+* a major travel beat changes the party's visual context
+* camp scenes, weather shifts, forks in the road, rituals, combats, reveals, or strange magical experiments occur
+* a codex page is created or materially expanded for an important subject
+
+If there is any reasonable doubt about whether a beat deserves an image, bias toward creating or queueing one.
+
+### Completion rule
+
+When an image trigger occurs, the agent should treat image completion as part of the same unit of work by default.
+
+Do not hand the turn back to the user while a triggered or explicitly requested image for that turn is still ungenerated unless the user explicitly asks to defer it or a tool failure blocks generation.
+
+Temporary placeholders are allowed only as an in-progress coordination device while background generation is running during the same turn. They are not, by themselves, sufficient to consider the work complete.
+
+Before finishing the turn, at least one of the following must be true:
+
+* the image was generated, copied into the repository if needed, and embedded in the relevant markdown
+* the user explicitly approved deferring the image
+* generation was attempted, blocked by a concrete tool or policy limitation, and that blocker was recorded clearly in the relevant markdown
 
 ### Image storage
 
@@ -531,19 +558,64 @@ Prompts should emphasize:
 * key canonical details already established
 * camera framing when useful
 
+Use `Codex/Images/Campaign Visual Style Guide.md` as the default style source for future campaign images unless the user overrides it.
+
 Avoid generic fantasy prompts if the entity already has distinctive identity.
 
 ### Verification
 
 Before finishing a significant documentation pass, verify that embedded image paths exist.
 
+### Session logging rule
+
+Even during live or incremental session logging, newly established visual beats must be handled immediately by one of these:
+
+1. generate the image
+2. add an `Image pending` entry with:
+   * target filename
+   * short prompt description
+   * linked markdown destination
+3. add the item to an image backlog section in the current session file
+
+If option 2 or 3 is used during a turn, the agent should continue by launching background generation immediately and then return to replace the placeholder before ending the turn, unless the user explicitly wants deferral.
+
 ---
 
 ## Using Image Generation
 
-If the repo includes an image generation skill or workflow, use it consistently.
+Use the repository-local `.agents/skills/openai-image-gen/SKILL.md` workflow by default for campaign images.
 
-The agent is also explicitly allowed to use **system-provided image generation skills or workflows** when they are available, including the Codex system `imagegen` skill or similar tooling outside this repository.
+This repository intentionally prefers the local OpenAI image generation workflow because it saves directly into the repo, supports explicit reference images, and can be run asynchronously or in batches more easily than the built-in image tool.
+
+Primary command pattern:
+
+```bash
+python3 .agents/skills/openai-image-gen/scripts/generate_image.py \
+  --prompt "..." \
+  --input-image "Codex/Characters/Dain_Truthammer_portrait_v3.png" \
+  --out "Adventures/2026-04-18/example.png" \
+  --size "1536x1024" \
+  --quality high
+```
+
+Use `--input-image` repeatedly for relevant codex portraits, item references, place references, and prior scene panels. Use `--n` for variants when useful, then keep the selected result in the repository and embed it in the relevant markdown.
+
+For character-heavy scene panels, prefer:
+
+```bash
+python3 .agents/skills/openai-image-gen/scripts/generate_panel.py \
+  --character "Dain Truthammer" \
+  --character "The Astral Elf" \
+  --prompt "..." \
+  --out "Adventures/2026-04-18/example-panel.png" \
+  --size "1536x1024" \
+  --timeout 900 \
+  --retries 3
+```
+
+`generate_panel.py` resolves embedded images from `Codex/Characters/*.md`; add extra `--input-image` arguments for item, place, faction, or prior scene references.
+
+The system-provided `imagegen` skill remains a fallback only when the repo-local workflow is unavailable, blocked, or explicitly unsuitable.
 
 General expectations:
 
@@ -551,9 +623,19 @@ General expectations:
 * keep image filenames stable and descriptive
 * embed generated images into the relevant markdown page immediately
 * do not generate a pile of disconnected images without attaching them to canon pages or session logs
-* when choosing between a repo-local image workflow and a system image workflow, use whichever is more reliable and continuity-friendly for the task
+* when choosing between the repo-local image workflow and the system image workflow, prefer `.agents/skills/openai-image-gen/SKILL.md`
 * if a canonical image already exists for a subject, load it and use it as an explicit reference input whenever the chosen image workflow supports references
 * for project-bound campaign assets, do not stop at generation; copy the selected final image into the repository and update the consuming markdown page in the same pass
+
+### Required backlog tracking
+
+Maintain an image backlog in the current session file whenever triggered images are deferred.
+Each pending item should include:
+
+* subject
+* why it matters
+* intended filename
+* intended destination markdown file
 
 ### Async image generation policy
 
@@ -562,9 +644,16 @@ When image generation may take noticeable time, treat it as background work by d
 Preferred behavior:
 
 * gather the canon context, output path, markdown target, and reference images first
-* hand image generation off to a subagent, worker, queue, or other background-capable workflow when available
+* launch image generation in the background using an async shell job, subagent, worker, queue, or other background-capable workflow when available
 * keep the main agent focused on live notes, character state, codex updates, and open-thread reconciliation while the image job runs
-* wait for image completion only when the final markdown update truly depends on the finished asset
+* before handing control back to the user, wait for the background image job to finish, move or copy the selected asset into the repository, and update the consuming markdown
+
+Execution requirement:
+
+* when background-capable tools exist, prefer actually using them rather than merely noting that generation could happen later
+* if subagents are available and permitted by the active system rules, they are the preferred image workers
+* otherwise use an async shell or queue-based workflow that lets canon-note editing continue while the render runs
+* if neither background route is available, keep the current turn open and complete the image generation synchronously rather than returning unfinished image work
 
 Ownership rules:
 
@@ -574,9 +663,10 @@ Ownership rules:
 
 If an image is still running when documentation work is otherwise complete:
 
-* do not stall session logging or canon updates just to wait for the render
-* record an explicit pending note such as `Image pending` or leave a clear placeholder where appropriate
-* return to embed the image once the asset exists and the path is confirmed
+* do not abandon the render and end the turn merely because the text updates are done
+* keep any placeholder explicit while waiting
+* poll or wait for the background worker, then return to embed the image once the asset exists and the path is confirmed
+* only leave the image unresolved at turn end if the user explicitly wants deferral or a concrete blocker prevents completion
 
 The goal is for image generation to support continuity without slowing down note capture or state maintenance.
 
@@ -678,8 +768,9 @@ Do so in Glimmergrin's voice by default, unless the user explicitly requests an 
 2. include the verbatim prompt if it materially drove the beat
 3. update character state if anything changed
 4. add or advance any open thread
-5. queue or delegate any needed image generation without blocking note capture
+5. launch any needed image generation in the background without blocking note capture
 6. note any codex pages that should be updated afterward
+7. before ending the turn, reconcile the finished image back into the relevant markdown
 
 ### When the session ends
 
@@ -687,8 +778,8 @@ Do so in Glimmergrin's voice by default, unless the user explicitly requests an 
 2. reconcile state changes into canonical state files
 3. propagate important discoveries into codex pages
 4. reconcile open threads
-5. generate, delegate, or reconcile missing key images
-6. if an image is still pending, mark that clearly without blocking the rest of the documentation pass
+5. generate or background-delegate any missing key images
+6. wait for outstanding image jobs, then embed or record the concrete blocker
 7. link the session to adjacent sessions
 
 ### When a new recurring entity appears
@@ -697,8 +788,8 @@ Do so in Glimmergrin's voice by default, unless the user explicitly requests an 
 2. add a short identifying summary
 3. record what is known vs uncertain
 4. link to relevant sessions
-5. generate or delegate a canonical reference image if appropriate
-6. if the image is not ready yet, leave a clear placeholder rather than stalling the codex update
+5. generate or background-delegate a canonical reference image if appropriate
+6. before ending the turn, embed the finished image or record the concrete blocker if generation could not be completed
 
 ### When the user asks "what should we do next?"
 

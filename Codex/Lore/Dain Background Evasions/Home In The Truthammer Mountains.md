@@ -18,8 +18,11 @@ Vague answers about Dain's home without locking down a precise settlement or hol
 
 ## Canon Notes
 - [Confirmed] Dain identifies home with the Truthammer Mountains.
+- [Confirmed] On 2026-04-24, the user set the clan mountain's location with a volcano just behind it.
 - [To verify] No exact settlement name has been established yet.
+- [To verify] The Truthhammer clan may be master smiths with a forge powered by volcanic flow, but this remains proposed lore until confirmed.
 
 ## Related entries
 - [Dain Background Evasions](../Dain%20Background%20Evasions.md)
 - [Truthammer Tales](../Truthammer%20Tales.md)
+- [Truthhammer Mountains](../../Places/Truthhammer%20Mountains.md)

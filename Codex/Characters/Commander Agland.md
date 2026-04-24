@@ -1,5 +1,7 @@
 # Commander Agland
 
+![Commander Agland portrait](./Commander_Agland_portrait.png)
+
 ## One-line summary
 A stoic dwarven commander in Lerdar whom the party seeks out to deliver news.
 
@@ -33,4 +35,6 @@ A stoic dwarven commander in Lerdar whom the party seeks out to deliver news.
 
 ## Related entries
 - [Session 2026-04-18](../../Adventures/2026-04-18.md)
+- [Lerdar](../Places/Lerdar.md)
+- [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md)
 - [Open Threads](../Lore/Open%20Threads.md)
