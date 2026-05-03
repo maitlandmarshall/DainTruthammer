@@ -29,6 +29,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Brother Taleesh has arrived at the party's forest camp by camel, approached with his scimitar at low ready, and answered Dain's challenge in Common as "just a fellow traveller."
 - [Character-only] Dain invited him to join the camp.
 - [Character-only] Dain reads Taleesh as standoffish and afraid, then stops and puts down his staff to reassure him. [Inferred]
+- [Party] Dain sees Taleesh produce herbal items from [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md) and offer comfrey, pigweed, and hedgehog mushroom. [To verify effects]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -40,6 +41,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Dain replies, "Ah, we're all travellers. Come join us."
 - [Party] Dain stops approaching, puts down his staff, and says there is no need to be afraid.
 - [Party] Dain claims that, if Taleesh has heard of the Truthhammers, he should know they are safe, respectable travellers.
+- [Party] Taleesh reaches into his stash, produces herbal items, and asks whether the party needs comfrey, pigweed, or hedgehog mushroom.
 - [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
 - [To verify] How Brother Taleesh joins the current mountain-road mission.
 
@@ -111,7 +113,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - Carried gear: Traveler's Clothes, pouch, scimitar, jambiya, dice set.
 - Ruined background equipment: cracked hourglass, rusty manacles, half-empty bottle, hunting trap.
 - Ruined trinket: [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md).
-- Foraged/trade goods on sheet: hedgehog mushroom, wild blackberry, pigweed, comfrey, sheep sorrel, and goji leaves with potent but addictive effects. [To verify quantities and rules]
+- Foraged/trade goods on sheet: [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), including hedgehog mushroom, wild blackberry, pigweed, comfrey, sheep sorrel, and goji leaves with potent but addictive effects. [To verify quantities and rules]
 
 ## Allies And Organizations
 - Fellow Travellers / Followers of Fharlanghn.
@@ -132,10 +134,12 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Dain realizes Taleesh is the arrival and uses `Prestidigitation` to boom, "Who goes there?" [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh approaches with his scimitar at low ready and answers in Common, "Just a fellow traveller"; Dain replies, "Ah, we're all travellers. Come join us." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain reads Taleesh as standoffish and afraid, stops, puts down his staff, and reassures him through the Truthammer name. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Taleesh produces herbal items from his stash and asks whether the party needs comfrey, pigweed, or hedgehog mushroom. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md)
+- [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
 - [Kagrenac](./The%20Astral%20Elf.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)

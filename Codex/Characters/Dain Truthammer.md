@@ -30,6 +30,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] At the forest camp, he hears Kagrenac say "a lizard has arrived," sees Hammerton holding a severed lizard head, initially assumes the head is what Kagrenac means, then realizes the mistake and booms "Who goes there?" with `Prestidigitation`.
 - [Character-only] When Taleesh answers as "just a fellow traveller," Dain welcomes him with, "Ah, we're all travellers. Come join us."
 - [Character-only] Dain reads Taleesh as standoffish and afraid, stops, puts down his staff, and reassures him by invoking the Truthammer name as safe and respectable. [Inferred]
+- [Character-only] Dain sees Taleesh produce herbal items from [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md) and offer comfrey, pigweed, and hedgehog mushroom. [To verify effects]
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -120,6 +121,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain realized the announcement referred to a living arrival rather than the severed head, then used `Prestidigitation` to boom his voice outward and call, "Who goes there?" [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain welcomes Brother Taleesh after Taleesh identifies himself as "just a fellow traveller." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain lowers his staff to reassure Taleesh and publicly invokes the Truthammer name as safe and respectable, despite his private outcast status. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain sees Taleesh offer herbal remedies from his stash during the first-contact exchange. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
