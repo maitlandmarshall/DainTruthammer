@@ -34,7 +34,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed] Wizard subclass on sheet: School of Conjuration.
 - [Confirmed] Deity: Garl Glittergold.
 - [Confirmed] Canonical portrait shows him slightly naturally disheveled, in fancy scholar's robes marked with the sigil of Garl Glittergold.
-- [Confirmed] Current portrait establishes the campaign's whimsical inked fantasy image style: comic/manga-inspired line art, expressive character acting, warm golden magic, and playful hidden-door motifs.
+- [Confirmed] Current portrait now follows the campaign's kinetic shonen fantasy anime image style: clean modern battle-anime line art, smooth cel shading, expressive character acting, warm golden magic, and sharp hidden-door motifs. [Retcon] Style update recorded 2026-05-03.
 - [Inferred] His current spell choices support misdirection, concealment, and magical stagecraft even though his formal specialty is conjuration.
 
 ## Personality And Play Texture
@@ -95,8 +95,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-04-18: Alignment confirmed as Chaotic Good, current HP confirmed as 20, and Garl Glittergold chosen as Dain's deity.
 - 2026-04-18: Canonical portrait updated to show Garl Glittergold's sigil worked into Dain's fancy but slightly disheveled scholar's robes.
 - 2026-04-18: A new session began with Dain along the coastline near the Iron Shore Tribes.
-- 2026-04-24: Canonical portrait regenerated as `Dain_Truthammer_portrait_v3.png`, establishing the campaign's whimsical inked fantasy style for future images.
+- 2026-04-24: Canonical portrait regenerated as `Dain_Truthammer_portrait_v3.png` under the earlier whimsical inked fantasy style.
 - 2026-04-24: The DM gave/approved `Truthhammer's Leaky Shelter` as the spell Dain created. His clan mountain was also placed near a volcano, with proposed volcanic-flow forge lore.
+- 2026-05-03: Codex reference images, including `Dain_Truthammer_portrait_v3.png`, were regenerated in the campaign's kinetic shonen fantasy anime style.
 - 2026-05-03: User correction clarified that Dain, not the Astral Elf, received the `Ghostly Form Tattoo` reward from the harpy fight.
 
 ## Related Entries
