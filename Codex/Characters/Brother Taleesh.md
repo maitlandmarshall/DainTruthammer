@@ -32,6 +32,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 ## What The Party Knows
 - [Party] Brother Taleesh arrives by camel, secures the animal in a sheltered area, and crouches at the camp.
 - [Party] Kagrenac addresses Taleesh in Draconic after casting `Thaumaturgy` on himself.
+- [Party] Kagrenac then tells the party in Common that "a lizard has arrived," referring to Taleesh.
+- [Character-only] Dain initially misunderstands that announcement as referring to Hammerton's severed lizard head rather than Taleesh.
 - [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
 - [To verify] How Brother Taleesh joins the current mountain-road mission.
 
@@ -120,6 +122,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 ## Notable Events
 - 2026-05-03: Brother Taleesh onboarded into the Codex from Jackson's sheet images and backstory.
 - 2026-05-03: Brother Taleesh arrives at the forest camp by camel, secures the camel in a sheltered area, and crouches while Kagrenac addresses him in Draconic; Hammerton Harry Drizddon is inspecting a severed lizard head at the time. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Kagrenac announces in Common that "a lizard has arrived," referring to Taleesh; Dain initially mistakes the announcement as referring to Hammerton's severed lizard head. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
