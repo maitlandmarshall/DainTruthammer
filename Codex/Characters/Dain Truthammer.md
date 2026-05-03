@@ -46,6 +46,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Kagrenac tells Dain in Draconic that the newcomers are all glowing in magic. [To verify detection source]
 - [Character-only] Dain shakes the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)'s hand while attempting `Identify`, but the puppet appears to prevent or block the casting. [Inferred] [To verify resource cost]
 - [Party] The puppet speaks in a high voice about being taken back to the coal mines.
+- [Character-only] Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the puppet bites him. Dain does not know why. [To verify damage, trigger, and consequence]
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -115,7 +116,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Quietly discover the fuller truth behind the party's mission.
 - [Character-only] Hunt for strange mountain magic, old wards, and improbable little spells.
 - [Character-only] Decide how much, if anything, to reveal about being an outcast from Truthammer mountain.
-- [Character-only] Understand why the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) can apparently block `Identify`, and whether "the coal mines" are a destination, prison, origin, or trap.
+- [Character-only] Understand why the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) can apparently block `Identify`, why it bites during prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and whether "the coal mines" are a destination, prison, origin, or trap.
 
 ## Long-Term Ambitions
 - [Character-only] Develop a personal body of magic so peculiar and apparently useless that it becomes unmatched in the realm.
@@ -153,6 +154,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain rolls a natural `20` on Persuasion to convince the southern human traders to trust the party and come with them, delegates cost-setting to [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md), and requests half paid upfront. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The trader arrangement is set as half now, half later; the upfront half goes into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac warns Dain in Draconic that the newcomers are glowing with magic; Dain shakes the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)'s hand while attempting `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites him for reasons Dain does not understand. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)

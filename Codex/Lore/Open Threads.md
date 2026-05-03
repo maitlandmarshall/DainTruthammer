@@ -6,8 +6,8 @@
 - Status: Open
 - Tags: [Party] [To verify]
 - Why it matters: Temp HP and inspiration are not fully confirmed yet.
-- Latest development: On 2026-05-03, the forest long rest completed and the party woke at the start of a new in-world day in cold winds. Dain's spell slots are restored to `1st 4/4`, `2nd 2/2`; Temp HP and inspiration remain [To verify].
-- Next possible actions: Confirm Temp HP, inspiration, whether the warm cloak has any post-night persistence, and any other resource changes not covered by Dain's long rest.
+- Latest development: On 2026-05-03, the forest long rest completed and the party woke at the start of a new in-world day in cold winds. Dain's spell slots are restored to `1st 4/4`, `2nd 2/2`; later, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites Dain as he begins praying to [Garl Glittergold](./Garl%20Glittergold.md). Temp HP, inspiration, bite damage, and any bite condition remain [To verify].
+- Next possible actions: Confirm Temp HP, inspiration, whether the warm cloak has any post-night persistence, bite damage or condition, and any other resource changes not covered by Dain's long rest.
 - Linked entries: [Current State](../../Character/Current%20State.md)
 
 ### Navigate Worsening Cold Winds
@@ -30,9 +30,9 @@
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: The puppet may explain the magical glow around the newcomers, can apparently resist or prevent `Identify`, and has asked to be taken back to "the coal mines."
-- Latest development: On 2026-05-03, after Kagrenac warns Dain in Draconic that all the newcomers are glowing in magic, a human trader sighs and produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). Dain shakes the puppet's hand and attempts `Identify`, but the casting fails or is prevented. The puppet speaks in a high voice and says, "unless you can take me back to the coal mines."
-- Next possible actions: Ask which coal mines, why the puppet wants to return, whether the traders are cursed or bound to it, whether the magical glow is active magic or an aura, whether the puppet blocked the spell before a resource was consumed, and whether another detection method can safely inspect it.
-- Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, after Kagrenac warns Dain in Draconic that all the newcomers are glowing in magic, a human trader sighs and produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). Dain shakes the puppet's hand and attempts `Identify`, but the casting fails or is prevented. The puppet speaks in a high voice and says, "unless you can take me back to the coal mines." When Dain begins praying to [Garl Glittergold](./Garl%20Glittergold.md), the puppet bites him; Dain does not know why.
+- Next possible actions: Ask which coal mines, why the puppet wants to return, whether the traders are cursed or bound to it, whether the magical glow is active magic or an aura, whether the puppet blocked the spell before a resource was consumed, whether the bite caused damage or a condition, whether prayer or Glittergold triggered the bite, and whether another detection method can safely inspect it.
+- Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Set The Traders' Escort Cost
 - Status: Active
