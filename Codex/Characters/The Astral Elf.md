@@ -37,6 +37,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Character-only] Kagrenac tells Dain in Draconic that the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) and other newcomers are glowing in magic. [To verify detection source]
 - [Party] During goblin camp breakfast diplomacy, Kagrenac / Matt poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md); the goblins eat it and forget about the party, while the leader remains charmed and happy the party is there for now. [Confirmed on 2026-05-03] [To verify plant spelling, source, quantity, and mechanics]
 - [Party] As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
+- [Party] The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -62,6 +63,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: Kagrenac tells Dain in Draconic that the newcomers are glowing in magic shortly before a human trader produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During goblin camp breakfast diplomacy, Kagrenac poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md), causing the goblins who eat it to forget about the party while the leader remains charmed and happy the party is present. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: As the party walks out of the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
+- 2026-05-03: The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
@@ -70,6 +72,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
 - [Sytxweed Plant](../Items/Sytxweed%20Plant.md)
 - [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md)
+- [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md)
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
