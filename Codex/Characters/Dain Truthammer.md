@@ -49,6 +49,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the puppet bites him. Dain does not know why. [To verify damage, trigger, and consequence]
 - [Character-only] Dain realizes the puppet is a cobalt puppet.
 - [Party] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [To verify who "you" refers to]
+- [Party] Dain defuses Hammerton / Dresden's push for more payment from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) by keeping the original deal and adding five truthful answers owed upon delivery.
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -119,6 +120,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Hunt for strange mountain magic, old wards, and improbable little spells.
 - [Character-only] Decide how much, if anything, to reveal about being an outcast from Truthammer mountain.
 - [Character-only] Understand why the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) can apparently block `Identify`, why it bites during prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md), what a cobalt puppet is, why [Kurtlemack](../Lore/Kurtlemack.md) hates him or someone near him, and whether "the coal mines" are a destination, prison, origin, or trap.
+- [Character-only] Preserve the future five truthful answers from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) for questions that actually matter.
 
 ## Long-Term Ambitions
 - [Character-only] Develop a personal body of magic so peculiar and apparently useless that it becomes unmatched in the realm.
@@ -158,6 +160,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Kagrenac warns Dain in Draconic that the newcomers are glowing with magic; Dain shakes the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)'s hand while attempting `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites him for reasons Dain does not understand. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain defuses Hammerton / Dresden's request for more payment by keeping the original trader deal and adding five truthful answers owed upon delivery. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)

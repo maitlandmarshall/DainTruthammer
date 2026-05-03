@@ -13,12 +13,20 @@
   - [Ginseng](../Codex/Items/Ginseng.md) x2 oz, valued at `2 gp/oz` for `4 gp` total. [Party] [Confirmed]
 - Upfront payment value: `5 gp` equivalent. [Party] [Confirmed]
 - Later payment: second half remains owed. Exact contents, coin value, timing, and collection condition are [To verify].
+- Addendum after the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) reveal: Dain keeps the original deal but adds that, upon delivery, the traders owe the party five questions answered truthfully. [Party] [Confirmed on 2026-05-03]
 - Current carrier: [To verify].
+
+## Non-Material Claims
+- Five truthful answers from the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), owed upon delivery after Dain defuses Hammerton / Dresden's push for more payment. [Party] [Confirmed]
+- Delivery target: [To verify], likely connected to [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md).
+- Question holder / asker: [To verify].
+- Enforcement: [To verify] whether this is honor-bound, magically binding, or merely negotiated.
 
 ## Open Questions
 - [To verify] Which party member carries the burdock and ginseng.
 - [To verify] Whether any herb is consumed before the traders pay the second half.
 - [To verify] Whether the later half matches the first half in value, contents, or both.
+- [To verify] Which five truthful questions the party asks upon delivery.
 
 ## Related Entries
 - [Burdock](../Codex/Items/Burdock.md)
@@ -26,4 +34,6 @@
 - [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md)
 - [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md)
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
+- [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md)
+- [Kurtlemack](../Codex/Lore/Kurtlemack.md)
 - [Session 2026-05-03](../Adventures/2026-05-03.md)
