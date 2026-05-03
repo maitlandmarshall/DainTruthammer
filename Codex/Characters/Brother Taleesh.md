@@ -40,6 +40,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and lantern-making start.
 - [Character-only] Dain tracks `50%` trust with Taleesh as of 2026-05-03.
 - [Character-only] Taleesh / Jackson gains `+3` respect as of 2026-05-03. [To verify respect direction]
+- [Party] During the smoky cave encounter, Taleesh bites and strikes the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), then says "ouch." [To verify damage and whether the bite has any special consequence]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -163,6 +164,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Taleesh gives Dain one pound of hedgehog mushroom, which Dain hollows out and begins turning into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain records `+17` respect toward Taleesh. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain's trust with Taleesh reaches `50%`, and Taleesh / Jackson gains `+3` respect. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify respect direction]
+- 2026-05-03: At the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Taleesh bites and strikes the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), then says "ouch." [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify damage]
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

@@ -43,6 +43,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Party] During goblin camp breakfast diplomacy, Hammerton / Norhan goes around the outside of the tent and convinces goblins one by one to eat with the party. [Confirmed on 2026-05-03]
 - [Party] As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Confirmed on 2026-05-03] [To verify whether "fighter dwarf" refers to Hammerton]
 - [Party] The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Confirmed on 2026-05-03]
+- [Party] During the smoky cave encounter, Hammerton / Norhan attacks the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md) with a hammer, missing once and hitting once. [Confirmed on 2026-05-03] [To verify damage and exact hammer]
 - [To verify] Whether the party knows about the sheet-listed `Slave collar`, what it means, and whether it is still present.
 
 ## Appearance
@@ -150,6 +151,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-05-03: During goblin camp breakfast diplomacy, Hammerton / Norhan goes around the outside of the tent and convinces goblins one by one to eat with the party. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "fighter dwarf" refers to Hammerton]
 - 2026-05-03: The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: At the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Hammerton attacks the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md) with a hammer, missing once and hitting once. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify damage and exact hammer]
 
 ## Related Entries
 - [Table Roster](../Lore/Table%20Roster.md)
