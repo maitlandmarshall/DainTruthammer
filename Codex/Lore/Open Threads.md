@@ -34,6 +34,14 @@
 - Next possible actions: Save some or all of the five truthful answers for which coal mines, why the puppet wants to return, whether the traders are cursed or bound to it, whether the magical glow is active magic or an aura, whether the puppet blocked the spell before a resource was consumed, whether the bite caused damage or a condition, whether prayer or Glittergold triggered the bite, what "cobalt puppet" means, who or what Kurtlemack is, who "you" refers to, and whether another detection method can safely inspect it.
 - Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Kurtlemack](./Kurtlemack.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
+### Handle The Goblin Camp Encounter
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: The party has encountered a goblin camp on the route, and Brother Taleesh has opened with a kinship appeal rather than a threat.
+- Latest development: On 2026-05-03, the party approaches a group of goblins at a camp, and [Brother Taleesh](../Characters/Brother%20Taleesh.md) / Jackson calls out, "Brothers, allow us to join your camp?"
+- Next possible actions: Confirm the goblins' attitude, number, leader, purpose, and whether the camp is safe refuge, obstacle, ambush, trade opportunity, or source of route information.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
 ### Set The Traders' Escort Cost
 - Status: Active
 - Tags: [Party] [To verify]
