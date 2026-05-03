@@ -37,6 +37,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain tells [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), offers to create a lantern with Taleesh, conjures a warm cloak, and confirms with the party that they will keep Taleesh warm if he joins them.
 - [Party] Taleesh approaches and introduces himself after the warmth bargain.
 - [Character-only] Dain receives one pound of hedgehog mushroom from Taleesh and begins hollowing it into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md) inspired by the lantern story.
+- [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and lantern-making start.
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -133,6 +134,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain refuses Taleesh's goji leaves, says the Truthhammers do not alter themselves in such ways, and suggests Kagrenac may be interested. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain answers Taleesh's non-aggressive astral arms with [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), a conjured cloak, a lantern-making offer, and a party-backed promise to keep Taleesh warm. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain receives one pound of hedgehog mushroom from Taleesh, hollows it out, and begins creating the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain records `+17` respect toward Brother Taleesh, using the player shorthand "the Lizard." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
