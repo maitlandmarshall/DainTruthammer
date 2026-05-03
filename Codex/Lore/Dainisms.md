@@ -8,6 +8,7 @@ A growing shelf of Dain Truthammer's sayings, evasions, and polished bits of mou
 - [To verify] Individual sayings may become especially iconic through repeated play.
 
 ## Practical Dainisms
+- [Humans, Goblins, And Bread](./Dainisms/Humans%20Goblins%20And%20Bread.md)
 - [A Straight Road](./Dainisms/A%20Straight%20Road.md)
 - [Kindness With A Crooked Hat](./Dainisms/Kindness%20With%20A%20Crooked%20Hat.md)
 - [If The Lock Exists](./Dainisms/If%20The%20Lock%20Exists.md)
