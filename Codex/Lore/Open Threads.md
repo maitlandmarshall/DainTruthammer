@@ -42,6 +42,14 @@
 - Next possible actions: Confirm the goblins' attitude, number, leader, purpose, exact sytxweed/styx spelling, potion duration, whether any humans or party members eat poisoned food, whether the leader notices the chest theft, who carries or splits the `500 gp`, who claims the mask, the mask's duration/recharge/attunement, whether the goblins remember the theft later, and whether the camp becomes future refuge, enemy, or unresolved liability.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Sytxweed Plant](../Items/Sytxweed%20Plant.md), [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md), [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md), [The Toll That Paid Itself](./Truthammer%20Tales/The%20Toll%20That%20Paid%20Itself.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
+### Investigate The Smoky Scratch-Marked Cave
+- Status: Open
+- Tags: [Party] [To verify]
+- Why it matters: The party has left the goblin camp carrying stolen contents and smelling strongly of goblin pus, and Kagrenac's owl has spotted a nearby cave/nest with signs of a very large creature or occupant.
+- Latest development: On 2026-05-03, about 30 minutes after leaving the goblin camp and roughly at midday, [Kagrenac](../Characters/The%20Astral%20Elf.md)'s owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): scratch marks on trees, fur on rocks, four very large claw marks, and smoke coming from the cave.
+- Next possible actions: Decide whether to approach, scout, hide, avoid, mask the goblin-pus smell, identify the smoke source, inspect the fur and scratch marks, or prepare for a large creature.
+- Linked entries: [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md), [Sytxweed Plant](../Items/Sytxweed%20Plant.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
 ### Set The Traders' Escort Cost
 - Status: Active
 - Tags: [Party] [To verify]
