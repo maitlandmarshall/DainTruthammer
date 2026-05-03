@@ -14,8 +14,8 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh is a new party member controlled by Jackson / Jackbo, and his distrust of dwarves and elves may matter immediately because Dain is a dwarf and the party includes Kagrenac, an Astral Elf.
-- Latest development: On 2026-05-03, Brother Taleesh answered Dain's boomed challenge by approaching with his scimitar at low ready and saying in Common, "Just a fellow traveller." Dain replied, "Ah, we're all travellers. Come join us."
-- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, whether he accepts Dain's invitation, and how he reacts to the severed lizard head.
+- Latest development: On 2026-05-03, Brother Taleesh answered Dain's boomed challenge by approaching with his scimitar at low ready and saying in Common, "Just a fellow traveller." Dain replied, "Ah, we're all travellers. Come join us," then read Taleesh as standoffish and afraid, stopped, put down his staff, and reassured him through the Truthammer name.
+- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, whether the Truthhammer name means anything to him, and how he reacts to the severed lizard head.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify The Severed Lizard Head
@@ -94,7 +94,7 @@
 - Status: Open
 - Tags: [DM-private] [Character-only] [To verify]
 - Why it matters: Dain being considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](./Garl%20Glittergold.md) gives his homeland, faith, and evasive backstory a sharper emotional and social cost.
-- Latest development: On 2026-05-03, the DM note established that Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](./Garl%20Glittergold.md); the user interpreted this as a likely explanation for Dain's vague life stories and backstory.
+- Latest development: On 2026-05-03, the DM note established that Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](./Garl%20Glittergold.md); later that same session, Dain publicly invoked the Truthammer name as safe and respectable while reassuring Brother Taleesh.
 - Next possible actions: Clarify who considers Dain an outcast, whether the status is formal exile or social rejection, whether family members share or oppose it, whether Dain can return safely, and what he is willing to reveal to the party.
 - Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Why He Left Home](./Dain%20Background%20Evasions/Why%20He%20Left%20Home.md), [Relationships](../../Character/Relationships.md)
 

@@ -27,10 +27,10 @@
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
 - Current standing: [Party] Brother Taleesh has approached the party with his scimitar at low ready, identified himself as "just a fellow traveller," and received Dain's invitation to join the camp.
-- Dain's known belief: [Character-only] Taleesh presents himself as a fellow traveller rather than an immediate attacker; Dain has answered with hospitality.
+- Dain's known belief: [Character-only] Taleesh presents himself as a fellow traveller rather than an immediate attacker, but Dain reads him as standoffish and afraid. Dain stops, puts down his staff, and reassures him through the Truthammer name. [Inferred]
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to approach through patience, desert practicalities, respect for the bone charm, and careful honesty instead of clever evasions.
-- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether he accepts Dain's invitation, and how he reacts to dwarves and elves at first contact.
+- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether he accepts Dain's invitation, whether the Truthhammer name means anything to him, and how he reacts to dwarves and elves at first contact.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
 - Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories

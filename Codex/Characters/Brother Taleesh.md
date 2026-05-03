@@ -28,6 +28,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 ## What Dain Knows
 - [Party] Brother Taleesh has arrived at the party's forest camp by camel, approached with his scimitar at low ready, and answered Dain's challenge in Common as "just a fellow traveller."
 - [Character-only] Dain invited him to join the camp.
+- [Character-only] Dain reads Taleesh as standoffish and afraid, then stops and puts down his staff to reassure him. [Inferred]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -37,6 +38,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Character-only] Dain initially misunderstands that announcement as referring to Hammerton's severed lizard head rather than Taleesh, then realizes the mistake and booms "Who goes there?" with `Prestidigitation`.
 - [Party] Taleesh approaches with scimitar at low ready and says, "Just a fellow traveller."
 - [Party] Dain replies, "Ah, we're all travellers. Come join us."
+- [Party] Dain stops approaching, puts down his staff, and says there is no need to be afraid.
+- [Party] Dain claims that, if Taleesh has heard of the Truthhammers, he should know they are safe, respectable travellers.
 - [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
 - [To verify] How Brother Taleesh joins the current mountain-road mission.
 
@@ -128,6 +131,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Kagrenac announces in Common that "a lizard has arrived," referring to Taleesh; Dain initially mistakes the announcement as referring to Hammerton's severed lizard head. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain realizes Taleesh is the arrival and uses `Prestidigitation` to boom, "Who goes there?" [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh approaches with his scimitar at low ready and answers in Common, "Just a fellow traveller"; Dain replies, "Ah, we're all travellers. Come join us." [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain reads Taleesh as standoffish and afraid, stops, puts down his staff, and reassures him through the Truthammer name. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
