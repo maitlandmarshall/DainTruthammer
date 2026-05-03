@@ -32,6 +32,9 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Dain sees Taleesh produce herbal items from [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md) and offer comfrey, pigweed, and hedgehog mushroom. [To verify effects]
 - [Party] Dain hears Taleesh offer goji leaves, saying the first one is free and that taking one will make the taker "feel like a god." [To verify actual effects]
 - [Character-only] Dain refuses the goji leaves and says the Truthhammers do not alter themselves in such ways.
+- [Party] Dain sees Taleesh spend 1 ki point and project ghostly astral arms from his shoulders without using them aggressively.
+- [Character-only] Dain responds by telling [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), offering to make a lantern with Taleesh, and conjuring a warm cloak.
+- [Party] Taleesh approaches and introduces himself to the party after Dain and the party agree to keep him warm if he joins them.
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -46,8 +49,11 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Taleesh reaches into his stash, produces herbal items, and asks whether the party needs comfrey, pigweed, or hedgehog mushroom.
 - [Party] Taleesh offers goji leaves, says the first one is free, and claims they make the taker feel like a god.
 - [Party] Dain refuses the goji leaves and suggests Kagrenac may be interested.
+- [Party] Taleesh spends 1 ki point to project ghostly astral arms from his shoulders; the use is not aggressive.
+- [Party] Dain tells a lantern story, conjures a warm cloak, offers to make a lantern with Taleesh, and confirms with the party that they will keep Taleesh warm if he joins them.
+- [Party] Taleesh approaches and introduces himself to the party.
 - [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
-- [To verify] How Brother Taleesh joins the current mountain-road mission.
+- [To verify] Why Brother Taleesh joins the current mountain-road mission.
 
 ## Brother Taleesh's Own History
 Knowledge boundary: player-provided backstory for Brother Taleesh; not established as known to Dain unless revealed in play.
@@ -93,6 +99,9 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - Other visible skills include Arcana +0, Deception +1, History +0, Intimidation +1, Investigation +0, Medicine +3, Nature +0, Performance +1, Persuasion +1, Religion +0, Sleight of Hand +4.
 - Passive Perception: 15.
 - Comeliness: 9.
+
+## Current Session Resource Notes
+- 2026-05-03: Spent 1 ki point to project ghostly astral arms from his shoulders during first contact at the forest camp. Remaining ki and exact active duration are [To verify].
 
 ## Features And Tactics
 - Ruined background feature: `Still Standing`, granting the Alert feat.
@@ -140,6 +149,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Dain reads Taleesh as standoffish and afraid, stops, puts down his staff, and reassures him through the Truthammer name. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh produces herbal items from his stash and asks whether the party needs comfrey, pigweed, or hedgehog mushroom. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh offers goji leaves with the promise of godlike feeling; Dain refuses and redirects the offer toward Kagrenac. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Taleesh spends 1 ki point to project ghostly astral arms without aggression; Dain answers with the lantern-festival story, conjures a warm cloak, secures a party promise to keep Taleesh warm, and Taleesh approaches to introduce himself. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

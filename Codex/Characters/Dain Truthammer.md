@@ -33,6 +33,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain sees Taleesh produce herbal items from [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md) and offer comfrey, pigweed, and hedgehog mushroom. [To verify effects]
 - [Character-only] Dain hears Taleesh offer goji leaves with the claim that taking one makes the taker "feel like a god," refuses, and says the Truthhammers do not alter themselves in such ways.
 - [Character-only] Dain suggests Kagrenac, "the young elf," may be interested in the goji leaves. [To verify whether Kagrenac is actually interested]
+- [Character-only] Dain sees Taleesh project ghostly astral arms from his shoulders without using them aggressively.
+- [Character-only] Dain tells [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), offers to create a lantern with Taleesh, conjures a warm cloak, and confirms with the party that they will keep Taleesh warm if he joins them.
+- [Party] Taleesh approaches and introduces himself after the warmth bargain.
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -61,6 +64,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed] He can be played as someone who speaks politely to illusions, touches stone while thinking, and delights in hidden mechanisms and coded messages.
 - [Inferred] His evasive stories and habit of giving layered answers may be partly protective, shaped by being an outcast from home for his faith rather than mere whimsy.
 - [Confirmed] He publicly refuses Taleesh's goji leaves by invoking a Truthammer principle against altering himself in that way, despite his complicated outcast relationship with the Truthammer homeland.
+- [Confirmed] He can use absurd Truthammer stories and small conjured comforts as sincere diplomacy, not only as jokes.
 
 ## Dainisms
 - "A straight road is for people with nothing to hide and nothing to find."
@@ -126,6 +130,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain lowers his staff to reassure Taleesh and publicly invokes the Truthammer name as safe and respectable, despite his private outcast status. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain sees Taleesh offer herbal remedies from his stash during the first-contact exchange. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain refuses Taleesh's goji leaves, says the Truthhammers do not alter themselves in such ways, and suggests Kagrenac may be interested. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain answers Taleesh's non-aggressive astral arms with [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), a conjured cloak, a lantern-making offer, and a party-backed promise to keep Taleesh warm. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
@@ -136,6 +141,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Dainisms](../Lore/Dainisms.md)
 - [Truthammer Tales](../Lore/Truthammer%20Tales.md)
+- [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md)
 - [Dain Background Evasions](../Lore/Dain%20Background%20Evasions.md)
 - [Garl Glittergold](../Lore/Garl%20Glittergold.md)
 - [Home In The Truthammer Mountains](../Lore/Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md)

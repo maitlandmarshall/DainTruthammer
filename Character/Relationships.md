@@ -26,11 +26,11 @@
 - Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, and what the sheet-listed `Slave collar` represents.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
-- Current standing: [Party] Brother Taleesh has approached the party with his scimitar at low ready, identified himself as "just a fellow traveller," received Dain's invitation to join the camp, and offered herbs and goji leaves from [Taleesh's Herbal Stash](../Codex/Items/Taleeshs%20Herbal%20Stash.md).
-- Dain's known belief: [Character-only] Taleesh presents himself as a fellow traveller rather than an immediate attacker, but Dain reads him as standoffish and afraid. Dain stops, puts down his staff, reassures him through the Truthammer name, sees Taleesh offer practical herbal aid, and rejects the offered goji leaves. [Inferred]
+- Current standing: [Party] Brother Taleesh has approached the party, introduced himself, projected ghostly astral arms non-aggressively, and entered a tentative warmth bargain after Dain offered party-backed shelter and a conjured cloak.
+- Dain's known belief: [Character-only] Taleesh presents himself as a fellow traveller rather than an immediate attacker, but Dain reads him as standoffish and afraid. Dain stops, puts down his staff, reassures him through the Truthammer name, rejects the offered goji leaves, answers the astral arms with a lantern story and warmth, and sees Taleesh approach. [Inferred]
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
-- Opportunity: [Character-only] Dain may be able to approach through patience, desert practicalities, cautious curiosity about the safer herbs, respect for the bone charm, and careful honesty instead of clever evasions.
-- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether he accepts Dain's invitation, whether the Truthhammer name means anything to him, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves at first contact.
+- Opportunity: [Character-only] Dain may be able to build trust through warmth, lantern-making, practical hospitality, respect for the bone charm, and careful honesty instead of clever evasions.
+- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain holds, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
 - Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories

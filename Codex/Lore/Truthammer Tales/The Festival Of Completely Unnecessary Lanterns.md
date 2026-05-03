@@ -9,6 +9,11 @@ A mountain festival dedicated to impossible lantern designs, questionable taste,
 ## Dainism Used
 - [Character-only] Told in the spirit of Dain's love for elegant nonsense and impractical wonders.
 
+## Notable Uses
+- 2026-05-03: Dain told this story to [Brother Taleesh](../../Characters/Brother%20Taleesh.md) during first contact at the forest camp, then offered to create a lantern with him and conjured a warm cloak as part of a party-backed promise to keep him warm. [Session 2026-05-03](../../../Adventures/2026-05-03.md)
+
 ## Related entries
 - [Truthammer Tales](../Truthammer%20Tales.md)
 - [Dain Truthammer](../../Characters/Dain%20Truthammer.md)
+- [Brother Taleesh](../../Characters/Brother%20Taleesh.md)
+- [Session 2026-05-03](../../../Adventures/2026-05-03.md)

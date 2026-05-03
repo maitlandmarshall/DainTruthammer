@@ -14,9 +14,25 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh is a new party member controlled by Jackson / Jackbo, and his distrust of dwarves and elves may matter immediately because Dain is a dwarf and the party includes Kagrenac, an Astral Elf.
-- Latest development: On 2026-05-03, Brother Taleesh answered Dain's boomed challenge by approaching with his scimitar at low ready and saying in Common, "Just a fellow traveller." Dain replied, "Ah, we're all travellers. Come join us," then read Taleesh as standoffish and afraid, stopped, put down his staff, and reassured him through the Truthammer name. Taleesh then produced herbal items and offered comfrey, pigweed, hedgehog mushroom, and goji leaves.
-- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, whether the Truthhammer name means anything to him, whether anyone accepts the herbs or goji leaves, and how he reacts to the severed lizard head.
-- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, Brother Taleesh spent 1 ki point to project ghostly astral arms non-aggressively as Dain approached. Dain answered with [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), a lantern-making offer, a conjured warm cloak, and a party-backed promise to keep Taleesh warm. Taleesh then approached and introduced himself.
+- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, whether the warmth bargain holds, whether anyone accepts the herbs or goji leaves, and how he reacts to the severed lizard head.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
+### Honor The Warmth Bargain
+- Status: Active
+- Tags: [Party] [Confirmed]
+- Why it matters: Dain made the party's hospitality explicit: if Brother Taleesh approaches and joins them, they will keep him warm. This is a concrete trust promise to a wary desert survivor.
+- Latest development: On 2026-05-03, Dain conjured a warm cloak, confirmed the promise with the party, and Taleesh approached and introduced himself.
+- Next possible actions: Keep Taleesh warm during the long rest and future travel, clarify whether the conjured cloak persists, and follow through on Dain's offer to create a lantern with him.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
+### Track Taleesh's Astral Arms
+- Status: Open
+- Tags: [Party] [To verify]
+- Why it matters: Brother Taleesh spent a ki point during the first-contact scene, and the projected astral arms are both a visible trust signal and a limited-use resource.
+- Latest development: On 2026-05-03, Taleesh projected ghostly astral arms from his shoulders without using them aggressively.
+- Next possible actions: Confirm remaining ki, exact duration, active mechanical effects, and whether the forest long rest resets the spent point.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify Taleesh's Herbal Remedies
 - Status: Open
