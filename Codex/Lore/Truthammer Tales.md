@@ -15,6 +15,7 @@ A shelf of campfire stories, family legends, and mountain absurdities Dain can t
 - [The Polite Avalanche](./Truthammer%20Tales/The%20Polite%20Avalanche.md)
 - [The Trial Of The Missing Hammer](./Truthammer%20Tales/The%20Trial%20Of%20The%20Missing%20Hammer.md)
 - [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md)
+- [The Toll That Paid Itself](./Truthammer%20Tales/The%20Toll%20That%20Paid%20Itself.md)
 - [The Tunnel Echo Courtship](./Truthammer%20Tales/The%20Tunnel%20Echo%20Courtship.md)
 - [The Bread Ward Incident](./Truthammer%20Tales/The%20Bread%20Ward%20Incident.md)
 - [The Night We Outsmarted Ourselves](./Truthammer%20Tales/The%20Night%20We%20Outsmarted%20Ourselves.md)

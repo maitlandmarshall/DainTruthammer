@@ -40,6 +40,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Character-only] Dain sees Hammerton holding the severed lizard head, initially thinks it is the "lizard" Kagrenac announced, then realizes the mistake and challenges the actual arrival.
 - [Party] After Dain's natural `20` Persuasion check with the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), Dain delegates to Hammerton / Norhan to determine the cost, with Dain requesting half paid upfront. [To verify final terms]
 - [Party] Once the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) proves more dangerous and mysterious than the party first knew, Hammerton / Dresden asks for more; Dain's compromise adds five truthful answers upon delivery instead of reopening the original material payment.
+- [Party] During goblin camp breakfast diplomacy, Hammerton / Norhan goes around the outside of the tent and convinces goblins one by one to eat with the party. [Confirmed on 2026-05-03]
 - [To verify] Whether the party knows about the sheet-listed `Slave collar`, what it means, and whether it is still present.
 
 ## Appearance
@@ -144,6 +145,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-05-03: Dain exits the leaky tent, sees Hammerton holding the severed lizard head, initially mistakes it for the lizard Kagrenac announced, then realizes the mistake and booms "Who goes there?" with `Prestidigitation`. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain delegates cost-setting to Hammerton / Norhan after persuading the southern human traders to trust the party and come with them; Dain requests half paid upfront. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: After the puppet reveal, Hammerton / Dresden asks for more because the original negotiation did not account for the puppet; Dain defuses the escalation by keeping the original deal and adding five truthful answers due upon delivery. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: During goblin camp breakfast diplomacy, Hammerton / Norhan goes around the outside of the tent and convinces goblins one by one to eat with the party. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Table Roster](../Lore/Table%20Roster.md)
