@@ -38,9 +38,9 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: The party has encountered a goblin camp on the route, and Brother Taleesh has opened with a kinship appeal rather than a threat.
-- Latest development: On 2026-05-03, the party approaches a group of goblins at a camp, and [Brother Taleesh](../Characters/Brother%20Taleesh.md) / Jackson calls out, "Brothers, allow us to join your camp?" He continues with a friendly, family-like tone to defuse the situation before combat and offers medicine to trade with their boss.
-- Next possible actions: Confirm the goblins' attitude, number, leader, purpose, what medicine Taleesh is offering, what the boss wants, and whether the camp is safe refuge, obstacle, ambush, trade opportunity, or source of route information.
-- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, the party approaches a group of goblins at a camp, and [Brother Taleesh](../Characters/Brother%20Taleesh.md) / Jackson calls out, "Brothers, allow us to join your camp?" He continues with a friendly, family-like tone to defuse the situation before combat and offers medicine to trade with their boss. [Dain Truthammer](../Characters/Dain%20Truthammer.md) then casts `Minor Illusion` 30 feet ahead as a complete copy of himself, using it as a distraction and line-of-sight shield toward the goblins. The goblins demand a toll to pass, and Dain challenges the demand by asking what the toll is and saying the roads have been free since he was a wee lad.
+- Next possible actions: Confirm the goblins' attitude, number, leader, purpose, what medicine Taleesh is offering, what the boss wants, what toll they demand, whether they claim authority over the road, whether the goblins believe or investigate Dain's illusion, whether the illusion blocks useful line of sight, and whether the camp is safe refuge, obstacle, ambush, trade opportunity, or source of route information.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Set The Traders' Escort Cost
 - Status: Active
