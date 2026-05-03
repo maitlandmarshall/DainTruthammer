@@ -50,6 +50,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain realizes the puppet is a cobalt puppet.
 - [Party] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [To verify who "you" refers to]
 - [Party] Dain defuses Hammerton / Dresden's push for more payment from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) by keeping the original deal and adding five truthful answers owed upon delivery.
+- [Party] Around the goblin campfire, Dain puts his arm around the hobgoblin leader and speaks of his mother, apprenticeship, and early training. [To verify whether "hobgoblin leader" corrects earlier goblin-leader shorthand]
+- [Party] Dain says, "I trained under people who prized precision and under others who prized results. I kept both lessons and annoyed both camps."
+- [Party] Dain says, "My mother could correct a room without raising her voice. A rare talent." [To verify her name]
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -88,6 +91,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "A lie told to a tyrant is just a shortcut."
 - "Stone remembers. Best speak politely near a mountain."
 - "There's no such thing as a useless spell, only a dull wizard."
+- "I trained under people who prized precision and under others who prized results. I kept both lessons and annoyed both camps."
+- "My mother could correct a room without raising her voice. A rare talent."
 - "A puppet may insult Glittergold, but only because someone else lent it courage and forgot to lend it manners."
 - "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
 
@@ -161,6 +166,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites him for reasons Dain does not understand. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain defuses Hammerton / Dresden's request for more payment by keeping the original trader deal and adding five truthful answers owed upon delivery. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Around the goblin campfire, Dain puts his arm around the hobgoblin leader and tells stories of his mother, apprenticeship, and early training. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
