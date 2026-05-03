@@ -10,6 +10,7 @@ A plant used by Kagrenac to poison shared food so the goblins forget about the p
 - [Party] [Confirmed] The goblins eat the poisoned food and forget about the party.
 - [Party] [Confirmed] The leader remains charmed and is happy the party is there for now.
 - [To verify] Exact spelling: recorded from the live table note as `sytxweed`.
+- [To verify] Later table wording calls the effect a `styx potion`; clarify whether this is a spelling correction, a potion preparation made from sytxweed, or shorthand.
 - [To verify] Exact mechanics, dose, saving throw, duration, poison type, and whether the effect is magical, alchemical, mundane, or plant toxin.
 
 ## What The Party Knows
@@ -18,6 +19,7 @@ A plant used by Kagrenac to poison shared food so the goblins forget about the p
 
 ## Notable Events
 - 2026-05-03: Kagrenac poisons the shared goblin-camp food with sytxweed; the goblins eat and forget about the party, while the leader remains charmed and happy the party is present. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: As the party walks out of the goblin camp, the goblins are described as under the influence of the styx potion while the moon elf and fighter dwarf steal a chest. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related entries
 - [Kagrenac](../Characters/The%20Astral%20Elf.md)

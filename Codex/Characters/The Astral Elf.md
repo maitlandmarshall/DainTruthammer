@@ -9,6 +9,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - Role: Player Character.
 - Player: Matt / Matthew.
 - Character aliases: Kagrenac; The Astral Elf.
+- Table shorthand: Moon elf [To verify whether this refers to Kagrenac or a separate elf].
 - DM: Tom.
 
 ## Status
@@ -35,6 +36,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] At the start of the new day after the forest long rest, Kagrenac warns the party that the cold winds will get worse today. [To verify source or method]
 - [Character-only] Kagrenac tells Dain in Draconic that the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) and other newcomers are glowing in magic. [To verify detection source]
 - [Party] During goblin camp breakfast diplomacy, Kagrenac / Matt poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md); the goblins eat it and forget about the party, while the leader remains charmed and happy the party is there for now. [Confirmed on 2026-05-03] [To verify plant spelling, source, quantity, and mechanics]
+- [Party] As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -59,6 +61,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: At the start of the next in-world day, Kagrenac tells the party that the cold winds will get worse today. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac tells Dain in Draconic that the newcomers are glowing in magic shortly before a human trader produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During goblin camp breakfast diplomacy, Kagrenac poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md), causing the goblins who eat it to forget about the party while the leader remains charmed and happy the party is present. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: As the party walks out of the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
@@ -66,6 +69,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Brother Taleesh](./Brother%20Taleesh.md)
 - [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
 - [Sytxweed Plant](../Items/Sytxweed%20Plant.md)
+- [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md)
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)

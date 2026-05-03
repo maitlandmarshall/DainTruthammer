@@ -22,11 +22,15 @@
 - Question holder / asker: [To verify].
 - Enforcement: [To verify] whether this is honor-bound, magically binding, or merely negotiated.
 
+## Stolen From Goblin Camp
+- [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md), stolen by the moon elf and fighter dwarf while the goblins were under the influence of the styx / sytxweed potion during the party's exit from the camp. [Party] [Confirmed on 2026-05-03] [To verify carrier, contents, lock/trap status, and whether "moon elf" / "fighter dwarf" correspond to Kagrenac / Hammerton]
+
 ## Open Questions
 - [To verify] Which party member carries the burdock and ginseng.
 - [To verify] Whether any herb is consumed before the traders pay the second half.
 - [To verify] Whether the later half matches the first half in value, contents, or both.
 - [To verify] Which five truthful questions the party asks upon delivery.
+- [To verify] What is inside the [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md), who carries it, and whether taking it creates future trouble with the goblins.
 
 ## Related Entries
 - [Burdock](../Codex/Items/Burdock.md)
