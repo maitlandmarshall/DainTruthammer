@@ -30,7 +30,7 @@
 - Tinderbox x1
 
 ## In-Progress Crafted Items
-- [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) x1 [Party] [In progress] Begun on 2026-05-03 from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). Completion, function, and durability are [To verify].
+- [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) x1 [Party] [No longer carried by Dain] Begun on 2026-05-03 from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), then offered to the goblin leader as food during the goblin toll encounter. The goblin leader is eating it, took `4` fire damage from it, and the final remains are [To verify].
 - [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) x1 [Character-only] [In progress] Begun on 2026-05-03 after Dain abandoned or pivoted from a `6%` always-warm robes attempt for Brother Taleesh. Base robe, materials, exact progress, and whether inventory is consumed are [To verify].
 
 ## Clothing
@@ -49,7 +49,7 @@
 - [Confirmed] On 2026-05-03, the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) paid the upfront half of their arrangement as [Burdock](../Codex/Items/Burdock.md) x10 oz and [Ginseng](../Codex/Items/Ginseng.md) x2 oz into [Party Loot](./Party%20Loot.md). Current carrier is [To verify].
 
 ## Carry Load
-- Weight Carried: 53 lb. baseline from sheet; plus the in-progress [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) if carried after crafting. [To verify final weight]
+- Weight Carried: 53 lb. baseline from sheet; the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) is no longer carried by Dain after being handed to the goblin leader. [To verify final remains]
 - Encumbered: 225 lb.
 - Push/Drag/Lift: 450 lb.
 
@@ -57,6 +57,7 @@
 - [Confirmed] The sheet's total carried weight matches the duplicate weapon, robe, and book entries, so they are preserved as real items unless corrected later.
 - [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not Kagrenac. [Retcon] User correction recorded 2026-05-03.
 - [Confirmed] On 2026-05-03, [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into a [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).
+- [Confirmed] During the 2026-05-03 goblin toll encounter, Dain offered the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) to the goblin leader as food; the goblin leader began eating it and took `4` fire damage.
 - [Character-only] On 2026-05-03, Dain began the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after reaching `6%` progress on an always-warm robes idea for Brother Taleesh and deciding the warm version was not truly him.
 - [Confirmed] The 2026-05-03 burdock and ginseng payment from the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) is shared [Party Loot](./Party%20Loot.md), not Dain's personal inventory.
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
