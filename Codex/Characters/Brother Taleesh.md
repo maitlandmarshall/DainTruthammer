@@ -22,13 +22,16 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Class/Level: Monk 3.
 - [Confirmed] Background: Ruined.
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
-- [To verify] In-world introduction to Dain and the party has not yet been logged.
+- [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
+- [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
 
 ## What Dain Knows
-- [To verify] Whether Dain has met Brother Taleesh in play.
+- [Party] Brother Taleesh has arrived at the party's forest camp by camel; Dain's direct response has not yet been logged. [To verify]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
+- [Party] Brother Taleesh arrives by camel, secures the animal in a sheltered area, and crouches at the camp.
+- [Party] Kagrenac addresses Taleesh in Draconic after casting `Thaumaturgy` on himself.
 - [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
 - [To verify] How Brother Taleesh joins the current mountain-road mission.
 
@@ -116,6 +119,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 
 ## Notable Events
 - 2026-05-03: Brother Taleesh onboarded into the Codex from Jackson's sheet images and backstory.
+- 2026-05-03: Brother Taleesh arrives at the forest camp by camel, secures the camel in a sheltered area, and crouches while Kagrenac addresses him in Draconic; Hammerton Harry Drizddon is inspecting a severed lizard head at the time. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

@@ -28,10 +28,12 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 ## What The Party Knows
 - [Party] Kagrenac's owl warned the party about the approaching ogres at the creek-fork camp.
 - [Party] Kagrenac killed Dain's suggested enemy before the party could exploit the enchantment further after the harpy fight.
+- [Party] Kagrenac cast `Thaumaturgy` on himself and addressed Brother Taleesh in Draconic when Taleesh arrived at the forest camp.
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
 - [To verify] Whether the owl is familiar, companion, trained scout, or another magical feature.
+- [To verify] Whether Draconic is one of Kagrenac's known languages or was enabled by another feature.
 
 ## Description
 - Astral Elf.
@@ -43,10 +45,12 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-04-18: After the harpy battle, Kagrenac kills Dain's suggested target before the party can do anything more with it. [Session 2026-04-18](../../Adventures/2026-04-18.md)
 - 2026-05-03: User correction clarified that the `Ghostly Form Tattoo` reward belongs to Dain, not Kagrenac.
 - 2026-05-03: User confirmed the Astral Elf's name as Kagrenac and player as Matt.
+- 2026-05-03: Kagrenac cast `Thaumaturgy` on himself and addressed Brother Taleesh in Draconic during Taleesh's arrival at the forest camp. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)
+- [Brother Taleesh](./Brother%20Taleesh.md)
 - [Relationships](../../Character/Relationships.md)
 - [Creek-Fork Ogre Ambush](../Events/Creek-Fork%20Ogre%20Ambush.md)
 - [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md)

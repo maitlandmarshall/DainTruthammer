@@ -19,18 +19,18 @@
 
 ## People
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
-- Current standing: [To verify] Player character controlled by Norhan; in-world introduction to Dain has not yet been logged.
+- Current standing: [Party] Player character controlled by Norhan; present at the forest camp when Brother Taleesh arrives, though direct interaction with Dain is not yet logged.
 - Dain's known belief: [To verify] Dain may not yet know Hammerton or his arcane martial practice.
 - Unresolved tension: [Party] [To verify] Hammerton is another dwarf, which may matter to Brother Taleesh's distrust of dwarves.
 - Opportunity: [Character-only] Dain may find common ground through stonework, forge craft, strange spell mechanics, and the quiet comedy of a quartermaster trying to inventory chaos.
-- Missing details: [To verify] how Hammerton joins the current mission, his motives, whether he has met Dain before, and what the sheet-listed `Slave collar` represents.
+- Missing details: [To verify] how Hammerton joins the current mission, his motives, whether Dain personally sees him at the camp, what the severed lizard head is, and what the sheet-listed `Slave collar` represents.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
-- Current standing: [To verify] New party member controlled by Jackson; in-world introduction to Dain has not yet been logged.
+- Current standing: [Party] Brother Taleesh has arrived at the forest camp by camel; direct interaction with Dain is not yet logged.
 - Dain's known belief: [To verify] Dain may not yet know Taleesh's history, faith, or reasons for distrusting dwarves and elves.
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to approach through patience, desert practicalities, respect for the bone charm, and careful honesty instead of clever evasions.
-- Missing details: [To verify] how Taleesh joins the current mission, what he knows about Agland's letter, and whether he has met Dain before.
+- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether Dain personally sees the arrival from his tent, and how Taleesh reacts to dwarves and elves at first contact.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
 - Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories

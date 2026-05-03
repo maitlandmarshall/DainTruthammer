@@ -24,7 +24,8 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] Background: Soldier - Quartermaster. Sheet spelling says `Solider - QuartMaster`.
 - [Confirmed] Alignment: TN.
 - [Confirmed] XP: 1775.
-- [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party has not yet been logged.
+- [Party] [Confirmed] Present at the forest camp when [Brother Taleesh](./Brother%20Taleesh.md) arrives on 2026-05-03.
+- [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
 
 ## What Dain Knows
 - [To verify] Whether Dain has met Hammerton Harry Drizddon in play.
@@ -32,6 +33,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 
 ## What The Party Knows
 - [To verify] How Hammerton joins, or has joined, the current mountain-road mission.
+- [Party] Hammerton is holding up and inspecting a severed lizard head when Brother Taleesh arrives at the forest camp. [To verify source and significance]
 - [To verify] Whether the party knows about the sheet-listed `Slave collar`, what it means, and whether it is still present.
 
 ## Appearance
@@ -132,6 +134,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 ## Notable Events
 - 2026-05-03: Added to the Codex from the user-provided player roster.
 - 2026-05-03: Corrected spelling and expanded from the uploaded character sheet PDF.
+- 2026-05-03: Present at the forest camp holding up and inspecting a severed lizard head when Brother Taleesh arrives by camel. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Table Roster](../Lore/Table%20Roster.md)

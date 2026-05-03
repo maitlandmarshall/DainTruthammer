@@ -11,20 +11,28 @@
 - Linked entries: [Current State](../../Character/Current%20State.md)
 
 ### Introduce Brother Taleesh
-- Status: Open
+- Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh is a new party member controlled by Jackson / Jackbo, and his distrust of dwarves and elves may matter immediately because Dain is a dwarf and the party includes Kagrenac, an Astral Elf.
-- Latest development: On 2026-05-03, Brother Taleesh was added to the Codex from sheet images and backstory as a lizardfolk Monk 3 with the Ruined background, Fharlanghn ties, astral arms, and the title Keeper of the Dunes.
-- Next possible actions: Establish how Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, and how Dain handles the dwarf-shaped problem standing in front of him.
-- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Relationships](../../Character/Relationships.md)
+- Latest development: On 2026-05-03, Brother Taleesh arrived at the forest camp by camel, secured the animal, and crouched while Kagrenac addressed him in Draconic after casting `Thaumaturgy`; Hammerton Harry Drizddon was inspecting a severed lizard head at the time.
+- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, how he reacts to the severed lizard head, and how Dain handles the dwarf-shaped problem standing in front of him.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
-### Introduce Hammerton Harry Drizddon
+### Clarify The Severed Lizard Head
 - Status: Open
 - Tags: [Party] [To verify]
+- Why it matters: The first logged moment of Brother Taleesh's arrival includes Hammerton Harry Drizddon holding up and inspecting a severed lizard head, which could be harmless monster evidence or an immediate social problem for a lizardfolk newcomer.
+- Latest development: On 2026-05-03, Taleesh arrived at the forest camp while Hammerton was inspecting the severed lizard head.
+- Next possible actions: Identify where the head came from, what kind of lizard it belonged to, why Hammerton has it, and whether Taleesh reacts to it.
+- Linked entries: [Session 2026-05-03](../../Adventures/2026-05-03.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Relationships](../../Character/Relationships.md)
+
+### Introduce Hammerton Harry Drizddon
+- Status: Active
+- Tags: [Party] [To verify]
 - Why it matters: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) is Norhan's Mountain Dwarf Fighter 3 with eldritch-martial spellcasting, and his arrival may affect both party tactics and [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dwarf-related distrust.
-- Latest development: On 2026-05-03, Hammerton was expanded from the uploaded character sheet PDF; the sheet confirms the spelling `Drizddon` and adds his soldier-quartermaster history, spellcasting, gear, and oddities.
-- Next possible actions: Establish how Hammerton joins the current mission, confirm final subclass wording, clarify the sheet-listed `Slave collar`, decide what Dain knows about him, and note whether Commander `Agnland Olorran` is connected to [Commander Agland](../Characters/Commander%20Agland.md).
-- Linked entries: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Table Roster](./Table%20Roster.md), [Relationships](../../Character/Relationships.md)
+- Latest development: On 2026-05-03, Hammerton was expanded from the uploaded character sheet PDF and is now present at the forest camp, holding up and inspecting a severed lizard head as Brother Taleesh arrives.
+- Next possible actions: Establish how Hammerton joins the current mission, confirm final subclass wording, clarify the severed lizard head and sheet-listed `Slave collar`, decide what Dain knows about him, and note whether Commander `Agnland Olorran` is connected to [Commander Agland](../Characters/Commander%20Agland.md).
+- Linked entries: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Table Roster](./Table%20Roster.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify The Party's Purpose At The Iron Shore Watchtower
 - Status: Open
