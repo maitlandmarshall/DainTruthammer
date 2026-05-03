@@ -4,6 +4,7 @@ import argparse
 import re
 import sys
 from pathlib import Path
+from urllib.parse import unquote
 
 
 MD_IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
@@ -34,7 +35,7 @@ def main() -> None:
 		for ref in _iter_image_refs(raw):
 			# Obsidian embeds can include an alias like "path|alias"
 			ref_path = ref.split("|", 1)[0].strip()
-			target = (p.parent / ref_path).resolve()
+			target = (p.parent / unquote(ref_path)).resolve()
 			if not target.exists():
 				missing.append(f"{p}: {ref_path} -> {target}")
 

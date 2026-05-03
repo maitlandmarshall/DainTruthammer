@@ -1,85 +1,134 @@
 ---
 name: campaign-markdown
-description: [TODO: Complete and informative explanation of what the skill does and when to use it. Include WHEN to use this skill - specific scenarios, file types, or tasks that trigger it.]
+description: Edit this campaign repository's Markdown files with strong internal linking, Codex cross-references, knowledge tags, clean relative paths, table roster markings, and Markdown image verification. Use when creating or updating Codex, Character, Adventure, Lore, Event, Item, Place, Faction, Power, or Rules markdown.
 ---
 
 # Campaign Markdown
 
 ## Overview
 
-[TODO: 1-2 sentences explaining what this skill enables]
+Make every campaign Markdown file navigable, evidence-aware, and easy to use at the table. Prefer explicit links over plain names in stable prose.
 
-## Structuring This Skill
+When referencing a Codex item, character, place, faction, event, power, rule, lore page, table roster, or open thread, hyperlink to it whenever the target page exists.
 
-[TODO: Choose the structure that best fits this skill's purpose. Common patterns:
+## Link Rules
 
-**1. Workflow-Based** (best for sequential processes)
-- Works well when there are clear step-by-step procedures
-- Example: DOCX skill with "Workflow Decision Tree" -> "Reading" -> "Creating" -> "Editing"
-- Structure: ## Overview -> ## Workflow Decision Tree -> ## Step 1 -> ## Step 2...
+1. Use normal Markdown links with relative paths.
+2. URL-encode spaces as `%20` inside link targets.
+3. Link the first meaningful mention in a section; repeated mentions can remain plain if the section is short.
+4. In stable Codex and Character pages, always link related entries under `## Related Entries`.
+5. In adventure logs, link stable references in `Links`, `Starting State`, `Open Threads`, `Images`, summaries, and cleanup sections. During rapid `Live Notes`, links are useful but speed can win temporarily.
+6. If a page should exist but does not, either create a concise placeholder page or mark the reference `[To verify]` rather than inventing details.
 
-**2. Task-Based** (best for tool collections)
-- Works well when the skill offers different operations/capabilities
-- Example: PDF skill with "Quick Start" -> "Merge PDFs" -> "Split PDFs" -> "Extract Text"
-- Structure: ## Overview -> ## Quick Start -> ## Task Category 1 -> ## Task Category 2...
+Examples:
 
-**3. Reference/Guidelines** (best for standards or specifications)
-- Works well for brand guidelines, coding standards, or requirements
-- Example: Brand styling with "Brand Guidelines" -> "Colors" -> "Typography" -> "Features"
-- Structure: ## Overview -> ## Guidelines -> ## Specifications -> ## Usage...
+- `[Dain Truthammer](../Characters/Dain%20Truthammer.md)`
+- `[Kagrenac](../Characters/The%20Astral%20Elf.md)`
+- `[Brother Taleesh](../Characters/Brother%20Taleesh.md)`
+- `[Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md)`
+- `[Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md)`
+- `[Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)`
+- `[Table Roster](../Lore/Table%20Roster.md)`
+- `[Open Threads](../Lore/Open%20Threads.md)`
 
-**4. Capabilities-Based** (best for integrated systems)
-- Works well when the skill provides multiple interrelated features
-- Example: Product Management with "Core Capabilities" -> numbered capability list
-- Structure: ## Overview -> ## Core Capabilities -> ### 1. Feature -> ### 2. Feature...
+## Common Relative Paths
 
-Patterns can be mixed and matched as needed. Most skills combine patterns (e.g., start with task-based, add workflow for complex operations).
+From `Codex/Characters/Foo.md`:
 
-Delete this entire "Structuring This Skill" section when done - it's just guidance.]
+- `../Items/Item%20Name.md`
+- `../Places/Place%20Name.md`
+- `../Lore/Open%20Threads.md`
+- `../../Character/Relationships.md`
+- `../../Adventures/YYYY-MM-DD.md`
 
-## [TODO: Replace with the first main section based on chosen structure]
+From `Adventures/YYYY-MM-DD.md`:
 
-[TODO: Add content here. See examples in existing skills:
-- Code samples for technical skills
-- Decision trees for complex workflows
-- Concrete examples with realistic user requests
-- References to scripts/templates/references as needed]
+- `../Codex/Characters/Name.md`
+- `../Codex/Items/Item%20Name.md`
+- `../Codex/Lore/Open%20Threads.md`
+- `../Character/Current%20State.md`
 
-## Resources (optional)
+From `Character/Relationships.md`:
 
-Create only the resource directories this skill actually needs. Delete this section if no resources are required.
+- `../Codex/Characters/Name.md`
+- `../Codex/Lore/Table%20Roster.md`
 
-### scripts/
-Executable code (Python/Bash/etc.) that can be run directly to perform specific operations.
+## Codex Page Standards
 
-**Examples from other skills:**
-- PDF skill: `fill_fillable_fields.py`, `extract_form_field_info.py` - utilities for PDF manipulation
-- DOCX skill: `document.py`, `utilities.py` - Python modules for document processing
+Use concise, scannable sections:
 
-**Appropriate for:** Python scripts, shell scripts, or any executable code that performs automation, data processing, or specific operations.
+```md
+# Name
 
-**Note:** Scripts may be executed without loading into context, but can still be read by Codex for patching or environment adjustments.
+![Reference image](./Name_ref.png)
 
-### references/
-Documentation and reference material intended to be loaded into context to inform Codex's process and thinking.
+## One-Line Summary
+...
 
-**Examples from other skills:**
-- Product management: `communication.md`, `context_building.md` - detailed workflow guides
-- BigQuery: API reference documentation and query examples
-- Finance: Schema documentation, company policies
+## Table Role
+- Role: Player Character / DM-controlled / NPC / Unknown.
+- Player: ...
+- DM: ...
 
-**Appropriate for:** In-depth documentation, API references, database schemas, comprehensive guides, or any detailed information that Codex should reference while working.
+## Status
+- [Confirmed] ...
+- [To verify] ...
 
-### assets/
-Files not intended to be loaded into context, but rather used within the output Codex produces.
+## What Dain Knows
+- ...
 
-**Examples from other skills:**
-- Brand styling: PowerPoint template files (.pptx), logo files
-- Frontend builder: HTML/React boilerplate project directories
-- Typography: Font files (.ttf, .woff2)
+## What The Party Knows
+- ...
 
-**Appropriate for:** Templates, boilerplate code, document templates, images, icons, fonts, or any files meant to be copied or used in the final output.
+## What Is Uncertain
+- ...
 
----
+## Description
+- ...
 
-**Not every skill requires all three types of resources.**
+## Notable Events
+- YYYY-MM-DD: ... [Session YYYY-MM-DD](../../Adventures/YYYY-MM-DD.md)
+
+## Related Entries
+- ...
+```
+
+Use `## Table Role` for character pages. Player characters must explicitly name the player and known aliases. DM-controlled people should say `DM-controlled / NPC`.
+
+## Knowledge Tags
+
+Use inline tags where they protect canon boundaries:
+
+- `[Party]`: known by the party in-world.
+- `[Character-only]`: known only by Dain or the tracked character.
+- `[NPC-only]`: known by an NPC or outside party.
+- `[DM-private]`: prep/table information not known in-world.
+- `[Inferred]`: reasoned but not explicit.
+- `[Rumor]`: uncertain in-world claim.
+- `[To verify]`: unresolved detail.
+- `[Retcon]`: later correction to an earlier assumption.
+
+Do not remove uncertainty markers without evidence.
+
+## Images
+
+- Use relative Markdown image links.
+- Codex references usually live beside the page: `![Name portrait](./Name_portrait.png)`.
+- Adventure/session images live under `Adventures/YYYY-MM-DD/`.
+- If an image is referenced, verify the path exists before finishing.
+
+Verification:
+
+```bash
+python3 .agents/skills/openai-image-gen/scripts/verify_markdown_images.py path/to/file.md
+```
+
+## Editing Discipline
+
+- Keep edits localized.
+- Preserve chronology in adventure logs.
+- Prefer bullets over dense prose for in-play reference.
+- Do not invent connective facts to make links feel tidy.
+- When a Codex page gets a new fact from a session, link back to the session.
+- When a session references a stable Codex entry during cleanup, link to the Codex page.
+- Maintain `Codex/Lore/Table Roster.md` for player mappings and keep character `## Table Role` sections consistent with it.

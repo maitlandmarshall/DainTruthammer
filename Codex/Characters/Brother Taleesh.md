@@ -109,6 +109,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 
 ## Relationship Hooks
 - Dain is a dwarf, and Taleesh's backstory gives him reason to distrust dwarves. This should be handled as an active relationship tension, not ignored.
+- [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) is also a dwarf player character, so the tension is not only about Dain.
 - Kagrenac is an Astral Elf, and Taleesh's tribe was destroyed by elven fire. This may create immediate friction if revealed.
 - Taleesh's desert survival, monastery discipline, and astral arms give him a very different style of endurance from Dain's clever magical meddling.
 - Dain may be drawn to the cracked bone charm, the crescent-horizon symbol, and the precise strangeness of astral arms.

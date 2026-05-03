@@ -12,7 +12,7 @@
 - Avoid grainy texture, heavy watercolor wash, gouache roughness, painterly fuzz, and storybook softness unless specifically requested.
 
 ## Color And Light
-- Signature magic: warm gold, candle amber, and soft ivory sparkles, especially for Garl Glittergold, illusion, conjuration, and Dain's tricks.
+- Signature magic: warm gold, candle amber, and soft ivory sparkles, especially for [Garl Glittergold](../Lore/Garl%20Glittergold.md), illusion, conjuration, and Dain's tricks.
 - World shadows: cool blue, mist grey, pine green, stone charcoal, and rain-washed slate.
 - Accent colors: moss green, tarnished brass, parchment cream, burgundy wax seals, electric spell glyphs, and high-contrast aura light.
 - Use stronger anime contrast when action peaks: rim lights, sharp highlights, clean shadow shapes, and punchy magical energy.
@@ -30,7 +30,7 @@
 - White skin, brown eyes, black hair, full black beard with subtle grey or warm highlights.
 - Mischievous, benevolent expression: clever eyes, knowing half-smile, kind but dangerous when defending others.
 - Slightly naturally disheveled, as if scholarship and travel keep tugging his dignity sideways, but framed with sharper anime confidence during decisive moments.
-- Fancy scholar's robes, travel-worn but still elegant, with Garl Glittergold's sigil worked into clasp, brooch, embroidery, or charm.
+- Fancy scholar's robes, travel-worn but still elegant, with [Garl Glittergold](../Lore/Garl%20Glittergold.md)'s sigil worked into clasp, brooch, embroidery, or charm.
 - Common props: open spellbook, wand or staff, parchment notes, odd little spell components, hidden-door motifs, warm golden illusion sparks, clean aura flares, and crisp spell geometry.
 
 ## Scene Composition

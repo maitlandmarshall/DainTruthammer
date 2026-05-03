@@ -6,6 +6,8 @@ Topic-by-topic vague answers Dain can give about his past without fixing too muc
 ## Status
 - [Character-only] These are playable evasions, not all necessarily literal truth.
 - [To verify] Any of these may later harden into canon if repeatedly used in play or confirmed by the user.
+- [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](./Garl%20Glittergold.md).
+- [Inferred] This gives a concrete reason his answers about home and backstory may be evasive rather than merely theatrical.
 
 ## Topics
 - [University Or Formal Study](./Dain%20Background%20Evasions/University%20Or%20Formal%20Study.md)
@@ -23,7 +25,9 @@ Topic-by-topic vague answers Dain can give about his past without fixing too muc
 ## Notes
 - [Character-only] Best used when Dain wants to sound like he answered while preserving his corners.
 - [Character-only] A repeated answer can become a real thread later if it proves useful.
+- [Character-only] When home, family, or faith comes up, evasions can carry pain, caution, or old exile beneath the joke. [Inferred]
 
 ## Related entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
+- [Garl Glittergold](./Garl%20Glittergold.md)
 - [Truthammer Tales](./Truthammer%20Tales.md)

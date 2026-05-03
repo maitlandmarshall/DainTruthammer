@@ -18,13 +18,13 @@
 - Next possible actions: Establish how Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, and how Dain handles the dwarf-shaped problem standing in front of him.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Relationships](../../Character/Relationships.md)
 
-### Introduce Hammerton Harry Dresdon
+### Introduce Hammerton Harry Drizddon
 - Status: Open
 - Tags: [Party] [To verify]
-- Why it matters: Hammerton Harry Dresdon is Norhan's dwarf Eldrich Knight, and his arrival may affect both party tactics and Brother Taleesh's dwarf-related distrust.
-- Latest development: On 2026-05-03, Hammerton was added to the player roster and Codex from the user-provided rundown.
-- Next possible actions: Establish how Hammerton joins the current mission, confirm whether the class spelling is `Eldrich` or `Eldritch Knight`, and record what Dain knows about him.
-- Linked entries: [Hammerton Harry Dresdon](../Characters/Hammerton%20Harry%20Dresdon.md), [Table Roster](./Table%20Roster.md), [Relationships](../../Character/Relationships.md)
+- Why it matters: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) is Norhan's Mountain Dwarf Fighter 3 with eldritch-martial spellcasting, and his arrival may affect both party tactics and [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dwarf-related distrust.
+- Latest development: On 2026-05-03, Hammerton was expanded from the uploaded character sheet PDF; the sheet confirms the spelling `Drizddon` and adds his soldier-quartermaster history, spellcasting, gear, and oddities.
+- Next possible actions: Establish how Hammerton joins the current mission, confirm final subclass wording, clarify the sheet-listed `Slave collar`, decide what Dain knows about him, and note whether Commander `Agnland Olorran` is connected to [Commander Agland](../Characters/Commander%20Agland.md).
+- Linked entries: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Table Roster](./Table%20Roster.md), [Relationships](../../Character/Relationships.md)
 
 ### Clarify The Party's Purpose At The Iron Shore Watchtower
 - Status: Open
@@ -80,7 +80,15 @@
 - Why it matters: Dain's home and clan craft tradition may become a durable background anchor for future roleplay, magic, equipment, and family history.
 - Latest development: On 2026-04-24, the user set the clan mountain near a volcano and proposed making the Truthhammers master smiths with a forge powered by volcanic flow.
 - Next possible actions: Confirm whether the master-smith lore is canon, name the mountain hold, decide how volcanic flow is controlled, and decide what Dain personally knows or learned from the forge tradition.
-- Linked entries: [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthhammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthhammer%20Mountains.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md)
+- Linked entries: [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md)
+
+### Clarify Dain's Outcast Status
+- Status: Open
+- Tags: [DM-private] [Character-only] [To verify]
+- Why it matters: Dain being considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](./Garl%20Glittergold.md) gives his homeland, faith, and evasive backstory a sharper emotional and social cost.
+- Latest development: On 2026-05-03, the DM note established that Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](./Garl%20Glittergold.md); the user interpreted this as a likely explanation for Dain's vague life stories and backstory.
+- Next possible actions: Clarify who considers Dain an outcast, whether the status is formal exile or social rejection, whether family members share or oppose it, whether Dain can return safely, and what he is willing to reveal to the party.
+- Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Why He Left Home](./Dain%20Background%20Evasions/Why%20He%20Left%20Home.md), [Relationships](../../Character/Relationships.md)
 
 ## Active
 
@@ -88,9 +96,9 @@
 - Status: Active
 - Tags: [Character-only] [Confirmed]
 - Why it matters: This is one of Dain's clearest personal drives and should shape future choices, purchases, and research.
-- Latest development: The baseline record now preserves that Dain deliberately seeks out bizarre and "useless" spells, and now frames this as a long-term ambition to develop uniquely strange spells of his own. On 2026-04-24, the DM gave/approved `Truthhammer's Leaky Shelter` as the first confirmed spell Dain created.
-- Next possible actions: Track odd spell leads, suspicious scrolls, magical curiosities, strange spell interactions, and prototype ideas that could mature into original spell designs.
-- Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Spellbook](../../Character/Spellbook.md), [Truthhammer's Leaky Shelter](../Powers/Truthhammer%20Leaky%20Shelter.md)
+- Latest development: The baseline record now preserves that Dain deliberately seeks out bizarre and "useless" spells, and now frames this as a long-term ambition to develop uniquely strange spells of his own. On 2026-05-03, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) during the forest long rest.
+- Next possible actions: Track odd spell leads, suspicious scrolls, magical curiosities, strange spell interactions, and prototype ideas that could mature into original spell designs; confirm final rules wording for `Truthammer's Leaky Tent`.
+- Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Spellbook](../../Character/Spellbook.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)
 
 ## Resolved
 
@@ -98,9 +106,9 @@
 - Status: Resolved
 - Tags: [Character-only] [Confirmed]
 - Why it matters: This is Dain's first clearly recorded original spell experiment and a concrete expression of his desire to create gloriously useless magic.
-- Latest development: On 2026-04-24, the DM gave/approved `Truthhammer's Leaky Shelter` as the spell Dain created, with mechanics for a leaky immobile 10-foot shelter and a Wet effect that creates lightning/cold vulnerability and fire resistance.
+- Latest development: On 2026-05-03, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) by experimenting with his normal tent in a flowing river during the forest long rest. Earlier DM-approved mechanics used the working title `Truthammer's Leaky Shelter`.
 - Next possible actions: Keep the spell as created canon. If needed later, confirm final casting-format wording, school, components, and upcast size scaling.
-- Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Spellbook](../../Character/Spellbook.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Truthhammer's Leaky Shelter](../Powers/Truthhammer%20Leaky%20Shelter.md)
+- Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Session 2026-05-03](../../Adventures/2026-05-03.md), [Spellbook](../../Character/Spellbook.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)
 
 ### Clarify Dain's Alignment
 - Status: Resolved
@@ -114,6 +122,6 @@
 - Status: Resolved
 - Tags: [Character-only] [Confirmed]
 - Why it matters: Dain's devotion needed a concrete divine anchor.
-- Latest development: Garl Glittergold was chosen as Dain's deity on 2026-04-18.
+- Latest development: [Garl Glittergold](./Garl%20Glittergold.md) was chosen as Dain's deity on 2026-04-18.
 - Next possible actions: Expand the details of that faith when it becomes relevant in play.
 - Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md)

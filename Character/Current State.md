@@ -15,7 +15,8 @@
 - Height: 4'9"
 - Weight: [To verify] blank on the sheet
 - Alignment: Chaotic Good [Confirmed by user on 2026-04-18]
-- Faith: Garl Glittergold [Confirmed on 2026-04-18 as Dain's chosen deity]
+- Faith: [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md) [Confirmed on 2026-04-18 as Dain's chosen deity]
+- Homeland standing: [DM-private] [Character-only] [Confirmed] considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md).
 
 ## Core Numbers
 - Max HP: 20
@@ -57,9 +58,10 @@
 - Stonecunning (Tremorsense): 2 / Long Rest
 - Chromatic Orb: [To verify] used during the alpha harpy immolation, either via Magic Initiate `1 / Long Rest` or by spending a spell slot
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
+- Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
-- Current location: Forested area roughly 20 minutes beyond the defeated harpy nest; the party has begun a long rest there. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
+- Current location: Inside or near [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at the forested river camp roughly 20 minutes beyond the defeated harpy nest; the party is still in the long rest window. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
 
 ## Combat Snapshot
 - Dagger: `+4`, `1d4+2` piercing
@@ -74,13 +76,15 @@
 - [Character-only] Slowly develop the most unique and gloriously useless spells known to the realm.
 - [Character-only] Help the party carry Commander Agland's sealed letter into the mountains to the actual general while quietly learning the fuller shape of the mission.
 - [Character-only] Help Kagrenac make the climb toward Samyrn Torst safely.
+- [Character-only] Keep control over how much of his outcast status and faith-related exile he reveals.
 
 ## Short-Term Character Goals
 - [Character-only] Help Kagrenac make the mountain road toward Samyrn Torst safer with practical tricks, preparation, or magic.
 - [Character-only] Quietly learn what the sealed-letter mission is truly about without shattering trust.
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.
-- [Character-only] Continue work on the anti-shelter spell concept; current research progress stands at four hours.
+- [Character-only] Marvel in the newly created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), then confirm final mechanics and useful edge cases.
+- [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
 - [Character-only] Use harmless illusions, jokes, or little rituals to take the edge off fear during camp and travel.
 
@@ -91,6 +95,7 @@
 - [Character-only] He speaks to conjured or illusory things as though manners still apply.
 - [Character-only] He absently touches stone while thinking, as if listening for an answer.
 - [Character-only] He delights in coded messages, hidden compartments, mechanisms, trapdoors, and secret routes.
+- [Character-only] His evasiveness about home may be protective rather than purely playful. [Inferred]
 
 ## Dainisms
 - [Character-only] "A straight road is for people with nothing to hide and nothing to find."

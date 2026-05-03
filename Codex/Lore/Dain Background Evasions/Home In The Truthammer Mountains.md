@@ -10,15 +10,20 @@ Vague answers about Dain's home without locking down a precise settlement or hol
 - "We lived where the paths were narrow and the memories longer than the roads."
 - "Home was not quiet, only stone-walled."
 - "If a place can be stern and beloved at once, that was home."
+- "Home is easier to describe as stone than as people."
+- "Some mountains keep their doors by closing them."
 
 ## Follow-Up Deflections
 - "A mountain home is more mood than map."
 - "You could find it well enough, if the mountain wanted you to."
 - "Any precise description would make it sound flatter than it was."
+- "I can draw the ridgelines. The welcome is harder to map."
 
 ## Canon Notes
 - [Confirmed] Dain identifies home with the Truthammer Mountains.
 - [Confirmed] On 2026-04-24, the user set the clan mountain's location with a volcano just behind it.
+- [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Garl%20Glittergold.md).
+- [Inferred] This may explain why Dain often gives vague, layered stories about his life and backstory.
 - [To verify] No exact settlement name has been established yet.
 - [To verify] The Truthhammer clan may be master smiths with a forge powered by volcanic flow, but this remains proposed lore until confirmed.
 
@@ -26,3 +31,5 @@ Vague answers about Dain's home without locking down a precise settlement or hol
 - [Dain Background Evasions](../Dain%20Background%20Evasions.md)
 - [Truthammer Tales](../Truthammer%20Tales.md)
 - [Truthhammer Mountains](../../Places/Truthhammer%20Mountains.md)
+- [Garl Glittergold](../Garl%20Glittergold.md)
+- [Why He Left Home](./Why%20He%20Left%20Home.md)

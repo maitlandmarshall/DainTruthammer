@@ -38,10 +38,10 @@
 - [Character-only] Dain's long-term magical ambition is to invent uniquely strange, marginal, and apparently useless spells no one else would bother to create.
 
 ## Experimental Spell Research
-- [Truthhammer's Leaky Shelter](../Codex/Powers/Truthhammer%20Leaky%20Shelter.md) [Character-only]
+- [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) [Character-only]
   A DM-given spell created by Dain that creates a shelter-like magical structure but worsens the surrounding elements rather than protecting from them. [Confirmed on 2026-04-24]
-  Research progress: 4 hours [Recorded on 2026-04-18]
-  Current notes: Inspired during mountain travel after Dain conjured a shelter and lit a camp fire within it; extended with another 2 hours of work at the creek-fork camp. On 2026-04-24, the DM gave/approved the completed spell as `Truthhammer's Leaky Shelter`.
+  Research progress: complete. [Formal in-world creation recorded on 2026-05-03]
+  Current notes: Inspired during mountain travel after Dain conjured a shelter and lit a camp fire within it; extended with another 2 hours of work at the creek-fork camp. On 2026-04-24, the DM gave/approved the completed mechanics under the working title `Truthammer's Leaky Shelter`. On 2026-05-03, Dain pushed his normal tent into a flowing river, experimented with somatic components, and formally created the spell as `Truthammer's Leaky Tent`.
   Confirmed mechanics: 1-minute cast time; either ritual or 1st-level spell [To verify final casting format]; 8-hour duration; immobile 10-foot-square hut; AC 10; HP 5; always leaks water inside regardless of outside weather.
   Confirmed Wet effect: anything inside immediately becomes Wet, gaining vulnerability to lightning and cold damage and resistance to fire damage until dried for 10 minutes or until it takes fire, cold, or lightning damage. [To verify exact condition wording]
 
@@ -51,3 +51,4 @@
 - 2026-04-18: A long rest after the ogre ambush restored Dain's expended spell slots. [Character-only]
 - 2026-04-18: During the harpy encounter, Dain used `Minor Illusion` to draw one harpy inward and `Prestidigitation` to lure another past his concealed position in the mountain wall while the party engaged openly. No spell slots spent. [Character-only]
 - 2026-04-18: Dain used `Chromatic Orb` and grease to immolate an alpha harpy during the harpy fight, then cast `Suggestion` to make it sit and burn to death while he watched. One 2nd-level slot spent on `Suggestion`; the exact resource spent for `Chromatic Orb` remains [To verify]. [Character-only]
+- 2026-05-03: During the forest long rest, Dain formally created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) after experimenting with his normal tent in a flowing river. [Character-only] [Confirmed]

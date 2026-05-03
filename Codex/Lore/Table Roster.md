@@ -20,9 +20,10 @@
   - Role: Player Character
 
 - Player: Norhan
-  - Character: [Hammerton Harry Dresdon](../Characters/Hammerton%20Harry%20Dresdon.md)
+  - Character: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md)
   - Role: Player Character
-  - Class note: Dwarf Eldrich Knight [To verify whether table spelling is `Eldrich` or standard `Eldritch Knight`]
+  - Sheet source: [Hammerton Harry Drizddon.pdf](../../Assets/Hammerton%20Harry%20Drizddon.pdf)
+  - Class note: Mountain Dwarf Fighter 3 / eldritch martial archetype. Sheet fields use both `Eldrich` and `Eldritch Fighter`, so exact subclass wording remains [To verify].
 
 - DM: Tom
   - Role: Dungeon Master

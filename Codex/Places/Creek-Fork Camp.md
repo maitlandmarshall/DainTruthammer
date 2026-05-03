@@ -12,7 +12,7 @@ A rainy Y-shaped creek confluence on the mountain road where Dain researches she
 
 ## What Dain Knows
 - [Character-only] Dain used Minor Conjuration to fashion shelter and Prestidigitation to light a fire here.
-- [Character-only] Dain spent time here developing the anti-shelter spell that became `Truthhammer's Leaky Shelter`.
+- [Character-only] Dain spent time here developing the anti-shelter spell that later became [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md).
 - [Party] Two ogres crossed the creek toward camp during Dain's watch.
 
 ## Description
@@ -25,7 +25,7 @@ A rainy Y-shaped creek confluence on the mountain road where Dain researches she
 - 2026-04-18: The party completes a long rest after the fight. [Session 2026-04-18](../../Adventures/2026-04-18.md)
 
 ## Related Entries
-- [Truthhammer's Leaky Shelter](../Powers/Truthhammer%20Leaky%20Shelter.md)
+- [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)
 - [Creek-Fork Ogre Ambush](../Events/Creek-Fork%20Ogre%20Ambush.md)
 - [Samyrn Torst](../Lore/Samyrn%20Torst.md)
 - [Session 2026-04-18](../../Adventures/2026-04-18.md)
