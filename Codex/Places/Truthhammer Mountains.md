@@ -1,5 +1,7 @@
 # Truthhammer Mountains
 
+![Truthhammer Mountains establishing image](./Truthhammer_Mountains_establishing.png)
+
 ## One-Line Summary
 Dain's mountain homeland, now placed near a volcano that may power the Truthhammer clan forges.
 

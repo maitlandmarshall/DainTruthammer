@@ -1,6 +1,6 @@
 # Truthhammer's Leaky Shelter
 
-![Truthhammer's Leaky Shelter advertisement](../../Assets/Truthammer%20Leaky%20Shelter.png)
+![Truthhammer's Leaky Shelter advertisement](../../Assets/Truthammer Leaky Shelter.png)
 
 ## One-Line Summary
 A gloriously counterproductive shelter spell that always leaks water inside the tent, regardless of outside weather.
@@ -32,7 +32,7 @@ A gloriously counterproductive shelter spell that always leaks water inside the 
 
 ## Visual Source Note
 - [Confirmed] On 2026-04-24, the user supplied a comic advertisement-style visual reference titled `Truthhammer's Leaky Shelter!`
-- [Confirmed] The reference advertisement is stored at [Assets/Truthammer Leaky Shelter.png](../../Assets/Truthammer%20Leaky%20Shelter.png).
+- [Confirmed] The reference advertisement is stored at [Assets/Truthammer Leaky Shelter.png](../../Assets/Truthammer Leaky Shelter.png).
 
 ## Related Entries
 - [Spellbook](../../Character/Spellbook.md)

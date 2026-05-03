@@ -103,7 +103,11 @@ def _post_with_retries(
 			if resp.status_code not in RETRYABLE_STATUS_CODES or attempt >= attempts:
 				raise err
 			last_error = err
-		except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+		except (
+			requests.exceptions.Timeout,
+			requests.exceptions.ConnectionError,
+			requests.exceptions.ChunkedEncodingError,
+		) as e:
 			last_error = e
 			if attempt >= attempts:
 				raise RuntimeError(f"OpenAI request failed after {attempt} attempt(s): {e}") from e
