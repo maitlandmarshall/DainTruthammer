@@ -39,6 +39,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 - [Party] The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 - [Party] About 30 minutes after leaving the goblin camp, Kagrenac's owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): a cave/nest with fur on rocks, smoke coming out, and very large four-claw scratch marks on nearby trees. [Confirmed on 2026-05-03]
+- [Party] During the werebear fight at the smoky cave, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -46,6 +47,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [To verify] Whether Draconic is one of Kagrenac's known languages or was enabled by another feature.
 - [To verify] Whether Kagrenac's worsening-wind warning comes from magic, survival knowledge, travel experience, or another feature.
 - [To verify] Whether Kagrenac's perception of magical glow comes from a spell, feature, item, innate sense, or inference.
+- [To verify] Whether Kagrenac owns or used the Bag of Tricks, and which Bag of Tricks type produced the weasel.
 
 ## Description
 - Astral Elf.
@@ -66,6 +68,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: As the party walks out of the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 - 2026-05-03: The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 - 2026-05-03: About 30 minutes after leaving the goblin camp, Kagrenac's owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): scratch-marked trees, fur on rocks, smoke, and very large four-claw marks. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: During the werebear fight, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
@@ -75,6 +78,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Sytxweed Plant](../Items/Sytxweed%20Plant.md)
 - [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md)
 - [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md)
+- [Bag of Tricks](../Items/Bag%20of%20Tricks.md)
 - [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md)
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
