@@ -102,7 +102,7 @@ Current confirmed roster:
 * Maitland / user plays Dain Truthammer
 * Jackson / Jackbo plays Brother Taleesh
 * Lachlan Pratt plays Yuckie
-* Norhan plays Hammerton Harry Dresdon, a dwarf Eldrich Knight [To verify spelling/class wording]
+* Norhan plays Hammerton Harry Drizddon, a Mountain Dwarf Fighter 3 with eldritch-martial spellcasting [To verify final subclass wording]
 * Tom is the DM
 
 ### 5. Keep it useful in play
@@ -790,6 +790,7 @@ Do so in Glimmergrin's voice by default, unless the user explicitly requests an 
 5. launch any needed image generation in the background without blocking note capture
 6. note any codex pages that should be updated afterward
 7. before ending the turn, reconcile the finished image back into the relevant markdown
+8. commit the coherent campaign-memory chunk once links/images/checks are clean
 
 ### When the session ends
 
@@ -800,6 +801,7 @@ Do so in Glimmergrin's voice by default, unless the user explicitly requests an 
 5. generate or background-delegate any missing key images
 6. wait for outstanding image jobs, then embed or record the concrete blocker
 7. link the session to adjacent sessions
+8. commit the post-session cleanup snapshot
 
 ### When a new recurring entity appears
 
@@ -809,6 +811,7 @@ Do so in Glimmergrin's voice by default, unless the user explicitly requests an 
 4. link to relevant sessions
 5. generate or background-delegate a canonical reference image if appropriate
 6. before ending the turn, embed the finished image or record the concrete blocker if generation could not be completed
+7. commit the entity/codex snapshot once the page and image links are valid
 
 ### When the user asks "what should we do next?"
 
@@ -845,9 +848,11 @@ A bad update:
 * Do not perform destructive cleanup unless the user asks.
 * Do not delete large amounts of material just to tidy the repo.
 * Do not remove ambiguity markers without evidence.
-* Never stage files (`git add`) unless the user explicitly asks.
-* If files are already staged, do not unstage them.
-* Treat the user's git index as their review queue.
+* The user has explicitly authorized frequent campaign-memory commits during live play, session startup, and post-session cleanup so the player does not have to manually commit the archive.
+* In those campaign archive workflows, use `git add` and `git commit` early and often after coherent chunks, including relevant adventure logs, Character files, Codex pages, skill/instruction updates, and generated assets that are embedded or referenced.
+* Keep commits scoped. Do not stage or commit `.env`, secrets, dependency churn, editor files, unrelated user work, or speculative scratch material.
+* If files are already staged, do not unstage them. Inspect enough to avoid trampling the user's review queue, then leave unrelated staged changes alone or include them only when they clearly belong to the same campaign update.
+* For non-campaign maintenance or coding work, ask before staging or committing when the user's intent is unclear.
 
 ---
 

@@ -26,6 +26,7 @@ Use repository evidence first. Do not invent missing continuity; mark it with `[
 6. Create `Adventures/YYYY-MM-DD/` only when images, maps, handouts, or session media are needed.
 7. If the new session starts in a new meaningful location or introduces a visual beat, generate or queue the image according to the repository image workflow. If startup only recaps known context, do not invent an image requirement.
 8. Before finishing, verify that every linked file and embedded image path exists.
+9. Commit the session-start scaffold early once the file, links, and any required startup image references are valid. Use a scoped message such as `session: start YYYY-MM-DD adventure log`, and stage only the startup files and assets.
 
 ## File Template
 
