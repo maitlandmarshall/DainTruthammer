@@ -31,9 +31,10 @@
 
 ## In-Progress Crafted Items
 - [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) x1 [Party] [In progress] Begun on 2026-05-03 from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). Completion, function, and durability are [To verify].
+- [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) x1 [Character-only] [In progress] Begun on 2026-05-03 after Dain abandoned or pivoted from a `6%` always-warm robes attempt for Brother Taleesh. Base robe, materials, exact progress, and whether inventory is consumed are [To verify].
 
 ## Clothing
-- Robe x2
+- Robe x2 [To verify whether one robe is being altered into the Always-Cold Robes prototype]
 
 ## Magic Items
 - Attuned Magic Items: none listed
@@ -52,5 +53,6 @@
 - [Confirmed] The sheet's total carried weight matches the duplicate weapon, robe, and book entries, so they are preserved as real items unless corrected later.
 - [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not Kagrenac. [Retcon] User correction recorded 2026-05-03.
 - [Confirmed] On 2026-05-03, [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into a [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).
+- [Character-only] On 2026-05-03, Dain began the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after reaching `6%` progress on an always-warm robes idea for Brother Taleesh and deciding the warm version was not truly him.
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

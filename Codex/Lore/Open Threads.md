@@ -22,9 +22,9 @@
 - Status: Active
 - Tags: [Party] [Confirmed]
 - Why it matters: Dain made the party's hospitality explicit: if Brother Taleesh approaches and joins them, they will keep him warm. This is a concrete trust promise to a wary desert survivor.
-- Latest development: On 2026-05-03, Dain conjured a warm cloak, confirmed the promise with the party, and Taleesh approached and introduced himself. Taleesh then gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md).
-- Next possible actions: Keep Taleesh warm during the long rest and future travel, clarify whether the conjured cloak persists, and finish or clarify the mushroom lantern.
-- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md), [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, Dain conjured a warm cloak, confirmed the promise with the party, and Taleesh approached and introduced himself. Taleesh then gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). Later, Dain reached `6%` progress on always-warm robes for Taleesh before realizing the idea was not truly him and pivoting into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md).
+- Next possible actions: Keep Taleesh warm during the long rest and future travel, clarify whether the conjured cloak persists, finish or clarify the mushroom lantern, and decide whether Dain's cold-robes pivot complicates or oddly supports the warmth bargain.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Complete The Hedgehog Mushroom Lantern
 - Status: Active
@@ -136,9 +136,17 @@
 - Status: Active
 - Tags: [Character-only] [Confirmed]
 - Why it matters: This is one of Dain's clearest personal drives and should shape future choices, purchases, and research.
-- Latest development: The baseline record now preserves that Dain deliberately seeks out bizarre and "useless" spells, and now frames this as a long-term ambition to develop uniquely strange spells of his own. On 2026-05-03, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) during the forest long rest.
-- Next possible actions: Track odd spell leads, suspicious scrolls, magical curiosities, strange spell interactions, and prototype ideas that could mature into original spell designs; confirm final rules wording for `Truthammer's Leaky Tent`.
-- Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Spellbook](../../Character/Spellbook.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)
+- Latest development: The baseline record now preserves that Dain deliberately seeks out bizarre and "useless" spells, and now frames this as a long-term ambition to develop uniquely strange spells of his own. On 2026-05-03, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), then later pivoted from `6%` progress on always-warm robes for Brother Taleesh into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration.
+- Next possible actions: Track odd spell leads, suspicious scrolls, magical curiosities, strange spell interactions, and prototype ideas that could mature into original spell designs; confirm final rules wording for `Truthammer's Leaky Tent`; clarify progress and mechanics for the cold-robes prototype.
+- Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Spellbook](../../Character/Spellbook.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md)
+
+### Develop The Always-Cold Robes
+- Status: Active
+- Tags: [Character-only] [To verify]
+- Why it matters: The robes are the next concrete expression of Dain's original-magic instinct after [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), and they complicate his practical promise to keep Brother Taleesh warm in a very Dain-shaped way.
+- Latest development: On 2026-05-03, Dain reached `6%` progress on always-warm robes for Brother Taleesh, realized halfway that the project was not truly him, and pivoted into robes that always make the wearer cold after a flash of inspiration.
+- Next possible actions: Confirm the cold-robes progress percentage, whether the warm-robes `6%` converts or is lost, what base robe or materials are used, and what mechanical effect the finished robes should have.
+- Linked entries: [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Spellbook](../../Character/Spellbook.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Resolved
 

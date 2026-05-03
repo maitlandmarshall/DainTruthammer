@@ -44,6 +44,10 @@
   Current notes: Inspired during mountain travel after Dain conjured a shelter and lit a camp fire within it; extended with another 2 hours of work at the creek-fork camp. On 2026-04-24, the DM gave/approved the completed mechanics under the working title `Truthammer's Leaky Shelter`. On 2026-05-03, Dain pushed his normal tent into a flowing river, experimented with somatic components, and formally created the spell as `Truthammer's Leaky Tent`.
   Confirmed mechanics: 1-minute cast time; either ritual or 1st-level spell [To verify final casting format]; 8-hour duration; immobile 10-foot-square hut; AC 10; HP 5; always leaks water inside regardless of outside weather.
   Confirmed Wet effect: anything inside immediately becomes Wet, gaining vulnerability to lightning and cold damage and resistance to fire damage until dried for 10 minutes or until it takes fire, cold, or lightning damage. [To verify exact condition wording]
+- [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) [Character-only] [In progress]
+  A prototype magical garment concept begun after Dain abandoned a more conventional attempt to make robes that were always warm for Brother Taleesh. [Confirmed on 2026-05-03]
+  Research progress: always-warm robes branch reached `6%`, then was abandoned or pivoted; exact cold-robes progress after the flash of inspiration is [To verify].
+  Current notes: Dain realizes halfway through the warmth project that it is not truly him, then pivots toward robes that always make the wearer cold.
 
 ## Recent Spell Use
 - 2026-04-18: Dain cast `Sleep` against two ogres at the creek-fork camp. The DM required 2014 resolution rather than the expected 2024 version; Dain rolled `32` on the `d8`s, and the spell had no effect. One 1st-level slot spent. [Character-only]
@@ -52,3 +56,4 @@
 - 2026-04-18: During the harpy encounter, Dain used `Minor Illusion` to draw one harpy inward and `Prestidigitation` to lure another past his concealed position in the mountain wall while the party engaged openly. No spell slots spent. [Character-only]
 - 2026-04-18: Dain used `Chromatic Orb` and grease to immolate an alpha harpy during the harpy fight, then cast `Suggestion` to make it sit and burn to death while he watched. One 2nd-level slot spent on `Suggestion`; the exact resource spent for `Chromatic Orb` remains [To verify]. [Character-only]
 - 2026-05-03: During the forest long rest, Dain formally created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) after experimenting with his normal tent in a flowing river. [Character-only] [Confirmed]
+- 2026-05-03: Inside [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), Dain reached `6%` progress on always-warm robes for Brother Taleesh, then pivoted into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after a flash of inspiration. [Character-only]
