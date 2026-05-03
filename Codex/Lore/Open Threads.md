@@ -22,9 +22,17 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: The traders may be ordinary lost travellers, a source of route information, a trade opportunity, or a risk arriving exactly as the weather worsens.
-- Latest development: On 2026-05-03, [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach from the distance and ask in Common for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md), a lake high in the mountains.
-- Next possible actions: Identify the traders, ask what they carry and why they need Olar Dunglor, determine whether the party knows the way, check whether their destination intersects with the sealed-letter route, and watch for danger or deception.
-- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach from the distance and ask in Common for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md), a lake high in the mountains. Dain then rolls a natural `20` on Persuasion to convince them to trust the party and come with them.
+- Next possible actions: Confirm whether the traders accept the escort/guidance arrangement, identify the traders, ask what they carry and why they need Olar Dunglor, determine whether the party knows the way, check whether their destination intersects with the sealed-letter route, watch for danger or deception, and finalize payment.
+- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
+### Set The Traders' Escort Cost
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: Dain's persuasion created an opportunity, but the final cost and upfront payment determine whether this becomes a formal escort, guidance, or trade arrangement.
+- Latest development: After persuading the southern traders with a natural `20`, Dain delegates the cost to [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) / Norhan and requests half paid upfront.
+- Next possible actions: Have Hammerton set the amount, decide payment type, confirm whether the traders accept, collect half upfront if agreed, and record whether this changes party inventory or obligations.
+- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Introduce Brother Taleesh
 - Status: Active
@@ -78,8 +86,8 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) is Norhan's Mountain Dwarf Fighter 3 with eldritch-martial spellcasting, and his arrival may affect both party tactics and [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dwarf-related distrust.
-- Latest development: On 2026-05-03, Hammerton was expanded from the uploaded character sheet PDF and is now present at the forest camp, holding up and inspecting a severed lizard head as Brother Taleesh arrives.
-- Next possible actions: Establish how Hammerton joins the current mission, confirm final subclass wording, clarify the severed lizard head and sheet-listed `Slave collar`, decide what Dain knows about him, and note whether Commander `Agnland Olorran` is connected to [Commander Agland](../Characters/Commander%20Agland.md).
+- Latest development: On 2026-05-03, Hammerton was expanded from the uploaded character sheet PDF and is now present at the forest camp, holding up and inspecting a severed lizard head as Brother Taleesh arrives. Later that morning, Dain delegates the southern-trader cost-setting to Hammerton / Norhan after persuading the traders to trust the party.
+- Next possible actions: Establish how Hammerton joins the current mission, confirm final subclass wording, clarify the severed lizard head and sheet-listed `Slave collar`, decide what Dain knows about him, note whether Commander `Agnland Olorran` is connected to [Commander Agland](../Characters/Commander%20Agland.md), and record what cost he sets for the traders.
 - Linked entries: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Table Roster](./Table%20Roster.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify The Party's Purpose At The Iron Shore Watchtower

@@ -19,11 +19,11 @@
 
 ## People
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
-- Current standing: [Party] Player character controlled by Norhan; present at the forest camp when Brother Taleesh arrives, though direct interaction with Dain is not yet logged.
-- Dain's known belief: [Character-only] Dain sees Hammerton holding a severed lizard head just after Kagrenac announces that "a lizard has arrived," initially misunderstands the announcement, then realizes the head is not what Kagrenac meant.
+- Current standing: [Party] Player character controlled by Norhan; present at the forest camp when Brother Taleesh arrives, and later trusted by Dain to determine the cost for the southern traders after Dain persuades them to come with the party.
+- Dain's known belief: [Character-only] Dain sees Hammerton holding a severed lizard head just after Kagrenac announces that "a lizard has arrived," initially misunderstands the announcement, then realizes the head is not what Kagrenac meant. Later, Dain treats Hammerton's quartermaster/logistics sense as useful enough to delegate pricing for the traders.
 - Unresolved tension: [Party] [To verify] Hammerton is another dwarf, which may matter to Brother Taleesh's distrust of dwarves.
 - Opportunity: [Character-only] Dain may find common ground through stonework, forge craft, strange spell mechanics, and the quiet comedy of a quartermaster trying to inventory chaos.
-- Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, and what the sheet-listed `Slave collar` represents.
+- Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, what the sheet-listed `Slave collar` represents, and what cost he sets for the southern traders.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
 - Current standing: [Party] Brother Taleesh has approached the party, introduced himself, projected ghostly astral arms non-aggressively, entered a warmth bargain after Dain offered party-backed shelter, received a warm cloak from Dain for the remainder of the night through `Prestidigitation` and `Minor Conjuration`, and given Dain one pound of hedgehog mushroom for the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).

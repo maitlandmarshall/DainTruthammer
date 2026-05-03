@@ -64,7 +64,7 @@
 - In-progress magical prototype: [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md), begun after Dain reached `6%` progress on always-warm robes for Brother Taleesh, realized that was not truly him, and pivoted to robes that always make the wearer cold. Exact cold-robes progress and mechanics are [To verify].
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
-- Current location: Forested mountain camp roughly 20 minutes beyond the defeated harpy nest, at the start of a new day after the completed long rest. Cold winds are blowing, [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) warns they will worsen today, and [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) have approached asking for the way to [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md). [Party] [Confirmed on 2026-05-03]
+- Current location: Forested mountain camp roughly 20 minutes beyond the defeated harpy nest, at the start of a new day after the completed long rest. Cold winds are blowing, [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) warns they will worsen today, and [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) have approached asking for the way to [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md). Dain has persuaded them with a natural `20` to trust the party and come with them, then delegated price-setting to [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) while requesting half paid upfront. [Party] [Confirmed on 2026-05-03] [To verify final cost and acceptance]
 
 ## Combat Snapshot
 - Dagger: `+4`, `1d4+2` piercing
@@ -90,6 +90,7 @@
 - [Character-only] Continue crafting the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), uphold the promise to keep Brother Taleesh warm if he joins the party, and learn whether this fellow traveller can be trusted around the party's current mission.
 - [Character-only] Clarify or continue the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype, including whether the abandoned `6%` warm-robes progress matters.
 - [Character-only] Assess the approaching [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), decide whether to help them reach [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md), and account for Kagrenac's worsening-wind forecast before travelling.
+- [Character-only] Let [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) set the traders' cost, then confirm whether half is paid upfront.
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
 - [Character-only] Use harmless illusions, jokes, or little rituals to take the edge off fear during camp and travel.
