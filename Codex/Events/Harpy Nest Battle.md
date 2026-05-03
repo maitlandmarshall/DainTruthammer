@@ -8,7 +8,7 @@ The party defeats five harpies at a mountain nest after Dain hides in the stone,
 ## Status
 - [Party] [Confirmed] Occurred on 2026-04-18.
 - [Party] [Confirmed] The party defeats the harpies.
-- [Party] [Confirmed] The party recovers a `Ghostly Form Tattoo`.
+- [Party] [Confirmed] Dain Truthammer receives the `Ghostly Form Tattoo` reward. [Retcon] User correction recorded 2026-05-03.
 
 ## Key Beats
 - The party spots five harpies around a high mountain nest.
@@ -16,7 +16,7 @@ The party defeats five harpies at a mountain nest after Dain hides in the stone,
 - Dain uses `Minor Illusion` and `Prestidigitation` to draw harpies past his concealed position.
 - Dain immolates an alpha harpy with `Chromatic Orb` and grease, then uses `Suggestion` to make it sit and burn.
 - The Astral Elf kills Dain's suggested target before the party can exploit the enchantment further.
-- The party recovers the `Ghostly Form Tattoo`.
+- Dain receives the `Ghostly Form Tattoo` reward; the Astral Elf does not receive or wear it.
 
 ## Uncertain Details
 - [To verify] Exact source of the grease.

@@ -56,6 +56,7 @@
 - Arcane Recovery: 1 / Long Rest
 - Stonecunning (Tremorsense): 2 / Long Rest
 - Chromatic Orb: [To verify] used during the alpha harpy immolation, either via Magic Initiate `1 / Long Rest` or by spending a spell slot
+- Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
 - Current location: On the mountain route near the defeated harpy nest, beyond the Y-shaped creek fork and still bound toward Samyrn Torst after the party's victory [Confirmed on 2026-04-18] [To verify spelling]

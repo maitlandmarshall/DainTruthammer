@@ -34,7 +34,7 @@
 
 ## Magic Items
 - Attuned Magic Items: none listed
-- Ghostly Form Tattoo x1 [Character-only] [Confirmed acquired on 2026-04-18]
+- Ghostly Form Tattoo x1 [Character-only] [Confirmed] Dain received this as the harpy-fight reward on 2026-04-18. [Retcon] User correction recorded 2026-05-03.
   Effects as currently understood: while the tattoo is on the skin, one charge can be spent to become incorporeal; for the duration, gain resistance to bludgeoning attacks, cannot be grappled or restrained, and can move through creatures and solid objects as though they were difficult terrain; moving through a solid object deals `1d10` damage and places the wearer in the nearest available space. [To verify exact wording, total charges, and duration]
 
 ## Quest Items
@@ -47,6 +47,6 @@
 
 ## Notes
 - [Confirmed] The sheet's total carried weight matches the duplicate weapon, robe, and book entries, so they are preserved as real items unless corrected later.
-- [To verify] Storage location and ownership notes have not been documented yet.
+- [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not the Astral Elf. [Retcon] User correction recorded 2026-05-03.
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

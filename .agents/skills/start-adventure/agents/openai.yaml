@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Adventure"
+  short_description: "Open a new campaign session cleanly"
+  default_prompt: "Use $start-adventure to create today's adventure log with a last-time recap, open points, and in-character prompts."

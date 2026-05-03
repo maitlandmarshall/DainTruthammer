@@ -11,6 +11,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed] Alignment confirmed by user as `Chaotic Good` on 2026-04-18.
 - [Confirmed] Garl Glittergold was chosen as Dain's deity on 2026-04-18.
 - [Confirmed] Current location established on 2026-04-18 as the coastline near the Iron Shore Tribes.
+- [Confirmed] Dain received the `Ghostly Form Tattoo` reward after the harpy fight; this was corrected on 2026-05-03 to clarify that the Astral Elf did not receive it.
 - [To verify] Weight, Temp HP, and prepared-spell markings remain unsettled.
 
 ## What The Character Knows
@@ -96,6 +97,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-04-18: A new session began with Dain along the coastline near the Iron Shore Tribes.
 - 2026-04-24: Canonical portrait regenerated as `Dain_Truthammer_portrait_v3.png`, establishing the campaign's whimsical inked fantasy style for future images.
 - 2026-04-24: The DM gave/approved `Truthhammer's Leaky Shelter` as the spell Dain created. His clan mountain was also placed near a volcano, with proposed volcanic-flow forge lore.
+- 2026-05-03: User correction clarified that Dain, not the Astral Elf, received the `Ghostly Form Tattoo` reward from the harpy fight.
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)

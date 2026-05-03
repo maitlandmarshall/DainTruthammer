@@ -30,16 +30,16 @@
 - Status: Open
 - Tags: [Party] [Confirmed]
 - Why it matters: Five harpies near the road could threaten the party's onward route into the mountains or offer a hazard that must be avoided, observed, or cleared.
-- Latest development: The party defeated the harpies near the nest, but the Astral Elf killed Dain's suggested target before the enchantment could be exploited further; the party also came away with a `Ghostly Form Tattoo`.
-- Next possible actions: Confirm the final loot from the nest, record whether anything else was recovered or learned there, and decide who keeps the tattoo.
+- Latest development: The party defeated the harpies near the nest, but the Astral Elf killed Dain's suggested target before the enchantment could be exploited further; Dain received the `Ghostly Form Tattoo` reward. [Confirmed] [Retcon] User correction recorded 2026-05-03.
+- Next possible actions: Confirm the final loot from the nest beyond Dain's tattoo, and record whether anything else was recovered or learned there.
 - Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md), [Harpy Nest Near Samyrn Torst](../Places/Harpy%20Nest%20Near%20Samyrn%20Torst.md)
 
 ### Clarify The Ghostly Form Tattoo
 - Status: Open
 - Tags: [Character-only] [To verify]
-- Why it matters: The tattoo is a significant magical item, but its exact mechanics and ownership details are not fully settled in the record.
-- Latest development: The party recovered a `Ghostly Form Tattoo` after defeating the harpies; current notes preserve that it can spend a charge to make the bearer incorporeal and grants movement through creatures and solid objects with a `1d10` damage drawback for solid passage.
-- Next possible actions: Confirm the exact item wording, charge count, recharge condition, duration, attunement requirement, and whether Dain applies or keeps it.
+- Why it matters: The tattoo is a significant magical item now confirmed as Dain's reward, but its exact mechanics and application details are not fully settled in the record.
+- Latest development: Dain received the `Ghostly Form Tattoo` after the party defeated the harpies; current notes preserve that it can spend a charge to make the bearer incorporeal and grants movement through creatures and solid objects with a `1d10` damage drawback for solid passage. [Confirmed] [Retcon] User correction recorded 2026-05-03.
+- Next possible actions: Confirm the exact item wording, charge count, recharge condition, duration, attunement requirement, and whether Dain has already applied it.
 - Linked entries: [Ghostly Form Tattoo](../Items/Ghostly%20Form%20Tattoo.md), [Inventory](../../Character/Inventory.md), [Session 2026-04-18](../../Adventures/2026-04-18.md)
 
 ### Separate Prepared Spells From Full Sheet List

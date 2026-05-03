@@ -22,7 +22,7 @@ A high mountain crag where five harpies circle their nest along the route toward
 ## Notable Events
 - 2026-04-18: The party sights five harpies around the nest. [Session 2026-04-18](../../Adventures/2026-04-18.md)
 - 2026-04-18: Dain hides in the mountain cracks and draws harpies past him with subtle magic. [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md)
-- 2026-04-18: The party defeats the harpies and recovers a `Ghostly Form Tattoo`. [Session 2026-04-18](../../Adventures/2026-04-18.md)
+- 2026-04-18: The party defeats the harpies, and Dain receives the `Ghostly Form Tattoo` reward. [Confirmed] [Retcon] User correction recorded 2026-05-03. [Session 2026-04-18](../../Adventures/2026-04-18.md)
 
 ## Related Entries
 - [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md)
