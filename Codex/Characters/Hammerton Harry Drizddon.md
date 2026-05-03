@@ -34,7 +34,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 ## What The Party Knows
 - [To verify] How Hammerton joins, or has joined, the current mountain-road mission.
 - [Party] Hammerton is holding up and inspecting a severed lizard head when Brother Taleesh arrives at the forest camp. [To verify source and significance]
-- [Character-only] Dain sees Hammerton holding the severed lizard head and initially thinks it is the "lizard" Kagrenac announced.
+- [Character-only] Dain sees Hammerton holding the severed lizard head, initially thinks it is the "lizard" Kagrenac announced, then realizes the mistake and challenges the actual arrival.
 - [To verify] Whether the party knows about the sheet-listed `Slave collar`, what it means, and whether it is still present.
 
 ## Appearance
@@ -136,7 +136,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-05-03: Added to the Codex from the user-provided player roster.
 - 2026-05-03: Corrected spelling and expanded from the uploaded character sheet PDF.
 - 2026-05-03: Present at the forest camp holding up and inspecting a severed lizard head when Brother Taleesh arrives by camel. [Session 2026-05-03](../../Adventures/2026-05-03.md)
-- 2026-05-03: Dain exits the leaky tent, sees Hammerton holding the severed lizard head, and initially mistakes it for the lizard Kagrenac announced. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain exits the leaky tent, sees Hammerton holding the severed lizard head, initially mistakes it for the lizard Kagrenac announced, then realizes the mistake and booms "Who goes there?" with `Prestidigitation`. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Table Roster](../Lore/Table%20Roster.md)

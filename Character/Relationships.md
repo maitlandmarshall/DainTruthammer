@@ -20,17 +20,17 @@
 ## People
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
 - Current standing: [Party] Player character controlled by Norhan; present at the forest camp when Brother Taleesh arrives, though direct interaction with Dain is not yet logged.
-- Dain's known belief: [Character-only] Dain sees Hammerton holding a severed lizard head just after Kagrenac announces that "a lizard has arrived," causing Dain to initially misunderstand the announcement.
+- Dain's known belief: [Character-only] Dain sees Hammerton holding a severed lizard head just after Kagrenac announces that "a lizard has arrived," initially misunderstands the announcement, then realizes the head is not what Kagrenac meant.
 - Unresolved tension: [Party] [To verify] Hammerton is another dwarf, which may matter to Brother Taleesh's distrust of dwarves.
 - Opportunity: [Character-only] Dain may find common ground through stonework, forge craft, strange spell mechanics, and the quiet comedy of a quartermaster trying to inventory chaos.
 - Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, and what the sheet-listed `Slave collar` represents.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
 - Current standing: [Party] Brother Taleesh has arrived at the forest camp by camel; direct interaction with Dain is not yet logged.
-- Dain's known belief: [Character-only] Dain has heard that "a lizard has arrived," but initially thinks Kagrenac may mean the severed lizard head rather than Taleesh. He may not yet have properly recognized Taleesh as the newcomer.
+- Dain's known belief: [Character-only] Dain realizes Kagrenac's "a lizard has arrived" means a living newcomer rather than Hammerton's severed lizard head, then booms "Who goes there?" with `Prestidigitation`.
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to approach through patience, desert practicalities, respect for the bone charm, and careful honesty instead of clever evasions.
-- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, when Dain properly sees Taleesh rather than the severed lizard head, and how Taleesh reacts to dwarves and elves at first contact.
+- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, how Taleesh answers Dain's challenge, and how he reacts to dwarves and elves at first contact.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
 - Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories

@@ -47,7 +47,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: User correction clarified that the `Ghostly Form Tattoo` reward belongs to Dain, not Kagrenac.
 - 2026-05-03: User confirmed the Astral Elf's name as Kagrenac and player as Matt.
 - 2026-05-03: Kagrenac cast `Thaumaturgy` on himself and addressed Brother Taleesh in Draconic during Taleesh's arrival at the forest camp. [Session 2026-05-03](../../Adventures/2026-05-03.md)
-- 2026-05-03: Kagrenac told the party in Common that "a lizard has arrived," prompting Dain to initially mistake Hammerton's severed lizard head for the announced arrival. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Kagrenac told the party in Common that "a lizard has arrived," prompting Dain to initially mistake Hammerton's severed lizard head for the announced arrival, then realize the mistake and boom "Who goes there?" with `Prestidigitation`. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)

@@ -27,7 +27,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] He wants, over time, to develop the most unique and useless spells known to the realm.
 - [Character-only] He formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) during the forest long rest on 2026-05-03.
 - [Character-only] He knows he is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md). [DM-private] [Confirmed]
-- [Character-only] At the forest camp, he hears Kagrenac say "a lizard has arrived," sees Hammerton holding a severed lizard head, and initially assumes the head is what Kagrenac means.
+- [Character-only] At the forest camp, he hears Kagrenac say "a lizard has arrived," sees Hammerton holding a severed lizard head, initially assumes the head is what Kagrenac means, then realizes the mistake and booms "Who goes there?" with `Prestidigitation`.
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -115,6 +115,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: During a forest long rest beside a flowing river, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and spent the final hour meditating inside it.
 - 2026-05-03: DM note recorded that Dain is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - 2026-05-03: Dain exited [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) dressed but damp, heard Kagrenac's Common announcement that "a lizard has arrived," saw Hammerton holding a severed lizard head, and initially misunderstood the announcement. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain realized the announcement referred to a living arrival rather than the severed head, then used `Prestidigitation` to boom his voice outward and call, "Who goes there?" [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)

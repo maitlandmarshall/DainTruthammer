@@ -14,16 +14,16 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh is a new party member controlled by Jackson / Jackbo, and his distrust of dwarves and elves may matter immediately because Dain is a dwarf and the party includes Kagrenac, an Astral Elf.
-- Latest development: On 2026-05-03, Brother Taleesh arrived at the forest camp by camel, secured the animal, and crouched while Kagrenac addressed him in Draconic after casting `Thaumaturgy`; Kagrenac then told the party in Common that "a lizard has arrived." Dain exited the leaky tent dressed but damp, saw Hammerton inspecting a severed lizard head, and initially thought that was the lizard being announced.
-- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, how he reacts to the severed lizard head, when Dain realizes there is a living newcomer, and how Dain handles the dwarf-shaped problem standing in front of him.
+- Latest development: On 2026-05-03, Brother Taleesh arrived at the forest camp by camel, secured the animal, and crouched while Kagrenac addressed him in Draconic after casting `Thaumaturgy`; Kagrenac then told the party in Common that "a lizard has arrived." Dain exited the leaky tent dressed but damp, saw Hammerton inspecting a severed lizard head, initially thought that was the lizard being announced, then realized the mistake and boomed "Who goes there?" with `Prestidigitation`.
+- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, how he reacts to the severed lizard head, and how he answers Dain's boomed challenge.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify The Severed Lizard Head
 - Status: Open
 - Tags: [Party] [To verify]
 - Why it matters: The first logged moment of Brother Taleesh's arrival includes Hammerton Harry Drizddon holding up and inspecting a severed lizard head, which could be harmless monster evidence or an immediate social problem for a lizardfolk newcomer.
-- Latest development: On 2026-05-03, Taleesh arrived at the forest camp while Hammerton was inspecting the severed lizard head; Dain then misunderstood Kagrenac's announcement that "a lizard has arrived" as referring to the head.
-- Next possible actions: Identify where the head came from, what kind of lizard it belonged to, why Hammerton has it, whether Taleesh reacts to it, and how quickly Dain realizes the mistake.
+- Latest development: On 2026-05-03, Taleesh arrived at the forest camp while Hammerton was inspecting the severed lizard head; Dain misunderstood Kagrenac's announcement that "a lizard has arrived" as referring to the head, then realized the mistake and challenged the actual arrival.
+- Next possible actions: Identify where the head came from, what kind of lizard it belonged to, why Hammerton has it, and whether Taleesh reacts to it.
 - Linked entries: [Session 2026-05-03](../../Adventures/2026-05-03.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Relationships](../../Character/Relationships.md)
 
 ### Introduce Hammerton Harry Drizddon
