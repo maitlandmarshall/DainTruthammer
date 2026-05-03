@@ -14,17 +14,17 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh is a new party member controlled by Jackson / Jackbo, and his distrust of dwarves and elves may matter immediately because Dain is a dwarf and the party includes Kagrenac, an Astral Elf.
-- Latest development: On 2026-05-03, Brother Taleesh answered Dain's boomed challenge by approaching with his scimitar at low ready and saying in Common, "Just a fellow traveller." Dain replied, "Ah, we're all travellers. Come join us," then read Taleesh as standoffish and afraid, stopped, put down his staff, and reassured him through the Truthammer name. Taleesh then produced herbal items and offered comfrey, pigweed, and hedgehog mushroom.
-- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, whether the Truthhammer name means anything to him, whether the party accepts the herbs, and how he reacts to the severed lizard head.
+- Latest development: On 2026-05-03, Brother Taleesh answered Dain's boomed challenge by approaching with his scimitar at low ready and saying in Common, "Just a fellow traveller." Dain replied, "Ah, we're all travellers. Come join us," then read Taleesh as standoffish and afraid, stopped, put down his staff, and reassured him through the Truthammer name. Taleesh then produced herbal items and offered comfrey, pigweed, hedgehog mushroom, and goji leaves.
+- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, whether the Truthhammer name means anything to him, whether anyone accepts the herbs or goji leaves, and how he reacts to the severed lizard head.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify Taleesh's Herbal Remedies
 - Status: Open
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh has already offered comfrey, pigweed, and hedgehog mushroom during first contact, and his sheet lists additional foraged goods including goji leaves with potent but addictive effects.
-- Latest development: On 2026-05-03, Taleesh reached into his stash and asked whether the party needed "some comfry," pig-weed, or hedgehog mushroom.
-- Next possible actions: Confirm quantities, uses, mechanical effects, risks, whether Dain recognizes any of them, whether any party member accepts them, and whether the goji leaves are offered or withheld.
-- Linked entries: [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, Taleesh reached into his stash and asked whether the party needed "some comfry," pig-weed, or hedgehog mushroom. He then offered goji leaves, said the first one is free, and claimed taking one makes the taker feel like a god; Dain refused and suggested Kagrenac may be interested.
+- Next possible actions: Confirm quantities, uses, mechanical effects, risks, whether Dain recognizes any of them, whether Kagrenac or another party member accepts the goji leaves, and whether the goji leaves' sheet-listed addictive property enters play.
+- Linked entries: [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify The Severed Lizard Head
 - Status: Open
@@ -102,7 +102,7 @@
 - Status: Open
 - Tags: [DM-private] [Character-only] [To verify]
 - Why it matters: Dain being considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](./Garl%20Glittergold.md) gives his homeland, faith, and evasive backstory a sharper emotional and social cost.
-- Latest development: On 2026-05-03, the DM note established that Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](./Garl%20Glittergold.md); later that same session, Dain publicly invoked the Truthammer name as safe and respectable while reassuring Brother Taleesh.
+- Latest development: On 2026-05-03, the DM note established that Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](./Garl%20Glittergold.md); later that same session, Dain publicly invoked the Truthammer name as safe and respectable while reassuring Brother Taleesh, then invoked a Truthammer principle to refuse goji leaves.
 - Next possible actions: Clarify who considers Dain an outcast, whether the status is formal exile or social rejection, whether family members share or oppose it, whether Dain can return safely, and what he is willing to reveal to the party.
 - Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Why He Left Home](./Dain%20Background%20Evasions/Why%20He%20Left%20Home.md), [Relationships](../../Character/Relationships.md)
 

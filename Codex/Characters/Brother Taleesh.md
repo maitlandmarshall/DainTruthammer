@@ -30,6 +30,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Character-only] Dain invited him to join the camp.
 - [Character-only] Dain reads Taleesh as standoffish and afraid, then stops and puts down his staff to reassure him. [Inferred]
 - [Party] Dain sees Taleesh produce herbal items from [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md) and offer comfrey, pigweed, and hedgehog mushroom. [To verify effects]
+- [Party] Dain hears Taleesh offer goji leaves, saying the first one is free and that taking one will make the taker "feel like a god." [To verify actual effects]
+- [Character-only] Dain refuses the goji leaves and says the Truthhammers do not alter themselves in such ways.
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -42,6 +44,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Dain stops approaching, puts down his staff, and says there is no need to be afraid.
 - [Party] Dain claims that, if Taleesh has heard of the Truthhammers, he should know they are safe, respectable travellers.
 - [Party] Taleesh reaches into his stash, produces herbal items, and asks whether the party needs comfrey, pigweed, or hedgehog mushroom.
+- [Party] Taleesh offers goji leaves, says the first one is free, and claims they make the taker feel like a god.
+- [Party] Dain refuses the goji leaves and suggests Kagrenac may be interested.
 - [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
 - [To verify] How Brother Taleesh joins the current mountain-road mission.
 
@@ -135,6 +139,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Taleesh approaches with his scimitar at low ready and answers in Common, "Just a fellow traveller"; Dain replies, "Ah, we're all travellers. Come join us." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain reads Taleesh as standoffish and afraid, stops, puts down his staff, and reassures him through the Truthammer name. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh produces herbal items from his stash and asks whether the party needs comfrey, pigweed, or hedgehog mushroom. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Taleesh offers goji leaves with the promise of godlike feeling; Dain refuses and redirects the offer toward Kagrenac. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
