@@ -21,6 +21,19 @@ A growing shelf of Dain Truthammer's sayings, evasions, and polished bits of mou
 - [Lent Courage And Manners](./Dainisms/Lent%20Courage%20And%20Manners.md)
 - [Garl Remembers The Punchline](./Dainisms/Garl%20Remembers%20The%20Punchline.md)
 
+## Gold And Worth Dainisms
+- [Gold Counts Fear](./Dainisms/Gold%20Counts%20Fear.md)
+- [A Pretty Rock With Confidence](./Dainisms/A%20Pretty%20Rock%20With%20Confidence.md)
+- [Never Mistake Coin For Worth](./Dainisms/Never%20Mistake%20Coin%20For%20Worth.md)
+- [A Full Purse Makes Poor Armor](./Dainisms/A%20Full%20Purse%20Makes%20Poor%20Armor.md)
+- [Gold Is Heavy Promises Are Heavier](./Dainisms/Gold%20Is%20Heavy%20Promises%20Are%20Heavier.md)
+- [The Mountain Made Gold By Accident](./Dainisms/The%20Mountain%20Made%20Gold%20By%20Accident.md)
+- [Rich Men Count Twice](./Dainisms/Rich%20Men%20Count%20Twice.md)
+- [A Crown With Pretensions](./Dainisms/A%20Crown%20With%20Pretensions.md)
+- [Spend Gold Before It Gives Advice](./Dainisms/Spend%20Gold%20Before%20It%20Gives%20Advice.md)
+- [Gold Buys Doors Not Welcome](./Dainisms/Gold%20Buys%20Doors%20Not%20Welcome.md)
+- [Glitter Is Not The Price](./Dainisms/Glitter%20Is%20Not%20The%20Price.md)
+
 ## Evasive Dainisms
 - [Mountains Keep Their Own Bookkeeping](./Dainisms/Mountains%20Keep%20Their%20Own%20Bookkeeping.md)
 - [Short Truth Long Truth Useful Truth](./Dainisms/Short%20Truth%20Long%20Truth%20Useful%20Truth.md)
