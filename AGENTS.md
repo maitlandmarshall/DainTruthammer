@@ -86,6 +86,25 @@ Do not rewrite the past unless the user asks for cleanup, retcon handling, or co
 
 Track not only what is true, but what the character knows, suspects, misremembers, or has hidden from others.
 
+### 4a. Player character ownership matters
+
+Every recurring character Codex page should explicitly mark table role:
+
+* **Player Character** with the player name and known player aliases
+* **DM-controlled / NPC** when controlled by the DM or world
+* **Unknown / To verify** when control is unclear
+
+Maintain `Codex/Lore/Table Roster.md` as the quick table-side roster, and update character pages when the roster changes. Do not rely on party membership alone to infer player control.
+
+Current confirmed roster:
+
+* Matt / Matthew plays Kagrenac, formerly tracked as The Astral Elf
+* Maitland / user plays Dain Truthammer
+* Jackson / Jackbo plays Brother Taleesh
+* Lachlan Pratt plays Yuckie
+* Norhan plays Hammerton Harry Dresdon, a dwarf Eldrich Knight [To verify spelling/class wording]
+* Tom is the DM
+
 ### 5. Keep it useful in play
 
 The repo should be easy to use during a live session. Favor clear headings, short summaries, and actionable quick-reference sections.

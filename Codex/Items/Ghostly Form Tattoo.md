@@ -7,7 +7,7 @@ A magical tattoo that grants temporary incorporeal movement and spectral resilie
 
 ## Status
 - [Confirmed] Dain Truthammer received the tattoo as the harpy-fight reward on 2026-04-18. [Retcon] User correction recorded 2026-05-03.
-- [Confirmed] The Astral Elf did not receive or wear this tattoo.
+- [Confirmed] Kagrenac did not receive or wear this tattoo.
 - [To verify] Total charges, recharge timing, duration, attunement requirement, exact rules wording, and whether Dain has applied it yet.
 
 ## What Dain Knows

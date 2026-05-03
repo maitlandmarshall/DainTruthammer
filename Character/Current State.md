@@ -59,7 +59,7 @@
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
-- Current location: On the mountain route near the defeated harpy nest, beyond the Y-shaped creek fork and still bound toward Samyrn Torst after the party's victory [Confirmed on 2026-04-18] [To verify spelling]
+- Current location: Forested area roughly 20 minutes beyond the defeated harpy nest; the party has begun a long rest there. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
 
 ## Combat Snapshot
 - Dagger: `+4`, `1d4+2` piercing
@@ -73,10 +73,10 @@
 - [Character-only] Seek out bizarre, impractical, and "useless" spells because even silly magic may hide real wonder.
 - [Character-only] Slowly develop the most unique and gloriously useless spells known to the realm.
 - [Character-only] Help the party carry Commander Agland's sealed letter into the mountains to the actual general while quietly learning the fuller shape of the mission.
-- [Character-only] Help the elf make the climb toward Samyrn Torst safely.
+- [Character-only] Help Kagrenac make the climb toward Samyrn Torst safely.
 
 ## Short-Term Character Goals
-- [Character-only] Help the elf make the mountain road toward Samyrn Torst safer with practical tricks, preparation, or magic.
+- [Character-only] Help Kagrenac make the mountain road toward Samyrn Torst safer with practical tricks, preparation, or magic.
 - [Character-only] Quietly learn what the sealed-letter mission is truly about without shattering trust.
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.

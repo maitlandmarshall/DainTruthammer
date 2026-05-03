@@ -5,13 +5,18 @@
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
 
+## Table Role
+- Role: Player Character.
+- Player: Maitland / user.
+- DM: Tom.
+
 ## Status
 - [Confirmed] Baseline imported from [Dicfuc_164465751.pdf](../../Dicfuc_164465751.pdf) on 2026-04-18.
 - [Confirmed] Mechanically a level 3 dwarf wizard with Sage background and School of Conjuration subclass.
 - [Confirmed] Alignment confirmed by user as `Chaotic Good` on 2026-04-18.
 - [Confirmed] Garl Glittergold was chosen as Dain's deity on 2026-04-18.
 - [Confirmed] Current location established on 2026-04-18 as the coastline near the Iron Shore Tribes.
-- [Confirmed] Dain received the `Ghostly Form Tattoo` reward after the harpy fight; this was corrected on 2026-05-03 to clarify that the Astral Elf did not receive it.
+- [Confirmed] Dain received the `Ghostly Form Tattoo` reward after the harpy fight; this was corrected on 2026-05-03 to clarify that Kagrenac did not receive it.
 - [To verify] Weight, Temp HP, and prepared-spell markings remain unsettled.
 
 ## What The Character Knows
@@ -75,7 +80,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "That is a long story, and some of the witnesses are still cross."
 
 ## Near-Term Motivations
-- [Character-only] Help the elf reach the mountain road near Samyrn Torst safely.
+- [Character-only] Help Kagrenac reach the mountain road near Samyrn Torst safely.
 - [Character-only] Deliver Commander Agland's sealed letter to the actual general.
 - [Character-only] Quietly discover the fuller truth behind the party's mission.
 - [Character-only] Hunt for strange mountain magic, old wards, and improbable little spells.
@@ -98,7 +103,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-04-24: Canonical portrait regenerated as `Dain_Truthammer_portrait_v3.png` under the earlier whimsical inked fantasy style.
 - 2026-04-24: The DM gave/approved `Truthhammer's Leaky Shelter` as the spell Dain created. His clan mountain was also placed near a volcano, with proposed volcanic-flow forge lore.
 - 2026-05-03: Codex reference images, including `Dain_Truthammer_portrait_v3.png`, were regenerated in the campaign's kinetic shonen fantasy anime style.
-- 2026-05-03: User correction clarified that Dain, not the Astral Elf, received the `Ghostly Form Tattoo` reward from the harpy fight.
+- 2026-05-03: User correction clarified that Dain, not Kagrenac, received the `Ghostly Form Tattoo` reward from the harpy fight.
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)

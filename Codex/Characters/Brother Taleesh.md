@@ -1,0 +1,124 @@
+# Brother Taleesh
+
+![Brother Taleesh portrait](./Brother_Taleesh_portrait.png)
+
+## One-Line Summary
+Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, carrying a scorched goat-bone charm and deep distrust for elves and dwarves.
+
+## Table Role
+- Role: Player Character.
+- Player: Jackson / Jackbo.
+- DM: Tom.
+
+## Status
+- [Confirmed] Onboarded from user-provided backstory and sheet images on 2026-05-03.
+- Source images: [charsheet1](../../Assets/Brother%20Taleesh/charsheet1.png), [charsheet2](../../Assets/Brother%20Taleesh/charsheet2.png).
+- [Confirmed] Player: Jackson.
+- [Confirmed] Player aliases from user roster: Jackson / Jackbo.
+- [To verify] The sheet image appears to list player name `Jakabo`; user specified Jackson / Jackbo, so this Codex uses the user-provided roster.
+- [Confirmed] Character name used by user and repo: Brother Taleesh.
+- [To verify] The sheet image appears to spell the name `Brother Taal'esh`; keep `Brother Taleesh` until corrected.
+- [Confirmed] Species/Race: Lizardfolk.
+- [Confirmed] Class/Level: Monk 3.
+- [Confirmed] Background: Ruined.
+- [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
+- [To verify] In-world introduction to Dain and the party has not yet been logged.
+
+## What Dain Knows
+- [To verify] Whether Dain has met Brother Taleesh in play.
+- [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
+
+## What The Party Knows
+- [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
+- [To verify] How Brother Taleesh joins the current mountain-road mission.
+
+## Brother Taleesh's Own History
+Knowledge boundary: player-provided backstory for Brother Taleesh; not established as known to Dain unless revealed in play.
+
+- Hatched beneath the drifting shade of desert oases among nomadic lizardfolk who moved from water to water with goats and quiet stories.
+- Elven fire destroyed his people, burning tents to ash and sand to glass.
+- His mother pushed him behind a dune, but the blast buried him half-dead; when he escaped, his tribe and oasis were gone.
+- The only remnant he found was a charred, cracked bone charm carved like a goat's head.
+- He wandered the desert until he collapsed by a stone outcrop and woke in a monastery carved into the rock.
+- The monks were harsh but honest, teaching him the desert's lessons: movement like wind, strikes like a serpent, and inner quiet.
+- Dwarves later attacked the monastery, seeking gold rumored beneath it; Brother Taleesh fought until he fell.
+- When he woke, the halls were silent, the dwarves had taken what they wanted, and any surviving monks were gone.
+- He now walks the desert tribeless and monastery-less, trading in towns only when needed.
+- He distrusts elves and dwarves because both have taken everything from him.
+- He is ruined, but not broken. He endures.
+
+## Description
+- Age: 28.
+- Height: 6'3".
+- Weight: 165 lb.
+- Eyes: Yellow.
+- Skin: Scales.
+- Hair: None.
+- Visual anchors: desert-wrapped lizardfolk monk, sand-worn robes, calm but guarded bearing, scorched goat-bone charm, crescent-horizon motif, spectral astral arms when ki manifests.
+
+## Personality
+- Personality traits: Keeps emotions buried beneath calm scales, but they burn hot beneath the surface; sleeps lightly, waking at the faintest shift of wind or footstep.
+- Ideal: Endurance. The desert teaches that survival is not strength, but stubbornness. He will not fall again.
+- Bond: The desert is his only true home; he feels uneasy beneath roofs and walls.
+- Flaw: He struggles to stay in one place; stillness feels like death creeping closer.
+
+## Mechanical Snapshot
+- AC: 17.
+- HP: 24/24.
+- Initiative: +9.
+- Speed: 40 ft.; lizardfolk walk and swim speed noted.
+- Proficiency Bonus: +2.
+- Ki Save DC: 13.
+- Hit Dice: 3d8 [Inferred from monk level; sheet shows total `3` and HP calculation `8+4+6`].
+- Ability Scores: STR 11 (+0), DEX 18 (+4), CON 14 (+2), INT 11 (+0), WIS 16 (+3), CHA 13 (+1).
+- Saving Throws: STR +2, DEX +6, CON +2, INT +0, WIS +3, CHA +1.
+- Strongest skills visible on sheet: Acrobatics +6, Animal Handling +5, Insight +5, Perception +5, Stealth +6, Survival +5.
+- Other visible skills include Arcana +0, Deception +1, History +0, Intimidation +1, Investigation +0, Medicine +3, Nature +0, Performance +1, Persuasion +1, Religion +0, Sleight of Hand +4.
+- Passive Perception: 15.
+- Comeliness: 9.
+
+## Features And Tactics
+- Ruined background feature: `Still Standing`, granting the Alert feat.
+- Alert notes from sheet: initiative +5, cannot be surprised while conscious, and other creatures cannot gain advantage from being unseen.
+- Lizardfolk features: Bite, Hungry Jaws, Hold Breath 15 minutes, Natural Armor, Nature's Intuition.
+- Monk features: Unarmored Defense, Martial Arts, Ki, Flurry of Blows, Patient Defense, Step of the Wind, Dedicated Weapon, Unarmored Movement, Deflect Missiles, Ki-Fueled Attack.
+- Subclass: Way of the Astral Self.
+- Astral Arms: bonus action to summon spectral arms for 10 minutes using 1 ki; visible chosen creatures within 10 ft. make a Dexterity save or take damage; while active, he can use spectral arms for unarmed strikes with extra reach and may use Wisdom for certain Strength checks/saves and spectral-arm attacks. [To verify exact table wording]
+
+## Attacks
+- Scimitar: +6, `1d6+4` slashing.
+- Dagger / Jambiya: +6, `1d4+4` piercing, range 20/60.
+- Bite: +6, `1d6+4` bludgeoning.
+- Spectral Arms / Unarmed Strike: +6, `1d4+4` force [To verify; sheet notation is partly obscured].
+
+## Proficiencies And Gear
+- Armor: none.
+- Weapons: simple weapons and scimitars.
+- Tools: Cartographer's Tools, Dice Set.
+- Languages: Common, Dwarf, Goblin [To verify from sheet].
+- Currency: 13 GP.
+- Carried gear: Traveler's Clothes, pouch, scimitar, jambiya, dice set.
+- Ruined background equipment: cracked hourglass, rusty manacles, half-empty bottle, hunting trap.
+- Ruined trinket: [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md).
+- Foraged/trade goods on sheet: hedgehog mushroom, wild blackberry, pigweed, comfrey, sheep sorrel, and goji leaves with potent but addictive effects. [To verify quantities and rules]
+
+## Allies And Organizations
+- Fellow Travellers / Followers of Fharlanghn.
+- Symbol: Crescent Horizon.
+- [To verify] Whether this is a faith, order, loose fellowship, or current travel network.
+
+## Relationship Hooks
+- Dain is a dwarf, and Taleesh's backstory gives him reason to distrust dwarves. This should be handled as an active relationship tension, not ignored.
+- Kagrenac is an Astral Elf, and Taleesh's tribe was destroyed by elven fire. This may create immediate friction if revealed.
+- Taleesh's desert survival, monastery discipline, and astral arms give him a very different style of endurance from Dain's clever magical meddling.
+- Dain may be drawn to the cracked bone charm, the crescent-horizon symbol, and the precise strangeness of astral arms.
+
+## Notable Events
+- 2026-05-03: Brother Taleesh onboarded into the Codex from Jackson's sheet images and backstory.
+
+## Related Entries
+- [Relationships](../../Character/Relationships.md)
+- [Open Threads](../Lore/Open%20Threads.md)
+- [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md)
+- [Kagrenac](./The%20Astral%20Elf.md)
+- [Dain Truthammer](./Dain%20Truthammer.md)

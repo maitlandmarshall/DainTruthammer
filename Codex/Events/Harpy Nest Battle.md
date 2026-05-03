@@ -15,8 +15,8 @@ The party defeats five harpies at a mountain nest after Dain hides in the stone,
 - Dain hides in cracks in the mountain wall.
 - Dain uses `Minor Illusion` and `Prestidigitation` to draw harpies past his concealed position.
 - Dain immolates an alpha harpy with `Chromatic Orb` and grease, then uses `Suggestion` to make it sit and burn.
-- The Astral Elf kills Dain's suggested target before the party can exploit the enchantment further.
-- Dain receives the `Ghostly Form Tattoo` reward; the Astral Elf does not receive or wear it.
+- Kagrenac kills Dain's suggested target before the party can exploit the enchantment further.
+- Dain receives the `Ghostly Form Tattoo` reward; Kagrenac does not receive or wear it.
 
 ## Uncertain Details
 - [To verify] Exact source of the grease.
@@ -26,6 +26,6 @@ The party defeats five harpies at a mountain nest after Dain hides in the stone,
 ## Related Entries
 - [Harpy Nest Near Samyrn Torst](../Places/Harpy%20Nest%20Near%20Samyrn%20Torst.md)
 - [Ghostly Form Tattoo](../Items/Ghostly%20Form%20Tattoo.md)
-- [The Astral Elf](../Characters/The%20Astral%20Elf.md)
+- [Kagrenac](../Characters/The%20Astral%20Elf.md)
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 - [Session 2026-04-18](../../Adventures/2026-04-18.md)

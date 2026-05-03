@@ -47,6 +47,6 @@
 
 ## Notes
 - [Confirmed] The sheet's total carried weight matches the duplicate weapon, robe, and book entries, so they are preserved as real items unless corrected later.
-- [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not the Astral Elf. [Retcon] User correction recorded 2026-05-03.
+- [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not Kagrenac. [Retcon] User correction recorded 2026-05-03.
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

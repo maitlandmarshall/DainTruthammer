@@ -10,7 +10,7 @@ A mountain landmark or location near the city Commander Agland has sent the part
 
 ## What the character knows
 - [Character-only] Dain knows the party is meant to head toward a city near Samyrn Torst.
-- [Character-only] Dain has promised to help the elf make the mountain journey safely.
+- [Character-only] Dain has promised to help Kagrenac make the mountain journey safely.
 
 ## What the party knows
 - [Party] Commander Agland has directed the party toward the city near Samyrn Torst in the mountains.

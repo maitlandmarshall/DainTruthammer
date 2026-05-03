@@ -5,6 +5,10 @@
 ## One-line summary
 A stoic dwarven commander in Lerdar whom the party seeks out to deliver news.
 
+## Table Role
+- Role: DM-controlled / NPC.
+- DM: Tom.
+
 ## Status
 - [Confirmed] Named by the user on 2026-04-18.
 - [Confirmed] Agland is a dwarf.

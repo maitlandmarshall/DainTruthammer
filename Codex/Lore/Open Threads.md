@@ -10,6 +10,22 @@
 - Next possible actions: Capture a starting-state snapshot at the next session or from the most recent table notes.
 - Linked entries: [Current State](../../Character/Current%20State.md)
 
+### Introduce Brother Taleesh
+- Status: Open
+- Tags: [Party] [To verify]
+- Why it matters: Brother Taleesh is a new party member controlled by Jackson / Jackbo, and his distrust of dwarves and elves may matter immediately because Dain is a dwarf and the party includes Kagrenac, an Astral Elf.
+- Latest development: On 2026-05-03, Brother Taleesh was added to the Codex from sheet images and backstory as a lizardfolk Monk 3 with the Ruined background, Fharlanghn ties, astral arms, and the title Keeper of the Dunes.
+- Next possible actions: Establish how Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, and how Dain handles the dwarf-shaped problem standing in front of him.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Relationships](../../Character/Relationships.md)
+
+### Introduce Hammerton Harry Dresdon
+- Status: Open
+- Tags: [Party] [To verify]
+- Why it matters: Hammerton Harry Dresdon is Norhan's dwarf Eldrich Knight, and his arrival may affect both party tactics and Brother Taleesh's dwarf-related distrust.
+- Latest development: On 2026-05-03, Hammerton was added to the player roster and Codex from the user-provided rundown.
+- Next possible actions: Establish how Hammerton joins the current mission, confirm whether the class spelling is `Eldrich` or `Eldritch Knight`, and record what Dain knows about him.
+- Linked entries: [Hammerton Harry Dresdon](../Characters/Hammerton%20Harry%20Dresdon.md), [Table Roster](./Table%20Roster.md), [Relationships](../../Character/Relationships.md)
+
 ### Clarify The Party's Purpose At The Iron Shore Watchtower
 - Status: Open
 - Tags: [Party] [To verify]
@@ -30,7 +46,7 @@
 - Status: Open
 - Tags: [Party] [Confirmed]
 - Why it matters: Five harpies near the road could threaten the party's onward route into the mountains or offer a hazard that must be avoided, observed, or cleared.
-- Latest development: The party defeated the harpies near the nest, but the Astral Elf killed Dain's suggested target before the enchantment could be exploited further; Dain received the `Ghostly Form Tattoo` reward. [Confirmed] [Retcon] User correction recorded 2026-05-03.
+- Latest development: The party defeated the harpies near the nest, but Kagrenac killed Dain's suggested target before the enchantment could be exploited further; Dain received the `Ghostly Form Tattoo` reward. [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Next possible actions: Confirm the final loot from the nest beyond Dain's tattoo, and record whether anything else was recovered or learned there.
 - Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md), [Harpy Nest Near Samyrn Torst](../Places/Harpy%20Nest%20Near%20Samyrn%20Torst.md)
 
