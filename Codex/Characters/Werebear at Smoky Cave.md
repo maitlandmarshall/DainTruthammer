@@ -19,8 +19,9 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - [Party] [Confirmed] Hammerton Harry Drizddon attacks the werebear with a hammer, missing once and hitting once.
 - [Party] [Confirmed] Dain attempts to blind the werebear, but it succeeds on its Constitution save and is not blinded.
 - [Party] [Confirmed] The werebear tries to hit and swing at a weasel summoned from a Bag of Tricks by the moon elf, but completely misses.
+- [Party] [Confirmed] Dain hits the werebear with `Chromatic Orb` for `11` acid damage.
 - [To verify] Name, motive, hostility, whether it lives in the cave, whether the smoke belongs to it, and whether the goblin-pus smell matters.
-- [To verify] Damage dealt, initiative state, werebear reaction, whether Taleesh's bite has any special mechanical consequence, the exact spell or resource Dain used for the blinding attempt, and whether "moon elf" refers to Kagrenac.
+- [To verify] Initiative state, werebear reaction, whether Taleesh's bite has any special mechanical consequence, the exact spell or resource Dain used for the blinding attempt, the Chromatic Orb resource source, and whether "moon elf" refers to Kagrenac.
 
 ## What The Party Knows
 - [Party] The werebear can speak or at least shout a warning.
@@ -29,6 +30,7 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - [Party] It has now been bitten and struck by Taleesh, then hit once by Hammerton's hammer after one missed swing.
 - [Party] It resisted Dain's attempted blinding effect with a successful Constitution save.
 - [Party] It completely missed a summoned weasel from a Bag of Tricks.
+- [Party] It has taken `11` acid damage from Dain's `Chromatic Orb`.
 
 ## What Is Uncertain
 - [To verify] Whether the werebear is guarding something, hiding, wounded, territorial, cursed, or trying to prevent the party from entering for their own safety.
@@ -36,6 +38,7 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - [To verify] Whether the party's potent goblin-pus smell affects its reaction.
 - [To verify] How much damage Taleesh and Hammerton dealt, whether the werebear retaliates, and whether the bite interaction matters because the target is a werebear.
 - [To verify] Whether Dain used `Blindness/Deafness` or another blinding effect, and whether a spell slot or other limited resource was consumed.
+- [To verify] Whether Dain's `Chromatic Orb` spent a 1st-level spell slot or a separate feature/resource.
 - [To verify] Bag of Tricks owner/type, summoned weasel duration and stats, exact werebear attack count, and whether the werebear wastes further attacks on conjured creatures.
 
 ## Notable Events
@@ -43,6 +46,7 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - 2026-05-03: Brother Taleesh bites and strikes the werebear, saying "ouch"; Hammerton Harry Drizddon attacks with a hammer, missing once and hitting once. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain attempts to blind the werebear, but the werebear succeeds on its Constitution save and is not blinded. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify exact spell or effect]
 - 2026-05-03: The werebear tries to hit and swing at a weasel summoned from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md) by the moon elf, but completely misses. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
+- 2026-05-03: Dain casts `Chromatic Orb` at the werebear and deals `11` acid damage. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify resource source]
 
 ## Related entries
 - [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md)

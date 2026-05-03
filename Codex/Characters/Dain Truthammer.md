@@ -167,6 +167,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain defuses Hammerton / Dresden's request for more payment by keeping the original trader deal and adding five truthful answers owed upon delivery. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Around the goblin campfire, Dain puts his arm around the hobgoblin leader and tells stories of his mother, apprenticeship, and early training. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: During the fight at the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Dain casts `Chromatic Orb` at the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), choosing acid and dealing `11` acid damage. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify resource source]
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
