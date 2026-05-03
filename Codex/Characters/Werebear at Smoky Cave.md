@@ -17,24 +17,28 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - [Party] [Confirmed] As the party gets close, a werebear reveals itself.
 - [Party] [Confirmed] Brother Taleesh bites and strikes the werebear, saying "ouch."
 - [Party] [Confirmed] Hammerton Harry Drizddon attacks the werebear with a hammer, missing once and hitting once.
+- [Party] [Confirmed] Dain attempts to blind the werebear, but it succeeds on its Constitution save and is not blinded.
 - [To verify] Name, motive, hostility, whether it lives in the cave, whether the smoke belongs to it, and whether the goblin-pus smell matters.
-- [To verify] Damage dealt, initiative state, werebear reaction, and whether Taleesh's bite has any special mechanical consequence.
+- [To verify] Damage dealt, initiative state, werebear reaction, whether Taleesh's bite has any special mechanical consequence, and the exact spell or resource Dain used for the blinding attempt.
 
 ## What The Party Knows
 - [Party] The werebear can speak or at least shout a warning.
 - [Party] It warned the party away before revealing itself.
 - [Party] It is associated with the smoky cave, fur on rocks, and very large scratch marks.
 - [Party] It has now been bitten and struck by Taleesh, then hit once by Hammerton's hammer after one missed swing.
+- [Party] It resisted Dain's attempted blinding effect with a successful Constitution save.
 
 ## What Is Uncertain
 - [To verify] Whether the werebear is guarding something, hiding, wounded, territorial, cursed, or trying to prevent the party from entering for their own safety.
 - [To verify] Whether the cave marks and smoke were made by the werebear or something else.
 - [To verify] Whether the party's potent goblin-pus smell affects its reaction.
 - [To verify] How much damage Taleesh and Hammerton dealt, whether the werebear retaliates, and whether the bite interaction matters because the target is a werebear.
+- [To verify] Whether Dain used `Blindness/Deafness` or another blinding effect, and whether a spell slot or other limited resource was consumed.
 
 ## Notable Events
 - 2026-05-03: As the party approaches the smoky scratch-marked cave, they hear grunting and growling; a voice yells, "you should leave." Dain yells back, "we're coming," and a werebear reveals itself. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Brother Taleesh bites and strikes the werebear, saying "ouch"; Hammerton Harry Drizddon attacks with a hammer, missing once and hitting once. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain attempts to blind the werebear, but the werebear succeeds on its Constitution save and is not blinded. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify exact spell or effect]
 
 ## Related entries
 - [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md)
