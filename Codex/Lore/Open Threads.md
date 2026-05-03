@@ -14,9 +14,17 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: The party is on a mountain route after a long rest, and worsening winds could affect travel pace, visibility, exposure, flight, camp safety, or encounter risk.
-- Latest development: On 2026-05-03, the party wakes to cold winds, and [Kagrenac](../Characters/The%20Astral%20Elf.md) warns that the winds will get worse today.
-- Next possible actions: Ask Kagrenac how he knows, decide whether to travel, shelter, follow lower routes, prepare cold-weather protection, or use magic before committing to the day's route.
-- Linked entries: [Kagrenac](../Characters/The%20Astral%20Elf.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, the party wakes to cold winds, and [Kagrenac](../Characters/The%20Astral%20Elf.md) warns that the winds will get worse today. The party continues travelling after the goblin camp and smoky cave, and after about four more hours of walking Kagrenac's owl is nearly struck by a swooping attacker before a [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) reveals itself.
+- Next possible actions: Ask Kagrenac how he knows, decide whether to travel, shelter, follow lower routes, prepare cold-weather protection, or use magic before committing to the day's route; in the immediate term, respond to the manticore and confirm whether the owl was harmed.
+- Linked entries: [Kagrenac](../Characters/The%20Astral%20Elf.md), [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
+### Respond To The Manticore On The Forest Road
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: A flying predator or hostile creature has revealed itself after nearly striking Kagrenac's owl, potentially opening another combat or negotiation during the day's mountain travel.
+- Latest development: On 2026-05-03, after the party walks for about four hours beyond Dain's robe experiment, [Kagrenac](../Characters/The%20Astral%20Elf.md)'s owl is swooped in a near miss. A [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) reveals itself.
+- Next possible actions: Confirm whether the owl took damage or is grounded, establish the manticore's distance, altitude, position, motive, and whether initiative begins; decide whether to fight, hide, parley, drive it off, or protect the familiar.
+- Linked entries: [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Respond To Southern Human Traders
 - Status: Active
