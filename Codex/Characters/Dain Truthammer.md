@@ -47,6 +47,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain shakes the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)'s hand while attempting `Identify`, but the puppet appears to prevent or block the casting. [Inferred] [To verify resource cost]
 - [Party] The puppet speaks in a high voice about being taken back to the coal mines.
 - [Character-only] Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the puppet bites him. Dain does not know why. [To verify damage, trigger, and consequence]
+- [Character-only] Dain realizes the puppet is a cobalt puppet.
+- [Party] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [To verify who "you" refers to]
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -116,7 +118,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Quietly discover the fuller truth behind the party's mission.
 - [Character-only] Hunt for strange mountain magic, old wards, and improbable little spells.
 - [Character-only] Decide how much, if anything, to reveal about being an outcast from Truthammer mountain.
-- [Character-only] Understand why the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) can apparently block `Identify`, why it bites during prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and whether "the coal mines" are a destination, prison, origin, or trap.
+- [Character-only] Understand why the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) can apparently block `Identify`, why it bites during prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md), what a cobalt puppet is, why [Kurtlemack](../Lore/Kurtlemack.md) hates him or someone near him, and whether "the coal mines" are a destination, prison, origin, or trap.
 
 ## Long-Term Ambitions
 - [Character-only] Develop a personal body of magic so peculiar and apparently useless that it becomes unmatched in the realm.
@@ -155,6 +157,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: The trader arrangement is set as half now, half later; the upfront half goes into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac warns Dain in Draconic that the newcomers are glowing with magic; Dain shakes the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)'s hand while attempting `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites him for reasons Dain does not understand. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
@@ -177,6 +180,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md)
 - [Always-Cold Robes](../Items/Always-Cold%20Robes.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
+- [Kurtlemack](../Lore/Kurtlemack.md)
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md)

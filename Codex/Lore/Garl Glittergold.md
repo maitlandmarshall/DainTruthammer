@@ -15,6 +15,7 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - [Character-only] Cleverness, benevolent trickery, delight, and protective misdirection can all serve good ends.
 - [Character-only] The faith is tied to his outcast status from home. [DM-private] [Confirmed]
 - [Character-only] On 2026-05-03, Dain begins praying to Garl Glittergold in front of the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), and the puppet bites him. Dain does not know why.
+- [Character-only] Dain then realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](./Kurtlemack.md) hates you."
 
 ## What The Party Knows
 - [To verify] Whether the party knows Dain follows Garl Glittergold.
@@ -24,6 +25,7 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - [To verify] Whether Dain's mountain home rejects Garl Glittergold generally, rejects Dain's particular form of worship, or rejects the social consequences of that worship.
 - [To verify] Whether Dain has allies, mentors, rivals, or family members connected to this faith.
 - [To verify] Whether the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) reacted to prayer, Garl Glittergold's name or sigil, Dain personally, or something unrelated.
+- [To verify] Whether [Kurtlemack](./Kurtlemack.md)'s hatred is directed at Garl Glittergold, Dain, Glittergold's faithful, dwarves, or someone else.
 
 ## Description
 - For campaign continuity, Garl Glittergold is currently documented through Dain's relationship to the faith rather than broader cosmology.
@@ -33,10 +35,12 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - 2026-04-18: Dain's deity was confirmed as Garl Glittergold.
 - 2026-05-03: DM note recorded that Dain is considered an outcast from Truthammer mountain because of his faith in Garl Glittergold. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain begins praying to Garl Glittergold, and the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites him for reasons Dain does not understand. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: The puppet is recognized as cobalt and says, "[Kurtlemack](./Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
+- [Kurtlemack](./Kurtlemack.md)
 - [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md)
 - [Relationships](../../Character/Relationships.md)
 - [Current State](../../Character/Current%20State.md)

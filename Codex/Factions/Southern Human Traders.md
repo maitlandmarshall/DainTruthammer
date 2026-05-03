@@ -16,6 +16,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Character-only] [Confirmed] [Kagrenac](../Characters/The%20Astral%20Elf.md) tells Dain in Draconic that the newcomers are all glowing in magic. Detection source [To verify].
 - [Party] [Confirmed] One human trader sighs and pulls out the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md).
 - [Party] [Confirmed] The [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites Dain when he begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md).
+- [Party] [Confirmed] Dain realizes the puppet is a cobalt puppet, and the puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you."
 - [To verify] Names, number of traders, broader goods carried, route, intent, honesty, threat level, whether they know anything about the party's mission, and the exact later half of the payment.
 
 ## What Dain Knows
@@ -28,6 +29,8 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Character-only] Kagrenac tells Dain in Draconic that all the newcomers glow with magic.
 - [Party] One trader carries or presents the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md); Dain's attempted `Identify` fails or is blocked. [To verify resource cost]
 - [Party] The puppet bites Dain as he begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md); Dain does not know why. [To verify damage and trigger]
+- [Character-only] Dain recognizes it as a cobalt puppet.
+- [Party] The puppet invokes [Kurtlemack](../Lore/Kurtlemack.md)'s hatred.
 - [To verify] Whether Dain recognizes their route, dialect, trade marks, clothing, or destination.
 
 ## What The Party Knows
@@ -39,12 +42,13 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] The "half now" payment is [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz, held as [Party Loot](../../Character/Party%20Loot.md).
 - [Party] One of the traders produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), and the puppet speaks in a high voice about being taken back to the coal mines.
 - [Party] The puppet bites Dain during his prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md).
+- [Party] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you."
 
 ## What Is Uncertain
 - [To verify] Whether they are lost, truthful, desperate, bait, or ordinary traders.
 - [To verify] Whether Olar Dunglor intersects with the party's route toward the mountain general near [Samyrn Torst](../Lore/Samyrn%20Torst.md).
 - [To verify] Exact later half of the payment, collection timing, who physically carries the upfront herbs, and whether Olar Dunglor changes the party's route or obligations.
-- [To verify] Why all the newcomers appear to be glowing with magic, what the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is, why it bit Dain during prayer, and whether the traders control it, fear it, owe it, or are burdened by it.
+- [To verify] Why all the newcomers appear to be glowing with magic, what the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is, why it bit Dain during prayer, what [Kurtlemack](../Lore/Kurtlemack.md) means to the traders or puppet, and whether the traders control it, fear it, owe it, or are burdened by it.
 
 ## Payment
 
@@ -63,6 +67,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - 2026-05-03: The arrangement is clarified as half now, half later; the upfront half is paid as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz into [Party Loot](../../Character/Party%20Loot.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac privately warns Dain in Draconic that the newcomers are glowing with magic; a human trader sighs and produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), which blocks or prevents Dain's attempted `Identify` and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites Dain as he begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md); Dain does not know why. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
@@ -74,6 +79,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Ginseng](../Items/Ginseng.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
 - [Garl Glittergold](../Lore/Garl%20Glittergold.md)
+- [Kurtlemack](../Lore/Kurtlemack.md)
 - [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-05-03](../../Adventures/2026-05-03.md)
