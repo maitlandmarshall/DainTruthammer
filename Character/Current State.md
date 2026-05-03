@@ -61,7 +61,7 @@
 - Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
-- Current location: Outside [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at the forested river camp roughly 20 minutes beyond the defeated harpy nest; Dain is dressed but damp, has realized the "lizard" is a living arrival rather than Hammerton's severed lizard head, and has boomed "Who goes there?" with `Prestidigitation`. The party is still in the long rest window. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
+- Current location: Outside [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at the forested river camp roughly 20 minutes beyond the defeated harpy nest; Dain is dressed but damp and has welcomed [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) after the lizard-head misunderstanding. The party is still in the long rest window. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
 
 ## Combat Snapshot
 - Dagger: `+4`, `1d4+2` piercing
@@ -84,7 +84,7 @@
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.
 - [Character-only] Marvel in the newly created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), then confirm final mechanics and useful edge cases.
-- [Character-only] Assess the living newcomer after booming, "Who goes there?" with `Prestidigitation`.
+- [Character-only] Learn why Brother Taleesh has arrived and whether this fellow traveller can be trusted around the party's current mission.
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
 - [Character-only] Use harmless illusions, jokes, or little rituals to take the edge off fear during camp and travel.

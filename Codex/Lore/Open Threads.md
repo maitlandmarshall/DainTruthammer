@@ -14,8 +14,8 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh is a new party member controlled by Jackson / Jackbo, and his distrust of dwarves and elves may matter immediately because Dain is a dwarf and the party includes Kagrenac, an Astral Elf.
-- Latest development: On 2026-05-03, Brother Taleesh arrived at the forest camp by camel, secured the animal, and crouched while Kagrenac addressed him in Draconic after casting `Thaumaturgy`; Kagrenac then told the party in Common that "a lizard has arrived." Dain exited the leaky tent dressed but damp, saw Hammerton inspecting a severed lizard head, initially thought that was the lizard being announced, then realized the mistake and boomed "Who goes there?" with `Prestidigitation`.
-- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, how he reacts to the severed lizard head, and how he answers Dain's boomed challenge.
+- Latest development: On 2026-05-03, Brother Taleesh answered Dain's boomed challenge by approaching with his scimitar at low ready and saying in Common, "Just a fellow traveller." Dain replied, "Ah, we're all travellers. Come join us."
+- Next possible actions: Establish why Taleesh joins the current mission, what he knows about Agland's sealed letter, what he chooses to reveal about his past, whether he accepts Dain's invitation, and how he reacts to the severed lizard head.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify The Severed Lizard Head
