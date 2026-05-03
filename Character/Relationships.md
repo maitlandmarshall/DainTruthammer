@@ -26,13 +26,13 @@
 - Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, and what the sheet-listed `Slave collar` represents.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
-- Current standing: [Party] Brother Taleesh has approached the party, introduced himself, projected ghostly astral arms non-aggressively, entered a tentative warmth bargain after Dain offered party-backed shelter and a conjured cloak, and given Dain one pound of hedgehog mushroom for the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).
+- Current standing: [Party] Brother Taleesh has approached the party, introduced himself, projected ghostly astral arms non-aggressively, entered a warmth bargain after Dain offered party-backed shelter, received a warm cloak from Dain for the remainder of the night through `Prestidigitation` and `Minor Conjuration`, and given Dain one pound of hedgehog mushroom for the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).
 - Dain's known belief: [Character-only] Taleesh presents himself as a fellow traveller rather than an immediate attacker, but Dain reads him as standoffish and afraid. Dain stops, puts down his staff, reassures him through the Truthammer name, rejects the offered goji leaves, answers the astral arms with a lantern story and warmth, and treats the hedgehog mushroom gift as material for shared craft. [Inferred]
 - Respect marker: [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and shared lantern-making start.
 - Private follow-through: [Character-only] Dain begins trying to make always-warm robes for Taleesh, reaches `6%` progress, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype.
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to build trust through warmth, lantern-making, practical hospitality, respect for the bone charm, and careful honesty instead of clever evasions.
-- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain holds, whether the mushroom lantern is completed, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.
+- Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain continues beyond the night, whether the mushroom lantern is completed, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
 - Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories

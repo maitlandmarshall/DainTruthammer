@@ -34,6 +34,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Character-only] Dain refuses the goji leaves and says the Truthhammers do not alter themselves in such ways.
 - [Party] Dain sees Taleesh spend 1 ki point and project ghostly astral arms from his shoulders without using them aggressively.
 - [Character-only] Dain responds by telling [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), offering to make a lantern with Taleesh, and conjuring a warm cloak.
+- [Party] Dain uses `Prestidigitation` and `Minor Conjuration` together to give Taleesh a warm cloak for the remainder of the night.
 - [Party] Taleesh approaches and introduces himself to the party after Dain and the party agree to keep him warm if he joins them.
 - [Party] Taleesh gives Dain one pound of hedgehog mushroom, and Dain begins hollowing it into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md).
 - [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and lantern-making start.
@@ -53,6 +54,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Dain refuses the goji leaves and suggests Kagrenac may be interested.
 - [Party] Taleesh spends 1 ki point to project ghostly astral arms from his shoulders; the use is not aggressive.
 - [Party] Dain tells a lantern story, conjures a warm cloak, offers to make a lantern with Taleesh, and confirms with the party that they will keep Taleesh warm if he joins them.
+- [Party] Dain uses `Prestidigitation` and `Minor Conjuration` together to give Taleesh a warm cloak for the remainder of the night.
 - [Party] Taleesh approaches and introduces himself to the party.
 - [Party] Taleesh gives Dain one pound of hedgehog mushroom for lantern-making.
 - [Party] Dain hollows the mushroom and begins creating the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md).
@@ -106,6 +108,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 
 ## Current Session Resource Notes
 - 2026-05-03: Spent 1 ki point to project ghostly astral arms from his shoulders during first contact at the forest camp. Remaining ki and exact active duration are [To verify].
+- 2026-05-03: Has a warm cloak from Dain for the remainder of the night, created through `Prestidigitation` and `Minor Conjuration`. Whether it persists afterward is [To verify].
 
 ## Features And Tactics
 - Ruined background feature: `Still Standing`, granting the Alert feat.
@@ -154,6 +157,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Taleesh produces herbal items from his stash and asks whether the party needs comfrey, pigweed, or hedgehog mushroom. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh offers goji leaves with the promise of godlike feeling; Dain refuses and redirects the offer toward Kagrenac. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh spends 1 ki point to project ghostly astral arms without aggression; Dain answers with the lantern-festival story, conjures a warm cloak, secures a party promise to keep Taleesh warm, and Taleesh approaches to introduce himself. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain uses `Prestidigitation` and `Minor Conjuration` together to give Taleesh a warm cloak for the remainder of the night. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh gives Dain one pound of hedgehog mushroom, which Dain hollows out and begins turning into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain records `+17` respect toward Taleesh. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
