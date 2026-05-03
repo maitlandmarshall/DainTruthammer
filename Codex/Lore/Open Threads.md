@@ -184,7 +184,7 @@
 - Status: Active
 - Tags: [Character-only] [Confirmed]
 - Why it matters: This is one of Dain's clearest personal drives and should shape future choices, purchases, and research.
-- Latest development: The baseline record now preserves that Dain deliberately seeks out bizarre and "useless" spells, and now frames this as a long-term ambition to develop uniquely strange spells of his own. On 2026-05-03, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), then later pivoted from `6%` progress on always-warm robes for Brother Taleesh into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration.
+- Latest development: The baseline record now preserves that Dain deliberately seeks out bizarre and "useless" spells, and now frames this as a long-term ambition to develop uniquely strange spells of his own. On 2026-05-03, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), then later pivoted from `6%` progress on always-warm robes for Brother Taleesh into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration. As the party continues onward, he casts cold magic into the jacket / robe prototype and records his own existing coldness as a comparison point.
 - Next possible actions: Track odd spell leads, suspicious scrolls, magical curiosities, strange spell interactions, and prototype ideas that could mature into original spell designs; confirm final rules wording for `Truthammer's Leaky Tent`; clarify progress and mechanics for the cold-robes prototype.
 - Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Spellbook](../../Character/Spellbook.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md)
 
@@ -192,8 +192,8 @@
 - Status: Active
 - Tags: [Character-only] [To verify]
 - Why it matters: The robes are the next concrete expression of Dain's original-magic instinct after [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), and they complicate his practical promise to keep Brother Taleesh warm in a very Dain-shaped way.
-- Latest development: On 2026-05-03, Dain reached `6%` progress on always-warm robes for Brother Taleesh, realized halfway that the project was not truly him, and pivoted into robes that always make the wearer cold after a flash of inspiration.
-- Next possible actions: Confirm the cold-robes progress percentage, whether the warm-robes `6%` converts or is lost, what base robe or materials are used, and what mechanical effect the finished robes should have.
+- Latest development: On 2026-05-03, Dain reached `6%` progress on always-warm robes for Brother Taleesh, realized halfway that the project was not truly him, and pivoted into robes that always make the wearer cold after a flash of inspiration. Later, as the party continues onward, he casts cold magic into the jacket / robe prototype, gets further along, realizes he is already cold, and records that coldness as a comparison point for later development.
+- Next possible actions: Confirm the new cold-robes progress percentage, which cold spells or resources were used, whether the warm-robes `6%` converts or is lost, what base robe or materials are used, and what mechanical effect the finished robes should have.
 - Linked entries: [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Spellbook](../../Character/Spellbook.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Resolved

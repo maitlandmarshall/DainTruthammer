@@ -46,8 +46,8 @@
   Confirmed Wet effect: anything inside immediately becomes Wet, gaining vulnerability to lightning and cold damage and resistance to fire damage until dried for 10 minutes or until it takes fire, cold, or lightning damage. [To verify exact condition wording]
 - [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) [Character-only] [In progress]
   A prototype magical garment concept begun after Dain abandoned a more conventional attempt to make robes that were always warm for Brother Taleesh. [Confirmed on 2026-05-03]
-  Research progress: always-warm robes branch reached `6%`, then was abandoned or pivoted; exact cold-robes progress after the flash of inspiration is [To verify].
-  Current notes: Dain realizes halfway through the warmth project that it is not truly him, then pivots toward robes that always make the wearer cold.
+  Research progress: always-warm robes branch reached `6%`, then was abandoned or pivoted; Dain later got further along by casting cold magic into the jacket / robe prototype. Exact cold-robes progress after the flash of inspiration and travelling experiment is [To verify].
+  Current notes: Dain realizes halfway through the warmth project that it is not truly him, then pivots toward robes that always make the wearer cold. While travelling onward on 2026-05-03, he realizes he is already cold and records that lived coldness as a comparison point for later development.
 
 ## Recent Spell Use
 - 2026-04-18: Dain cast `Sleep` against two ogres at the creek-fork camp. The DM required 2014 resolution rather than the expected 2024 version; Dain rolled `32` on the `d8`s, and the spell had no effect. One 1st-level slot spent. [Character-only]
@@ -57,5 +57,6 @@
 - 2026-04-18: Dain used `Chromatic Orb` and grease to immolate an alpha harpy during the harpy fight, then cast `Suggestion` to make it sit and burn to death while he watched. One 2nd-level slot spent on `Suggestion`; the exact resource spent for `Chromatic Orb` remains [To verify]. [Character-only]
 - 2026-05-03: During the forest long rest, Dain formally created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) after experimenting with his normal tent in a flowing river. [Character-only] [Confirmed]
 - 2026-05-03: Inside [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), Dain reached `6%` progress on always-warm robes for Brother Taleesh, then pivoted into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after a flash of inspiration. [Character-only]
+- 2026-05-03: As the party continues onward, Dain casts cold magic into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) jacket / robe prototype, gets further along, realizes he is already cold, and notes that state down as a comparison point for fully developing the spell or item. [Character-only] [To verify exact spell/resource expenditure]
 - 2026-05-03: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night. [Party] [Character-only]
 - 2026-05-03: The forest long rest completes at the start of the new day; Dain's spell slots are restored to `1st 4/4`, `2nd 2/2`. [Character-only] [Confirmed]
