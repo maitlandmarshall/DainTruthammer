@@ -18,6 +18,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] [Confirmed] The [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites Dain when he begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - [Party] [Confirmed] Dain realizes the puppet is a cobalt puppet, and the puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you."
 - [Party] [Confirmed] After Hammerton / Dresden asks for more because the puppet was not part of the original negotiation, Dain keeps the original deal and adds five truthful answers owed upon delivery.
+- [Party] [Confirmed] During the goblin camp negotiation, the humans who initially refuse to enter the goblin camp and break bread are convinced to enter with the party and break bread with the goblins; the party, humans, and goblins begin cooking breakfast together around the campfire.
 - [To verify] Names, number of traders, broader goods carried, route, intent, honesty, threat level, whether they know anything about the party's mission, and the exact later half of the payment.
 
 ## What Dain Knows
@@ -33,6 +34,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Character-only] Dain recognizes it as a cobalt puppet.
 - [Party] The puppet invokes [Kurtlemack](../Lore/Kurtlemack.md)'s hatred.
 - [Party] Dain defuses Hammerton / Dresden's attempt to ask for more by preserving the original deal and adding five truthful answers due upon delivery.
+- [Party] The traders who initially resist entering the goblin camp and breaking bread are convinced to follow the party in and share breakfast around the campfire with the goblins.
 - [To verify] Whether Dain recognizes their route, dialect, trade marks, clothing, or destination.
 
 ## What The Party Knows
@@ -46,6 +48,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] The puppet bites Dain during his prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - [Party] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you."
 - [Party] The final visible deal remains the original payment structure, plus five truthful answers owed upon delivery.
+- [Party] Some or all of the traders initially do not want to enter the goblin camp and break bread, but are convinced to do so with the party; they join the campfire breakfast with the goblins. [To verify exact dissenters and who persuaded them]
 
 ## What Is Uncertain
 - [To verify] Whether they are lost, truthful, desperate, bait, or ordinary traders.
@@ -73,6 +76,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - 2026-05-03: The [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites Dain as he begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md); Dain does not know why. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Hammerton / Dresden asks for more because the original negotiation did not account for the puppet; Dain defuses the escalation by preserving the original deal and adding five truthful answers due upon delivery. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: During the goblin camp negotiation, the humans who initially refuse to enter the camp and break bread are convinced to enter with the party and break bread with the goblins; the party, humans, and goblins begin cooking breakfast together around the campfire. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
