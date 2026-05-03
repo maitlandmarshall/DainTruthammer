@@ -38,8 +38,8 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: The party has encountered a goblin camp on the route, and Brother Taleesh has opened with a kinship appeal rather than a threat.
-- Latest development: On 2026-05-03, the party approaches a group of goblins at a camp, and [Brother Taleesh](../Characters/Brother%20Taleesh.md) / Jackson calls out, "Brothers, allow us to join your camp?"
-- Next possible actions: Confirm the goblins' attitude, number, leader, purpose, and whether the camp is safe refuge, obstacle, ambush, trade opportunity, or source of route information.
+- Latest development: On 2026-05-03, the party approaches a group of goblins at a camp, and [Brother Taleesh](../Characters/Brother%20Taleesh.md) / Jackson calls out, "Brothers, allow us to join your camp?" He continues with a friendly, family-like tone to defuse the situation before combat and offers medicine to trade with their boss.
+- Next possible actions: Confirm the goblins' attitude, number, leader, purpose, what medicine Taleesh is offering, what the boss wants, and whether the camp is safe refuge, obstacle, ambush, trade opportunity, or source of route information.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Set The Traders' Escort Cost
