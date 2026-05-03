@@ -3,7 +3,7 @@
 ![Werebear at Smoky Cave reference](./Werebear_at_Smoky_Cave_ref.png)
 
 ## One-line summary
-A speaking werebear revealed at the smoky scratch-marked cave after warning the party to leave.
+A speaking werebear revealed at the smoky scratch-marked cave after warning the party to leave, then killed by Matt's `Inflict Wounds`.
 
 ## Table Role
 - Role: DM-controlled / NPC or creature.
@@ -21,8 +21,10 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - [Party] [Confirmed] The werebear tries to hit and swing at a weasel summoned from a Bag of Tricks by the moon elf, but completely misses.
 - [Party] [Confirmed] Dain hits the werebear with `Chromatic Orb` for `11` acid damage.
 - [Party] [Confirmed] The werebear rolls a natural `1` while swinging its greataxe at Brother Taleesh / Jackson, loses the greataxe, and sends it flying onto the cave roof out of its reach.
-- [To verify] Name, motive, hostility, whether it lives in the cave, whether the smoke belongs to it, and whether the goblin-pus smell matters.
-- [To verify] Initiative state, werebear reaction, whether Taleesh's bite has any special mechanical consequence, the exact spell or resource Dain used for the blinding attempt, the Chromatic Orb resource source, whether "moon elf" refers to Kagrenac, and whether the greataxe can be retrieved.
+- [Party] [Confirmed] Matt casts `Inflict Wounds` on the werebear, delivering the killing blow.
+- [Party] [Confirmed] The werebear is dead at the smoky cave.
+- [To verify] Name, motive, hostility, whether it lived in the cave, whether the smoke belonged to it, and whether the goblin-pus smell mattered.
+- [To verify] Whether Taleesh's bite has any special mechanical consequence, the exact spell or resource Dain used for the blinding attempt, the Chromatic Orb resource source, whether "moon elf" refers to Kagrenac, whether the greataxe can be retrieved, and the exact `Inflict Wounds` spell source/resource/damage.
 
 ## What The Party Knows
 - [Party] The werebear can speak or at least shout a warning.
@@ -33,6 +35,7 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - [Party] It completely missed a summoned weasel from a Bag of Tricks.
 - [Party] It has taken `11` acid damage from Dain's `Chromatic Orb`.
 - [Party] It lost its greataxe on a natural `1`; the weapon is on the cave roof out of the werebear's reach.
+- [Party] Matt's `Inflict Wounds` killed it.
 
 ## What Is Uncertain
 - [To verify] Whether the werebear is guarding something, hiding, wounded, territorial, cursed, or trying to prevent the party from entering for their own safety.
@@ -43,6 +46,7 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - [To verify] Whether Dain's `Chromatic Orb` spent a 1st-level spell slot or a separate feature/resource.
 - [To verify] Bag of Tricks owner/type, summoned weasel duration and stats, exact werebear attack count, and whether the werebear wastes further attacks on conjured creatures.
 - [To verify] Whether the werebear has backup weapons, can climb or reach the cave roof, or can be kept separated from its greataxe.
+- [To verify] What the party does with the corpse, whether there are lycanthropy or curse implications, whether the greataxe is lootable, and what remains inside the cave.
 
 ## Notable Events
 - 2026-05-03: As the party approaches the smoky scratch-marked cave, they hear grunting and growling; a voice yells, "you should leave." Dain yells back, "we're coming," and a werebear reveals itself. [Session 2026-05-03](../../Adventures/2026-05-03.md)
@@ -51,6 +55,7 @@ A speaking werebear revealed at the smoky scratch-marked cave after warning the 
 - 2026-05-03: The werebear tries to hit and swing at a weasel summoned from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md) by the moon elf, but completely misses. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 - 2026-05-03: Dain casts `Chromatic Orb` at the werebear and deals `11` acid damage. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify resource source]
 - 2026-05-03: The werebear rolls a natural `1` swinging its greataxe at Brother Taleesh / Jackson, loses the weapon, and sends it flying onto the cave roof out of reach. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Matt casts `Inflict Wounds` on the werebear, delivering the killing blow. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether Matt is acting as Kagrenac and exact resource/damage]
 
 ## Related entries
 - [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md)
