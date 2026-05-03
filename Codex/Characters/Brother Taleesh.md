@@ -35,6 +35,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Dain sees Taleesh spend 1 ki point and project ghostly astral arms from his shoulders without using them aggressively.
 - [Character-only] Dain responds by telling [The Festival Of Completely Unnecessary Lanterns](../Lore/Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), offering to make a lantern with Taleesh, and conjuring a warm cloak.
 - [Party] Taleesh approaches and introduces himself to the party after Dain and the party agree to keep him warm if he joins them.
+- [Party] Taleesh gives Dain one pound of hedgehog mushroom, and Dain begins hollowing it into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md).
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -52,6 +53,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Taleesh spends 1 ki point to project ghostly astral arms from his shoulders; the use is not aggressive.
 - [Party] Dain tells a lantern story, conjures a warm cloak, offers to make a lantern with Taleesh, and confirms with the party that they will keep Taleesh warm if he joins them.
 - [Party] Taleesh approaches and introduces himself to the party.
+- [Party] Taleesh gives Dain one pound of hedgehog mushroom for lantern-making.
+- [Party] Dain hollows the mushroom and begins creating the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md).
 - [To verify] Whether the party knows Brother Taleesh's desert history or why he distrusts elves and dwarves.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission.
 
@@ -150,11 +153,13 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Taleesh produces herbal items from his stash and asks whether the party needs comfrey, pigweed, or hedgehog mushroom. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh offers goji leaves with the promise of godlike feeling; Dain refuses and redirects the offer toward Kagrenac. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh spends 1 ki point to project ghostly astral arms without aggression; Dain answers with the lantern-festival story, conjures a warm cloak, secures a party promise to keep Taleesh warm, and Taleesh approaches to introduce himself. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Taleesh gives Dain one pound of hedgehog mushroom, which Dain hollows out and begins turning into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md)
 - [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
+- [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md)
 - [Kagrenac](./The%20Astral%20Elf.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)

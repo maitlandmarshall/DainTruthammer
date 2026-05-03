@@ -29,6 +29,9 @@
 - Oil x10
 - Tinderbox x1
 
+## In-Progress Crafted Items
+- [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) x1 [Party] [In progress] Begun on 2026-05-03 from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). Completion, function, and durability are [To verify].
+
 ## Clothing
 - Robe x2
 
@@ -41,12 +44,13 @@
 - [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Party] [Confirmed on 2026-04-18]
 
 ## Carry Load
-- Weight Carried: 53 lb.
+- Weight Carried: 53 lb. baseline from sheet; plus the in-progress [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) if carried after crafting. [To verify final weight]
 - Encumbered: 225 lb.
 - Push/Drag/Lift: 450 lb.
 
 ## Notes
 - [Confirmed] The sheet's total carried weight matches the duplicate weapon, robe, and book entries, so they are preserved as real items unless corrected later.
 - [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not Kagrenac. [Retcon] User correction recorded 2026-05-03.
+- [Confirmed] On 2026-05-03, [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into a [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

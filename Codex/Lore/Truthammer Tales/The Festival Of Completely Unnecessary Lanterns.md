@@ -11,9 +11,11 @@ A mountain festival dedicated to impossible lantern designs, questionable taste,
 
 ## Notable Uses
 - 2026-05-03: Dain told this story to [Brother Taleesh](../../Characters/Brother%20Taleesh.md) during first contact at the forest camp, then offered to create a lantern with him and conjured a warm cloak as part of a party-backed promise to keep him warm. [Session 2026-05-03](../../../Adventures/2026-05-03.md)
+- 2026-05-03: Taleesh gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into the [Hedgehog Mushroom Lantern](../../Items/Hedgehog%20Mushroom%20Lantern.md) as direct follow-through on the story. [Session 2026-05-03](../../../Adventures/2026-05-03.md)
 
 ## Related entries
 - [Truthammer Tales](../Truthammer%20Tales.md)
 - [Dain Truthammer](../../Characters/Dain%20Truthammer.md)
 - [Brother Taleesh](../../Characters/Brother%20Taleesh.md)
+- [Hedgehog Mushroom Lantern](../../Items/Hedgehog%20Mushroom%20Lantern.md)
 - [Session 2026-05-03](../../../Adventures/2026-05-03.md)

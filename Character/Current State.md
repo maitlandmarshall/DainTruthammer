@@ -60,9 +60,10 @@
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
 - Conjured warm cloak: Dain conjured a cloak during the forest-camp introduction with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md); exact method, duration, and whether it persists are [To verify].
+- In-progress craft: [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), begun from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). Completion and function are [To verify].
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
-- Current location: Outside [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at the forested river camp roughly 20 minutes beyond the defeated harpy nest; Dain is dressed but damp, has offered [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a party-backed warmth bargain, and has seen Taleesh approach and introduce himself. The party is still in the long rest window. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
+- Current location: Outside [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at the forested river camp roughly 20 minutes beyond the defeated harpy nest; Dain is dressed but damp and is hollowing a hedgehog mushroom into an in-progress [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) as follow-through on the warmth bargain with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). The party is still in the long rest window. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
 
 ## Combat Snapshot
 - Dagger: `+4`, `1d4+2` piercing
@@ -85,7 +86,7 @@
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.
 - [Character-only] Marvel in the newly created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), then confirm final mechanics and useful edge cases.
-- [Character-only] Continue de-escalating with Brother Taleesh, uphold the promise to keep him warm if he joins the party, and learn whether this fellow traveller can be trusted around the party's current mission.
+- [Character-only] Continue crafting the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), uphold the promise to keep Brother Taleesh warm if he joins the party, and learn whether this fellow traveller can be trusted around the party's current mission.
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
 - [Character-only] Use harmless illusions, jokes, or little rituals to take the edge off fear during camp and travel.

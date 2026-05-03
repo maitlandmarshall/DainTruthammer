@@ -22,9 +22,17 @@
 - Status: Active
 - Tags: [Party] [Confirmed]
 - Why it matters: Dain made the party's hospitality explicit: if Brother Taleesh approaches and joins them, they will keep him warm. This is a concrete trust promise to a wary desert survivor.
-- Latest development: On 2026-05-03, Dain conjured a warm cloak, confirmed the promise with the party, and Taleesh approached and introduced himself.
-- Next possible actions: Keep Taleesh warm during the long rest and future travel, clarify whether the conjured cloak persists, and follow through on Dain's offer to create a lantern with him.
-- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, Dain conjured a warm cloak, confirmed the promise with the party, and Taleesh approached and introduced himself. Taleesh then gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md).
+- Next possible actions: Keep Taleesh warm during the long rest and future travel, clarify whether the conjured cloak persists, and finish or clarify the mushroom lantern.
+- Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md), [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
+### Complete The Hedgehog Mushroom Lantern
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: The lantern is the first physical follow-through on Dain's warmth bargain with Brother Taleesh and gives the camp a small shared object of trust.
+- Latest development: On 2026-05-03, Brother Taleesh gave Dain one pound of hedgehog mushroom, and Dain hollowed it out to begin creating the lantern.
+- Next possible actions: Decide whether the lantern is decorative or functional, what light source or magic powers it, whether it survives travel, and whether Taleesh helps finish it.
+- Linked entries: [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md), [The Festival Of Completely Unnecessary Lanterns](./Truthammer%20Tales/The%20Festival%20Of%20Completely%20Unnecessary%20Lanterns.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Track Taleesh's Astral Arms
 - Status: Open
@@ -38,9 +46,9 @@
 - Status: Open
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh has already offered comfrey, pigweed, and hedgehog mushroom during first contact, and his sheet lists additional foraged goods including goji leaves with potent but addictive effects.
-- Latest development: On 2026-05-03, Taleesh reached into his stash and asked whether the party needed "some comfry," pig-weed, or hedgehog mushroom. He then offered goji leaves, said the first one is free, and claimed taking one makes the taker feel like a god; Dain refused and suggested Kagrenac may be interested.
-- Next possible actions: Confirm quantities, uses, mechanical effects, risks, whether Dain recognizes any of them, whether Kagrenac or another party member accepts the goji leaves, and whether the goji leaves' sheet-listed addictive property enters play.
-- Linked entries: [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, Taleesh reached into his stash and asked whether the party needed "some comfry," pig-weed, or hedgehog mushroom. He then offered goji leaves, said the first one is free, and claimed taking one makes the taker feel like a god; Dain refused and suggested Kagrenac may be interested. Taleesh later gave Dain one pound of hedgehog mushroom for lantern-making.
+- Next possible actions: Confirm remaining quantities, uses, mechanical effects, risks, whether Dain recognizes any of them, whether Kagrenac or another party member accepts the goji leaves, and whether the goji leaves' sheet-listed addictive property enters play.
+- Linked entries: [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md), [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Relationships](../../Character/Relationships.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify The Severed Lizard Head
 - Status: Open
