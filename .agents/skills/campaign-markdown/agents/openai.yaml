@@ -1,0 +1,4 @@
+interface:
+  display_name: "Campaign Markdown"
+  short_description: "Keep campaign Markdown linked and navigable"
+  default_prompt: "Use $campaign-markdown to edit campaign Markdown with strong internal links, Codex hyperlinks, and clean knowledge tags."

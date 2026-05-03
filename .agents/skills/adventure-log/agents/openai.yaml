@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adventure Log"
+  short_description: "Maintain live and cleaned session logs"
+  default_prompt: "Use $adventure-log to append campaign events, state changes, links, open threads, and images to the active adventure log."
