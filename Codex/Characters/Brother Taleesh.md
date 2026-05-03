@@ -38,6 +38,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Taleesh approaches and introduces himself to the party after Dain and the party agree to keep him warm if he joins them.
 - [Party] Taleesh gives Dain one pound of hedgehog mushroom, and Dain begins hollowing it into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md).
 - [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and lantern-making start.
+- [Character-only] Dain tracks `50%` trust with Taleesh as of 2026-05-03.
+- [Character-only] Taleesh / Jackson gains `+3` respect as of 2026-05-03. [To verify respect direction]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -160,6 +162,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Dain uses `Prestidigitation` and `Minor Conjuration` together to give Taleesh a warm cloak for the remainder of the night. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Taleesh gives Dain one pound of hedgehog mushroom, which Dain hollows out and begins turning into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain records `+17` respect toward Taleesh. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: Dain's trust with Taleesh reaches `50%`, and Taleesh / Jackson gains `+3` respect. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify respect direction]
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
