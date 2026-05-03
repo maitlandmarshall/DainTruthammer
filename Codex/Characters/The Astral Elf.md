@@ -34,6 +34,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] Dain refers to Kagrenac as "the young elf" and suggests he may be interested in Taleesh's goji leaves. [To verify Kagrenac's response]
 - [Party] At the start of the new day after the forest long rest, Kagrenac warns the party that the cold winds will get worse today. [To verify source or method]
 - [Character-only] Kagrenac tells Dain in Draconic that the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) and other newcomers are glowing in magic. [To verify detection source]
+- [Party] During goblin camp breakfast diplomacy, Kagrenac / Matt poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md); the goblins eat it and forget about the party, while the leader remains charmed and happy the party is there for now. [Confirmed on 2026-05-03] [To verify plant spelling, source, quantity, and mechanics]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -57,12 +58,14 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: After refusing Taleesh's goji leaves, Dain suggests Kagrenac may be interested in them. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: At the start of the next in-world day, Kagrenac tells the party that the cold winds will get worse today. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac tells Dain in Draconic that the newcomers are glowing in magic shortly before a human trader produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: During goblin camp breakfast diplomacy, Kagrenac poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md), causing the goblins who eat it to forget about the party while the leader remains charmed and happy the party is present. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)
 - [Brother Taleesh](./Brother%20Taleesh.md)
 - [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
+- [Sytxweed Plant](../Items/Sytxweed%20Plant.md)
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
