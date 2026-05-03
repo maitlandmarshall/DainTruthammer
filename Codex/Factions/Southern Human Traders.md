@@ -21,6 +21,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] [Confirmed] During the goblin camp negotiation, the humans who initially refuse to enter the goblin camp and break bread are convinced to enter with the party and break bread with the goblins; the party, humans, and goblins begin cooking breakfast together around the campfire.
 - [Party] [Confirmed] During the manticore encounter, the [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) attacks the traders under the party's protection.
 - [Party] [Confirmed] The human holding the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) takes `11` damage from the manticore.
+- [Party] [Confirmed] A second manticore descends and attacks the other human trader with bites and slashes for around `20` total damage.
 - [To verify] Names, number of traders, broader goods carried, route, intent, honesty, threat level, whether they know anything about the party's mission, and the exact later half of the payment.
 
 ## What Dain Knows
@@ -38,6 +39,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] Dain defuses Hammerton / Dresden's attempt to ask for more by preserving the original deal and adding five truthful answers due upon delivery.
 - [Party] The traders who initially resist entering the goblin camp and breaking bread are convinced to follow the party in and share breakfast around the campfire with the goblins.
 - [Party] The trader holding the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is wounded for `11` damage by the [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md).
+- [Party] Another human trader is bitten and slashed by a second manticore for around `20` total damage.
 - [To verify] Whether Dain recognizes their route, dialect, trade marks, clothing, or destination.
 
 ## What The Party Knows
@@ -53,13 +55,14 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] The final visible deal remains the original payment structure, plus five truthful answers owed upon delivery.
 - [Party] Some or all of the traders initially do not want to enter the goblin camp and break bread, but are convinced to do so with the party; they join the campfire breakfast with the goblins. [To verify exact dissenters and who persuaded them]
 - [Party] The manticore attacks the traders during the forest-road encounter, dealing `11` damage to the human holding the Coal Mine Puppet.
+- [Party] A second manticore attacks the other human trader for around `20` total damage.
 
 ## What Is Uncertain
 - [To verify] Whether they are lost, truthful, desperate, bait, or ordinary traders.
 - [To verify] Whether Olar Dunglor intersects with the party's route toward the mountain general near [Samyrn Torst](../Lore/Samyrn%20Torst.md).
 - [To verify] Exact later half of the payment, collection timing, who physically carries the upfront herbs, exact delivery trigger for the five truthful answers, and whether Olar Dunglor changes the party's route or obligations.
 - [To verify] Why all the newcomers appear to be glowing with magic, what the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is, why it bit Dain during prayer, what [Kurtlemack](../Lore/Kurtlemack.md) means to the traders or puppet, and whether the traders control it, fear it, owe it, or are burdened by it.
-- [To verify] The wounded puppet-holder's name, current HP, wound severity, whether the puppet is damaged or reacting, and whether the manticore targeted that trader for a reason.
+- [To verify] The wounded puppet-holder's name, current HP, wound severity, whether the puppet is damaged or reacting, the other wounded human's name/current HP, exact damage, and whether either manticore targeted a trader for a reason.
 
 ## Payment
 
@@ -83,6 +86,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - 2026-05-03: Hammerton / Dresden asks for more because the original negotiation did not account for the puppet; Dain defuses the escalation by preserving the original deal and adding five truthful answers due upon delivery. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During the goblin camp negotiation, the humans who initially refuse to enter the camp and break bread are convinced to enter with the party and break bread with the goblins; the party, humans, and goblins begin cooking breakfast together around the campfire. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During the forest-road manticore encounter, the manticore attacks the traders under the party's protection and deals `11` damage to the human holding the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: A second manticore descends from the sky and bites and slashes the other human trader for around `20` total damage. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
