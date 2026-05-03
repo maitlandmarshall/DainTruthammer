@@ -6,9 +6,25 @@
 - Status: Open
 - Tags: [Party] [To verify]
 - Why it matters: Temp HP and inspiration are not fully confirmed yet.
-- Latest development: Current HP was confirmed as `20`, and current location was refined to the coastline near the watchtower of the Iron Shore Tribes with the party on 2026-04-18.
-- Next possible actions: Capture a starting-state snapshot at the next session or from the most recent table notes.
+- Latest development: On 2026-05-03, the forest long rest completed and the party woke at the start of a new in-world day in cold winds. Dain's spell slots are restored to `1st 4/4`, `2nd 2/2`; Temp HP and inspiration remain [To verify].
+- Next possible actions: Confirm Temp HP, inspiration, whether the warm cloak has any post-night persistence, and any other resource changes not covered by Dain's long rest.
 - Linked entries: [Current State](../../Character/Current%20State.md)
+
+### Navigate Worsening Cold Winds
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: The party is on a mountain route after a long rest, and worsening winds could affect travel pace, visibility, exposure, flight, camp safety, or encounter risk.
+- Latest development: On 2026-05-03, the party wakes to cold winds, and [Kagrenac](../Characters/The%20Astral%20Elf.md) warns that the winds will get worse today.
+- Next possible actions: Ask Kagrenac how he knows, decide whether to travel, shelter, follow lower routes, prepare cold-weather protection, or use magic before committing to the day's route.
+- Linked entries: [Kagrenac](../Characters/The%20Astral%20Elf.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+
+### Respond To Southern Human Traders
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: The traders may be ordinary lost travellers, a source of route information, a trade opportunity, or a risk arriving exactly as the weather worsens.
+- Latest development: On 2026-05-03, [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach from the distance and ask in Common for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md), a lake high in the mountains.
+- Next possible actions: Identify the traders, ask what they carry and why they need Olar Dunglor, determine whether the party knows the way, check whether their destination intersects with the sealed-letter route, and watch for danger or deception.
+- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Introduce Brother Taleesh
 - Status: Active
@@ -38,8 +54,8 @@
 - Status: Open
 - Tags: [Party] [To verify]
 - Why it matters: Brother Taleesh spent a ki point during the first-contact scene, and the projected astral arms are both a visible trust signal and a limited-use resource.
-- Latest development: On 2026-05-03, Taleesh projected ghostly astral arms from his shoulders without using them aggressively.
-- Next possible actions: Confirm remaining ki, exact duration, active mechanical effects, and whether the forest long rest resets the spent point.
+- Latest development: On 2026-05-03, Taleesh projected ghostly astral arms from his shoulders without using them aggressively; the forest long rest has since completed.
+- Next possible actions: Confirm whether the table reset his ki after the long rest, plus exact duration and active mechanical effects from the earlier use.
 - Linked entries: [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Clarify Taleesh's Herbal Remedies

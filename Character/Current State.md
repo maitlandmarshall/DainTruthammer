@@ -53,18 +53,18 @@
 - Other noted skills: Athletics +2, Deception +2, Insight +1, Medicine +3, Perception +1, Survival +1
 
 ## Resources
-- Spell Slots: 1st level 4/4, 2nd level 1/2
+- Spell Slots: 1st level 4/4, 2nd level 2/2 [Restored when the forest long rest completed on 2026-05-03]
 - Arcane Recovery: 1 / Long Rest
 - Stonecunning (Tremorsense): 2 / Long Rest
-- Chromatic Orb: [To verify] used during the alpha harpy immolation, either via Magic Initiate `1 / Long Rest` or by spending a spell slot
+- Chromatic Orb: [To verify] used during the alpha harpy immolation, either via Magic Initiate `1 / Long Rest` or by spending a spell slot; long-rest use is presumed refreshed after the forest long rest if it was the Magic Initiate use.
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
-- Conjured warm cloak: Dain uses `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night. Whether any effect persists beyond the night is [To verify]. [Party] [Character-only] [Confirmed]
+- Conjured warm cloak: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night; the night has passed, so any continued cloak effect is [To verify]. [Party] [Character-only] [Confirmed]
 - In-progress craft: [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), begun from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). Completion and function are [To verify].
 - In-progress magical prototype: [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md), begun after Dain reached `6%` progress on always-warm robes for Brother Taleesh, realized that was not truly him, and pivoted to robes that always make the wearer cold. Exact cold-robes progress and mechanics are [To verify].
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none recorded after the harpy fight [Confirmed on 2026-04-18]
-- Current location: In or near [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at the forested river camp roughly 20 minutes beyond the defeated harpy nest; Dain is dressed but damp, has begun an in-progress [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), has pivoted from always-warm robes for [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype, and has given Taleesh a warm cloak for the remainder of the night. The party is still in the long rest window. Rest benefits are not yet confirmed until the rest completes. [Confirmed on 2026-05-03]
+- Current location: Forested mountain camp roughly 20 minutes beyond the defeated harpy nest, at the start of a new day after the completed long rest. Cold winds are blowing, [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) warns they will worsen today, and [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) have approached asking for the way to [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md). [Party] [Confirmed on 2026-05-03]
 
 ## Combat Snapshot
 - Dagger: `+4`, `1d4+2` piercing
@@ -89,6 +89,7 @@
 - [Character-only] Marvel in the newly created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), then confirm final mechanics and useful edge cases.
 - [Character-only] Continue crafting the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), uphold the promise to keep Brother Taleesh warm if he joins the party, and learn whether this fellow traveller can be trusted around the party's current mission.
 - [Character-only] Clarify or continue the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype, including whether the abandoned `6%` warm-robes progress matters.
+- [Character-only] Assess the approaching [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), decide whether to help them reach [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md), and account for Kagrenac's worsening-wind forecast before travelling.
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
 - [Character-only] Use harmless illusions, jokes, or little rituals to take the edge off fear during camp and travel.

@@ -40,9 +40,11 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain receives one pound of hedgehog mushroom from Taleesh and begins hollowing it into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md) inspired by the lantern story.
 - [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and lantern-making start.
 - [Character-only] Dain reaches `6%` progress on always-warm robes for Taleesh, realizes the concept is not truly him, and pivots into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration.
+- [Party] At the start of the new in-world day after the forest long rest, Dain wakes to cold winds, hears [Kagrenac](./The%20Astral%20Elf.md) warn that the winds will worsen, and sees [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach seeking [Olar Dunglor](../Places/Olar%20Dunglor.md).
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
+- [Party] Olar Dunglor is a lake high in the mountains, named by southern human traders seeking directions on 2026-05-03.
 - [To verify] Whether the party knows Dain is an outcast from his mountain homeland.
 - [To verify] Dain's public-facing motives and immediate purpose on that coast are not yet recorded.
 
@@ -141,6 +143,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain receives one pound of hedgehog mushroom from Taleesh, hollows it out, and begins creating the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain records `+17` respect toward Brother Taleesh, using the player shorthand "the Lizard." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain reaches `6%` progress on always-warm robes for Brother Taleesh, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: The party wakes to cold winds after the forest long rest; Kagrenac warns the winds will worsen, and [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach asking for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
@@ -161,3 +164,5 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md)
 - [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md)
 - [Always-Cold Robes](../Items/Always-Cold%20Robes.md)
+- [Olar Dunglor](../Places/Olar%20Dunglor.md)
+- [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)

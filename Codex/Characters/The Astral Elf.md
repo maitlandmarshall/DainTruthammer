@@ -32,11 +32,13 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] Kagrenac cast `Thaumaturgy` on himself and addressed Brother Taleesh in Draconic when Taleesh arrived at the forest camp.
 - [Party] Kagrenac then told the party in Common that "a lizard has arrived," referring to Brother Taleesh.
 - [Party] Dain refers to Kagrenac as "the young elf" and suggests he may be interested in Taleesh's goji leaves. [To verify Kagrenac's response]
+- [Party] At the start of the new day after the forest long rest, Kagrenac warns the party that the cold winds will get worse today. [To verify source or method]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
 - [To verify] Whether the owl is familiar, companion, trained scout, or another magical feature.
 - [To verify] Whether Draconic is one of Kagrenac's known languages or was enabled by another feature.
+- [To verify] Whether Kagrenac's worsening-wind warning comes from magic, survival knowledge, travel experience, or another feature.
 
 ## Description
 - Astral Elf.
@@ -51,12 +53,14 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: Kagrenac cast `Thaumaturgy` on himself and addressed Brother Taleesh in Draconic during Taleesh's arrival at the forest camp. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac told the party in Common that "a lizard has arrived," prompting Dain to initially mistake Hammerton's severed lizard head for the announced arrival, then realize the mistake and boom "Who goes there?" with `Prestidigitation`. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: After refusing Taleesh's goji leaves, Dain suggests Kagrenac may be interested in them. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: At the start of the next in-world day, Kagrenac tells the party that the cold winds will get worse today. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)
 - [Brother Taleesh](./Brother%20Taleesh.md)
 - [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
+- [Olar Dunglor](../Places/Olar%20Dunglor.md)
 - [Relationships](../../Character/Relationships.md)
 - [Creek-Fork Ogre Ambush](../Events/Creek-Fork%20Ogre%20Ambush.md)
 - [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md)

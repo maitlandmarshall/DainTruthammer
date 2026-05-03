@@ -5,7 +5,7 @@
 - Spellcasting Ability: INT
 - Spell Save DC: 15
 - Spell Attack Bonus: +7
-- Slots: 1st level 4/4, 2nd level 1/2
+- Slots: 1st level 4/4, 2nd level 2/2 [Restored after forest long rest on 2026-05-03]
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
 
 ## Cantrips On Sheet
@@ -58,3 +58,4 @@
 - 2026-05-03: During the forest long rest, Dain formally created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) after experimenting with his normal tent in a flowing river. [Character-only] [Confirmed]
 - 2026-05-03: Inside [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), Dain reached `6%` progress on always-warm robes for Brother Taleesh, then pivoted into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after a flash of inspiration. [Character-only]
 - 2026-05-03: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night. [Party] [Character-only]
+- 2026-05-03: The forest long rest completes at the start of the new day; Dain's spell slots are restored to `1st 4/4`, `2nd 2/2`. [Character-only] [Confirmed]
