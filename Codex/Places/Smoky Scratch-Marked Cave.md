@@ -11,13 +11,16 @@ A smoky cave or nest in the forest, marked by huge four-claw scratches, fur on r
 - [Party] [Confirmed] Kagrenac's owl spots the cave/nest.
 - [Party] [Confirmed] Trees near the cave are marked with four very large scratch marks.
 - [Party] [Confirmed] Fur is visible on the rocks, and smoke comes out of the cave.
-- [To verify] Creature type, whether the cave is occupied, whether the smoke is from a fire, cooking, ritual, lair heat, or another source.
+- [Party] [Confirmed] As the party approaches, they hear grunting and growling; a voice from the cave yells, "you should leave."
+- [Party] [Confirmed] After Dain yells back, "we're coming," a [Werebear at Smoky Cave](../Characters/Werebear%20at%20Smoky%20Cave.md) reveals itself.
+- [To verify] Whether the smoke is from a fire, cooking, ritual, lair heat, or another source.
 
 ## What The Party Knows
 - [Party] The cave/nest is about 30 minutes away from the goblin camp.
 - [Party] The scratch marks are very large and appear on trees near the cave.
 - [Party] The cave has fur on the rocks and smoke coming out of it.
 - [Party] The party currently smells strongly of goblin pus after leaving the goblin camp. [To verify whether this matters to the cave's occupant]
+- [Party] The cave is occupied or guarded by a speaking werebear, or at least a werebear reveals itself at the entrance. [To verify exact relationship to the cave]
 
 ## What Is Uncertain
 - [To verify] Whether "nest" means an actual nest, a beast lair, or a cave used by intelligent occupants.
@@ -26,9 +29,11 @@ A smoky cave or nest in the forest, marked by huge four-claw scratches, fur on r
 
 ## Notable Events
 - 2026-05-03: About 30 minutes after leaving the goblin camp, around midday, Kagrenac's owl spots this cave/nest in the forest: scratch-marked trees, fur on rocks, smoke from the cave, and very large four-claw marks. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: As the party approaches, they hear grunting and growling; a voice yells, "you should leave." Dain yells back, "we're coming," and a [Werebear at Smoky Cave](../Characters/Werebear%20at%20Smoky%20Cave.md) reveals itself. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related entries
 - [Kagrenac](../Characters/The%20Astral%20Elf.md)
+- [Werebear at Smoky Cave](../Characters/Werebear%20at%20Smoky%20Cave.md)
 - [Sytxweed Plant](../Items/Sytxweed%20Plant.md)
 - [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md)
 - [Session 2026-05-03](../../Adventures/2026-05-03.md)

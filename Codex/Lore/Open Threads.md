@@ -46,9 +46,9 @@
 - Status: Open
 - Tags: [Party] [To verify]
 - Why it matters: The party has left the goblin camp carrying stolen contents and smelling strongly of goblin pus, and Kagrenac's owl has spotted a nearby cave/nest with signs of a very large creature or occupant.
-- Latest development: On 2026-05-03, about 30 minutes after leaving the goblin camp and roughly at midday, [Kagrenac](../Characters/The%20Astral%20Elf.md)'s owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): scratch marks on trees, fur on rocks, four very large claw marks, and smoke coming from the cave.
-- Next possible actions: Decide whether to approach, scout, hide, avoid, mask the goblin-pus smell, identify the smoke source, inspect the fur and scratch marks, or prepare for a large creature.
-- Linked entries: [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md), [Sytxweed Plant](../Items/Sytxweed%20Plant.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, about 30 minutes after leaving the goblin camp and roughly at midday, [Kagrenac](../Characters/The%20Astral%20Elf.md)'s owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): scratch marks on trees, fur on rocks, four very large claw marks, and smoke coming from the cave. As the party approaches, they hear grunting and growling; a voice yells, "you should leave." Dain yells back, "we're coming," and a [Werebear at Smoky Cave](../Characters/Werebear%20at%20Smoky%20Cave.md) reveals itself.
+- Next possible actions: Decide whether to parley, retreat, fight, mask the goblin-pus smell, identify the smoke source, inspect the fur and scratch marks, ask why the werebear warned the party away, or prepare for a larger cave threat.
+- Linked entries: [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), [Werebear at Smoky Cave](../Characters/Werebear%20at%20Smoky%20Cave.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md), [Sytxweed Plant](../Items/Sytxweed%20Plant.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Set The Traders' Escort Cost
 - Status: Active
