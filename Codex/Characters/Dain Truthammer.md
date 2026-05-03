@@ -76,6 +76,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "A lie told to a tyrant is just a shortcut."
 - "Stone remembers. Best speak politely near a mountain."
 - "There's no such thing as a useless spell, only a dull wizard."
+- "A puppet may insult Glittergold, but only because someone else lent it courage and forgot to lend it manners."
+- "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
 
 ## Evasive Dainisms
 - "Ah, well. Mountains keep their own bookkeeping."

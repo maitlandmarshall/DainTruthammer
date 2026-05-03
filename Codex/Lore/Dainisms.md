@@ -18,6 +18,8 @@ A growing shelf of Dain Truthammer's sayings, evasions, and polished bits of mou
 - [Never Trust A Door](./Dainisms/Never%20Trust%20A%20Door.md)
 - [Mercy Should Have Better Timing](./Dainisms/Mercy%20Should%20Have%20Better%20Timing.md)
 - [A Proper Plan](./Dainisms/A%20Proper%20Plan.md)
+- [Lent Courage And Manners](./Dainisms/Lent%20Courage%20And%20Manners.md)
+- [Garl Remembers The Punchline](./Dainisms/Garl%20Remembers%20The%20Punchline.md)
 
 ## Evasive Dainisms
 - [Mountains Keep Their Own Bookkeeping](./Dainisms/Mountains%20Keep%20Their%20Own%20Bookkeeping.md)

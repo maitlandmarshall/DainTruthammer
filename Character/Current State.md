@@ -109,6 +109,8 @@
 - [Character-only] "A lie told to a tyrant is just a shortcut."
 - [Character-only] "Stone remembers. Best speak politely near a mountain."
 - [Character-only] "There's no such thing as a useless spell, only a dull wizard."
+- [Character-only] "A puppet may insult Glittergold, but only because someone else lent it courage and forgot to lend it manners."
+- [Character-only] "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
 
 ## Evasive Dainisms
 - [Character-only] "Ah, well. Mountains keep their own bookkeeping."
