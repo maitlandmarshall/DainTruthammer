@@ -22,17 +22,17 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: The traders may be ordinary lost travellers, a source of route information, a trade opportunity, or a risk arriving exactly as the weather worsens.
-- Latest development: On 2026-05-03, [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach from the distance and ask in Common for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md), a lake high in the mountains. Dain then rolls a natural `20` on Persuasion to convince them to trust the party and come with them.
-- Next possible actions: Confirm whether the traders accept the escort/guidance arrangement, identify the traders, ask what they carry and why they need Olar Dunglor, determine whether the party knows the way, check whether their destination intersects with the sealed-letter route, watch for danger or deception, and finalize payment.
-- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: On 2026-05-03, [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach from the distance and ask in Common for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md), a lake high in the mountains. Dain then rolls a natural `20` on Persuasion to convince them to trust the party and come with them. The arrangement is now half now, half later, with the upfront half paid into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz.
+- Next possible actions: Identify the traders, ask what else they carry and why they need Olar Dunglor, determine whether the party knows the way, check whether their destination intersects with the sealed-letter route, watch for danger or deception, track who carries the herbs, and collect the later half when due.
+- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Burdock](../Items/Burdock.md), [Ginseng](../Items/Ginseng.md), [Party Loot](../../Character/Party%20Loot.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Set The Traders' Escort Cost
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Dain's persuasion created an opportunity, but the final cost and upfront payment determine whether this becomes a formal escort, guidance, or trade arrangement.
-- Latest development: After persuading the southern traders with a natural `20`, Dain delegates the cost to [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) / Norhan and requests half paid upfront.
-- Next possible actions: Have Hammerton set the amount, decide payment type, confirm whether the traders accept, collect half upfront if agreed, and record whether this changes party inventory or obligations.
-- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Latest development: After persuading the southern traders with a natural `20`, Dain delegates the cost to [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) / Norhan and requests half paid upfront. The accepted structure is half now, half later; the party receives [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz as the upfront half, worth `5 gp` equivalent, now tracked in [Party Loot](../../Character/Party%20Loot.md).
+- Next possible actions: Confirm the exact later half, collection trigger, and payment form; record who carries the upfront herbs; decide whether any are consumed before the later half is paid; and note whether this arrangement changes the party's route or obligations.
+- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Burdock](../Items/Burdock.md), [Ginseng](../Items/Ginseng.md), [Party Loot](../../Character/Party%20Loot.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Introduce Brother Taleesh
 - Status: Active

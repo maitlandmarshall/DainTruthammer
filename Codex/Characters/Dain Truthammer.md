@@ -42,6 +42,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain reaches `6%` progress on always-warm robes for Taleesh, realizes the concept is not truly him, and pivots into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration.
 - [Party] At the start of the new in-world day after the forest long rest, Dain wakes to cold winds, hears [Kagrenac](./The%20Astral%20Elf.md) warn that the winds will worsen, and sees [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach seeking [Olar Dunglor](../Places/Olar%20Dunglor.md).
 - [Party] Dain rolls a natural `20` on Persuasion to convince the traders to trust the party and come with them, then delegates cost-setting to [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) while requesting half paid upfront.
+- [Party] The traders' arrangement becomes half now, half later; the upfront half is paid into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz, worth `5 gp` equivalent.
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
@@ -146,10 +147,12 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain reaches `6%` progress on always-warm robes for Brother Taleesh, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The party wakes to cold winds after the forest long rest; Kagrenac warns the winds will worsen, and [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach asking for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain rolls a natural `20` on Persuasion to convince the southern human traders to trust the party and come with them, delegates cost-setting to [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md), and requests half paid upfront. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: The trader arrangement is set as half now, half later; the upfront half goes into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
 - [Inventory](../../Character/Inventory.md)
+- [Party Loot](../../Character/Party%20Loot.md)
 - [Spellbook](../../Character/Spellbook.md)
 - [Relationships](../../Character/Relationships.md)
 - [Timeline](../../Character/Timeline.md)

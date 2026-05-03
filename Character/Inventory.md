@@ -44,6 +44,10 @@
 ## Quest Items
 - [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Party] [Confirmed on 2026-04-18]
 
+## Shared Party Loot Reference
+- [Party Loot](./Party%20Loot.md) tracks shared items that are not Dain's personal inventory.
+- [Confirmed] On 2026-05-03, the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) paid the upfront half of their arrangement as [Burdock](../Codex/Items/Burdock.md) x10 oz and [Ginseng](../Codex/Items/Ginseng.md) x2 oz into [Party Loot](./Party%20Loot.md). Current carrier is [To verify].
+
 ## Carry Load
 - Weight Carried: 53 lb. baseline from sheet; plus the in-progress [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) if carried after crafting. [To verify final weight]
 - Encumbered: 225 lb.
@@ -54,5 +58,6 @@
 - [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not Kagrenac. [Retcon] User correction recorded 2026-05-03.
 - [Confirmed] On 2026-05-03, [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into a [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).
 - [Character-only] On 2026-05-03, Dain began the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after reaching `6%` progress on an always-warm robes idea for Brother Taleesh and deciding the warm version was not truly him.
+- [Confirmed] The 2026-05-03 burdock and ginseng payment from the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) is shared [Party Loot](./Party%20Loot.md), not Dain's personal inventory.
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.
