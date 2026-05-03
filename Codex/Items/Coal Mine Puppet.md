@@ -13,10 +13,12 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Party] [Confirmed] The puppet bites Dain as he begins to pray to [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - [Character-only] [Confirmed] Dain realizes the puppet is a cobalt puppet.
 - [Party] [Confirmed] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you."
+- [Party] [Confirmed] During the forest-road manticore encounter, the human holding the puppet takes `11` damage from the [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md).
 - [To verify] Whether the puppet is a magic item, construct, cursed object, possessed object, familiar, mouthpiece, illusion, or living creature.
 - [To verify] Whether Dain spent a spell slot, began a ritual, or had the casting interrupted before any resource was consumed.
 - [To verify] Whether the bite causes damage, infection, poison, curse, spell disruption, or any other mechanical consequence.
 - [To verify] Whether "cobalt puppet" refers to its material, its magic, a faction or deity association, or something else.
+- [To verify] Whether the manticore strike damages, dislodges, protects, reveals, or otherwise affects the puppet.
 
 ## What Dain Knows
 - [Character-only] [Kagrenac](../Characters/The%20Astral%20Elf.md) tells Dain in Draconic that the newcomers are all glowing in magic.
@@ -35,6 +37,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Party] Dain's attempted `Identify` does not reveal the puppet's nature.
 - [Party] The puppet bites Dain as he begins to pray to [Garl Glittergold](../Lore/Garl%20Glittergold.md). Motive [To verify].
 - [Party] The puppet invokes [Kurtlemack](../Lore/Kurtlemack.md)'s hatred. [To verify who "you" refers to]
+- [Party] The human holding the puppet is struck by the manticore for `11` damage.
 
 ## What Is Uncertain
 - [To verify] Which coal mines the puppet means.
@@ -45,15 +48,18 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [To verify] Whether the bite was triggered by prayer, [Garl Glittergold](../Lore/Garl%20Glittergold.md)'s name or sigil, Dain's failed `Identify`, Dain's hand being close, or some unrelated condition.
 - [To verify] What Dain knows about cobalt puppets, whether they are connected to [Kurtlemack](../Lore/Kurtlemack.md), and whether "coal mines" and "cobalt" are connected.
 - [To verify] Whether [Kurtlemack](../Lore/Kurtlemack.md) hates Dain specifically, [Garl Glittergold](../Lore/Garl%20Glittergold.md), Glittergold's faithful, dwarves, or the whole party.
+- [To verify] Whether the manticore targeted the puppet-holder because of the puppet, the trader, ordinary predator behavior, or chance.
 
 ## Notable Events
 - 2026-05-03: After [Kagrenac](../Characters/The%20Astral%20Elf.md) privately warns Dain in Draconic that the newcomers are glowing with magic, a human trader sighs and pulls out the puppet; Dain shakes the puppet's hand and attempts `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the puppet bites him; Dain does not know why. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: The [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) attacks the protected traders and deals `11` damage to the human holding the puppet. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ## Related Entries
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Kagrenac](../Characters/The%20Astral%20Elf.md)
+- [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md)
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 - [Garl Glittergold](../Lore/Garl%20Glittergold.md)
 - [Kurtlemack](../Lore/Kurtlemack.md)
