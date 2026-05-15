@@ -186,6 +186,14 @@
 - Next possible actions: Clarify who considers Dain an outcast, whether the status is formal exile or social rejection, whether family members share or oppose it, whether Dain can return safely, and what he is willing to reveal to the party.
 - Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Why He Left Home](./Dain%20Background%20Evasions/Why%20He%20Left%20Home.md), [Relationships](../../Character/Relationships.md)
 
+### Evaluate Truthsage Mode And Productive Use Brainstorm
+- Status: Open
+- Tags: [DM-private] [To verify]
+- Why it matters: The brainstorm offers a possible mechanical and mythic path for Dain's useless magic, forge background, faith in [Garl Glittergold](./Garl%20Glittergold.md), and outcast status, but none of it is canon until the user and DM approve it.
+- Latest development: On 2026-05-15, a non-canon idea packet was captured under [Brainstorm](../Brainstorm/README.md), with separate pages for [Truthsage Mode](../Brainstorm/Powers/Truthsage%20Mode.md), [On the Productive Use of Useless Things](../Brainstorm/Lore/On%20the%20Productive%20Use%20of%20Useless%20Things.md), [Truthammer Forge Accident](../Brainstorm/Lore/Truthammer%20Forge%20Accident.md), [Dain as Smith Apprentice](../Brainstorm/Lore/Dain%20as%20Smith%20Apprentice.md), and [Garl-Voltaire Hidden Connection](../Brainstorm/Lore/Garl-Voltaire%20Hidden%20Connection.md).
+- Next possible actions: Ask the DM whether Truthsage Mode is allowed as a feat, boon, wizard research feature, or story reward; decide whether Dain's smith apprenticeship and forge accident are true, partial truth, rumor, or unused; confirm whether the Productive Use book exists; and keep the Voltaire connection DM-only unless explicitly approved.
+- Linked entries: [Brainstorm](../Brainstorm/README.md), [Truthsage Mode](../Brainstorm/Powers/Truthsage%20Mode.md), [On the Productive Use of Useless Things](../Brainstorm/Lore/On%20the%20Productive%20Use%20of%20Useless%20Things.md), [Truthammer Forge Accident](../Brainstorm/Lore/Truthammer%20Forge%20Accident.md), [Dain as Smith Apprentice](../Brainstorm/Lore/Dain%20as%20Smith%20Apprentice.md), [Garl-Voltaire Hidden Connection](../Brainstorm/Lore/Garl-Voltaire%20Hidden%20Connection.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md)
+
 ## Active
 
 ### Collect Strange And Impractical Magic

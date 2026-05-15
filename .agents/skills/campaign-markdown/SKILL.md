@@ -53,6 +53,23 @@ From `Character/Relationships.md`:
 - `../Codex/Characters/Name.md`
 - `../Codex/Lore/Table%20Roster.md`
 
+From `Codex/Brainstorm/Lore/Foo.md`:
+
+- `../../Lore/Canon%20Lore%20Page.md`
+- `../../Characters/Name.md`
+- `../../Powers/Canon%20Power.md`
+- `../Powers/Brainstorm%20Power.md`
+- `./Sibling%20Brainstorm%20Page.md`
+- `../../Lore/Open%20Threads.md`
+
+From `Codex/Brainstorm/Powers/Foo.md`:
+
+- `../../Powers/Canon%20Power.md`
+- `../../Lore/Canon%20Lore%20Page.md`
+- `../../Characters/Name.md`
+- `../Lore/Brainstorm%20Lore.md`
+- `../../Lore/Open%20Threads.md`
+
 ## Codex Page Standards
 
 Use concise, scannable sections:
@@ -94,6 +111,36 @@ Use concise, scannable sections:
 ```
 
 Use `## Table Role` for character pages. Player characters must explicitly name the player and known aliases. DM-controlled people should say `DM-controlled / NPC`.
+
+## Brainstorm Staging Pages
+
+Use `Codex/Brainstorm/` for speculative ideas, mechanical drafts, backstory variants, cosmology proposals, and non-canon design packets.
+
+Do not place idea-stage pages directly in canonical shelves like `Codex/Lore/`, `Codex/Powers/`, `Codex/Items/`, `Codex/Characters/`, `Codex/Places/`, `Codex/Factions/`, `Codex/Events/`, or `Codex/Rules/`.
+
+Every brainstorm page should include:
+
+```md
+## Status
+- [DM-private] [To verify] Idea-stage only...
+- [To verify] Not canon unless approved...
+
+## Brainstorm Routing
+- Current shelf: [Brainstorm](../README.md)
+- Proposed canon shelf if approved: `Codex/Lore/Name.md`
+- Promotion requirement: explicit user/DM approval...
+```
+
+Promotion workflow:
+
+1. Get explicit user and/or DM approval for what becomes true.
+2. Decide knowledge boundaries with the normal tags.
+3. Move or split approved material into the proper canonical shelf.
+4. Rewrite status sections so approved facts become confirmed and unresolved ideas stay marked.
+5. Update affected canonical pages and state files.
+6. Generate or embed canonical images only after approval, unless the user explicitly asks for concept art.
+7. Reconcile `Codex/Lore/Open Threads.md`.
+8. Commit the promoted packet once links, state changes, and images are clean.
 
 ## Knowledge Tags
 

@@ -209,6 +209,8 @@ Adventures/
     scene images, maps, screenshots, handouts
 
 Codex/
+  Brainstorm/
+    non-canon idea staging before promotion into canonical Codex shelves
   Characters/
   Places/
   Items/
@@ -382,6 +384,7 @@ The codex is the stable reference layer, not the raw diary.
 
 ### Codex entry types
 Maintain pages under the most appropriate section:
+- `Codex/Brainstorm/` for non-canon idea packets that may later be promoted
 - `Codex/Characters/`
 - `Codex/Places/`
 - `Codex/Items/`
@@ -432,6 +435,30 @@ A short identifying summary.
 ````
 
 Do not overload pages with prose if bullets will do.
+
+### Brainstorm / idea staging
+
+Use `Codex/Brainstorm/` for speculative ideas, mechanical drafts, backstory variants, cosmology proposals, and other non-canon packets.
+
+Rules:
+
+* do not place idea-stage pages directly in `Codex/Lore/`, `Codex/Powers/`, `Codex/Items/`, or other canonical shelves
+* preserve the intended future shelf with a `## Brainstorm Routing` section
+* mark every brainstorm page clearly as idea-stage only, with the appropriate knowledge tags
+* do not update character state, inventory, relationships, timeline, or confirmed codex pages from brainstorm material without explicit user/DM approval
+* link brainstorm packets from `Codex/Lore/Open Threads.md` when they need follow-up approval
+* if part of a brainstorm is approved, split it: move the approved material into the proper canonical folder and leave unapproved pieces in `Codex/Brainstorm/`
+
+Promotion workflow:
+
+1. get explicit user and/or DM approval for what becomes true
+2. decide the knowledge boundary: [Party], [Character-only], [DM-private], [Inferred], [Rumor], or [To verify]
+3. move or split the approved material into the proper canonical shelf
+4. rewrite status sections so approved facts become confirmed and unresolved parts remain marked
+5. update affected canonical pages and state files
+6. generate or embed canonical images only after the subject is approved, unless the user explicitly asks for concept art
+7. reconcile `Codex/Lore/Open Threads.md`
+8. commit the promoted packet once links, state changes, and images are clean
 
 ---
 
