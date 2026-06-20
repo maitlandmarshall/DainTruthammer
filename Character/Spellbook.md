@@ -7,6 +7,7 @@
 - Spell Attack Bonus: +7
 - Slots: 1st level 4/4, 2nd level 3/3 maximum after Wizard 4 [current remaining after the 2026-05-30 winter wolf fight and 2026-06-20 `Suggestion` against Taleesh is To verify]
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
+- [To verify] `Prestidigitation` is repeatedly recorded in prior play use, but it is not currently listed under **Cantrips On Sheet**. Confirm whether this is an omitted cantrip, a table allowance, sheet drift, or an earlier record error before relying on it in live play.
 
 ## Cantrips On Sheet
 - Ray of Frost

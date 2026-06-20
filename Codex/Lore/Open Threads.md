@@ -232,8 +232,8 @@
 - Status: Open
 - Tags: [Character-only] [To verify]
 - Why it matters: The export shows spells on the sheet, but it does not clearly mark which wizard spells are currently prepared.
-- Latest development: A practical spell reference was created without promoting the full list into guaranteed prepared status.
-- Next possible actions: Confirm prepared spells from D&D Beyond, live notes, or user correction.
+- Latest development: A practical spell reference was created without promoting the full list into guaranteed prepared status. A 2026-06-20 live consistency check also found that `Prestidigitation` is repeatedly recorded in prior play use but is not visible in the current **Cantrips On Sheet** list.
+- Next possible actions: Confirm prepared spells from D&D Beyond, live notes, or user correction; specifically confirm whether `Prestidigitation` is an omitted cantrip, table allowance, sheet drift, or earlier record error.
 - Linked entries: [Spellbook](../../Character/Spellbook.md)
 
 ### Document Prior Campaign History And NPCs
