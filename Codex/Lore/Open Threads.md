@@ -1,5 +1,10 @@
 # Open Threads
 
+## Current Live Focus - 2026-06-20
+- [Party] [Character-only] [To verify] Resolve the active dice-game conflict with [Brother Taleesh](../Characters/Brother%20Taleesh.md): confirm whether `Suggestion` took hold, whether the trick is revealed, whether unfair winnings are returned, and whether this becomes lasting party tension.
+- [Character-only] [To verify] Investigate or deliver the half-pound sack from the Glittergold-worshipping gnomes: identify the church / forge shrine, the sack contents, and whether the local faith is Garl, Gond, mixed, or something else.
+- [Party] [To verify] Lock down the six-dragon artisan deal: confirm exact dragon material, promised equipment, recipients, crafting timeline, and who owns any leftovers.
+
 ## Open
 
 ### Finish The Dice Game With Taleesh
