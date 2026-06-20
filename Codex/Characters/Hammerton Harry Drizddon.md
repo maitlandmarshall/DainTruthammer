@@ -32,6 +32,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Party] Dain delegates the cost-setting for the southern traders' possible guidance or accompaniment to Hammerton / Norhan after persuading the traders to trust the party. [Confirmed on 2026-05-03]
 - [Party] Called Dresden at the table during the trader negotiation after the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) reveal. [To verify table shorthand vs character-name variant]
 - [Party] Hammerton / Dresden asks for more from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) because the original deal was negotiated before the party knew about the puppet. Dain defuses the escalation by keeping the original deal and adding five truthful answers due upon delivery. [Confirmed on 2026-05-03]
+- [Party] On 2026-06-20, Harry / Hammerton asks Truthammer for his seal; Dain provides it in exchange for `100 gp` worth of silver, which Dain then bets in the dice game. [To verify whether the notebook's "Harry" is Hammerton, exact seal object, and whether the seal can be reclaimed]
 - [To verify] Whether Dain knows Hammerton's quartermaster history, spellcasting, military rank, or relationship to the current mission.
 
 ## What The Party Knows
@@ -152,6 +153,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-05-03: As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "fighter dwarf" refers to Hammerton]
 - 2026-05-03: The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: At the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Hammerton attacks the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md) with a hammer, missing once and hitting once. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify damage and exact hammer]
+- 2026-06-20: Harry / Hammerton asks Truthammer for his seal; Dain provides it in exchange for `100 gp` worth of silver, then bets that silver in the tavern dice game. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact object and current holder]
 
 ## Related Entries
 - [Table Roster](../Lore/Table%20Roster.md)

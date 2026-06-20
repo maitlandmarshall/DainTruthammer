@@ -25,6 +25,7 @@
 - Relationship beat: [Party] During travel north-east along the river, Ollyander walks close to Dain and holds onto Dain's Truthammer garment.
 - Relationship beat: [Party] During the 2026-06-20 tavern dice game, Dain gives Ollyander `1 gp` after winning a round, and Ollyander wins as well.
 - Relationship beat: [Party] Dain later goes all in and values Ollyander's `3 rats` as `9 gp`. [To verify whether "rats" is the correct reading and what they are]
+- Relationship beat: [Party] After Dain fails to influence the dice and loses a later betting round, Ollyander ends up winning; a human/townsperson from before is involved in a `60 gp` worth-of-silver trade with Ollyander. [To verify exact trade direction and current holder]
 - Missing details: [To verify] Exact ancestry/species, class, pronouns, why Ollyander arrived, what happened to Lachlan's previous character, and whether Ollyander knows anything about the gargantuan vulture-type creature.
 
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
@@ -32,6 +33,7 @@
 - Dain's known belief: [Character-only] Dain sees Hammerton holding a severed lizard head just after Kagrenac announces that "a lizard has arrived," initially misunderstands the announcement, then realizes the head is not what Kagrenac meant. Later, Dain treats Hammerton's quartermaster/logistics sense as useful enough to delegate pricing for the traders.
 - Unresolved tension: [Party] [To verify] Hammerton is another dwarf, which may matter to Brother Taleesh's distrust of dwarves.
 - Opportunity: [Character-only] Dain may find common ground through stonework, forge craft, strange spell mechanics, and the quiet comedy of a quartermaster trying to inventory chaos.
+- Relationship beat: [Party] On 2026-06-20, Harry / Hammerton asks for Truthammer's seal; Dain provides it in exchange for `100 gp` worth of silver. [To verify whether "Harry" is Hammerton, exact object, and whether it is lent, pawned, or transferred]
 - Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, what the sheet-listed `Slave collar` represents, and what cost he sets for the southern traders.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
@@ -43,7 +45,7 @@
 - Respect marker: [Character-only] Dain records `-11` respect toward Taleesh on 2026-06-20 after concluding Taleesh cheated at dice.
 - Private follow-through: [Character-only] Dain begins trying to make always-warm robes for Taleesh, reaches `6%` progress, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype.
 - Current crafting follow-through: [Character-only] On 2026-05-30, Taleesh gives Dain a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), now `84%` complete [To verify DM acceptance].
-- Current tension: [Party] On 2026-06-20, Taleesh invites Dain to dice, cheats or appears to cheat, offers weed, tries to deceive Dain, then tries to end the game when Dain decides to anti-cheat. Dain casts or attempts `Suggestion`: "Complete the game." [To verify exact outcome]
+- Current tension: [Party] On 2026-06-20, Taleesh invites Dain to dice, cheats or appears to cheat, offers weed, tries to deceive Dain, then tries to end the game when Dain decides to anti-cheat. Dain casts `Suggestion`: "Complete the game," Taleesh fails the save, and the game completes; Dain later loses the betting round while Ollyander wins. [To verify whether Taleesh objectively cheated, exact final stakes, and longer party fallout]
 - Knowledge boundary reminder: [Character-only] Dain currently knows the dice-game behavior, weed offer, deception attempt, and `Suggestion` escalation. Taleesh's backstory-level distrust of dwarves and elves is player/codex knowledge unless revealed in play.
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to build trust through warmth, lantern-making, practical hospitality, respect for the bone charm, and careful honesty instead of clever evasions.

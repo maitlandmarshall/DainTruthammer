@@ -1,7 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-06-20
-- [Party] [Character-only] [To verify] Resolve the active dice-game conflict with [Brother Taleesh](../Characters/Brother%20Taleesh.md): confirm whether `Suggestion` took hold, whether the trick is revealed, whether unfair winnings are returned, and whether this becomes lasting party tension.
+- [Party] [Character-only] [To verify] Resolve the dice-game aftermath with [Brother Taleesh](../Characters/Brother%20Taleesh.md): Taleesh failed the `Suggestion` save and the game completed, but final silver flow, Dain's seal status, any revealed trick, and lasting party tension remain unresolved.
+- [Party] [Character-only] [To verify] Address the [unnamed town](../Places/Unnamed%20Town%20-%202026-06-20.md)'s rat-and-poverty problem: find the human/townsperson, identify the house, inspect or gather the rats, and decide how Dain can give silver responsibly.
 - [Character-only] [To verify] Investigate or deliver the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md): identify the church / forge shrine, the sack contents, and whether the local faith is Garl, Gond, mixed, or something else.
 - [Party] [To verify] Lock down the six-dragon artisan deal: confirm exact dragon material, promised equipment, recipients, crafting timeline, and who owns any leftovers.
 
@@ -10,18 +11,18 @@
 ### Finish The Dice Game With Taleesh
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
-- Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dice-game cheating or apparent cheating sharply changes Dain's trust in him, creates an immediate party tension, and has already escalated to Dain casting or attempting `Suggestion` on another party member.
-- Latest development: On 2026-06-20, Taleesh invited Dain to dice before Dain left the tavern. Dain initially could not detect the cheating, later concluded Taleesh cheated, reduced respect by `-11`, and decided to anti-cheat after Taleesh tried to deceive him and frame the game as "just a little fun and games." When Taleesh detected Dain's counterplay and tried to end the game, Dain cast or attempted `Suggestion` on Taleesh with the command: "Complete the game."
-- Next possible actions: Confirm whether Taleesh objectively cheated, whether Dain's `Suggestion` succeeded, current pot and stakes, whether Ollyander's `3 rats` is the correct reading, whether the party notices or objects to the spell, and how Taleesh responds after the game ends.
+- Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dice-game cheating or apparent cheating sharply changes Dain's trust in him, creates an immediate party tension, and has already escalated to Dain casting `Suggestion` on another party member.
+- Latest development: On 2026-06-20, Taleesh invited Dain to dice before Dain left the tavern. Dain initially could not detect the cheating, later concluded Taleesh cheated, reduced respect by `-11`, and decided to anti-cheat after Taleesh tried to deceive him and frame the game as "just a little fun and games." When Taleesh detected Dain's counterplay and tried to end the game, Dain cast `Suggestion` on Taleesh with the command: "Complete the game." Taleesh failed the save, the game completed, Dain later lost a betting round, and [Ollyander](../Characters/Ollyander.md) ended up winning.
+- Next possible actions: Confirm whether Taleesh objectively cheated, current pot and stakes, whether Ollyander's `3 rats` is the correct reading, who holds Dain's seal, who holds the `100 gp` worth of silver Dain bet, what happened with the human/townsperson's `60 gp` worth of silver trade with Ollyander, whether the party notices or objects to the spell, and how Taleesh responds after the game ends.
 - Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Ollyander](../Characters/Ollyander.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Relationships](../../Character/Relationships.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Resolve The Dragon Remains Artisan Deal
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: Six dragon corpses or remains are a major crafting resource, and the town-artisan deal could define new party equipment, local obligations, and the fate of valuable monster materials.
-- Latest development: On 2026-06-20, the notebook recap places Dain in the centre of an unnamed town with six dragon corpses/remains. The artisans of the town have struck a deal with Truthhammer / Dain to make equipment in exchange for the material itself.
+- Latest development: On 2026-06-20, the notebook recap places Dain in the centre of an [unnamed town](../Places/Unnamed%20Town%20-%202026-06-20.md) with six dragon corpses/remains. The artisans of the town have struck a deal with Truthhammer / Dain to make equipment in exchange for the material itself.
 - Next possible actions: Confirm the exact town, dragon type, who owns the remains, what material the artisans keep, what equipment they agreed to make, who receives the finished equipment, crafting time, and whether any leftover dragon material remains party property.
-- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Party Loot](../../Character/Party%20Loot.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
+- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Unnamed Town - 2026-06-20](../Places/Unnamed%20Town%20-%202026-06-20.md), [Party Loot](../../Character/Party%20Loot.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
 
 ### Deliver The Half-Pound Sack To The Church
 - Status: Active
@@ -30,6 +31,14 @@
 - Latest development: On 2026-06-20, Dain tried to find 10 gnomes who worship Glittergold and give each `1 gp`. He found six gnomes in a building, gave each `1 gp`, received the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) in return, and recorded an action item to find the church, possibly "Gond of the forge," and give the bag to it.
 - Next possible actions: Confirm whether the local faith is Garl Glittergold, Gond, another forge/gnome deity, or a mixed shrine; identify the sack contents; confirm whether Dain delivered it; record exact gold donated and current coin balance.
 - Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), [Garl Glittergold](./Garl%20Glittergold.md), [Inventory](../../Character/Inventory.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
+
+### Address The Town Rat Problem And Poverty
+- Status: Active
+- Tags: [Party] [Character-only] [To verify]
+- Why it matters: Dain noticed the [unnamed town](../Places/Unnamed%20Town%20-%202026-06-20.md) has issues with rats and poverty, and he turned the silver/dice aftermath into a concrete charitable action item rather than a loose feeling.
+- Latest development: On 2026-06-20, after the dice and silver escalation, a human/townsperson ran away or withdrew after seeing the amount of money involved. Dain recorded that the town has rats and poverty, set an action item to find the human and give silver, and told the human he had an ambition to rid that house of rats: "Gather the rats while I'm gone."
+- Next possible actions: Identify the human/townsperson; confirm whether they are the tavern human, the person involved in Ollyander's `60 gp` worth-of-silver trade, or someone else; locate the house; inspect whether the rats are ordinary, diseased, magical, organized, or connected to Ollyander's `3 rats`; decide how much silver Dain can give; and keep help controlled enough that poverty does not become a spectacle.
+- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Unnamed Town - 2026-06-20](../Places/Unnamed%20Town%20-%202026-06-20.md), [Ollyander](../Characters/Ollyander.md), [Party Loot](../../Character/Party%20Loot.md), [Current State](../../Character/Current%20State.md)
 
 ### Recover From The Coal Mine Puppet Stabbing
 - Status: Active

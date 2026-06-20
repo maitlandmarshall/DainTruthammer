@@ -5,7 +5,7 @@
 - Spellcasting Ability: INT
 - Spell Save DC: 15
 - Spell Attack Bonus: +7
-- Slots: 1st level 4/4, 2nd level 3/3 maximum after Wizard 4 [current remaining after the 2026-05-30 winter wolf fight and 2026-06-20 `Suggestion` against Taleesh is To verify]
+- Slots: 1st level 4/4, 2nd level 3/3 maximum after Wizard 4 [current remaining after the 2026-05-30 winter wolf fight and 2026-06-20 `Suggestion` against Taleesh is To verify; Taleesh failed the save]
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
 - [To verify] `Prestidigitation` is repeatedly recorded in prior play use, but it is not currently listed under **Cantrips On Sheet**. Confirm whether this is an omitted cantrip, a table allowance, sheet drift, or an earlier record error before relying on it in live play.
 
@@ -70,4 +70,4 @@
 - 2026-05-03: The forest long rest completes at the start of the new day; Dain's spell slots are restored to `1st 4/4`, `2nd 2/2`. [Character-only] [Confirmed]
 - 2026-05-30: Dain's level 4 handover records Resilient: Constitution plus Shape Water, Web, and Rope Trick. Maximum spell slots are now `1st 4/4`, `2nd 3/3`; current remaining after the winter wolf fight is [To verify].
 - 2026-05-30: During the winter wolf fight, Web and Restrained rules were clarified; whether Dain actually cast Web and spent a 2nd-level slot is [To verify]. See [Web And Restrained](../Codex/Rules/Web%20And%20Restrained.md).
-- 2026-06-20: In the tavern dice game with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), Dain casts or attempts `Suggestion` on Taleesh with the stern command, "Complete the game." Exact save, success, table ruling, and 2nd-level slot expenditure are [To verify]. [Session 2026-06-20](../Adventures/2026-06-20.md)
+- 2026-06-20: In the tavern dice game with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), Dain casts `Suggestion` on Taleesh with the stern command, "Complete the game." Taleesh fails the save and the game completes; 2nd-level slot expenditure, exact roll/DC, and table reaction are [To verify]. [Session 2026-06-20](../Adventures/2026-06-20.md)

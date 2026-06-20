@@ -62,7 +62,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] On 2026-06-20, Dain is in the centre of an unnamed town where six dragon corpses/remains are present and town artisans have made an equipment-for-material deal with him / Truthhammer. [To verify exact terms]
 - [Party] Dain gives gold to local gnomes who worship Glittergold, receives the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), and intends to give it to the local church. [To verify exact church, sack contents, and coin balance]
 - [Party] In a tavern, Dain says, "Remember the name Truthhammer."
-- [Character-only] During a dice game, Dain concludes [Brother Taleesh](./Brother%20Taleesh.md) is cheating, loses `-11` respect for him, decides to anti-cheat, and casts or attempts `Suggestion`: "Complete the game." [To verify outcome]
+- [Character-only] During a dice game, Dain concludes [Brother Taleesh](./Brother%20Taleesh.md) is cheating, loses `-11` respect for him, decides to anti-cheat, and casts `Suggestion`: "Complete the game." Taleesh fails the save, the game completes, Dain later loses the betting round, and [Ollyander](./Ollyander.md) ends up winning. [To verify final stakes and party fallout]
+- [Party] Harry / [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) asks Dain for his seal; Dain provides it in exchange for `100 gp` worth of silver and then bets the silver. [To verify exact seal object, whether "Harry" is Hammerton, and whether the seal can be reclaimed]
+- [Character-only] Dain notices that the unnamed town has issues with rats and poverty, records an action item to find the human/townsperson and give silver, and tells the human, "Gather the rats while I'm gone." [To verify identity and house]
 - [Party] Around the goblin campfire, Dain puts his arm around the hobgoblin leader and speaks of his mother, apprenticeship, and early training. [To verify whether "hobgoblin leader" corrects earlier goblin-leader shorthand]
 - [Party] Dain says, "I trained under people who prized precision and under others who prized results. I kept both lessons and annoyed both camps."
 - [Party] Dain says, "My mother could correct a room without raising her voice. A rare talent." [To verify her name]
@@ -112,6 +114,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
 - "You mistake blood for tribute. That is common among small gods and badly made knives."
 - "Remember the name Truthhammer."
+- "Gather the rats while I'm gone."
 
 ## Evasive Dainisms
 - "Ah, well. Mountains keep their own bookkeeping."
@@ -145,6 +148,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Preserve the future five truthful answers from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) for questions that actually matter.
 - [Character-only] Use the five truthful answers for the Coal Mine Puppet's origin, identity, coal-mine destination, return/destruction risks, and the Garl/Kurtlemack reaction.
 - [Character-only] Finish or stabilize the [Sauna Pelt](../Items/Sauna%20Pelt.md) for Brother Taleesh.
+- [Character-only] Resolve the 2026-06-20 dice aftermath: final silver accounting, Dain's seal, Taleesh's cheating, Ollyander's winnings, and any party trust damage.
+- [Character-only] Find the human/townsperson tied to the rat-and-poverty problem, inspect the house, gather or contain the rats, and give silver responsibly.
 
 ## Long-Term Ambitions
 - [Character-only] Develop a personal body of magic so peculiar and apparently useless that it becomes unmatched in the realm.
@@ -193,7 +198,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-30: After the party destroys four winter wolves, Dain denies [Kurtlemack](../Lore/Kurtlemack.md) tribute while praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md); the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him, nearly dropping him to `1 HP`. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) for [Brother Taleesh](./Brother%20Taleesh.md), reaching `84%` progress [To verify DM acceptance]. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-06-20: In the session titled `Glittergold Road`, Dain deals with local gnomes, a church, town artisans, six dragon corpses/remains, and a tavern dice game with Taleesh. [Session 2026-06-20](../../Adventures/2026-06-20.md)
-- 2026-06-20: Dain concludes Taleesh cheated at dice, records `-11` respect, and casts or attempts `Suggestion`: "Complete the game." [Session 2026-06-20](../../Adventures/2026-06-20.md)
+- 2026-06-20: Dain concludes Taleesh cheated at dice, records `-11` respect, and casts `Suggestion`: "Complete the game." Taleesh fails the save, the game completes, Dain loses the later betting round, and Ollyander ends up winning. [Session 2026-06-20](../../Adventures/2026-06-20.md)
+- 2026-06-20: Dain provides his seal to Harry / Hammerton in exchange for `100 gp` worth of silver, bets the silver, and then turns the silver aftermath toward a rat-and-poverty action item: find the human/townsperson, inspect or gather the rats, and give silver responsibly. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact seal and human]
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)

@@ -29,8 +29,14 @@
 - [Mask of Changed Appearance](../Codex/Items/Mask%20of%20Changed%20Appearance.md), found in the [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md). It has `3` charges; as a magical action the wearer can spend `1` charge to change their face's appearance, and the mask cannot be seen while the appearance is changed. [Party] [Confirmed on 2026-05-03] [To verify carrier, attunement, duration, and recharge]
 
 ## Dragon Remains Artisan Deal
-- Six dragon corpses/remains in the unnamed town. [Party] [Confirmed from 2026-06-20 notebook notes] [To verify dragon type, ownership, material condition, and exact usable parts]
+- Six dragon corpses/remains in the [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md). [Party] [Confirmed from 2026-06-20 notebook notes] [To verify dragon type, ownership, material condition, and exact usable parts]
 - Town artisans have struck a deal with Truthhammer / Dain: they make equipment in exchange for the dragon material itself. [Party] [Confirmed from 2026-06-20 notebook notes] [To verify whether the equipment is for Dain, the party, the town, or named recipients; exact item list; delivery timing; and whether any material remains]
+
+## Dice Table Silver And Stakes
+- Dain provides his seal to Harry / [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) in exchange for `100 gp` worth of silver, then bets that silver in the dice game with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). [Party] [Confirmed from 2026-06-20 notebook notes] [To verify exact seal object, whether Harry is Hammerton, and whether the silver is personal, party, or table stake]
+- Dain is unable to influence the dice and loses that betting round. [Party] [Confirmed from 2026-06-20 notebook notes]
+- [Ollyander](../Codex/Characters/Ollyander.md) ends up winning. [Party] [Confirmed from 2026-06-20 notebook notes]
+- A human/townsperson from before is involved in a trade with Ollyander worth `60 gp` in silver. [Party] [To verify direction of trade, current holder, whether this is the human who ran away, and whether it belongs in party loot or Ollyander's personal inventory]
 
 ## Open Questions
 - [To verify] Which party member carries the burdock and ginseng.
@@ -39,6 +45,7 @@
 - [To verify] Which five truthful questions the party asks upon delivery.
 - [To verify] Who carries the opened [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md), who carries or splits the `500 gp`, who claims the [Mask of Changed Appearance](../Codex/Items/Mask%20of%20Changed%20Appearance.md), the mask's duration/recharge/attunement, and whether taking it creates future trouble with the goblins.
 - [To verify] Exact artisan equipment order from the dragon remains and whether this creates shared party gear, Dain-specific gear, or town obligations.
+- [To verify] Final dice-table accounting after the 2026-06-20 game: who holds Dain's seal, who holds the `100 gp` worth of silver Dain bet, what Ollyander won, and how the human/townsperson's `60 gp` worth of silver was exchanged.
 
 ## Related Entries
 - [Burdock](../Codex/Items/Burdock.md)
@@ -46,6 +53,9 @@
 - [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md)
 - [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md)
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
+- [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
+- [Ollyander](../Codex/Characters/Ollyander.md)
+- [Unnamed Town - 2026-06-20](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md)
 - [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md)
 - [Kurtlemack](../Codex/Lore/Kurtlemack.md)
 - [Session 2026-05-03](../Adventures/2026-05-03.md)
