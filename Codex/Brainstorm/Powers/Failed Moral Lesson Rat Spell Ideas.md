@@ -32,8 +32,8 @@ Non-canon spell candidates for Dain's new idea, inspired when a rat fell from th
 - Working name: `Truthammer's Cuddly Rat`.
 - Trigger premise: when the user is sad, they can summon a fat, fluffy rat.
 - Duration: 1 hour. [To verify]
-- Core effect: the rat cuddles the user for the duration.
-- Tone: comfort spell first, mechanics second. It is exactly the kind of magic that looks useless to a practical wizard and absolutely is not useless to a sad dwarf.
+- Core effect: the rat cuddles the user for the duration. After a full hour of cuddling, the target feels as if they have failed an important moral lesson.
+- Tone: comfort spell first, moral aftertaste second. It is exactly the kind of magic that looks useless to a practical wizard and absolutely is not useless to a sad dwarf, right up until the lesson arrives wearing whiskers.
 - Balance guardrail: the rat should not fight, scout, carry messages, trigger traps, or solve the rat infestation unless Tom deliberately allows a tiny edge case. Its primary job is to be present, warm, soft, and absurdly sincere.
 - Possible material component: a crumb, a pinch of wool, and one honest admission of sadness. [To verify]
 - Possible fail condition: if the caster claims not to be sad while obviously being sad, the rat appears anyway and looks disappointed.
@@ -58,9 +58,10 @@ Non-canon spell candidates for Dain's new idea, inspired when a rat fell from th
 - Range: self, or touch for a willing sad creature. [To verify]
 - Duration: 1 hour.
 - Effect: When the caster or a willing target is sad, Dain summons one fat, fluffy rat. The rat cuddles the sad creature for the duration. It is warm, calm, and clearly delighted to be useful. It cannot attack, take the Help action, scout, carry objects, or obey tactical commands.
-- Optional tiny mechanical hook: once during the duration, the cuddled creature may reroll one failed check or save against being frightened, lonely, despairing, or magically discouraged. [To verify; probably only if Tom wants the spell to do anything mechanical]
+- Moral aftereffect: if the target cuddles the rat for the entire hour, the target feels as if they have failed an important moral lesson. The spell does not explain the lesson, prove guilt, force confession, or compel behavior unless Tom approves a stronger version.
+- Optional tiny mechanical hook: once during the duration, the cuddled creature may reroll one failed check or save against being frightened, lonely, despairing, or magically discouraged. After the hour, Tom may allow a minor roleplay prompt or one brief disadvantage on pretending no lesson was learned. [To verify; probably only if Tom wants the spell to do anything mechanical]
 - Useless twist: if cast for false drama, the rat appears, pats the caster once, and goes to sleep.
-- Table pitch: "When sadness has no puzzle to solve, I summon a creature whose only vocation is being held."
+- Table pitch: "When sadness has no puzzle to solve, I summon a creature whose only vocation is being held. After an hour, it leaves the target with the terrible suspicion that the cuddle had a point."
 
 ## Spell Direction 1: Glittergold's Falling Footnote
 - Level: cantrip or 1st-level conjuration/enchantment. [To verify]
@@ -95,8 +96,8 @@ Non-canon spell candidates for Dain's new idea, inspired when a rat fell from th
 ## Best Table Pitch
 - Lead candidate: `Truthammer's Cuddly Rat`.
 - Proposed shape: cantrip, 1st-level conjuration, or ritual with a 1-hour duration and almost no tactical utility.
-- Core ask to Tom: "Can Dain research a comfort spell that summons a fat fluffy rat to cuddle a sad creature for an hour?"
-- Balance target: emotionally useful, mechanically modest, weaker than almost any normal utility spell, and only abusable if the table wants it to be funny.
+- Core ask to Tom: "Can Dain research a comfort spell that summons a fat fluffy rat to cuddle a sad creature for an hour, after which the target feels as if they failed an important moral lesson?"
+- Balance target: emotionally useful, morally inconvenient, mechanically modest, weaker than almost any normal utility spell, and only abusable if the table wants it to be funny.
 - Secondary option if Tom wants a lesson-facing version: `Glittergold's Falling Footnote`.
 
 ## Open Questions
@@ -111,6 +112,8 @@ Non-canon spell candidates for Dain's new idea, inspired when a rat fell from th
 - Does `Truthammer's Cuddly Rat` require the target to be genuinely sad, or can it be cast preemptively?
 - Is the rat allowed to provide any mechanical comfort, or is the cuddle the entire spell?
 - Does the spell use concentration, or does the rat persist independently for the hour?
+- Is the moral-lesson feeling pure roleplay, a minor mechanical nudge, or a stronger compulsion?
+- Does the target know the feeling came from the rat, or does it simply arrive as private conscience?
 
 ## Related Entries
 - [Session 2026-06-20](../../../Adventures/2026-06-20.md)

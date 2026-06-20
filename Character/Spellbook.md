@@ -59,7 +59,7 @@
 - [Failed Moral Lesson Rat Spell Ideas](../Codex/Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md) [Character-only] [Idea-stage] [In progress]
   A new spell seed begun on 2026-06-20 after Dain reflected on a failed pub moral lesson, prayed to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and saw a rat fall from the ceiling.
   Research progress: beginning notes only. Dain has started writing in his wizard book / spellbook; no name, level, school, components, or mechanics are approved yet.
-  Current notes: Best current pitch is `Truthammer's Cuddly Rat`, a comfort spell that summons a fat, fluffy rat to cuddle a sad user for an hour. See the brainstorm page for non-canon mechanics and alternatives.
+  Current notes: Best current pitch is `Truthammer's Cuddly Rat`, a comfort spell that summons a fat, fluffy rat to cuddle a sad user for an hour, after which the target feels as if they failed an important moral lesson. See the brainstorm page for non-canon mechanics and alternatives.
 
 ## Recent Spell Use
 - 2026-04-18: Dain cast `Sleep` against two ogres at the creek-fork camp. The DM required 2014 resolution rather than the expected 2024 version; Dain rolled `32` on the `d8`s, and the spell had no effect. One 1st-level slot spent. [Character-only]
