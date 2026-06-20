@@ -42,6 +42,8 @@ Every brainstorm page should include:
 - DM-only secrets can stay here or move to `Module/` if they should not be treated as player-facing Codex material.
 
 ## Current Packets
+- Live spell seeds:
+  - [Failed Moral Lesson Rat Spell Ideas](./Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md)
 - Truthsage / Productive Use packet:
   - [Truthsage Mode](./Powers/Truthsage%20Mode.md)
   - [On the Productive Use of Useless Things](./Lore/On%20the%20Productive%20Use%20of%20Useless%20Things.md)

@@ -8,7 +8,7 @@
 - CP: 0
 - SP: 0
 - EP: 0
-- GP: 13 [stale after 2026-06-20; exact balance is To verify after gnome donations, tavern drinks, dice wagers/winnings, Dain's seal-for-silver exchange, and later silver betting]
+- GP: 0 [likely after 2026-06-20 note that Dain gave away his last `5 gp`; exact silver and other coin holdings remain To verify after gnome donations, tavern drinks, dice wagers/winnings, Dain's seal-for-silver exchange, later silver betting, and the rat-house human/townsperson gift]
 - PP: 0
 
 ## Weapons
@@ -66,6 +66,6 @@
 - [Confirmed] The 2026-05-03 burdock and ginseng payment from the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) is shared [Party Loot](./Party%20Loot.md), not Dain's personal inventory.
 - [Confirmed on 2026-05-30] Dain acquired 250 ft of silk rope for `35 gp`; payment source, carrier arrangement, and final carried weight are [To verify].
 - [Character-only] [Confirmed on 2026-05-30] Dain began the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) for Brother Taleesh and records `84%` progress. [To verify DM acceptance]
-- [To verify] 2026-06-20 cash flow: Dain attempts to donate to 10 gnomes, gives `1 gp` each to six gnomes seen in a building, gives `1 gp` to Ollyander after winning a dice round, gets back `2 gp`, wins another `2 gp`, provides his seal to Harry / Hammerton for `100 gp` worth of silver, bets that silver, loses the later betting round, and records a human/townsperson trade with Ollyander involving `60 gp` worth of silver. Exact starting coin source, tavern drink cost, wagers, winnings, silver ownership, seal status, and final balance are unresolved.
+- [To verify] 2026-06-20 cash flow: Dain attempts to donate to 10 gnomes, gives `1 gp` each to six gnomes seen in a building, gives `1 gp` to Ollyander after winning a dice round, gets back `2 gp`, wins another `2 gp`, provides his seal to Harry / Hammerton for `100 gp` worth of silver, bets that silver, loses the later betting round, records a human/townsperson trade with Ollyander involving `60 gp` worth of silver, and later gives his last `5 gp` to the human/townsperson tied to the rat-house thread. Exact starting coin source, tavern drink cost, wagers, winnings, silver ownership, seal status, and final silver/other-coin balance are unresolved.
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

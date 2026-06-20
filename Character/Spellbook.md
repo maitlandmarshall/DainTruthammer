@@ -56,6 +56,10 @@
   A dangerous wet-heat pelt prototype for Brother Taleesh, begun on 2026-05-30 after Taleesh asked Dain to make a good-quality large pelt into always-warm leather.
   Research progress: `84%` according to Dain's live notes, using knowledge from the Always-Cold Robes and the recovered `6%` warm-garment branch. [To verify DM acceptance, resources, and final mechanics]
   Current notes: The pelt begins wet or damp, turns moisture into warmth, escalates toward steam, and may become dangerous or lethal if uncontrolled.
+- [Failed Moral Lesson Rat Spell Ideas](../Codex/Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md) [Character-only] [Idea-stage] [In progress]
+  A new spell seed begun on 2026-06-20 after Dain reflected on a failed pub moral lesson, prayed to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and saw a rat fall from the ceiling.
+  Research progress: beginning notes only. Dain has started writing in his wizard book / spellbook; no name, level, school, components, or mechanics are approved yet.
+  Current notes: Best current pitch is `Glittergold's Falling Footnote`, a small rat-themed social utility spell that only works properly after Dain admits his own failed lesson first. See the brainstorm page for non-canon alternatives.
 
 ## Recent Spell Use
 - 2026-04-18: Dain cast `Sleep` against two ogres at the creek-fork camp. The DM required 2014 resolution rather than the expected 2024 version; Dain rolled `32` on the `d8`s, and the spell had no effect. One 1st-level slot spent. [Character-only]
@@ -71,3 +75,4 @@
 - 2026-05-30: Dain's level 4 handover records Resilient: Constitution plus Shape Water, Web, and Rope Trick. Maximum spell slots are now `1st 4/4`, `2nd 3/3`; current remaining after the winter wolf fight is [To verify].
 - 2026-05-30: During the winter wolf fight, Web and Restrained rules were clarified; whether Dain actually cast Web and spent a 2nd-level slot is [To verify]. See [Web And Restrained](../Codex/Rules/Web%20And%20Restrained.md).
 - 2026-06-20: In the tavern dice game with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), Dain casts `Suggestion` on Taleesh with the stern command, "Complete the game." Taleesh fails the save and the game completes; 2nd-level slot expenditure, exact roll/DC, and table reaction are [To verify]. [Session 2026-06-20](../Adventures/2026-06-20.md)
+- 2026-06-20: The next morning after the pub/dice scene, Dain prays to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md) about his failed moral lesson. A rat falls from the ceiling, and Dain begins writing a new failed-moral-lesson rat spell in his wizard book / spellbook. Mechanics are not approved; see [Failed Moral Lesson Rat Spell Ideas](../Codex/Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md). [Session 2026-06-20](../Adventures/2026-06-20.md)
