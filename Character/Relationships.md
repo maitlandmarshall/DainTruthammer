@@ -23,6 +23,8 @@
 - Dain's known belief: [Character-only] Dain reads Ollyander as frightened or vulnerable rather than wicked. [Inferred]
 - Respect marker: [Character-only] Dain records `+4` respect toward Ollyander / Lachlan's new character.
 - Relationship beat: [Party] During travel north-east along the river, Ollyander walks close to Dain and holds onto Dain's Truthammer garment.
+- Relationship beat: [Party] During the 2026-06-20 tavern dice game, Dain gives Ollyander `1 gp` after winning a round, and Ollyander wins as well.
+- Relationship beat: [Party] Dain later goes all in and values Ollyander's `3 rats` as `9 gp`. [To verify whether "rats" is the correct reading and what they are]
 - Missing details: [To verify] Exact ancestry/species, class, pronouns, why Ollyander arrived, what happened to Lachlan's previous character, and whether Ollyander knows anything about the gargantuan vulture-type creature.
 
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
@@ -38,8 +40,10 @@
 - Trust marker: [Character-only] Dain tracks `50%` trust with Brother Taleesh as of 2026-05-03.
 - Respect marker: [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and shared lantern-making start.
 - Respect marker: [Character-only] Taleesh / Jackson gains `+3` respect as of 2026-05-03. [To verify respect direction]
+- Respect marker: [Character-only] Dain records `-11` respect toward Taleesh on 2026-06-20 after concluding Taleesh cheated at dice.
 - Private follow-through: [Character-only] Dain begins trying to make always-warm robes for Taleesh, reaches `6%` progress, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype.
 - Current crafting follow-through: [Character-only] On 2026-05-30, Taleesh gives Dain a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), now `84%` complete [To verify DM acceptance].
+- Current tension: [Party] On 2026-06-20, Taleesh invites Dain to dice, cheats or appears to cheat, offers weed, tries to deceive Dain, then tries to end the game when Dain decides to anti-cheat. Dain casts or attempts `Suggestion`: "Complete the game." [To verify exact outcome]
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to build trust through warmth, lantern-making, practical hospitality, respect for the bone charm, and careful honesty instead of clever evasions.
 - Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain continues beyond the night, whether the mushroom lantern is completed, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.

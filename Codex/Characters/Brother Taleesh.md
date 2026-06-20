@@ -44,6 +44,9 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] During the same fight, the werebear swings a greataxe at Taleesh / Jackson, rolls a natural `1`, and loses the weapon onto the cave roof out of reach.
 - [Party] On 2026-05-30, Taleesh gives Dain a good-quality large pelt and asks him to make it into always-warm leather.
 - [Character-only] Dain accepts with creative freedom, constraints, and "his own spin," beginning the [Sauna Pelt](../Items/Sauna%20Pelt.md).
+- [Party] On 2026-06-20, Taleesh invites Dain to play dice in a tavern before leaving.
+- [Character-only] Dain concludes Taleesh cheated at dice and reduces respect by `-11`.
+- [Party] Taleesh offers Dain weed, says "Brother Truthammer, it's just a little fun and games," and tries to end the game after detecting Dain's counterplay. [To verify exact motive and wording]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -170,6 +173,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: At the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Taleesh bites and strikes the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), then says "ouch." [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify damage]
 - 2026-05-03: The werebear rolls a natural `1` while swinging its greataxe at Taleesh / Jackson; the weapon flies onto the cave roof out of the werebear's reach. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-30: Taleesh provides Dain with a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md), now `84%` complete [To verify DM acceptance]. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-06-20: Taleesh invites Dain to dice in a tavern, cheats or appears to cheat, offers weed, and tries to end the game when Dain decides to anti-cheat; Dain responds with `Suggestion`: "Complete the game." [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify final outcome]
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

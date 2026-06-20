@@ -17,6 +17,7 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - [Character-only] On 2026-05-03, Dain begins praying to Garl Glittergold in front of the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), and the puppet bites him. Dain does not know why.
 - [Character-only] Dain then realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](./Kurtlemack.md) hates you."
 - [Character-only] On 2026-05-30, Dain prays to Garl after four winter wolves are destroyed and denies [Kurtlemack](./Kurtlemack.md) any tribute from the deaths; the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him nearly to `1 HP`.
+- [Character-only] On 2026-06-20, Dain finds local gnomes who worship Glittergold, gives `1 gp` each to six of them, and receives a half-pound sack to take to a local church. Whether this faith is specifically Garl Glittergold, and whether the church is connected to Garl, Gond, or a forge faith, is [To verify].
 
 ## What The Party Knows
 - [To verify] Whether the party knows Dain follows Garl Glittergold.
@@ -28,6 +29,7 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - [To verify] Whether the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) reacted to prayer, Garl Glittergold's name or sigil, Dain personally, or something unrelated.
 - [To verify] Whether [Kurtlemack](./Kurtlemack.md)'s hatred is directed at Garl Glittergold, Dain, Glittergold's faithful, dwarves, or someone else.
 - [To verify] Whether Dain's denial of tribute violated, exposed, or challenged an actual Kurtlemack claim over the wolves' deaths.
+- [To verify] Whether the 2026-06-20 Glittergold-worshipping gnomes worship Garl Glittergold specifically, and what is inside the half-pound sack they gave Dain.
 
 ## Description
 - For campaign continuity, Garl Glittergold is currently documented through Dain's relationship to the faith rather than broader cosmology.
@@ -39,6 +41,7 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - 2026-05-03: Dain begins praying to Garl Glittergold, and the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) bites him for reasons Dain does not understand. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The puppet is recognized as cobalt and says, "[Kurtlemack](./Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-30: After the party destroys four winter wolves, Dain prays to Garl Glittergold and denies [Kurtlemack](./Kurtlemack.md) tribute from the deaths; the puppet stabs him nearly to `1 HP`. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-06-20: Dain gives gold to six local Glittergold-worshipping gnomes, receives a half-pound sack, and records an action item to give it to the local church. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact faith, church, and sack contents]
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
@@ -48,4 +51,5 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - [Relationships](../../Character/Relationships.md)
 - [Current State](../../Character/Current%20State.md)
 - [Open Threads](./Open%20Threads.md)
+- [Session 2026-06-20](../../Adventures/2026-06-20.md)
 - [Campaign Visual Style Guide](../Images/Campaign%20Visual%20Style%20Guide.md)

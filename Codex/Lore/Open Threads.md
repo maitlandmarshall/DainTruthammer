@@ -2,6 +2,30 @@
 
 ## Open
 
+### Finish The Dice Game With Taleesh
+- Status: Active
+- Tags: [Party] [Character-only] [To verify]
+- Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dice-game cheating or apparent cheating sharply changes Dain's trust in him, creates an immediate party tension, and has already escalated to Dain casting or attempting `Suggestion` on another party member.
+- Latest development: On 2026-06-20, Taleesh invited Dain to dice before Dain left the tavern. Dain initially could not detect the cheating, later concluded Taleesh cheated, reduced respect by `-11`, and decided to anti-cheat after Taleesh tried to deceive him and frame the game as "just a little fun and games." When Taleesh detected Dain's counterplay and tried to end the game, Dain cast or attempted `Suggestion` on Taleesh with the command: "Complete the game."
+- Next possible actions: Confirm whether Taleesh objectively cheated, whether Dain's `Suggestion` succeeded, current pot and stakes, whether Ollyander's `3 rats` is the correct reading, whether the party notices or objects to the spell, and how Taleesh responds after the game ends.
+- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Ollyander](../Characters/Ollyander.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Relationships](../../Character/Relationships.md), [Spellbook](../../Character/Spellbook.md)
+
+### Resolve The Dragon Remains Artisan Deal
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: Six dragon corpses or remains are a major crafting resource, and the town-artisan deal could define new party equipment, local obligations, and the fate of valuable monster materials.
+- Latest development: On 2026-06-20, the notebook recap places Dain in the centre of an unnamed town with six dragon corpses/remains. The artisans of the town have struck a deal with Truthhammer / Dain to make equipment in exchange for the material itself.
+- Next possible actions: Confirm the exact town, dragon type, who owns the remains, what material the artisans keep, what equipment they agreed to make, who receives the finished equipment, crafting time, and whether any leftover dragon material remains party property.
+- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Party Loot](../../Character/Party%20Loot.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
+
+### Deliver The Half-Pound Sack To The Church
+- Status: Active
+- Tags: [Party] [Character-only] [To verify]
+- Why it matters: Dain's attempt to be "interesting, but essentially useless" has created a small religious errand involving local Glittergold-worshipping gnomes, an unknown half-pound sack, and a possibly forge-related church.
+- Latest development: On 2026-06-20, Dain tried to find 10 gnomes who worship Glittergold and give each `1 gp`. He found six gnomes in a building, gave each `1 gp`, received a half-pound sack in return, and recorded an action item to find the church, possibly "Gond of the forge," and give the bag to it.
+- Next possible actions: Confirm whether the local faith is Garl Glittergold, Gond, another forge/gnome deity, or a mixed shrine; identify the sack contents; confirm whether Dain delivered it; record exact gold donated and current coin balance.
+- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Garl Glittergold](./Garl%20Glittergold.md), [Inventory](../../Character/Inventory.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
+
 ### Recover From The Coal Mine Puppet Stabbing
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
@@ -22,22 +46,22 @@
 - Status: Active
 - Tags: [Party] [To verify]
 - Why it matters: The five truthful answers owed by the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) are the party's best current leverage for learning what the Coal Mine Puppet is and why it reacts to Dain, Garl, and Kurtlemack.
-- Latest development: During the 2026-05-30 shared session, the draft question set was refined to cover chain of custody, true nature, intended coal mines, return/destruction risks, and the Garl/Kurtlemack reaction.
+- Latest development: During the 2026-05-30 shared session, the draft question set was refined to cover chain of custody, true nature, intended coal mines, return/destruction risks, and the Garl/Kurtlemack reaction. The 2026-06-20 notebook goals still include getting the puppet and using or answering the five questions, so this remains live.
 - Next possible actions: When the debt comes due, ask:
   1. "Tell us exactly how the Coal Mine Puppet came into your possession, from the first moment any of you encountered it to now."
   2. "What do you know, suspect, or have been told the puppet actually is?"
   3. "Which coal mines does it want to return to, where are they, and what is waiting there?"
   4. "What happens if the puppet is returned, destroyed, abandoned, stolen, or kept away from the mines?"
   5. "Why did the puppet react to Dain praying to Garl Glittergold, why did it say Kurtlemack hates you, and who is the 'you'?"
-- Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Kurtlemack](./Kurtlemack.md), [Garl Glittergold](./Garl%20Glittergold.md), [Party Loot](../../Character/Party%20Loot.md), [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Kurtlemack](./Kurtlemack.md), [Garl Glittergold](./Garl%20Glittergold.md), [Party Loot](../../Character/Party%20Loot.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md)
 
 ### Complete The Sauna Pelt
 - Status: Active
 - Tags: [Character-only] [To verify]
 - Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md) asked Dain for always-warm leather, and Dain's answer is becoming the [Sauna Pelt](../Items/Sauna%20Pelt.md), a dangerous but promising follow-through on the warmth bargain.
-- Latest development: On 2026-05-30, Taleesh gave Dain a good-quality large pelt. Dain accepted the work with creative freedom and constraints, then developed the Sauna Pelt / "The Warmth That Forgot Manners." Dain records `84%` progress using knowledge from the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) and the earlier `6%` always-warm garment attempt.
+- Latest development: On 2026-05-30, Taleesh gave Dain a good-quality large pelt. Dain accepted the work with creative freedom and constraints, then developed the Sauna Pelt / "The Warmth That Forgot Manners." Dain records `84%` progress using knowledge from the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) and the earlier `6%` always-warm garment attempt. The 2026-06-20 notebook goals call this "Complete Sauna Jacket," likely a shorthand for the same project, but exact naming is [To verify].
 - Next possible actions: Confirm Tom accepts the `84%` progress, define the remaining 16%, choose the safety mechanism that prevents lethal steam, confirm who carries the pelt, and decide whether Taleesh knows the current prototype risks.
-- Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md)
 
 ### Confirm Level 4 Derived Values
 - Status: Open

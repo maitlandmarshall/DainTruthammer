@@ -11,6 +11,7 @@ A dangerous in-progress pelt for Brother Taleesh that tries to solve "always-war
 - [Character-only] [Confirmed] Dain accepted with creative freedom, constraints, and his own spin.
 - [Character-only] [Confirmed] Working names include `Sauna Pelt` and `The Warmth That Forgot Manners`.
 - [Character-only] [Confirmed] Dain recorded `84%` progress using knowledge from the [Always-Cold Robes](./Always-Cold%20Robes.md) and the earlier `6%` always-warm garment attempt.
+- [Character-only] [To verify] The 2026-06-20 notebook goal calls the project "Sauna Jacket"; this is currently treated as shorthand or an alternate name for the Sauna Pelt until confirmed otherwise.
 - [To verify] Whether Tom accepts the exact `84%` progress, what resources were spent, and what remains to finish it.
 - [To verify] Whether this is a magic item, spell prototype, mundane craft with magical treatment, or unstable experimental object.
 
@@ -40,6 +41,7 @@ A dangerous in-progress pelt for Brother Taleesh that tries to solve "always-war
 - 2026-05-30: Taleesh gives Dain a good-quality large pelt and asks for always-warm leather. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: Dain frames the project as a Sauna Pelt: wet first, then warm, then steam, then potentially lethal if warmth is not persuaded to stop. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: Dain reaches `84%` completion by applying knowledge from the Always-Cold Robes and recovering the abandoned `6%` warm-jacket progress. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify DM acceptance]
+- 2026-06-20: Notebook goals include completing the "Sauna Jacket," currently treated as this Sauna Pelt project unless later corrected. [Session 2026-06-20](../../Adventures/2026-06-20.md)
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
@@ -50,4 +52,4 @@ A dangerous in-progress pelt for Brother Taleesh that tries to solve "always-war
 - [Spellbook](../../Character/Spellbook.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-05-30](../../Adventures/2026-05-30.md)
-
+- [Session 2026-06-20](../../Adventures/2026-06-20.md)

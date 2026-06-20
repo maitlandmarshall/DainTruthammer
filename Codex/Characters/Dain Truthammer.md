@@ -59,6 +59,10 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] After the winter wolves are destroyed, Dain prays to [Garl Glittergold](../Lore/Garl%20Glittergold.md), denies [Kurtlemack](../Lore/Kurtlemack.md) tribute from the deaths, and is stabbed by the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), nearly dropping to `1 HP`.
 - [Character-only] Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) for [Brother Taleesh](./Brother%20Taleesh.md), reaching `84%` progress [To verify DM acceptance].
 - [Character-only] While meditating in [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), Dain thinks about his father and the famous lava forge accident; the father/forge accident framing remains idea-stage unless Tom confirms it in play.
+- [Party] On 2026-06-20, Dain is in the centre of an unnamed town where six dragon corpses/remains are present and town artisans have made an equipment-for-material deal with him / Truthhammer. [To verify exact terms]
+- [Party] Dain gives gold to local gnomes who worship Glittergold, receives a half-pound sack, and intends to give it to the local church. [To verify exact church, sack contents, and coin balance]
+- [Party] In a tavern, Dain says, "Remember the name Truthhammer."
+- [Character-only] During a dice game, Dain concludes [Brother Taleesh](./Brother%20Taleesh.md) is cheating, loses `-11` respect for him, decides to anti-cheat, and casts or attempts `Suggestion`: "Complete the game." [To verify outcome]
 - [Party] Around the goblin campfire, Dain puts his arm around the hobgoblin leader and speaks of his mother, apprenticeship, and early training. [To verify whether "hobgoblin leader" corrects earlier goblin-leader shorthand]
 - [Party] Dain says, "I trained under people who prized precision and under others who prized results. I kept both lessons and annoyed both camps."
 - [Party] Dain says, "My mother could correct a room without raising her voice. A rare talent." [To verify her name]
@@ -107,6 +111,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "A puppet may insult Glittergold, but only because someone else lent it courage and forgot to lend it manners."
 - "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
 - "You mistake blood for tribute. That is common among small gods and badly made knives."
+- "Remember the name Truthhammer."
 
 ## Evasive Dainisms
 - "Ah, well. Mountains keep their own bookkeeping."
@@ -187,6 +192,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-30: [Ollyander](./Ollyander.md) arrives at camp; Dain records `+4` respect, and Ollyander later holds onto Dain's Truthammer garment while travelling north-east along the river. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: After the party destroys four winter wolves, Dain denies [Kurtlemack](../Lore/Kurtlemack.md) tribute while praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md); the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him, nearly dropping him to `1 HP`. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) for [Brother Taleesh](./Brother%20Taleesh.md), reaching `84%` progress [To verify DM acceptance]. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-06-20: In the session titled `Glittergold Road`, Dain deals with local gnomes, a church, town artisans, six dragon corpses/remains, and a tavern dice game with Taleesh. [Session 2026-06-20](../../Adventures/2026-06-20.md)
+- 2026-06-20: Dain concludes Taleesh cheated at dice, records `-11` respect, and casts or attempts `Suggestion`: "Complete the game." [Session 2026-06-20](../../Adventures/2026-06-20.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)

@@ -28,12 +28,17 @@
 - `500 gp`, found when the moon elf and Norhan opened the [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md). [Party] [Confirmed on 2026-05-03] [To verify carrier/split]
 - [Mask of Changed Appearance](../Codex/Items/Mask%20of%20Changed%20Appearance.md), found in the [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md). It has `3` charges; as a magical action the wearer can spend `1` charge to change their face's appearance, and the mask cannot be seen while the appearance is changed. [Party] [Confirmed on 2026-05-03] [To verify carrier, attunement, duration, and recharge]
 
+## Dragon Remains Artisan Deal
+- Six dragon corpses/remains in the unnamed town. [Party] [Confirmed from 2026-06-20 notebook notes] [To verify dragon type, ownership, material condition, and exact usable parts]
+- Town artisans have struck a deal with Truthhammer / Dain: they make equipment in exchange for the dragon material itself. [Party] [Confirmed from 2026-06-20 notebook notes] [To verify whether the equipment is for Dain, the party, the town, or named recipients; exact item list; delivery timing; and whether any material remains]
+
 ## Open Questions
 - [To verify] Which party member carries the burdock and ginseng.
 - [To verify] Whether any herb is consumed before the traders pay the second half.
 - [To verify] Whether the later half matches the first half in value, contents, or both.
 - [To verify] Which five truthful questions the party asks upon delivery.
 - [To verify] Who carries the opened [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md), who carries or splits the `500 gp`, who claims the [Mask of Changed Appearance](../Codex/Items/Mask%20of%20Changed%20Appearance.md), the mask's duration/recharge/attunement, and whether taking it creates future trouble with the goblins.
+- [To verify] Exact artisan equipment order from the dragon remains and whether this creates shared party gear, Dain-specific gear, or town obligations.
 
 ## Related Entries
 - [Burdock](../Codex/Items/Burdock.md)
@@ -44,3 +49,4 @@
 - [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md)
 - [Kurtlemack](../Codex/Lore/Kurtlemack.md)
 - [Session 2026-05-03](../Adventures/2026-05-03.md)
+- [Session 2026-06-20](../Adventures/2026-06-20.md)

@@ -23,6 +23,8 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - [Party] Ollyander is not visibly hostile on approach.
 - [Character-only] Dain records `+4` respect toward Ollyander.
 - [Party] During travel, Ollyander walks close to Dain and grabs or holds onto Dain's Truthammer garment.
+- [Party] During the 2026-06-20 tavern dice game, Dain gives Ollyander `1 gp`, and Ollyander wins as well.
+- [Party] Dain later goes all in and values Ollyander's `3 rats` as `9 gp`. [To verify whether "rats" is correct and whether they are literal animals, game pieces, or something else]
 
 ## What The Party Knows
 - [Party] Ollyander approached camp after Lachlan's previous character was captured.
@@ -48,6 +50,7 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - 2026-05-30: Ollyander arrives at camp, apparently frightened or stunned but not hostile; Dain's best immediate read is to check Insight before treating the knife as threat. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: Dain records `+4` respect toward Ollyander. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: As the party travels north-east along the river into colder country, Ollyander walks close to Dain and holds onto his Truthammer garment. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-06-20: During the tavern dice game, Dain gives Ollyander `1 gp`; Ollyander wins as well, and Dain later values Ollyander's `3 rats` as `9 gp` while going all in. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify "rats"]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
@@ -56,4 +59,3 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - [Relationships](../../Character/Relationships.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-05-30](../../Adventures/2026-05-30.md)
-

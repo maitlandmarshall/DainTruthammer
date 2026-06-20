@@ -22,6 +22,7 @@ A growing shelf of Dain Truthammer's sayings, evasions, and polished bits of mou
 - [Lent Courage And Manners](./Dainisms/Lent%20Courage%20And%20Manners.md)
 - [Garl Remembers The Punchline](./Dainisms/Garl%20Remembers%20The%20Punchline.md)
 - [Blood For Tribute](./Dainisms/Blood%20For%20Tribute.md)
+- [Remember The Name Truthhammer](./Dainisms/Remember%20The%20Name%20Truthhammer.md)
 
 ## Gold And Worth Dainisms
 - [Gold Counts Fear](./Dainisms/Gold%20Counts%20Fear.md)
