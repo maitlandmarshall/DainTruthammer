@@ -72,6 +72,12 @@ Non-canon spell candidates for Dain's new idea, inspired when a rat fell from th
 - Mechanical rider option: none by default. If Tom wants mechanics, the gentlest version is advantage on one save against fear/despair during the cuddle, followed by disadvantage on one Deception check to pretend the lesson did not matter. [To verify]
 - Dain-facing line: "Garl, if wisdom must arrive, let it at least arrive soft."
 
+## Approval Ladder
+- Safest version: pure roleplay. The rat cuddles for 1 hour, then the target privately feels moral disappointment. No rolls, no bonuses, no penalties.
+- Small utility version: while cuddled, the willing target gains advantage on one save against fear, despair, loneliness, or magical discouragement. The moral aftereffect remains roleplay-only.
+- Sharper lesson version: after the full hour, the target has disadvantage on one Deception check made to deny, minimize, or laugh off the moral lesson. This should only apply to the immediate lesson and should not become a general truth detector.
+- Dain's preferred ask: start with the safest version and let the spell earn odd edge cases in play.
+
 ## Why This Fits Dain
 - Dain tried to teach a moral lesson through pressure and spectacle in the pub; it failed.
 - The new spell does the opposite: it begins with comfort and only then lets the lesson arrive.
