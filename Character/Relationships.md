@@ -8,7 +8,8 @@
 - Current standing: [Confirmed] chosen on 2026-04-18 as Dain's deity
 - Dain's known belief: [Character-only] cleverness, benevolent trickery, delight, and protective misdirection can all serve good ends
 - Cost: [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain because of this faith.
-- Missing details: [To verify] specific rites, symbols, prayers, clergy ties, and how public Dain is about this devotion
+- Relationship beat: [Character-only] On 2026-06-20, after the failed pub moral lesson and the [rat-house human/townsperson](../Codex/Characters/Rat-House%20Human%20-%202026-06-20.md) thread, Dain prays to Garl about his disappointment; a rat falls from the ceiling, and Dain begins writing the `Truthammer's Cuddly Rat` spell seed. Whether this is an omen, joke, local rat hazard, or ordinary coincidence remains [To verify].
+- Missing details: [To verify] specific rites, symbols, prayers, clergy ties, how public Dain is about this devotion, and whether the falling rat is Garl-related in-world
 
 ## Homelands And Groups
 - [Truthhammer Mountains](../Codex/Places/Truthhammer%20Mountains.md)
@@ -27,6 +28,13 @@
 - Relationship beat: [Party] Dain later goes all in and values Ollyander's `3 rats` as `9 gp`. [To verify whether "rats" is the correct reading and what they are]
 - Relationship beat: [Party] After Dain fails to influence the dice and loses a later betting round, Ollyander ends up winning; a human/townsperson from before is involved in a `60 gp` worth-of-silver trade with Ollyander. [To verify exact trade direction and current holder]
 - Missing details: [To verify] Exact ancestry/species, class, pronouns, why Ollyander arrived, what happened to Lachlan's previous character, and whether Ollyander knows anything about the gargantuan vulture-type creature.
+
+- [Rat-House Human - 2026-06-20](../Codex/Characters/Rat-House%20Human%20-%202026-06-20.md)
+- Current standing: [Party] [To verify] Unnamed human/townsperson tied to the 2026-06-20 tavern dice/silver aftermath, the [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md)'s rat-and-poverty problem, and Dain's last `5 gp` gift.
+- Dain's known belief: [Character-only] Dain sees a practical charitable problem rather than only a strange tavern-money incident: find the person, locate the house, gather or inspect the rats, and help without making poverty into a public spectacle.
+- Relationship beat: [Character-only] Dain tells the human/townsperson, "Gather the rats while I'm gone."
+- Relationship beat: [Character-only] Dain later gives the human/townsperson his last `5 gp`; exact silver and other coin holdings remain [To verify].
+- Missing details: [To verify] Name, pronouns, whether this is the tavern human, whether this is the human who ran away, whether this is the person involved in Ollyander's `60 gp` silver exchange, which house has rats, and whether the rats are ordinary, diseased, magical, organized, or connected to Ollyander's `3 rats`.
 
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
 - Current standing: [Party] Player character controlled by Norhan; present at the forest camp when Brother Taleesh arrives, and later trusted by Dain to determine the cost for the southern traders after Dain persuades them to come with the party.

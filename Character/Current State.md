@@ -9,7 +9,7 @@
 
 ## Live Snapshot - 2026-06-20
 - Current live session: [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md). `Glittergold Road` is the session title only, not a confirmed in-world road or place.
-- Location/status: Dain is in an [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md) with six dragon corpses/remains, a town-artisan equipment-for-material deal, local Glittergold-worshipping gnomes, the [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) intended for a church, a completed tavern dice conflict with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), a town problem involving rats and poverty, and a next-morning spell seed from Dain's failed moral lesson and a falling rat.
+- Location/status: Dain is in an [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md) with six dragon corpses/remains, a town-artisan equipment-for-material deal, local Glittergold-worshipping gnomes, the [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) intended for a church, a tavern dice game with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) that completed but left unresolved fallout, a town problem involving rats and poverty, and a next-morning spell seed from Dain's failed moral lesson and a falling rat.
 - Immediate unresolved state: current HP, exact coin balance, remaining spell slots after the winter wolf fight and the 2026-06-20 `Suggestion`, Dain's seal status, and exact silver ownership are all [To verify].
 - Table-side aid: [2026-06-20 Live Play Aid](../Adventures/2026-06-20-play-aid.md).
 
