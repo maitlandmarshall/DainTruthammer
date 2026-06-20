@@ -63,6 +63,21 @@ Non-canon spell candidates for Dain's new idea, inspired when a rat fell from th
 - Useless twist: if cast for false drama, the rat appears, pats the caster once, and goes to sleep.
 - Table pitch: "When sadness has no puzzle to solve, I summon a creature whose only vocation is being held. After an hour, it leaves the target with the terrible suspicion that the cuddle had a point."
 
+## Table-Ready Draft For Tom
+- Proposed spell name: `Truthammer's Cuddly Rat`.
+- Proposed minimum version: 1st-level conjuration ritual, 1-minute casting time, range touch, 1-hour duration, no concentration. [To verify]
+- Target: self or one willing sad creature.
+- Effect: summon one fat, fluffy rat that cuddles the target for the duration. The rat is magical comfort only: no attacks, scouting, Help action, object carrying, trap triggering, combat body-blocking, or message delivery.
+- Completion rider: if the target accepts the cuddle for the full hour, they feel as if they have failed an important moral lesson. This feeling is private conscience unless Tom rules otherwise.
+- Mechanical rider option: none by default. If Tom wants mechanics, the gentlest version is advantage on one save against fear/despair during the cuddle, followed by disadvantage on one Deception check to pretend the lesson did not matter. [To verify]
+- Dain-facing line: "Garl, if wisdom must arrive, let it at least arrive soft."
+
+## Why This Fits Dain
+- Dain tried to teach a moral lesson through pressure and spectacle in the pub; it failed.
+- The new spell does the opposite: it begins with comfort and only then lets the lesson arrive.
+- The rat is useful in the way Dain values most: apparently silly, socially inconvenient, and hard to dismiss once it works.
+- The spell does not punish sadness; it gives sadness company, then leaves the conscience awake.
+
 ## Spell Direction 1: Glittergold's Falling Footnote
 - Level: cantrip or 1st-level conjuration/enchantment. [To verify]
 - Effect: A harmless rat drops from a ceiling, shelf, pocket, hat, or other mildly impossible place and draws attention to a failed lesson. If Dain first names his own failure aloud, one creature involved in that lesson makes a Wisdom save. On a failure, the creature has disadvantage on its next Deception check to pretend nothing happened, or Dain gains `+1d4` on one Insight or Persuasion check about the lesson.
@@ -114,6 +129,13 @@ Non-canon spell candidates for Dain's new idea, inspired when a rat fell from th
 - Does the spell use concentration, or does the rat persist independently for the hour?
 - Is the moral-lesson feeling pure roleplay, a minor mechanical nudge, or a stronger compulsion?
 - Does the target know the feeling came from the rat, or does it simply arrive as private conscience?
+
+## Image Status
+![Truthammer's Cuddly Rat concept](../../../Adventures/2026-06-20/2026-06-20_truthammers-cuddly-rat-concept.png)
+
+- Non-canonical concept art generated for the 2026-06-20 live-session spell seed.
+- This image helps visualize the tone: comfort first, moral aftertaste second.
+- It is not final approved spell art or proof that the spell exists mechanically.
 
 ## Related Entries
 - [Session 2026-06-20](../../../Adventures/2026-06-20.md)
