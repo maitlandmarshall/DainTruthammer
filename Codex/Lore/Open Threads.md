@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-06-20
+- [Party] [Confirmed] Survive the collapse in the [hidden tunnel near Truthhammer Mountain](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md): the floor has given way above the Underdark, a roper may be below, and Dain has begun stepping back after sensing danger. Confirm who fell, distances, initiative, and whether retreat is possible.
+- [Party] [Character-only] [To verify] Decide whether the local tunnel shortcut is still worth using for [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), or whether the party should mark the hidden passage, warn Dain's father / the Truthhammers, and come back armed.
 - [Party] [Character-only] [To verify] Resolve the dice-game aftermath with [Brother Taleesh](../Characters/Brother%20Taleesh.md): Taleesh failed the `Suggestion` save and the game completed, but final silver flow, Dain's seal status, any revealed trick, and lasting party tension remain unresolved.
 - [Party] [Character-only] [To verify] Address the [unnamed town](../Places/Unnamed%20Town%20-%202026-06-20.md)'s rat-and-poverty problem: find the [rat-house human/townsperson](../Characters/Rat-House%20Human%20-%202026-06-20.md), identify the house, inspect or gather the rats, and decide how Dain can give silver responsibly.
 - [Character-only] [To verify] Develop the failed-moral-lesson rat spell seed: Dain has begun writing after next-morning prayer to [Garl Glittergold](./Garl%20Glittergold.md) and a rat falling from the ceiling, but all mechanics remain non-canon until approved.
@@ -9,6 +11,22 @@
 - [Party] [Confirmed] Keep the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) delivery intact while handling town business: confirm carrier, route, urgency, and whether the unnamed town is on the way to the actual general near Samyrn Torst.
 
 ## Open
+
+### Survive The Hidden Tunnel Collapse
+- Status: Active
+- Tags: [Party] [Character-only] [To verify]
+- Why it matters: The party's possible shortcut through local tunnels has become an immediate survival scene. The floor has collapsed over the Underdark, a roper may be present, and the route may threaten both the party and the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission.
+- Latest development: On 2026-06-20, after travelling east, crossing or reaching a stone bridge, entering a tunnel through a grand door, finding a hearth and hidden passage, and descending toward an unknown spiral stair, the party travelled about another hour before the floor collapsed beneath them. Below is the Underdark. Dain senses danger and begins stepping back. A roper is possible but not confirmed.
+- Next possible actions: Confirm who fell, who is still on stable ground, current light sources, edge distance, initiative, whether a roper or tendrils are visible, and whether the party can retreat to the grand door. Use rope before anyone leans over the edge; ask what Dain's Stonecunning / Tremorsense, Arcana, History, or family stories reveal; decide whether to fight, secure the collapse, withdraw, or mark the passage and return armed.
+- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Hidden Tunnel Near Truthhammer Mountain](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Current State](../../Character/Current%20State.md)
+
+### Investigate The Hidden Truthhammer Tunnel
+- Status: Active
+- Tags: [Party] [Character-only] [To verify]
+- Why it matters: The hidden passage may be unknown to the Truthhammers, connected to Dain's father and family lore, or part of a larger mountain/Underdark hazard. If it truly sits near the Truthhammer route, it may affect Dain's home, clan security, and the safest route toward the party's larger mission.
+- Latest development: On 2026-06-20, the party reached a grand tunnel door, found an entrance hearth, lit it, and got no obvious response. They found a hidden passage behind rubble; Hammerton / "Dresden" broke through with a protesting hammer. A spiral staircase goes straight down and is described in the notes as unknown to the Truthhammers. Dain says his father should be informed and the party should come back armed.
+- Next possible actions: Confirm the tunnel's exact location relative to Truthhammer Mountain, what the stone bridge crosses, whether the grand door and hearth are Truthhammer work, whether the stair is truly unknown to Dain's clan, what Dain's father may know, and whether Dain's fire-spirit / mountain-spirit stories help identify the danger.
+- Linked entries: [Hidden Tunnel Near Truthhammer Mountain](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
 
 ### Finish The Dice Game With Taleesh
 - Status: Active
@@ -227,8 +245,8 @@
 - Status: Open
 - Tags: [Party] [Confirmed]
 - Why it matters: This is now the party's direct assignment and their clearest current objective.
-- Latest development: Commander Agland has sent the party into the mountains with a sealed letter for the actual general in the city near Samyrn Torst; after surviving an ogre ambush at the Y-shaped creek fork and taking a long rest, the party continued on and then sighted five harpies around a nest two hours into the next day's travel.
-- Next possible actions: Learn the general's name, confirm the mountain city near Samyrn Torst, choose or confirm the correct route after the town detour, identify who physically carries the letter, verify it remains sealed and intact, keep to the river route safely in worsening weather, protect the letter, and deliver it intact.
+- Latest development: Commander Agland has sent the party into the mountains with a sealed letter for the actual general in the city near Samyrn Torst. On 2026-06-20, after town business and Dain's morning spell seed, the party travels east, considers whether local tunnels can save time compared with a Truthhammer Mountain detour, enters a hidden tunnel, and reaches a collapse over the Underdark with a possible roper below.
+- Next possible actions: Learn the general's name, confirm the mountain city near Samyrn Torst, choose or confirm the correct route after the town and tunnel detour, identify who physically carries the letter, verify it remains sealed and intact, decide whether the hidden tunnel is still a viable shortcut or a mission risk, and deliver it intact.
 - Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Commander Agland](../Characters/Commander%20Agland.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Samyrn Torst](../Lore/Samyrn%20Torst.md), [Inventory](../../Character/Inventory.md)
 
 ### Assess The Harpy Nest Ahead
