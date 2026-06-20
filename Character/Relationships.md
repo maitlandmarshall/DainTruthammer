@@ -41,7 +41,7 @@
 - Dain's known belief: [Character-only] Dain sees Hammerton holding a severed lizard head just after Kagrenac announces that "a lizard has arrived," initially misunderstands the announcement, then realizes the head is not what Kagrenac meant. Later, Dain treats Hammerton's quartermaster/logistics sense as useful enough to delegate pricing for the traders.
 - Unresolved tension: [Party] [To verify] Hammerton is another dwarf, which may matter to Brother Taleesh's distrust of dwarves.
 - Opportunity: [Character-only] Dain may find common ground through stonework, forge craft, strange spell mechanics, and the quiet comedy of a quartermaster trying to inventory chaos.
-- Relationship beat: [Party] On 2026-06-20, Harry / Hammerton asks for Truthammer's seal; Dain provides it in exchange for `100 gp` worth of silver. [To verify whether "Harry" is Hammerton, exact object, and whether it is lent, pawned, or transferred]
+- Relationship beat: [Party] On 2026-06-20, Harry / Hammerton asks for [Dain's Seal](../Codex/Items/Dains%20Seal.md); Dain provides it in exchange for `100 gp` worth of silver. [To verify whether "Harry" is Hammerton, exact object, and whether it is lent, pawned, or transferred]
 - Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, what the sheet-listed `Slave collar` represents, and what cost he sets for the southern traders.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)

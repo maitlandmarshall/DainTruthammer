@@ -63,7 +63,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] Dain gives gold to local gnomes who worship Glittergold, receives the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), and intends to give it to the local church. [To verify exact church, sack contents, and coin balance]
 - [Party] In a tavern, Dain says, "Remember the name Truthhammer."
 - [Character-only] During a dice game, Dain concludes [Brother Taleesh](./Brother%20Taleesh.md) is cheating, loses `-11` respect for him, decides to anti-cheat, and casts `Suggestion`: "Complete the game." Taleesh fails the save, the game completes, Dain later loses the betting round, and [Ollyander](./Ollyander.md) ends up winning. [To verify final stakes and party fallout]
-- [Party] Harry / [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) asks Dain for his seal; Dain provides it in exchange for `100 gp` worth of silver and then bets the silver. [To verify exact seal object, whether "Harry" is Hammerton, and whether the seal can be reclaimed]
+- [Party] Harry / [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) asks Dain for [Dain's Seal](../Items/Dains%20Seal.md); Dain provides it in exchange for `100 gp` worth of silver and then bets the silver. [To verify exact seal object, whether "Harry" is Hammerton, and whether the seal can be reclaimed]
 - [Character-only] Dain notices that the unnamed town has issues with rats and poverty, records an action item to find the human/townsperson and give silver, and tells the human, "Gather the rats while I'm gone." [To verify identity and house]
 - [Character-only] Dain gives his last `5 gp` to the human/townsperson tied to the rat-house thread. His gold-piece balance is likely `0`, but exact silver and other coin holdings remain [To verify].
 - [Character-only] The next morning, Dain reflects on his failed pub moral lesson, prays to [Garl Glittergold](../Lore/Garl%20Glittergold.md) about his disappointment, sees a rat fall from the ceiling, and begins writing a new failed-moral-lesson rat spell in his wizard book / spellbook. Current lead pitch: `Truthammer's Cuddly Rat`, whose full-hour cuddle leaves the target feeling as if they failed an important moral lesson; mechanics remain idea-stage in [Failed Moral Lesson Rat Spell Ideas](../Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md).
@@ -150,7 +150,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Preserve the future five truthful answers from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) for questions that actually matter.
 - [Character-only] Use the five truthful answers for the Coal Mine Puppet's origin, identity, coal-mine destination, return/destruction risks, and the Garl/Kurtlemack reaction.
 - [Character-only] Finish or stabilize the [Sauna Pelt](../Items/Sauna%20Pelt.md) for Brother Taleesh.
-- [Character-only] Resolve the 2026-06-20 dice aftermath: final silver accounting, Dain's seal, Taleesh's cheating, Ollyander's winnings, and any party trust damage.
+- [Character-only] Resolve the 2026-06-20 dice aftermath: final silver accounting, [Dain's Seal](../Items/Dains%20Seal.md), Taleesh's cheating, Ollyander's winnings, and any party trust damage.
 - [Character-only] Find the human/townsperson tied to the rat-and-poverty problem, inspect the house, gather or contain the rats, and give silver responsibly.
 - [Character-only] Develop the failed-moral-lesson rat spell seed without treating the mechanics as canon before user/DM approval.
 
@@ -202,7 +202,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-30: Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) for [Brother Taleesh](./Brother%20Taleesh.md), reaching `84%` progress [To verify DM acceptance]. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-06-20: In the session titled `Glittergold Road`, Dain deals with local gnomes, a church, town artisans, six dragon corpses/remains, and a tavern dice game with Taleesh. [Session 2026-06-20](../../Adventures/2026-06-20.md)
 - 2026-06-20: Dain concludes Taleesh cheated at dice, records `-11` respect, and casts `Suggestion`: "Complete the game." Taleesh fails the save, the game completes, Dain loses the later betting round, and Ollyander ends up winning. [Session 2026-06-20](../../Adventures/2026-06-20.md)
-- 2026-06-20: Dain provides his seal to Harry / Hammerton in exchange for `100 gp` worth of silver, bets the silver, and then turns the silver aftermath toward a rat-and-poverty action item: find the human/townsperson, inspect or gather the rats, and give silver responsibly. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact seal and human]
+- 2026-06-20: Dain provides [Dain's Seal](../Items/Dains%20Seal.md) to Harry / Hammerton in exchange for `100 gp` worth of silver, bets the silver, and then turns the silver aftermath toward a rat-and-poverty action item: find the human/townsperson, inspect or gather the rats, and give silver responsibly. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact seal and human]
 - 2026-06-20: Dain gives his last `5 gp` to the rat-house human/townsperson, then spends the next morning praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md) about his failed moral lesson. A rat falls from the ceiling and inspires the beginnings of a new spell, now led by the `Truthammer's Cuddly Rat` pitch in [Failed Moral Lesson Rat Spell Ideas](../Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md): an hour-long cuddle that ends with the target feeling as if they failed an important moral lesson. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify spell approval and exact coin accounting]
 
 ## Related Entries
@@ -226,6 +226,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md)
 - [Always-Cold Robes](../Items/Always-Cold%20Robes.md)
 - [Sauna Pelt](../Items/Sauna%20Pelt.md)
+- [Dain's Seal](../Items/Dains%20Seal.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
 - [Kurtlemack](../Lore/Kurtlemack.md)
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
