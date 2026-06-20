@@ -6,6 +6,7 @@
 - [Character-only] [To verify] Develop the failed-moral-lesson rat spell seed: Dain has begun writing after next-morning prayer to [Garl Glittergold](./Garl%20Glittergold.md) and a rat falling from the ceiling, but all mechanics remain non-canon until approved.
 - [Character-only] [To verify] Investigate or deliver the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md): identify the church / forge shrine, the sack contents, and whether the local faith is Garl, Gond, mixed, or something else.
 - [Party] [To verify] Lock down the six-dragon artisan deal: confirm exact dragon material, promised equipment, recipients, crafting timeline, and who owns any leftovers.
+- [Party] [Confirmed] Keep the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) delivery intact while handling town business: confirm carrier, route, urgency, and whether the unnamed town is on the way to the actual general near Samyrn Torst.
 
 ## Open
 
@@ -227,7 +228,7 @@
 - Tags: [Party] [Confirmed]
 - Why it matters: This is now the party's direct assignment and their clearest current objective.
 - Latest development: Commander Agland has sent the party into the mountains with a sealed letter for the actual general in the city near Samyrn Torst; after surviving an ogre ambush at the Y-shaped creek fork and taking a long rest, the party continued on and then sighted five harpies around a nest two hours into the next day's travel.
-- Next possible actions: Learn the general's name, confirm the mountain city near Samyrn Torst, choose the correct branch of the split path, keep to the river route safely in worsening weather, protect the letter, and deliver it intact.
+- Next possible actions: Learn the general's name, confirm the mountain city near Samyrn Torst, choose or confirm the correct route after the town detour, identify who physically carries the letter, verify it remains sealed and intact, keep to the river route safely in worsening weather, protect the letter, and deliver it intact.
 - Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Commander Agland](../Characters/Commander%20Agland.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Samyrn Torst](../Lore/Samyrn%20Torst.md), [Inventory](../../Character/Inventory.md)
 
 ### Assess The Harpy Nest Ahead
