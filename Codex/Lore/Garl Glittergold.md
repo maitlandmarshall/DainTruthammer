@@ -37,6 +37,11 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - For campaign continuity, Garl Glittergold is currently documented through Dain's relationship to the faith rather than broader cosmology.
 - The symbolic motif should stay warm, golden, clever, protective, and slightly mischievous in Dain-related visuals.
 
+## Dain-Facing Live Leverage
+- [Character-only] Dain can distinguish sacred cleverness from ordinary cheating: a trick that protects, teaches, humbles cruelty, or reveals truth fits his Glittergold instinct more cleanly than a trick that simply hides private gain.
+- [Character-only] When approaching local Glittergold-worshipping gnomes or a possible forge church, Dain's safest stance is respectful curiosity. He can ask what custom he has stepped into before assuming the half-pound sack is payment, charity, test, joke, or offering.
+- [Character-only] The Coal Mine Puppet's Garl / Kurtlemack reactions make religious symbols and offerings tactically important. Dain should notice who reacts to Garl, Kurtlemack, forge rites, cobalt, and tribute language before spending the five truthful answers.
+
 ## Notable Events
 - 2026-04-18: Dain's deity was confirmed as Garl Glittergold.
 - 2026-05-03: DM note recorded that Dain is considered an outcast from Truthammer mountain because of his faith in Garl Glittergold. [Session 2026-05-03](../../Adventures/2026-05-03.md)
