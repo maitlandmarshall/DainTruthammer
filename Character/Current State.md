@@ -7,6 +7,12 @@
 - [To verify] 2026-05-30 is an approximate session date. On 2026-06-20, the user clarified the shared chat was from roughly three weeks earlier, not from 2026-06-20.
 - [Confirmed] 2026-06-20 live session notes imported from user notebook photos in [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md).
 
+## Live Snapshot - 2026-06-20
+- Current live session: [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md). `Glittergold Road` is the session title only, not a confirmed in-world road or place.
+- Location/status: Dain is in an unnamed town with six dragon corpses/remains, a town-artisan equipment-for-material deal, local Glittergold-worshipping gnomes, a half-pound sack intended for a church, and an active tavern dice conflict with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md).
+- Immediate unresolved state: current HP, exact GP, spell slots after the winter wolf fight, and whether the 2026-06-20 `Suggestion` on Taleesh succeeded or spent a slot are all [To verify].
+- Table-side aid: [2026-06-20 Live Play Aid](../Adventures/2026-06-20-play-aid.md).
+
 ## Identity
 - Name: Dain Truthammer
 - Species: Dwarf
@@ -95,7 +101,7 @@
 - [Character-only] Marvel in the newly created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), then confirm final mechanics and useful edge cases.
 - [Character-only] Track the fate of the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), now being eaten by the goblin leader after Dain offered it as food.
 - [Character-only] Clarify or continue the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype, including whether the abandoned `6%` warm-robes progress matters.
-- [Character-only] Assess the approaching [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), decide whether to help them reach [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md), and account for Kagrenac's worsening-wind forecast before travelling.
+- [Character-only] Track the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), their exact status after the transition into the unnamed town, and whether the truthful-answer debt trigger has arrived.
 - [Character-only] Track the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) arrangement: the upfront half is now in [Party Loot](./Party%20Loot.md), while the later half remains owed and should not be forgotten.
 - [Character-only] Preserve the five truthful answers owed by the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) upon delivery, ideally for the puppet, [Kurtlemack](../Codex/Lore/Kurtlemack.md), or coal-mine mystery.
 - [Character-only] Ask the five prepared puppet questions when the truthful-answer debt comes due.
@@ -103,9 +109,8 @@
 - [Character-only] Complete or stabilize the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) for [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) without letting "warmth" define itself as conquest.
 - [Character-only] Resolve the dice-game conflict with Brother Taleesh without letting cheating become the final joke.
 - [Character-only] Deliver or investigate the half-pound sack received from Glittergold-worshipping gnomes and intended for the local church.
+- [Character-only] Use the current play aid for table questions, Dain-facing lore checks, and ready lines while the 2026-06-20 session remains active.
 - [Character-only] Investigate why the newcomers glow with magic, why the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) can apparently block or resist `Identify`, why it bit Dain when he began praying to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and what [Kurtlemack](../Codex/Lore/Kurtlemack.md)'s hatred means.
-- [Character-only] Watch the goblin camp carefully while [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)'s kinship-first approach turns into a scimitar-at-neck threat, with Dain's `Minor Illusion` copy still part of the standoff.
-- [Character-only] Maintain concentration on `Suggestion` if needed: "Allow us safe passage, a meal, and a way through."
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
 - [Character-only] Use harmless illusions, jokes, or little rituals to take the edge off fear during camp and travel.
@@ -129,6 +134,7 @@
 - [Character-only] "A puppet may insult Glittergold, but only because someone else lent it courage and forgot to lend it manners."
 - [Character-only] "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
 - [Character-only] "You mistake blood for tribute. That is common among small gods and badly made knives."
+- [Character-only] "Remember the name Truthhammer."
 
 ## Evasive Dainisms
 - [Character-only] "Ah, well. Mountains keep their own bookkeeping."

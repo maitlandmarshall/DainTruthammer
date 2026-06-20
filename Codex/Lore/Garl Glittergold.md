@@ -18,6 +18,7 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - [Character-only] Dain then realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](./Kurtlemack.md) hates you."
 - [Character-only] On 2026-05-30, Dain prays to Garl after four winter wolves are destroyed and denies [Kurtlemack](./Kurtlemack.md) any tribute from the deaths; the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him nearly to `1 HP`.
 - [Character-only] On 2026-06-20, Dain finds local gnomes who worship Glittergold, gives `1 gp` each to six of them, and receives a half-pound sack to take to a local church. Whether this faith is specifically Garl Glittergold, and whether the church is connected to Garl, Gond, or a forge faith, is [To verify].
+- [Character-only] Dain can reasonably ask Tom what his Religion and History knowledge tell him about the local symbols, offering customs, forge imagery, and whether the Glittergold gnomes and the possible Gond / forge church are one tradition, allied traditions, or unrelated local factions. [General lore; campaign applicability To verify]
 
 ## What The Party Knows
 - [To verify] Whether the party knows Dain follows Garl Glittergold.
@@ -30,6 +31,7 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 - [To verify] Whether [Kurtlemack](./Kurtlemack.md)'s hatred is directed at Garl Glittergold, Dain, Glittergold's faithful, dwarves, or someone else.
 - [To verify] Whether Dain's denial of tribute violated, exposed, or challenged an actual Kurtlemack claim over the wolves' deaths.
 - [To verify] Whether the 2026-06-20 Glittergold-worshipping gnomes worship Garl Glittergold specifically, and what is inside the half-pound sack they gave Dain.
+- [To verify] Whether the local church is Garl-related, Gond-related, another forge or gnome faith, or a deliberately mixed shrine.
 
 ## Description
 - For campaign continuity, Garl Glittergold is currently documented through Dain's relationship to the faith rather than broader cosmology.
