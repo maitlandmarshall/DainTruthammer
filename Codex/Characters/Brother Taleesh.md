@@ -42,6 +42,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Character-only] Taleesh / Jackson gains `+3` respect as of 2026-05-03. [To verify respect direction]
 - [Party] During the smoky cave encounter, Taleesh bites and strikes the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), then says "ouch." [To verify damage and whether the bite has any special consequence]
 - [Party] During the same fight, the werebear swings a greataxe at Taleesh / Jackson, rolls a natural `1`, and loses the weapon onto the cave roof out of reach.
+- [Party] On 2026-05-30, Taleesh gives Dain a good-quality large pelt and asks him to make it into always-warm leather.
+- [Character-only] Dain accepts with creative freedom, constraints, and "his own spin," beginning the [Sauna Pelt](../Items/Sauna%20Pelt.md).
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -167,6 +169,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-03: Dain's trust with Taleesh reaches `50%`, and Taleesh / Jackson gains `+3` respect. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify respect direction]
 - 2026-05-03: At the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Taleesh bites and strikes the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), then says "ouch." [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify damage]
 - 2026-05-03: The werebear rolls a natural `1` while swinging its greataxe at Taleesh / Jackson; the weapon flies onto the cave roof out of the werebear's reach. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-30: Taleesh provides Dain with a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md), now `84%` complete [To verify DM acceptance]. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
@@ -174,5 +177,6 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md)
 - [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
 - [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md)
+- [Sauna Pelt](../Items/Sauna%20Pelt.md)
 - [Kagrenac](./The%20Astral%20Elf.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)

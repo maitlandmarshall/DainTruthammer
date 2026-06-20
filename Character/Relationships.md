@@ -18,6 +18,13 @@
 - Roleplay interpretation: [Inferred] This may explain Dain's vague stories and careful backstory evasions.
 
 ## People
+- [Ollyander](../Codex/Characters/Ollyander.md)
+- Current standing: [Party] Lachlan Pratt's new player character arrived at camp on 2026-05-30, shell-shocked and carrying a large knife but not visibly hostile.
+- Dain's known belief: [Character-only] Dain reads Ollyander as frightened or vulnerable rather than wicked. [Inferred]
+- Respect marker: [Character-only] Dain records `+4` respect toward Ollyander / Lachlan's new character.
+- Relationship beat: [Party] During travel north-east along the river, Ollyander walks close to Dain and holds onto Dain's Truthammer garment.
+- Missing details: [To verify] Exact ancestry/species, class, pronouns, why Ollyander arrived, what happened to Lachlan's previous character, and whether Ollyander knows anything about the gargantuan vulture-type creature.
+
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
 - Current standing: [Party] Player character controlled by Norhan; present at the forest camp when Brother Taleesh arrives, and later trusted by Dain to determine the cost for the southern traders after Dain persuades them to come with the party.
 - Dain's known belief: [Character-only] Dain sees Hammerton holding a severed lizard head just after Kagrenac announces that "a lizard has arrived," initially misunderstands the announcement, then realizes the head is not what Kagrenac meant. Later, Dain treats Hammerton's quartermaster/logistics sense as useful enough to delegate pricing for the traders.
@@ -32,12 +39,13 @@
 - Respect marker: [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and shared lantern-making start.
 - Respect marker: [Character-only] Taleesh / Jackson gains `+3` respect as of 2026-05-03. [To verify respect direction]
 - Private follow-through: [Character-only] Dain begins trying to make always-warm robes for Taleesh, reaches `6%` progress, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype.
+- Current crafting follow-through: [Character-only] On 2026-05-30, Taleesh gives Dain a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), now `84%` complete [To verify DM acceptance].
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to build trust through warmth, lantern-making, practical hospitality, respect for the bone charm, and careful honesty instead of clever evasions.
 - Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain continues beyond the night, whether the mushroom lantern is completed, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
-- Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories
+- Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories. [Inferred] The 2026-05-30 shared session says Lachlan's old character was captured by a gargantuan vulture-type creature; since the roster previously attached Lachlan to Yuckie, this may refer to Yuckie. [To verify]
 - Dain's known belief: [Character-only] Yuckie is someone worth listening to when nonsense happens nearby
 - Missing details: [To verify] role in the party, how long Dain has known him, and whether the trust is mutual
 

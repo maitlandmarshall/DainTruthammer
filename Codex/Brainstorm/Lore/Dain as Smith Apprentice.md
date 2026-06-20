@@ -7,6 +7,7 @@ A non-canon, idea-stage version of Dain's past where he was expected to become a
 - [DM-private] [To verify] Idea-stage only, captured 2026-05-15 from user brainstorming.
 - [DM-private] [To verify] Not confirmed backstory and not character knowledge unless later approved.
 - [To verify] Existing canon only confirms that Truthhammer forge lore and Dain's exact apprenticeship history remain unsettled.
+- [DM-private] [To verify] The 2026-05-30 shared session notes report that Tom confirmed Dain and/or the Truthhammers have a half-Azer connection; this may make forge/heat heritage more plausible, but Dain's apprenticeship and father details remain unconfirmed.
 
 ## Brainstorm Routing
 - Current shelf: [Brainstorm](../README.md).

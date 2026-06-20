@@ -12,6 +12,7 @@ An in-progress Dain Truthammer robe prototype that pivots away from practical wa
 - [Character-only] [Confirmed] A flash of inspiration moved the project toward robes that always make the wearer cold.
 - [Character-only] [Confirmed] While travelling onward on 2026-05-03, Dain cast cold magic into the jacket / robe prototype to push the project further along.
 - [Character-only] [Confirmed] During that work, Dain realized he was already cold and recorded his own coldness as a comparison point for the final effect.
+- [Character-only] [Confirmed] On 2026-05-30, Dain used knowledge from this project and the earlier `6%` always-warm garment attempt to push the [Sauna Pelt](./Sauna%20Pelt.md) to `84%` progress. [To verify DM acceptance]
 - [To verify] Exact progress on the cold-robes branch after the flash of inspiration.
 - [To verify] New progress percentage after the travelling cold-magic experiment.
 - [To verify] Which cold spells or resources Dain used during the experiment.
@@ -43,6 +44,7 @@ An in-progress Dain Truthammer robe prototype that pivots away from practical wa
 - [Brother Taleesh](../Characters/Brother%20Taleesh.md)
 - [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)
 - [Hedgehog Mushroom Lantern](./Hedgehog%20Mushroom%20Lantern.md)
+- [Sauna Pelt](./Sauna%20Pelt.md)
 - [Inventory](../../Character/Inventory.md)
 - [Spellbook](../../Character/Spellbook.md)
 - [Open Threads](../Lore/Open%20Threads.md)

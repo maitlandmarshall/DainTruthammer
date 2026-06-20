@@ -22,6 +22,9 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] [Confirmed] During the manticore encounter, the [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) attacks the traders under the party's protection.
 - [Party] [Confirmed] The human holding the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) takes `11` damage from the manticore.
 - [Party] [Confirmed] A second manticore descends and attacks the other human trader with bites and slashes for around `20` total damage.
+- [Party] [Confirmed] On 2026-05-30, three travelling humans follow behind while the party leads north-east along the river into colder country.
+- [Party] [Confirmed] After Dain denies [Kurtlemack](../Lore/Kurtlemack.md) tribute from four winter wolves' deaths, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs Dain and nearly drops him to `1 HP`.
+- [Party] [To verify] The humans restrain "him" afterward; whether this means the puppet, Dain, or both is unclear.
 - [To verify] Names, number of traders, broader goods carried, route, intent, honesty, threat level, whether they know anything about the party's mission, and the exact later half of the payment.
 
 ## What Dain Knows
@@ -40,6 +43,8 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] The traders who initially resist entering the goblin camp and breaking bread are convinced to follow the party in and share breakfast around the campfire with the goblins.
 - [Party] The trader holding the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is wounded for `11` damage by the [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md).
 - [Party] Another human trader is bitten and slashed by a second manticore for around `20` total damage.
+- [Party] On 2026-05-30, the humans follow behind as the party leads north-east along the river into a cold area.
+- [Party] After Dain denies Kurtlemack tribute and is stabbed by the puppet, the humans restrain "him." [To verify whether they restrained the puppet, Dain, or both]
 - [To verify] Whether Dain recognizes their route, dialect, trade marks, clothing, or destination.
 
 ## What The Party Knows
@@ -75,6 +80,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - Storage: [Party Loot](../../Character/Party%20Loot.md). Current carrier [To verify].
 - Later half: owed by the traders; exact contents and value [To verify].
 - Addendum after the puppet reveal: the original material payment stays intact, and upon delivery the traders owe the party five truthful answers. Delivery target, exact asker, and enforcement are [To verify].
+- Draft 2026-05-30 puppet questions: chain of custody, what the puppet is, which coal mines it wants and what waits there, what happens if it is returned/destroyed/abandoned/stolen/kept away, and why it reacted to Garl Glittergold / Kurtlemack / "you." [To verify final wording asked in play]
 
 ## Notable Events
 - 2026-05-03: The traders approach the party from the distance and say in Common, "Hi dwarves. Hail, we are traders from the south, we are looking for our way to Olar Dunglor." [Session 2026-05-03](../../Adventures/2026-05-03.md)
@@ -87,6 +93,8 @@ An unnamed group of human traders from the south who approach the party in cold 
 - 2026-05-03: During the goblin camp negotiation, the humans who initially refuse to enter the camp and break bread are convinced to enter with the party and break bread with the goblins; the party, humans, and goblins begin cooking breakfast together around the campfire. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During the forest-road manticore encounter, the manticore attacks the traders under the party's protection and deals `11` damage to the human holding the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: A second manticore descends from the sky and bites and slashes the other human trader for around `20` total damage. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-30: The three travelling humans follow behind while the party leads north-east along the river into a cold area. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-05-30: After Dain denies Kurtlemack tribute from the winter wolves' deaths, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him nearly to `1 HP`; the humans restrain "him" afterward. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify restraint target]
 
 ## Related Entries
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)
@@ -103,3 +111,4 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- [Session 2026-05-30](../../Adventures/2026-05-30.md)

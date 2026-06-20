@@ -2,6 +2,51 @@
 
 ## Open
 
+### Recover From The Coal Mine Puppet Stabbing
+- Status: Active
+- Tags: [Party] [Character-only] [To verify]
+- Why it matters: The [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) escalated from biting to a near-lethal stabbing after Dain prayed to [Garl Glittergold](./Garl%20Glittergold.md) and denied [Kurtlemack](./Kurtlemack.md) tribute from the winter wolves' deaths.
+- Latest development: On 2026-05-30, after the party destroyed four winter wolves, Dain went to the puppet, prayed to Garl Glittergold, and denied Kurtlemack any tribute from the deaths. The puppet stabbed Dain and nearly dropped him to `1 HP`. The travelling humans restrained "him" afterward; whether this means the puppet, Dain, or both is [To verify].
+- Next possible actions: Confirm Dain's exact current HP, whether healing occurred, whether the puppet is restrained, disarmed, boxed, gagged, or otherwise made safe, whether the humans restrained the puppet or Dain, and whether the stabbing caused any curse, poison, infection, or ongoing condition.
+- Linked entries: [Session 2026-05-30](../../Adventures/2026-05-30.md), [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Kurtlemack](./Kurtlemack.md), [Garl Glittergold](./Garl%20Glittergold.md), [Current State](../../Character/Current%20State.md)
+
+### Welcome Ollyander
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: [Ollyander](../Characters/Ollyander.md) is Lachlan Pratt's new player character and arrived in a vulnerable, possibly traumatized state while carrying a large knife.
+- Latest development: On 2026-05-30, Ollyander arrived at camp as a small hobbit-like humanoid with pale skin, straight fawn-brown hair, a pointy nose, shell-shocked look, rare blinking, and no visible hostility. Dain recorded `+4` respect. During travel north-east along the river, Ollyander walked close to Dain and held onto his Truthammer garment.
+- Next possible actions: Confirm Ollyander's exact spelling, ancestry, class, pronouns, player-character sheet details, why Ollyander is shell-shocked, what Ollyander knows about the gargantuan vulture-type creature, and whether Lachlan's previous captured character was [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md).
+- Linked entries: [Ollyander](../Characters/Ollyander.md), [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md), [Relationships](../../Character/Relationships.md), [Table Roster](./Table%20Roster.md), [Session 2026-05-30](../../Adventures/2026-05-30.md)
+
+### Ask The Five Puppet Truths
+- Status: Active
+- Tags: [Party] [To verify]
+- Why it matters: The five truthful answers owed by the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) are the party's best current leverage for learning what the Coal Mine Puppet is and why it reacts to Dain, Garl, and Kurtlemack.
+- Latest development: During the 2026-05-30 shared session, the draft question set was refined to cover chain of custody, true nature, intended coal mines, return/destruction risks, and the Garl/Kurtlemack reaction.
+- Next possible actions: When the debt comes due, ask:
+  1. "Tell us exactly how the Coal Mine Puppet came into your possession, from the first moment any of you encountered it to now."
+  2. "What do you know, suspect, or have been told the puppet actually is?"
+  3. "Which coal mines does it want to return to, where are they, and what is waiting there?"
+  4. "What happens if the puppet is returned, destroyed, abandoned, stolen, or kept away from the mines?"
+  5. "Why did the puppet react to Dain praying to Garl Glittergold, why did it say Kurtlemack hates you, and who is the 'you'?"
+- Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Kurtlemack](./Kurtlemack.md), [Garl Glittergold](./Garl%20Glittergold.md), [Party Loot](../../Character/Party%20Loot.md), [Session 2026-05-30](../../Adventures/2026-05-30.md)
+
+### Complete The Sauna Pelt
+- Status: Active
+- Tags: [Character-only] [To verify]
+- Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md) asked Dain for always-warm leather, and Dain's answer is becoming the [Sauna Pelt](../Items/Sauna%20Pelt.md), a dangerous but promising follow-through on the warmth bargain.
+- Latest development: On 2026-05-30, Taleesh gave Dain a good-quality large pelt. Dain accepted the work with creative freedom and constraints, then developed the Sauna Pelt / "The Warmth That Forgot Manners." Dain records `84%` progress using knowledge from the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) and the earlier `6%` always-warm garment attempt.
+- Next possible actions: Confirm Tom accepts the `84%` progress, define the remaining 16%, choose the safety mechanism that prevents lethal steam, confirm who carries the pelt, and decide whether Taleesh knows the current prototype risks.
+- Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md)
+
+### Confirm Level 4 Derived Values
+- Status: Open
+- Tags: [Character-only] [To verify]
+- Why it matters: Dain's Wizard 4 choices are known, but max HP and current remaining resources after the winter wolf fight need table confirmation.
+- Latest development: The 2026-05-30 shared session records Resilient: Constitution, Shape Water, Web, and Rope Trick. CON is now `14`, CON save is `+4`, and max HP is likely `29` under normal retroactive CON handling.
+- Next possible actions: Confirm Tom's max HP value, current HP after the puppet stabbing, current spell slots after the winter wolf fight, whether Web was actually cast, and which spells are currently prepared.
+- Linked entries: [Current State](../../Character/Current%20State.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md)
+
 ### Confirm Live Adventuring State
 - Status: Open
 - Tags: [Party] [To verify]
@@ -174,8 +219,8 @@
 - Status: Open
 - Tags: [Character-only] [To verify]
 - Why it matters: Dain's home and clan craft tradition may become a durable background anchor for future roleplay, magic, equipment, and family history.
-- Latest development: On 2026-04-24, the user set the clan mountain near a volcano and proposed making the Truthhammers master smiths with a forge powered by volcanic flow.
-- Next possible actions: Confirm whether the master-smith lore is canon, name the mountain hold, decide how volcanic flow is controlled, and decide what Dain personally knows or learned from the forge tradition.
+- Latest development: On 2026-04-24, the user set the clan mountain near a volcano and proposed making the Truthhammers master smiths with a forge powered by volcanic flow. On 2026-05-30, the shared session notes report that Tom confirmed Dain and/or the Truthhammers have a half-Azer connection; the scope is still [To verify], and the father/forge accident material remains idea-stage.
+- Next possible actions: Confirm whether the master-smith lore is canon, name the mountain hold, decide how volcanic flow is controlled, confirm whether the half-Azer connection applies only to Dain or to the Truthhammers more broadly, and decide what Dain personally knows or learned from the forge tradition.
 - Linked entries: [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 
 ### Clarify Dain's Outcast Status

@@ -101,7 +101,7 @@ Current confirmed roster:
 * Matt / Matthew plays Kagrenac, formerly tracked as The Astral Elf
 * Maitland / user plays Dain Truthammer
 * Jackson / Jackbo plays Brother Taleesh
-* Lachlan Pratt plays Yuckie
+* Lachlan Pratt now plays Ollyander; Yuckie was the previously tracked Lachlan character and was reported captured by a gargantuan vulture-type creature [To verify exact status]
 * Norhan plays Hammerton Harry Drizddon, a Mountain Dwarf Fighter 3 with eldritch-martial spellcasting [To verify final subclass wording]
 * Tom is the DM
 

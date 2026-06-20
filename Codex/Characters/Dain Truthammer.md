@@ -12,13 +12,17 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 - [Confirmed] Baseline imported from [Dicfuc_164465751.pdf](../../Dicfuc_164465751.pdf) on 2026-04-18.
-- [Confirmed] Mechanically a level 3 dwarf wizard with Sage background and School of Conjuration subclass.
+- [Confirmed] Mechanically a level 4 dwarf wizard with Sage background and School of Conjuration subclass.
 - [Confirmed] Alignment confirmed by user as `Chaotic Good` on 2026-04-18.
 - [Confirmed] [Garl Glittergold](../Lore/Garl%20Glittergold.md) was chosen as Dain's deity on 2026-04-18.
 - [Confirmed] Current location established on 2026-04-18 as the coastline near the Iron Shore Tribes.
 - [Confirmed] Dain received the `Ghostly Form Tattoo` reward after the harpy fight; this was corrected on 2026-05-03 to clarify that Kagrenac did not receive it.
 - [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from [Truthammer mountain](../Places/Truthhammer%20Mountains.md) because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - [To verify] Weight, Temp HP, and prepared-spell markings remain unsettled.
+- [Confirmed from 2026-05-30 shared session] Dain took Resilient: Constitution at Wizard 4, raising CON from `13` to `14` and CON save to `+4`.
+- [Confirmed from 2026-05-30 shared session] Level-up picks include Shape Water, Web, and Rope Trick.
+- [To verify] Exact max HP after level 4 and Resilient: Constitution; `29` is the likely value under normal retroactive CON handling.
+- [Confirmed by user from DM] Dain and/or the Truthhammers have a half-Azer connection; exact scope and implications are [To verify].
 
 ## What The Character Knows
 - [Character-only] He delights in deception, illusion, and strange little magical tricks.
@@ -50,6 +54,11 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain realizes the puppet is a cobalt puppet.
 - [Party] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [To verify who "you" refers to]
 - [Party] Dain defuses Hammerton / Dresden's push for more payment from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) by keeping the original deal and adding five truthful answers owed upon delivery.
+- [Party] On 2026-05-30, Dain meets [Ollyander](./Ollyander.md), Lachlan's new player character, and records `+4` respect after Ollyander arrives shell-shocked, knife in hand, but not visibly hostile.
+- [Party] During travel north-east along the river, Ollyander holds onto Dain's Truthammer garment while the three travelling humans follow behind.
+- [Party] After the winter wolves are destroyed, Dain prays to [Garl Glittergold](../Lore/Garl%20Glittergold.md), denies [Kurtlemack](../Lore/Kurtlemack.md) tribute from the deaths, and is stabbed by the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), nearly dropping to `1 HP`.
+- [Character-only] Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) for [Brother Taleesh](./Brother%20Taleesh.md), reaching `84%` progress [To verify DM acceptance].
+- [Character-only] While meditating in [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), Dain thinks about his father and the famous lava forge accident; the father/forge accident framing remains idea-stage unless Tom confirms it in play.
 - [Party] Around the goblin campfire, Dain puts his arm around the hobgoblin leader and speaks of his mother, apprenticeship, and early training. [To verify whether "hobgoblin leader" corrects earlier goblin-leader shorthand]
 - [Party] Dain says, "I trained under people who prized precision and under others who prized results. I kept both lessons and annoyed both camps."
 - [Party] Dain says, "My mother could correct a room without raising her voice. A rare talent." [To verify her name]
@@ -62,8 +71,10 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## What Is Uncertain
 - [To verify] What his Temp HP and current active effects are.
+- [To verify] Current HP after the Coal Mine Puppet stabbing, likely near `1 HP`.
 - [To verify] Which wizard spells are prepared right now versus simply present on the export.
 - [To verify] What "outcast" means mechanically/socially: family rejection, religious censure, legal exile, clan politics, or another status.
+- [To verify] Whether the half-Azer connection applies only to Dain, to the Truthammer bloodline more broadly, or to another family/cultural layer, and whether it has any mechanical effect.
 
 ## Description
 - [Confirmed] Male dwarf, age 107, medium, 4'9", white skin, brown eyes, black hair.
@@ -95,6 +106,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "My mother could correct a room without raising her voice. A rare talent."
 - "A puppet may insult Glittergold, but only because someone else lent it courage and forgot to lend it manners."
 - "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
+- "You mistake blood for tribute. That is common among small gods and badly made knives."
 
 ## Evasive Dainisms
 - "Ah, well. Mountains keep their own bookkeeping."
@@ -126,15 +138,17 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Decide how much, if anything, to reveal about being an outcast from Truthammer mountain.
 - [Character-only] Understand why the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) can apparently block `Identify`, why it bites during prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md), what a cobalt puppet is, why [Kurtlemack](../Lore/Kurtlemack.md) hates him or someone near him, and whether "the coal mines" are a destination, prison, origin, or trap.
 - [Character-only] Preserve the future five truthful answers from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) for questions that actually matter.
+- [Character-only] Use the five truthful answers for the Coal Mine Puppet's origin, identity, coal-mine destination, return/destruction risks, and the Garl/Kurtlemack reaction.
+- [Character-only] Finish or stabilize the [Sauna Pelt](../Items/Sauna%20Pelt.md) for Brother Taleesh.
 
 ## Long-Term Ambitions
 - [Character-only] Develop a personal body of magic so peculiar and apparently useless that it becomes unmatched in the realm.
 - [Character-only] Prove that strange edge-case spells can hold wonder, elegance, and real value even when no one else sees the point.
 
 ## Mechanical Snapshot
-- Current HP 20; Max HP 20; AC 10; Speed 30 ft.; spell save DC 15; spell attack bonus +7.
-- Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard).
-- Spell themes on sheet: Ray of Frost, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image.
+- Current HP nearly 1 after the Coal Mine Puppet stabbing [To verify exact value]; max HP likely 29 [To verify Tom's HP ruling]; AC 10; Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4.
+- Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
+- Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 
 ## Notable Records
 - 2026-04-18: Initial character baseline created from the imported sheet and user blurb.
@@ -168,6 +182,11 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain defuses Hammerton / Dresden's request for more payment by keeping the original trader deal and adding five truthful answers owed upon delivery. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Around the goblin campfire, Dain puts his arm around the hobgoblin leader and tells stories of his mother, apprenticeship, and early training. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During the fight at the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Dain casts `Chromatic Orb` at the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), choosing acid and dealing `11` acid damage. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify resource source]
+- 2026-05-30: Dain's level 4 package is recorded: Resilient: Constitution, Shape Water, Web, and Rope Trick. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-05-30: User reports Tom confirmed Dain and/or the Truthhammers have a half-Azer connection; scope remains [To verify], and the father/forge accident material stays idea-stage. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-05-30: [Ollyander](./Ollyander.md) arrives at camp; Dain records `+4` respect, and Ollyander later holds onto Dain's Truthammer garment while travelling north-east along the river. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-05-30: After the party destroys four winter wolves, Dain denies [Kurtlemack](../Lore/Kurtlemack.md) tribute while praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md); the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him, nearly dropping him to `1 HP`. [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- 2026-05-30: Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) for [Brother Taleesh](./Brother%20Taleesh.md), reaching `84%` progress [To verify DM acceptance]. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 
 ## Related Entries
 - [Current State](../../Character/Current%20State.md)
@@ -189,6 +208,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md)
 - [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md)
 - [Always-Cold Robes](../Items/Always-Cold%20Robes.md)
+- [Sauna Pelt](../Items/Sauna%20Pelt.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
 - [Kurtlemack](../Lore/Kurtlemack.md)
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)

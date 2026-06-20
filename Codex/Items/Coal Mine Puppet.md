@@ -14,6 +14,9 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Character-only] [Confirmed] Dain realizes the puppet is a cobalt puppet.
 - [Party] [Confirmed] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you."
 - [Party] [Confirmed] During the forest-road manticore encounter, the human holding the puppet takes `11` damage from the [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md).
+- [Party] [Confirmed] On 2026-05-30, after the party destroys four winter wolves, Dain prays to [Garl Glittergold](../Lore/Garl%20Glittergold.md) near the puppet and denies [Kurtlemack](../Lore/Kurtlemack.md) tribute from the wolves' deaths.
+- [Party] [Confirmed] The puppet stabs Dain and nearly drops him to `1 HP`.
+- [To verify] Whether the travelling humans restrained the puppet, Dain, or both after the stabbing.
 - [To verify] Whether the puppet is a magic item, construct, cursed object, possessed object, familiar, mouthpiece, illusion, or living creature.
 - [To verify] Whether Dain spent a spell slot, began a ritual, or had the casting interrupted before any resource was consumed.
 - [To verify] Whether the bite causes damage, infection, poison, curse, spell disruption, or any other mechanical consequence.
@@ -38,6 +41,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Party] The puppet bites Dain as he begins to pray to [Garl Glittergold](../Lore/Garl%20Glittergold.md). Motive [To verify].
 - [Party] The puppet invokes [Kurtlemack](../Lore/Kurtlemack.md)'s hatred. [To verify who "you" refers to]
 - [Party] The human holding the puppet is struck by the manticore for `11` damage.
+- [Party] After Dain denies Kurtlemack tribute from the winter wolves' deaths, the puppet stabs Dain, nearly dropping him to `1 HP`.
 
 ## What Is Uncertain
 - [To verify] Which coal mines the puppet means.
@@ -49,12 +53,15 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [To verify] What Dain knows about cobalt puppets, whether they are connected to [Kurtlemack](../Lore/Kurtlemack.md), and whether "coal mines" and "cobalt" are connected.
 - [To verify] Whether [Kurtlemack](../Lore/Kurtlemack.md) hates Dain specifically, [Garl Glittergold](../Lore/Garl%20Glittergold.md), Glittergold's faithful, dwarves, or the whole party.
 - [To verify] Whether the manticore targeted the puppet-holder because of the puppet, the trader, ordinary predator behavior, or chance.
+- [To verify] Whether the 2026-05-30 stabbing was triggered by prayer, tribute denial, Garl's name, Kurtlemack's denied claim, Dain's proximity, or another condition.
+- [To verify] Whether the humans restrained the puppet, Dain, or both afterward.
 
 ## Notable Events
 - 2026-05-03: After [Kagrenac](../Characters/The%20Astral%20Elf.md) privately warns Dain in Draconic that the newcomers are glowing with magic, a human trader sighs and pulls out the puppet; Dain shakes the puppet's hand and attempts `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain begins praying to [Garl Glittergold](../Lore/Garl%20Glittergold.md), and the puppet bites him; Dain does not know why. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) attacks the protected traders and deals `11` damage to the human holding the puppet. [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-30: After four winter wolves are destroyed, Dain prays to Garl Glittergold near the puppet and denies Kurtlemack tribute from the deaths; the puppet stabs him, nearly dropping him to `1 HP`, and the travelling humans restrain "him" afterward. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify restraint target and exact HP]
 
 ## Related Entries
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
@@ -65,3 +72,4 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Kurtlemack](../Lore/Kurtlemack.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- [Session 2026-05-30](../../Adventures/2026-05-30.md)

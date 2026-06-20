@@ -18,6 +18,7 @@
 
 ## Non-Material Claims
 - Five truthful answers from the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), owed upon delivery after Dain defuses Hammerton / Dresden's push for more payment. [Party] [Confirmed]
+- Draft 2026-05-30 puppet questions: chain of custody; what the puppet is; which coal mines it wants and what waits there; what happens if it is returned/destroyed/abandoned/stolen/kept away; and why it reacted to Dain praying to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), invoked [Kurtlemack](../Codex/Lore/Kurtlemack.md), and said "you." [Party] [To verify final wording asked in play]
 - Delivery target: [To verify], likely connected to [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md).
 - Question holder / asker: [To verify].
 - Enforcement: [To verify] whether this is honor-bound, magically binding, or merely negotiated.

@@ -16,7 +16,8 @@
   - Note: Prior sheet image looked like `Jakabo`; user roster now gives `Jackson/Jackbo`.
 
 - Player: Lachlan Pratt
-  - Character: [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md)
+  - Character: [Ollyander](../Characters/Ollyander.md)
+  - Previous character: [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md) [To verify whether Yuckie is the old character reported captured by a gargantuan vulture-type creature]
   - Role: Player Character
 
 - Player: Norhan

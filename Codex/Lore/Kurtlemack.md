@@ -8,6 +8,7 @@ A hostile name invoked by the [Cobalt / Coal Mine Puppet](../Items/Coal%20Mine%2
 ## Status
 - [Party] [Confirmed] On 2026-05-03, the [Cobalt / Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) says, "Kurtlemack hates you."
 - [Character-only] [Confirmed] Dain realizes at that moment that the puppet is a cobalt puppet.
+- [Party] [Confirmed] On 2026-05-30, Dain denies Kurtlemack tribute from the deaths of four winter wolves while praying to [Garl Glittergold](./Garl%20Glittergold.md); the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) then stabs Dain and nearly drops him to `1 HP`.
 - [To verify] Exact spelling, pronunciation, nature, title, domain, followers, and relationship to [Garl Glittergold](./Garl%20Glittergold.md).
 - [To verify] Whether "you" refers to [Dain Truthammer](../Characters/Dain%20Truthammer.md), followers of Garl Glittergold, the party, dwarves, or someone else.
 
@@ -23,9 +24,11 @@ A hostile name invoked by the [Cobalt / Coal Mine Puppet](../Items/Coal%20Mine%2
 - [To verify] Whether Kurtlemack is a deity, spirit, patron, curse-source, mine power, puppet-maker, faction name, or something else.
 - [To verify] Whether the puppet is reporting Kurtlemack's hatred, channeling Kurtlemack, or using the name as a threat.
 - [To verify] Whether the cobalt identity is material, ancestry-symbol, magical construction, cult marker, or table shorthand.
+- [Inferred] The 2026-05-30 tribute-denial stabbing strengthens the possibility that Kurtlemack is opposed to Garl Glittergold, Glittergold's faithful, or Dain specifically, but this remains [To verify].
 
 ## Notable Events
 - 2026-05-03: Dain realizes the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is a cobalt puppet, and the puppet says, "Kurtlemack hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-30: Dain denies Kurtlemack tribute from the winter wolves' deaths while praying to [Garl Glittergold](./Garl%20Glittergold.md); the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) responds by stabbing Dain nearly to `1 HP`. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 
 ## Related Entries
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
@@ -34,3 +37,4 @@ A hostile name invoked by the [Cobalt / Coal Mine Puppet](../Items/Coal%20Mine%2
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Open Threads](./Open%20Threads.md)
 - [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- [Session 2026-05-30](../../Adventures/2026-05-30.md)

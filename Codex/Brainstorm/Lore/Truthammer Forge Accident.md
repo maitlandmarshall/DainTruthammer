@@ -7,6 +7,7 @@ A non-canon, idea-stage explanation for Dain's exile: a stored-impression discha
 - [DM-private] [To verify] Idea-stage only, captured 2026-05-15 from user brainstorming.
 - [DM-private] [To verify] Not confirmed history, not character knowledge, and not a replacement for the current confirmed note that Dain is an outcast because of his faith in [Garl Glittergold](../../Lore/Garl%20Glittergold.md).
 - [To verify] Whether this is the true cause of exile, a partial cause, Dain's interpretation, clan propaganda, or unused mythology.
+- [DM-private] [To verify] The 2026-05-30 shared session notes report that Tom confirmed Dain and/or the Truthhammers have a half-Azer connection; this may support fire/forge lineage, but it does not confirm this accident, Dain's father role, or exile causality.
 
 ## Brainstorm Routing
 - Current shelf: [Brainstorm](../README.md).

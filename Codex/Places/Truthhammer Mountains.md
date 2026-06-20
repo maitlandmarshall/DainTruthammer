@@ -11,12 +11,14 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from this mountain homeland because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - [To verify] Exact settlement name, map position, neighboring landmarks, and public name used by outsiders.
 - [To verify] The Truthhammer clan may be master smiths with a forge powered by volcanic flow, but this remains proposed lore until the user locks it in.
+- [Confirmed by user from DM] Dain and/or the Truthhammers have a half-Azer connection; exact scope is [To verify].
 
 ## What Dain Knows
 - [Character-only] His clan mountain stands with a volcano behind it.
 - [Character-only] The mountain home is tied to stone, drafts, secrets, and practical stubbornness.
 - [Character-only] He is considered an outcast there because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md). [DM-private] [Confirmed]
 - [Character-only] [To verify] The clan may maintain volcanic-flow forges and a reputation for master smithing.
+- [Character-only] [To verify] The half-Azer connection may belong to Dain personally or to the Truthhammer line more broadly.
 
 ## What Is Uncertain
 - [To verify] Whether "outcast" means social shame, formal exile, family estrangement, religious censure, political danger, or some combination.
@@ -24,6 +26,7 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [To verify] Whether the volcano is active, dormant, magically regulated, sacred, dangerous, or merely useful.
 - [To verify] Whether the Truthhammer forge is a clan monopoly, a religious craft site, a military supplier, or a local civic engine.
 - [To verify] Whether Dain trained in smith-lore himself or merely grew up around it.
+- [To verify] Whether half-Azer ancestry affects Dain, the Truthhammers, forge access, heat tolerance, magic, clan politics, or none of these mechanically.
 
 ## Description
 - A clan mountain with a volcano just behind it, suitable for a forge powered by volcanic flow.
