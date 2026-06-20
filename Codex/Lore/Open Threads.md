@@ -2,7 +2,7 @@
 
 ## Current Live Focus - 2026-06-20
 - [Party] [Character-only] [To verify] Resolve the active dice-game conflict with [Brother Taleesh](../Characters/Brother%20Taleesh.md): confirm whether `Suggestion` took hold, whether the trick is revealed, whether unfair winnings are returned, and whether this becomes lasting party tension.
-- [Character-only] [To verify] Investigate or deliver the half-pound sack from the Glittergold-worshipping gnomes: identify the church / forge shrine, the sack contents, and whether the local faith is Garl, Gond, mixed, or something else.
+- [Character-only] [To verify] Investigate or deliver the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md): identify the church / forge shrine, the sack contents, and whether the local faith is Garl, Gond, mixed, or something else.
 - [Party] [To verify] Lock down the six-dragon artisan deal: confirm exact dragon material, promised equipment, recipients, crafting timeline, and who owns any leftovers.
 
 ## Open
@@ -26,10 +26,10 @@
 ### Deliver The Half-Pound Sack To The Church
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
-- Why it matters: Dain's attempt to be "interesting, but essentially useless" has created a small religious errand involving local Glittergold-worshipping gnomes, an unknown half-pound sack, and a possibly forge-related church.
-- Latest development: On 2026-06-20, Dain tried to find 10 gnomes who worship Glittergold and give each `1 gp`. He found six gnomes in a building, gave each `1 gp`, received a half-pound sack in return, and recorded an action item to find the church, possibly "Gond of the forge," and give the bag to it.
+- Why it matters: Dain's attempt to be "interesting, but essentially useless" has created a small religious errand involving local Glittergold-worshipping gnomes, the unknown [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), and a possibly forge-related church.
+- Latest development: On 2026-06-20, Dain tried to find 10 gnomes who worship Glittergold and give each `1 gp`. He found six gnomes in a building, gave each `1 gp`, received the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) in return, and recorded an action item to find the church, possibly "Gond of the forge," and give the bag to it.
 - Next possible actions: Confirm whether the local faith is Garl Glittergold, Gond, another forge/gnome deity, or a mixed shrine; identify the sack contents; confirm whether Dain delivered it; record exact gold donated and current coin balance.
-- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Garl Glittergold](./Garl%20Glittergold.md), [Inventory](../../Character/Inventory.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
+- Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), [Garl Glittergold](./Garl%20Glittergold.md), [Inventory](../../Character/Inventory.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
 
 ### Recover From The Coal Mine Puppet Stabbing
 - Status: Active

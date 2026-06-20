@@ -60,7 +60,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) for [Brother Taleesh](./Brother%20Taleesh.md), reaching `84%` progress [To verify DM acceptance].
 - [Character-only] While meditating in [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), Dain thinks about his father and the famous lava forge accident; the father/forge accident framing remains idea-stage unless Tom confirms it in play.
 - [Party] On 2026-06-20, Dain is in the centre of an unnamed town where six dragon corpses/remains are present and town artisans have made an equipment-for-material deal with him / Truthhammer. [To verify exact terms]
-- [Party] Dain gives gold to local gnomes who worship Glittergold, receives a half-pound sack, and intends to give it to the local church. [To verify exact church, sack contents, and coin balance]
+- [Party] Dain gives gold to local gnomes who worship Glittergold, receives the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), and intends to give it to the local church. [To verify exact church, sack contents, and coin balance]
 - [Party] In a tavern, Dain says, "Remember the name Truthhammer."
 - [Character-only] During a dice game, Dain concludes [Brother Taleesh](./Brother%20Taleesh.md) is cheating, loses `-11` respect for him, decides to anti-cheat, and casts or attempts `Suggestion`: "Complete the game." [To verify outcome]
 - [Party] Around the goblin campfire, Dain puts his arm around the hobgoblin leader and speaks of his mother, apprenticeship, and early training. [To verify whether "hobgoblin leader" corrects earlier goblin-leader shorthand]

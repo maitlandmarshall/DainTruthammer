@@ -45,7 +45,7 @@
 
 ## Quest Items
 - [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Party] [Confirmed on 2026-04-18]
-- Half-pound sack from Glittergold-worshipping gnomes x1 [To verify contents, carrier, and whether delivered to the local church] [Logged on 2026-06-20]
+- [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) x1 [To verify contents, carrier, and whether delivered to the local church] [Logged on 2026-06-20]
 
 ## Shared Party Loot Reference
 - [Party Loot](./Party%20Loot.md) tracks shared items that are not Dain's personal inventory.
