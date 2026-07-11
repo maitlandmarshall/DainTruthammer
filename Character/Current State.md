@@ -9,8 +9,8 @@
 
 ## Live Snapshot - 2026-07-11
 - Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: In the formal [Truthammer Clan-Head Chamber](../Codex/Places/Truthammer%20Clan-Head%20Chamber.md), holding the opened gunpowder sack and overhearing his father warn the gnomes about a sigil used for gold. The father is disappointed and says another occurrence will require investigation.
-- Immediate unresolved state: whose sigil was used, whether Hammerton/Harry used it, whether this is the earlier seal-for-silver exchange or a separate transaction, current seal holder, investigation scope; gunpowder purpose and mechanics; adviser and gnome identities; Dain's father's name, title, appearance, reaction and role in the exile; who accompanies Dain; Taleesh's wash obligation; Tharrd Harr's lore; airships; armor delivery; sealed letter urgency; giant frog outcome; armored dwarf identity; missing friend's fate; Sauna Jacket steam risk; coin balance; and Breastplate of Balance charges are all [To verify].
+- Location/status: In direct conversation with his father, the leader of the Truthammer clan, inside the [Truthammer Clan-Head Chamber](../Codex/Places/Truthammer%20Clan-Head%20Chamber.md). Dain has admitted possible responsibility for lending the sigil, reported the journey, warned of the moon elf's accusations, and disclosed possible Truthammer debt caused through Norhan's character.
+- Immediate unresolved state: father's response and judgment; debt existence, amount and creditor; sigil recipient, current holder and recovery; investigation status; exact details Dain reported; gunpowder purpose and mechanics; adviser and gnome identities; father's name, formal title, appearance and role in the exile; who accompanies Dain; Taleesh's wash obligation; Tharrd Harr's lore; airships; armor delivery; sealed letter urgency; giant frog outcome; armored dwarf identity; missing friend's fate; Sauna Jacket steam risk; coin balance; and Breastplate of Balance charges are all [To verify].
 - Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity

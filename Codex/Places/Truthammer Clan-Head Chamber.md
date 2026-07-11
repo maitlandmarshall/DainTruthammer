@@ -21,6 +21,7 @@ The formal, non-royal chamber where Dain's father conducts his role as head of t
 - 2026-07-11: Dain declares he is going to meet his father and reaches this chamber immediately before their reunion or confrontation. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Dain finds his father conferring with advisers and gnomes, then opens the half-pound gnome gift and discovers coarse dark-grey gunpowder inside. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: In the same meeting, Dain overhears his father express disappointment that a sigil was used for gold and warn that another occurrence will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: Dain then speaks directly with his father, admits possible responsibility, reports the journey, warns of the moon elf's accusations, and discloses possible debt caused through the loaned sigil. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Dain's Father](../Characters/Dains%20Father.md)

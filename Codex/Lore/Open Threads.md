@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Character-only] [Confirmed] Dain directly admits possible responsibility to his father, reports the journey, warns him of the moon elf's accusations, and discloses possible debt caused after lending the sigil to Norhan's character.
+- [Character-only] [To verify] Record the father's response, actual debt, sigil holder, whether confession prevents or starts investigation, what journey details Dain disclosed, and what the clan leader decides to address first.
 - [Character-only] [Confirmed] Dain overhears his father express disappointment that a sigil was used for gold by someone identified table-side as Norhan and warn that another occurrence will require investigation.
 - [Character-only] [To verify] Determine whose sigil is meant, whether Hammerton/Harry used it, whether this is the 2026-06-20 seal-for-silver transaction or a separate use, who holds the seal, how the clan detected it, and what the threatened investigation would cover.
 - [Character-only] [Confirmed] Dain finds his father conferring with advisers and gnomes, opens the earlier half-pound gnome gift, and discovers coarse dark-grey gunpowder inside.
@@ -29,15 +31,15 @@
 - Status: Active
 - Tags: [Character-only] [Party] [To verify]
 - Why it matters: Dain's father and the gnome delegation know a Truthammer-linked sigil was used to obtain gold, are disappointed by the incident, and have stated that another occurrence will require investigation. Dain previously handed [Dain's Seal](../Items/Dains%20Seal.md) to Harry / Hammerton for `100 gp` worth of silver.
-- Latest development: On 2026-07-11, Dain overhears the warning in the clan-head chamber. The user identifies the responsible person table-side as Norhan; because Norhan plays [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), Hammerton is the likely in-world actor, but this remains [To verify].
-- Next possible actions: Establish whose sigil is meant, ask what transaction the clan detected, confirm whether Hammerton still holds it, retrieve or disable it before another use, decide whether Dain admits voluntarily handing it over, and learn what authority or fraud risk the sigil carries.
+- Latest development: After overhearing the warning, Dain admits to his father that he may be responsible because he lent the sigil and that Norhan's character may have created Truthammer debt through it.
+- Next possible actions: Record the father's judgment; establish debt amount and creditor; confirm who received and holds the sigil; retrieve or disable it before another use; learn what authority or fraud risk it carries; determine whether Dain's confession prevents, delays, or initiates the threatened investigation.
 - Linked entries: [Dain's Seal](../Items/Dains%20Seal.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Dain's Father](../Characters/Dains%20Father.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Answer Kagrenac's Murder Accusation
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: Kagrenac has explicitly withdrawn trust and accused Dain of murder at the moment Dain's hidden century-old escape history is surfacing.
-- Latest development: Dain's friend sacrificed himself to the pursuing troopers and went missing. Kagrenac later uses armor as evidence for a murder accusation, but the DM clarifies that the armor would not realistically belong to the friend; it more likely belonged to a separate dwarf who went searching for him. A natural `1` raises the possibility that this searcher died in a great accident instead of being murdered. [To verify exact result]
+- Latest development: Dain's friend sacrificed himself to the pursuing troopers and went missing. Kagrenac later uses armor as evidence for a murder accusation, but the DM clarifies that the armor would not realistically belong to the friend; it more likely belonged to a separate dwarf who went searching for him. A natural `1` raises the possibility that this searcher died in a great accident instead of being murdered. Dain has now warned his father, the Truthammer clan leader, about the moon elf's accusations. [To verify exact report and response]
 - Next possible actions: Ask Kagrenac to identify the armored searcher and present any evidence beyond the armor; clarify the illegible studded cold leather note; establish who rolled the natural `1`; separate the missing friend's fate from the later searcher's death; determine what responsibility Dain actually bears.
 - Linked entries: [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hidden Tunnel](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 

@@ -12,12 +12,14 @@ After a long rest in the hidden tunnel, Kagrenac declares that he no longer trus
 - [To verify] Whether the death was murder, a great accident, or something else.
 - [DM-private] [Confirmed DM clarification] The armor Kagrenac is using as evidence would not realistically have belonged to Dain's missing friend.
 - [DM-private] [Inferred] The armor more likely belonged to a different dwarf who later went searching for the missing friend.
+- [Character-only] [Confirmed on 2026-07-11] Dain warns his father, the leader of the Truthammer clan, about the moon elf's accusations while reporting the events that brought the party to the mountain.
 
 ## Immediate Context
 - The party has moved through the hidden tunnel and completed a long rest.
 - During the rest, Dain told Brother Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels about one hundred years ago.
 - Dain said the friend sacrificed himself to pursuing troopers.
 - Dain also apologized to Taleesh over the dice game and completed the Sauna Pelt.
+- After entering the mountain, Dain reports the journey to his father and explicitly warns him about the moon elf's accusations. [To verify exact account and father's response]
 
 ## Accusation
 - Kagrenac declares that he no longer trusts Dain.

@@ -25,6 +25,7 @@
 - [Dain's Father](../Codex/Characters/Dains%20Father.md)
 - Current role: [Party] [Confirmed on 2026-07-11] head of the Truthammer clan; formal title [To verify].
 - Current beat: [Character-only] Dain declares that he is going to meet his father and heads directly toward the clan-head chamber after returning through the gates.
+- Current conversation: [Character-only] Dain admits possible responsibility for the loaned sigil, reports the journey, warns his father about the moon elf's accusations, and discloses possible debt caused by Norhan's character. The father's response is [To verify].
 - Relationship tension: [Character-only] Dain remains wounded by his rejection from the clan but has not surrendered the Truthammer name or the relationship implied by calling this dwarf his father. [To verify the father's personal role in the exile]
 - Unresolved tension: [To verify] whether the outcast status is religious, familial, legal, political, or social; whether the troopers represented the Truthhammers; and whether Dain can return safely now that he is heading home.
 - Roleplay interpretation: [Inferred] This may explain Dain's vague stories and careful backstory evasions.

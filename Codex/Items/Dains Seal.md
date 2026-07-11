@@ -17,6 +17,7 @@ A personal or Truthammer-linked sigil/seal that Dain gave to Harry / Hammerton a
 - [Character-only] The seal's exact authority, family meaning, and recoverability are not yet confirmed.
 - [Character-only] Dain now knows his father and the gnomes are aware that the sigil was used to obtain gold and consider that use disappointing.
 - [Character-only] Dain knows a repeat occurrence will trigger or require an investigation; no investigation is confirmed as active yet.
+- [Character-only] Dain has now told his father that he may be responsible because he lent out the sigil and that Norhan's character may have created Truthammer debt through it.
 
 ## What The Party Knows
 - [Party] Harry / Hammerton asks for the seal and receives it from Dain in the tavern dice/silver scene.
@@ -39,6 +40,7 @@ A personal or Truthammer-linked sigil/seal that Dain gave to Harry / Hammerton a
 - If Hammerton has it, Dain can make this a quartermaster conversation rather than a confrontation: ledger, collateral, holder, and terms.
 - Ask Hammerton privately whether he used the sigil after receiving it, what gold or credit it secured, who saw it, and whether he still holds it.
 - Consider telling Dain's father about the original handoff before a second use turns a disappointing transaction into a formal clan investigation.
+- Dain has completed the immediate confession step; next establish his father's judgment, the debt ledger, and how the sigil can be recovered or invalidated.
 
 ## Image Status
 - No reference image has been generated because the seal's form is not confirmed.
@@ -47,6 +49,7 @@ A personal or Truthammer-linked sigil/seal that Dain gave to Harry / Hammerton a
 ## Notable Events
 - 2026-06-20: Harry / Hammerton asks Dain for his seal; Dain provides it in exchange for `100 gp` worth of silver, then bets that silver in the tavern dice game. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact object, current holder, and reclaimability]
 - 2026-07-11: Dain overhears his father tell the gnome delegation that he is disappointed the sigil was used by someone for gold, identified table-side as Norhan, and that another occurrence will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify exact actor, transaction, sigil owner, and wording]
+- 2026-07-11: Dain admits to his father that he may be responsible because he lent the sigil out and that Norhan's character may have caused debt through its use. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify debt, recipient, holder, and father's response]
 
 ## Related Entries
 - [Session 2026-06-20](../../Adventures/2026-06-20.md)
