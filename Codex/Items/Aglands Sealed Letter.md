@@ -14,6 +14,7 @@ A sealed letter Commander Agland gives the party to deliver to the actual genera
 - [Character-only] Dain knows the party has promised or agreed to carry the letter onward.
 - [Character-only] Dain does not yet know the original news the party brought to Agland.
 - [Character-only] The 2026-06-20 town errands, dice conflict, rat problem, and sack delivery are all local business; the letter remains the clearest formal mission thread unless Tom confirms the party has completed or paused it.
+- [Party] On 2026-07-11, the moon elf notices airships near the Truthhammer gates and changes his immediate priority from this letter to delivering armor to Dain's father. The letter remains undelivered and should be treated as delayed or deprioritized, not abandoned, unless the table confirms a formal mission change.
 
 ## What The Party Knows
 - [Party] The letter must be delivered to the actual general near Samyrn Torst.
@@ -31,6 +32,7 @@ A sealed letter Commander Agland gives the party to deliver to the actual genera
 
 ## Notable Events
 - 2026-04-18: Commander Agland gives the party the sealed letter after hearing their report. [Session 2026-04-18](../../Adventures/2026-04-18.md)
+- 2026-07-11: On seeing airships near the Truthhammer gates, the moon elf prioritizes reaching the mountains to deliver armor to Dain's father before completing the letter delivery. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify moon elf identity, armor, party agreement, and new route]
 
 ## Related Entries
 - [Commander Agland](../Characters/Commander%20Agland.md)

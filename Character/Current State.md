@@ -9,8 +9,8 @@
 
 ## Live Snapshot - 2026-07-11
 - Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: The party has reached an [unnamed mountain lake](../Codex/Places/Unnamed%20Frog%20Lake%20-%202026-07-11.md), where a huge, bumpy brown-and-green [giant frog](../Codex/Characters/Giant%20Lake%20Frog%20-%202026-07-11.md) has clamped its jaws around Ollyander. Taleesh slashes the frog while Dain uses `Shape Water` to freeze water around its mouth and prevent it clamping down further.
-- Immediate unresolved state: Ollyander's damage and condition, Taleesh's attack details, the frog's current HP and fate, initiative, the exact `Shape Water` ruling, whether more frogs are present, the armored dwarf's identity, Dain's missing friend's fate, the Sauna Jacket's remaining steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify].
+- Location/status: After another one or two hours of walking beyond the lake encounter, the party sees the monumental gates of the [Truthhammer Mountains](../Codex/Places/Truthhammer%20Mountains.md), with airships visible near or overhead. The moon elf decides to head to the mountains first and prioritizes delivering armor to Dain's father ahead of Agland's sealed letter.
+- Immediate unresolved state: moon elf identity, airship ownership and purpose, the exact armor and its carrier, Dain's father's identity/location, whether the party agrees to the new priority, the sealed letter's urgency, the giant frog's fate and Ollyander's condition, the armored dwarf's identity, Dain's missing friend's fate, the Sauna Jacket's steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify].
 - Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity

@@ -24,6 +24,9 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [Character-only] [To verify] Dain knows or believes that local tunnels near the Truthhammer route may save travel time compared with a mountain detour.
 - [Character-only] [To verify] Dain considers the newly found hidden passage important enough to inform his father and return armed.
 - [Character-only] [To verify] Dain's father told him stories involving fire spirits and spirits haunting the mountain; the exact folklore, truth, and relevance to the current tunnel are unresolved.
+- [Party] [Confirmed on 2026-07-11] After another one or two hours of walking beyond the lake encounter, the party sees the monumental gates leading into the Truthhammer mountain stronghold.
+- [Party] Airships are visible near or above the mountain as the party approaches. Their number, origin, ownership, construction, and purpose are [To verify].
+- [Party] The moon elf notices the airships and chooses the mountain route first, prioritizing delivery of armor to Dain's father ahead of Agland's still-undelivered sealed letter. [To verify moon elf identity, armor, father, and party agreement]
 
 ## What Is Uncertain
 - [To verify] Whether "outcast" means social shame, formal exile, family estrangement, religious censure, political danger, or some combination.

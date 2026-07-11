@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Party] [Confirmed] After another one or two hours of walking, the party sees the Truthammer gates and airships near or above the mountain.
+- [Party] [Confirmed] The moon elf chooses to head to the mountains first, prioritizing delivery of armor to Dain's father ahead of Agland's still-undelivered sealed letter. Confirm moon elf identity, armor, carrier, father, airships, and party agreement.
 - [Party] [Confirmed] At the [unnamed frog lake](../Places/Unnamed%20Frog%20Lake%20-%202026-07-11.md), a huge, bumpy brown-and-green [giant frog](../Characters/Giant%20Lake%20Frog%20-%202026-07-11.md) has Ollyander in its jaws. Taleesh slashes it while Dain freezes water around its mouth with `Shape Water` to halt further clamping.
 - [Party] [To verify] Resolve Ollyander's damage and condition, Taleesh's attack roll/damage, the exact `Shape Water` ruling, current initiative, the frog's fate, and whether more frogs are present.
 - [Party] [Confirmed] Resume at [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md): Kagrenac says he no longer trusts Dain and accuses him of murdering a dwarf.

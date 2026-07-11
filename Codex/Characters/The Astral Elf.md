@@ -44,6 +44,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] During the werebear fight at the smoky cave, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 - [Party] Matt casts `Inflict Wounds` on the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), delivering the killing blow. [Confirmed on 2026-05-03] [To verify whether this was Kagrenac's action and exact spell source/resource]
 - [Party] After the 2026-07-11 long rest, Kagrenac states that he no longer trusts Dain and accuses him of murder. The DM later clarifies that the armor Kagrenac uses as evidence would not realistically belong to Dain's missing friend; it more likely belonged to a separate dwarf who searched for the friend. [Inferred owner; To verify identity]
+- [Party] On the approach to the Truthhammer gates, the character described as the moon elf notices airships and decides to head to the mountains first, changing his immediate priority from Agland's letter to delivering armor to Dain's father. [To verify whether moon elf means Kagrenac, which armor, carrier, and reason]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -76,6 +77,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: During the werebear fight, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 - 2026-05-03: Matt casts `Inflict Wounds` on the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), delivering the killing blow. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether this was Kagrenac's action]
 - 2026-07-11: Kagrenac declares he no longer trusts Dain and accuses him of murdering a dwarf connected to the hidden tunnel history. [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md)
+- 2026-07-11: After another one or two hours of walking, the moon elf notices airships near the Truthhammer gates and makes reaching the mountains to deliver armor to Dain's father the immediate priority ahead of the sealed letter. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify whether this is Kagrenac]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
