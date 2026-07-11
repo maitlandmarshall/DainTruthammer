@@ -17,6 +17,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed] [Garl Glittergold](../Lore/Garl%20Glittergold.md) was chosen as Dain's deity on 2026-04-18.
 - [Confirmed] Current location established on 2026-04-18 as the coastline near the Iron Shore Tribes.
 - [Confirmed] Dain received the `Ghostly Form Tattoo` reward after the harpy fight; this was corrected on 2026-05-03 to clarify that Kagrenac did not receive it.
+- [Confirmed] Dain received the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) when the party killed the harpies; user confirmation recorded 2026-07-11.
 - [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from [Truthammer mountain](../Places/Truthhammer%20Mountains.md) because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - [To verify] Weight, Temp HP, and prepared-spell markings remain unsettled.
 - [Confirmed from 2026-05-30 shared session] Dain took Resilient: Constitution at Wizard 4, raising CON from `13` to `14` and CON save to `+4`.
@@ -173,6 +174,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-04-24: The DM gave/approved the mechanics for `Truthammer's Leaky Shelter`, the working-title version of Dain's anti-shelter spell. His clan mountain was also placed near a volcano, with proposed volcanic-flow forge lore.
 - 2026-05-03: Codex reference images, including `Dain_Truthammer_portrait_v3.png`, were regenerated in the campaign's kinetic shonen fantasy anime style.
 - 2026-05-03: User correction clarified that Dain, not Kagrenac, received the `Ghostly Form Tattoo` reward from the harpy fight.
+- 2026-07-11: User confirmed Dain also received the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) when the party killed the harpies on 2026-04-18.
 - 2026-05-03: During a forest long rest beside a flowing river, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and spent the final hour meditating inside it.
 - 2026-05-03: DM note recorded that Dain is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - 2026-05-03: Dain exited [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) dressed but damp, heard Kagrenac's Common announcement that "a lizard has arrived," saw Hammerton holding a severed lizard head, and initially misunderstood the announcement. [Session 2026-05-03](../../Adventures/2026-05-03.md)

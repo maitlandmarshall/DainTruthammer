@@ -40,6 +40,7 @@
 
 ## Magic Items
 - Attuned Magic Items: none listed
+- [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) x1 [Character-only] [Confirmed by user on 2026-07-11] Received after the party killed the harpies on 2026-04-18. Rare medium armor (breastplate), `20 lb.`, requiring attunement. It has `4` charges that can cancel advantage or disadvantage on a visible creature's imminent d20 roll, or cast `Lesser Restoration`; it regains `1d4` expended charges daily at dawn. [To verify current carrier, whether Dain is attuned, and whether Dain has medium armor training]
 - Ghostly Form Tattoo x1 [Character-only] [Confirmed] Dain received this as the harpy-fight reward on 2026-04-18. [Retcon] User correction recorded 2026-05-03.
   Effects as currently understood: while the tattoo is on the skin, one charge can be spent to become incorporeal; for the duration, gain resistance to bludgeoning attacks, cannot be grappled or restrained, and can move through creatures and solid objects as though they were difficult terrain; moving through a solid object deals `1d10` damage and places the wearer in the nearest available space. [To verify exact wording, total charges, and duration]
 
@@ -60,6 +61,7 @@
 ## Notes
 - [Confirmed] The sheet's total carried weight matches the duplicate weapon, robe, and book entries, so they are preserved as real items unless corrected later.
 - [Confirmed] The `Ghostly Form Tattoo` belongs to Dain, not Kagrenac. [Retcon] User correction recorded 2026-05-03.
+- [Confirmed by user on 2026-07-11] Dain received the [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) when the party killed the harpies on 2026-04-18. The baseline PDF omitted it; worn, attuned, and armor-training status are [To verify].
 - [Confirmed] On 2026-05-03, [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) gave Dain one pound of hedgehog mushroom, and Dain began hollowing it into a [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md).
 - [Confirmed] During the 2026-05-03 goblin toll encounter, Dain offered the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) to the goblin leader as food; the goblin leader began eating it and took `4` fire damage.
 - [Character-only] On 2026-05-03, Dain began the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after reaching `6%` progress on an always-warm robes idea for Brother Taleesh and deciding the warm version was not truly him.
