@@ -33,7 +33,9 @@
 ## In-Progress Crafted Items
 - [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) x1 [Party] [No longer carried by Dain] Begun on 2026-05-03 from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), then offered to the goblin leader as food during the goblin toll encounter. The goblin leader is eating it, took `4` fire damage from it, and the final remains are [To verify].
 - [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) x1 [Character-only] [In progress] Begun on 2026-05-03 after Dain abandoned or pivoted from a `6%` always-warm robes attempt for Brother Taleesh. Base robe, materials, exact progress, and whether inventory is consumed are [To verify].
-- [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) x1 [Character-only] [In progress] Begun on 2026-05-30 from a good-quality large pelt provided by Brother Taleesh; Dain records `84%` progress using the Always-Cold Robes experiment and the earlier `6%` always-warm garment attempt. [To verify DM acceptance, mechanics, resources, and whether the pelt is currently carried by Dain or Taleesh]
+
+## Completed Crafted Items
+- [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) x1 [Character-only] [Complete on 2026-07-11] Begun from a good-quality large pelt provided by Brother Taleesh and finished during the long rest. It is always warm in cold environments, and its wetness smells like wolf piss. [To verify current carrier, attunement, exact mechanics, and whether the earlier steam/scalding risk remains]
 
 ## Clothing
 - Robe x2 [To verify whether one robe is being altered into the Always-Cold Robes prototype]
@@ -67,7 +69,7 @@
 - [Character-only] On 2026-05-03, Dain began the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype after reaching `6%` progress on an always-warm robes idea for Brother Taleesh and deciding the warm version was not truly him.
 - [Confirmed] The 2026-05-03 burdock and ginseng payment from the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) is shared [Party Loot](./Party%20Loot.md), not Dain's personal inventory.
 - [Confirmed on 2026-05-30] Dain acquired 250 ft of silk rope for `35 gp`; payment source, carrier arrangement, and final carried weight are [To verify].
-- [Character-only] [Confirmed on 2026-05-30] Dain began the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) for Brother Taleesh and records `84%` progress. [To verify DM acceptance]
+- [Character-only] [Confirmed] Dain began the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) for Brother Taleesh on 2026-05-30 and completed it during the 2026-07-11 long rest.
 - [To verify] 2026-06-20 cash flow: Dain attempts to donate to 10 gnomes, gives `1 gp` each to six gnomes seen in a building, gives `1 gp` to Ollyander after winning a dice round, gets back `2 gp`, wins another `2 gp`, provides [Dain's Seal](../Codex/Items/Dains%20Seal.md) to Harry / Hammerton for `100 gp` worth of silver, bets that silver, loses the later betting round, records a human/townsperson trade with Ollyander involving `60 gp` worth of silver, and later gives his last `5 gp` to the human/townsperson tied to the rat-house thread. Exact starting coin source, tavern drink cost, wagers, winnings, silver ownership, seal status, and final silver/other-coin balance are unresolved.
 - [To verify] Which party member is physically carrying Commander Agland's sealed letter.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

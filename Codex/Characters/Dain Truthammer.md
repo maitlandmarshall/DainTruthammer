@@ -25,6 +25,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed from 2026-05-30 shared session] Level-up picks include Shape Water, Web, and Rope Trick.
 - [To verify] Exact max HP after level 4 and Resilient: Constitution; `29` is the likely value under normal retroactive CON handling.
 - [Confirmed by user from DM] Dain and/or the Truthhammers have a half-Azer connection; exact scope and implications are [To verify].
+- [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
 
 ## What The Character Knows
 - [Character-only] He delights in deception, illusion, and strange little magical tricks.
@@ -69,6 +70,10 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain notices that the unnamed town has issues with rats and poverty, records an action item to find the human/townsperson and give silver, and tells the human, "Gather the rats while I'm gone." [To verify identity and house]
 - [Character-only] Dain gives his last `5 gp` to the human/townsperson tied to the rat-house thread. His gold-piece balance is likely `0`, but exact silver and other coin holdings remain [To verify].
 - [Character-only] The next morning, Dain reflects on his failed pub moral lesson, prays to [Garl Glittergold](../Lore/Garl%20Glittergold.md) about his disappointment, sees a rat fall from the ceiling, and begins writing a new failed-moral-lesson rat spell in his wizard book / spellbook. Current lead pitch: `Truthammer's Cuddly Rat`, whose full-hour cuddle leaves the target feeling as if they failed an important moral lesson; mechanics remain idea-stage in [Failed Moral Lesson Rat Spell Ideas](../Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md).
+- [Character-only] During the 2026-07-11 long rest, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels about one hundred years ago and sacrificed himself to pursuing troopers.
+- [Character-only] Dain apologizes to Taleesh for the dice-game coercion and explains the intended moral lesson; Taleesh answers that it is "the Truthammer virtue, not Taleesh virtue."
+- [Character-only] Dain completes the [Sauna Pelt](../Items/Sauna%20Pelt.md): always warm in cold environments, with wetness that smells like wolf piss.
+- [Party] Kagrenac declares that he no longer trusts Dain and accuses him of murdering a dwarf. A natural `1` suggests a possible great accident rather than murder, but the exact check and conclusion are [To verify].
 - [Party] Around the goblin campfire, Dain puts his arm around the hobgoblin leader and speaks of his mother, apprenticeship, and early training. [To verify whether "hobgoblin leader" corrects earlier goblin-leader shorthand]
 - [Party] Dain says, "I trained under people who prized precision and under others who prized results. I kept both lessons and annoyed both camps."
 - [Party] Dain says, "My mother could correct a room without raising her voice. A rare talent." [To verify her name]
@@ -78,13 +83,16 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] Olar Dunglor is a lake high in the mountains, named by southern human traders seeking directions on 2026-05-03.
 - [To verify] Whether the party knows Dain is an outcast from his mountain homeland.
 - [To verify] Dain's public-facing motives and immediate purpose on that coast are not yet recorded.
+- [Party] [To verify who overheard] Dain has told Taleesh about escaping through the hidden tunnels one hundred years ago and about the friend who sacrificed himself to the pursuing troopers.
+- [Party] Kagrenac openly accuses Dain of murder and states that he no longer trusts him.
 
 ## What Is Uncertain
 - [To verify] What his Temp HP and current active effects are.
-- [To verify] Current HP after the Coal Mine Puppet stabbing, likely near `1 HP`.
+- [To verify] Exact maximum HP after the 2026-07-11 long rest; Dain is restored to maximum, likely `29` under the current level-4 calculation.
 - [To verify] Which wizard spells are prepared right now versus simply present on the export.
 - [To verify] What "outcast" means mechanically/socially: family rejection, religious censure, legal exile, clan politics, or another status.
 - [To verify] Whether the half-Azer connection applies only to Dain, to the Truthammer bloodline more broadly, or to another family/cultural layer, and whether it has any mechanical effect.
+- [To verify] The dead dwarf's identity, the studded cold leather note, Kagrenac's evidence, the sacrificed friend's identity and fate, the troopers' allegiance, and whether a great accident rather than murder occurred.
 
 ## Description
 - [Confirmed] Male dwarf, age 107, medium, 4'9", white skin, brown eyes, black hair.
@@ -151,7 +159,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Understand why the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) can apparently block `Identify`, why it bites during prayer to [Garl Glittergold](../Lore/Garl%20Glittergold.md), what a cobalt puppet is, why [Kurtlemack](../Lore/Kurtlemack.md) hates him or someone near him, and whether "the coal mines" are a destination, prison, origin, or trap.
 - [Character-only] Preserve the future five truthful answers from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) for questions that actually matter.
 - [Character-only] Use the five truthful answers for the Coal Mine Puppet's origin, identity, coal-mine destination, return/destruction risks, and the Garl/Kurtlemack reaction.
-- [Character-only] Finish or stabilize the [Sauna Pelt](../Items/Sauna%20Pelt.md) for Brother Taleesh.
+- [Character-only] Decide whether to hand the completed [Sauna Pelt](../Items/Sauna%20Pelt.md) to Brother Taleesh now and confirm whether its earlier lethal-steam risk survives beneath the wolf-piss wetness.
+- [Character-only] Answer Kagrenac's murder accusation and decide how much of the century-old escape, sacrificed friend, troopers, and possible accident to reveal.
 - [Character-only] Resolve the 2026-06-20 dice aftermath: final silver accounting, [Dain's Seal](../Items/Dains%20Seal.md), Taleesh's cheating, Ollyander's winnings, and any party trust damage.
 - [Character-only] Find the human/townsperson tied to the rat-and-poverty problem, inspect the house, gather or contain the rats, and give silver responsibly.
 - [Character-only] Develop the failed-moral-lesson rat spell seed without treating the mechanics as canon before user/DM approval.
@@ -161,7 +170,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Prove that strange edge-case spells can hold wonder, elegance, and real value even when no one else sees the point.
 
 ## Mechanical Snapshot
-- Current HP nearly 1 after the Coal Mine Puppet stabbing [To verify exact value]; max HP likely 29 [To verify Tom's HP ruling]; current AC `14` from the equipped and attuned [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md); Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4; medium armor training confirmed; `1 / 3` confirmed attunement slots occupied.
+- Current HP restored to maximum by the 2026-07-11 long rest [likely `29`, To verify Tom's ruling]; current AC `14` from the equipped and attuned [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md); Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4; medium armor training confirmed; `1 / 3` confirmed attunement slots occupied.
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 
@@ -177,6 +186,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: User correction clarified that Dain, not Kagrenac, received the `Ghostly Form Tattoo` reward from the harpy fight.
 - 2026-07-11: User confirmed Dain also received the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) when the party killed the harpies on 2026-04-18.
 - 2026-07-11: Dain equips and attunes to the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md), setting his current AC to `14` and occupying one attunement slot. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: During a long rest, Dain reveals his century-old tunnel escape and sacrificed friend to Taleesh, apologizes over the dice game, finishes the [Sauna Pelt](../Items/Sauna%20Pelt.md), then faces [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md).
 - 2026-05-03: During a forest long rest beside a flowing river, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and spent the final hour meditating inside it.
 - 2026-05-03: DM note recorded that Dain is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - 2026-05-03: Dain exited [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) dressed but damp, heard Kagrenac's Common announcement that "a lizard has arrived," saw Hammerton holding a severed lizard head, and initially misunderstood the announcement. [Session 2026-05-03](../../Adventures/2026-05-03.md)

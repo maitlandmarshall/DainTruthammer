@@ -5,7 +5,7 @@
 - Spellcasting Ability: INT
 - Spell Save DC: 15
 - Spell Attack Bonus: +7
-- Slots: 1st level 4/4, 2nd level 3/3 maximum after Wizard 4 [current remaining after the 2026-05-30 winter wolf fight and 2026-06-20 `Suggestion` against Taleesh is To verify; Taleesh failed the save]
+- Slots: `1st 4/4`, `2nd 3/3` after the completed 2026-07-11 long rest.
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
 - [To verify] `Prestidigitation` is repeatedly recorded in prior play use, but it is not currently listed under **Cantrips On Sheet**. Confirm whether this is an omitted cantrip, a table allowance, sheet drift, or an earlier record error before relying on it in live play.
 
@@ -52,10 +52,10 @@
   A prototype magical garment concept begun after Dain abandoned a more conventional attempt to make robes that were always warm for Brother Taleesh. [Confirmed on 2026-05-03]
   Research progress: always-warm robes branch reached `6%`, then was abandoned or pivoted; Dain later got further along by casting cold magic into the jacket / robe prototype. Exact cold-robes progress after the flash of inspiration and travelling experiment is [To verify].
   Current notes: Dain realizes halfway through the warmth project that it is not truly him, then pivots toward robes that always make the wearer cold. While travelling onward on 2026-05-03, he realizes he is already cold and records that lived coldness as a comparison point for later development.
-- [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) [Character-only] [In progress]
-  A dangerous wet-heat pelt prototype for Brother Taleesh, begun on 2026-05-30 after Taleesh asked Dain to make a good-quality large pelt into always-warm leather.
-  Research progress: `84%` according to Dain's live notes, using knowledge from the Always-Cold Robes and the recovered `6%` warm-garment branch. [To verify DM acceptance, resources, and final mechanics]
-  Current notes: The pelt begins wet or damp, turns moisture into warmth, escalates toward steam, and may become dangerous or lethal if uncontrolled.
+- [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) [Character-only] [Complete]
+  A wet-heat pelt for Brother Taleesh, begun on 2026-05-30 and completed during the 2026-07-11 long rest.
+  Research progress: complete. Dain used knowledge from the Always-Cold Robes and the recovered `6%` warm-garment branch.
+  Confirmed final notes: always warm in any cold environment; the wetness always smells like wolf piss. [To verify exact mechanics, carrier, attunement, and whether the earlier steam/scalding risk remains]
 - [Failed Moral Lesson Rat Spell Ideas](../Codex/Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md) [Character-only] [Idea-stage] [In progress]
   A new spell seed begun on 2026-06-20 after Dain reflected on a failed pub moral lesson, prayed to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and saw a rat fall from the ceiling.
   Research progress: beginning notes only. Dain has started writing in his wizard book / spellbook; no name, level, school, components, or mechanics are approved yet.
@@ -76,3 +76,4 @@
 - 2026-05-30: During the winter wolf fight, Web and Restrained rules were clarified; whether Dain actually cast Web and spent a 2nd-level slot is [To verify]. See [Web And Restrained](../Codex/Rules/Web%20And%20Restrained.md).
 - 2026-06-20: In the tavern dice game with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), Dain casts `Suggestion` on Taleesh with the stern command, "Complete the game." Taleesh fails the save and the game completes; 2nd-level slot expenditure, exact roll/DC, and table reaction are [To verify]. [Session 2026-06-20](../Adventures/2026-06-20.md)
 - 2026-06-20: The next morning after the pub/dice scene, Dain prays to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md) about his failed moral lesson. A rat falls from the ceiling, and Dain begins writing a new failed-moral-lesson rat spell in his wizard book / spellbook. Mechanics are not approved; see [Failed Moral Lesson Rat Spell Ideas](../Codex/Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md). [Session 2026-06-20](../Adventures/2026-06-20.md)
+- 2026-07-11: The party completes a long rest in the hidden tunnel, restoring Dain's spell slots to `1st 4/4` and `2nd 3/3`. During the rest, Dain finishes the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md). [Session 2026-07-11](../Adventures/2026-07-11.md)

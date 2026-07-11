@@ -7,11 +7,11 @@
 - [To verify] 2026-05-30 is an approximate session date. On 2026-06-20, the user clarified the shared chat was from roughly three weeks earlier, not from 2026-06-20.
 - [Confirmed] 2026-06-20 live session notes imported from user notebook photos in [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md).
 
-## Live Snapshot - 2026-06-20
-- Current live session: [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md). `Glittergold Road` is the session title only, not a confirmed in-world road or place.
-- Location/status: After leaving the [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md), Dain and the party have travelled east to a [hidden tunnel near Truthhammer Mountain](../Codex/Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md). They passed a stone bridge, reached a tunnel and grand door, found an entrance hearth and hidden passage, descended toward an unknown spiral stair, and are now at a floor collapse over the Underdark with a possible roper below. [To verify exact route, marching order, and whether anyone fell]
-- Immediate unresolved state: current HP, exact coin balance, remaining spell slots after the winter wolf fight and the 2026-06-20 `Suggestion`, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, exact silver ownership, floor-collapse consequences, and possible-roper initiative are all [To verify].
-- Table-side aid: [2026-06-20 Live Play Aid](../Adventures/2026-06-20-play-aid.md).
+## Live Snapshot - 2026-07-11
+- Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
+- Location/status: The party has moved through to the end of the [hidden tunnel near Truthhammer Mountain](../Codex/Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md) and completed a long rest. Dain has described his century-old escape through these tunnels to [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), finished the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), and now faces [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md)'s accusation that he murdered a dwarf. Play resumes at the accusation scene.
+- Immediate unresolved state: the dead dwarf's identity, the exact studded-cold-leather note, whether the death was murder or a great accident, Dain's sacrificed friend's identity and fate, Kagrenac's evidence, the completed Sauna Pelt's remaining steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify].
+- Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity
 - Name: Dain Truthammer
@@ -29,7 +29,7 @@
 
 ## Core Numbers
 - Max HP: likely 29 [To verify Tom's HP ruling after Resilient: Constitution and level 4]
-- Current HP: nearly 1 after the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) stabbed Dain on 2026-05-30 [To verify exact HP and damage]
+- Current HP: restored to maximum by the 2026-07-11 long rest; exact maximum is likely `29` but remains [To verify Tom's ruling].
 - Temp HP: [To verify] the Temp HP field shows `--`
 - AC: `14` from the equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11]
 - Initiative: +0
@@ -63,7 +63,7 @@
 - Other noted skills: Athletics +2, Deception +2, Insight +1, Medicine +3, Perception +1, Survival +1
 
 ## Resources
-- Spell Slots: maximum now 1st level 4/4 and 2nd level 3/3 after Wizard 4; current remaining after the 2026-05-30 winter wolf fight and 2026-06-20 `Suggestion` against Taleesh is [To verify]. Taleesh failed the `Suggestion` save; whether the slot was spent normally should still be confirmed at the table.
+- Spell Slots: `1st 4/4`, `2nd 3/3` after the completed 2026-07-11 long rest.
 - Attunement: `1 / 3` confirmed slots occupied by the [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Ghostly Form Tattoo](../Codex/Items/Ghostly%20Form%20Tattoo.md)'s attunement requirement and applied state remain [To verify].
 - Arcane Recovery: 1 / Long Rest
 - Stonecunning (Tremorsense): 2 / Long Rest
@@ -74,7 +74,7 @@
 - Conjured warm cloak: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night; the night has passed, so any continued cloak effect is [To verify]. [Party] [Character-only] [Confirmed]
 - Former in-progress craft: [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), begun from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), then offered to the goblin leader as food during the toll encounter. The goblin leader is eating it and has taken `4` fire damage; final lantern state is [To verify].
 - In-progress magical prototype: [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md), begun after Dain reached `6%` progress on always-warm robes for Brother Taleesh, realized that was not truly him, and pivoted to robes that always make the wearer cold. As the party continues onward on 2026-05-03, Dain casts cold magic into the jacket / robe prototype, gets further along, realizes he is already cold, and records that current coldness as a comparison point for later development. Exact cold-robes progress, mechanics, and spell/resource expenditure are [To verify].
-- In-progress magical prototype: [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), begun on 2026-05-30 after [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) gave Dain a good-quality large pelt and asked for always-warm leather. Dain records `84%` progress using knowledge from the Always-Cold Robes and the earlier `6%` warm-garment attempt. [To verify DM acceptance, resources, mechanics, and safety constraints]
+- Completed magical craft: [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), finished during the 2026-07-11 long rest for [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md). It is always warm in cold environments, and its wetness smells like wolf piss. [To verify carrier, attunement, exact mechanics, and whether the earlier steam/scalding risk remains]
 - In-progress original spell research: [Failed Moral Lesson Rat Spell Ideas](../Codex/Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md), currently led by the `Truthammer's Cuddly Rat` pitch, begun on 2026-06-20 after Dain prayed to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md) about a failed pub moral lesson and a rat fell from the ceiling. Current proposed effect: a fat, fluffy rat cuddles a sad target for an hour, after which the target feels as if they failed an important moral lesson. The fact of Dain writing the beginnings of the spell is canon; the mechanics remain idea-stage and [To verify].
 - Heroic Inspiration: [To verify] not marked on the sheet
 - Active conditions: none confirmed after the harpy fight; any condition, injury, curse, poison, or other lingering effect after the puppet bite/stabbing and the 2026-06-20 live session remains [To verify].
@@ -110,7 +110,8 @@
 - [Character-only] Preserve the five truthful answers owed by the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) upon delivery, ideally for the puppet, [Kurtlemack](../Codex/Lore/Kurtlemack.md), or coal-mine mystery.
 - [Character-only] Ask the five prepared puppet questions when the truthful-answer debt comes due.
 - [Character-only] Survive and recover from the Coal Mine Puppet stabbing, confirm current HP, and make sure the puppet is restrained or otherwise made safe.
-- [Character-only] Complete or stabilize the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) for [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) without letting "warmth" define itself as conquest.
+- [Character-only] Decide how and when to give the completed [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) to [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), and confirm whether its wolf-piss wetness replaced or merely disguised the earlier lethal-steam risk.
+- [Character-only] Answer Kagrenac's murder accusation without surrendering the truth of Dain's century-old tunnel escape or the friend's sacrifice that made it possible.
 - [Character-only] Resolve the dice-game aftermath with Brother Taleesh without letting cheating become the final joke; clarify final winnings, unfair play, and any party tension after Taleesh failed the `Suggestion` save.
 - [Character-only] Deliver or investigate the [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) received from Glittergold-worshipping gnomes and intended for the local church.
 - [Character-only] Find the human/townsperson tied to the town's rat-and-poverty problem, inspect the house, gather the rats, and decide how much silver Dain can responsibly give.

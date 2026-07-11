@@ -17,7 +17,11 @@ Answers for when people ask what Dain has done, what went wrong, or what he woul
 - "I prefer my regrets cured before I introduce them socially."
 
 ## Canon Notes
-- [To verify] No specific scandal, crime, feud, or great failure has been established yet.
+- [Party] [Confirmed on 2026-07-11] Kagrenac accuses Dain of murdering a dwarf connected to the hidden tunnel history and says he no longer trusts him.
+- [Party] [To verify] A natural `1` leads to the possibility that Dain did not murder the dwarf but that a great accident occurred. Confirm who rolled, what check was involved, and whether this is fact, inference, or mistaken belief.
+- [Character-only] Dain's confirmed history includes escaping through these tunnels about one hundred years ago with a friend's help; the friend sacrificed himself to pursuing troopers.
+- [To verify] The dead dwarf's name, the studded cold leather note, how the dead dwarf relates to Dain's sacrificed friend, and what Dain actually did.
 
 ## Related entries
 - [Dain Background Evasions](../Dain%20Background%20Evasions.md)
+- [Session 2026-07-11](../../../Adventures/2026-07-11.md)

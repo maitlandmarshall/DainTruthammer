@@ -19,6 +19,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac has an owl that spotted the ogres before they fully reached camp.
 - [Character-only] [Confirmed] Dain recorded `+4` respect for Kagrenac after hearing that he tried to fire Yuckie from a ballista.
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
+- [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
 
 ## What Dain Knows
@@ -26,6 +27,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Character-only] Dain respects this more than he probably should.
 - [Character-only] Dain has promised to help Kagrenac make the mountain ascent safely.
 - [Character-only] Dain suggests Kagrenac may be interested in Taleesh's goji leaves after refusing them himself. [To verify whether Kagrenac is actually interested]
+- [Character-only] The 2026-07-11 notebook records `+13` respect connected to Kagrenac. [To verify direction, triggering beat, and resulting total]
 
 ## What The Party Knows
 - [Party] Kagrenac's owl warned the party about the approaching ogres at the creek-fork camp.
@@ -41,6 +43,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] About 30 minutes after leaving the goblin camp, Kagrenac's owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): a cave/nest with fur on rocks, smoke coming out, and very large four-claw scratch marks on nearby trees. [Confirmed on 2026-05-03]
 - [Party] During the werebear fight at the smoky cave, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 - [Party] Matt casts `Inflict Wounds` on the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), delivering the killing blow. [Confirmed on 2026-05-03] [To verify whether this was Kagrenac's action and exact spell source/resource]
+- [Party] After the 2026-07-11 long rest, Kagrenac states that he no longer trusts Dain and accuses him of murder. The exact evidence and dead dwarf's identity remain [To verify].
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -72,11 +75,13 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: About 30 minutes after leaving the goblin camp, Kagrenac's owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): scratch-marked trees, fur on rocks, smoke, and very large four-claw marks. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During the werebear fight, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
 - 2026-05-03: Matt casts `Inflict Wounds` on the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), delivering the killing blow. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether this was Kagrenac's action]
+- 2026-07-11: Kagrenac declares he no longer trusts Dain and accuses him of murdering a dwarf connected to the hidden tunnel history. [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md)
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)
 - [Brother Taleesh](./Brother%20Taleesh.md)
+- [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md)
 - [Taleesh's Herbal Stash](../Items/Taleeshs%20Herbal%20Stash.md)
 - [Sytxweed Plant](../Items/Sytxweed%20Plant.md)
 - [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md)

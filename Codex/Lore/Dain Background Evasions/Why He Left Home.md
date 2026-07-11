@@ -1,7 +1,7 @@
 # Why He Left Home
 
 ## One-line summary
-Ways Dain can answer why he left the Truthammer Mountains without committing to one decisive cause.
+Dain's evasive answers now conceal a confirmed century-old escape through hidden mountain tunnels, aided by a friend who sacrificed himself to pursuing troopers.
 
 ## Vague Answers
 - "I left for the usual reasons: curiosity, principle, and the occasional consequence."
@@ -21,10 +21,14 @@ Ways Dain can answer why he left the Truthammer Mountains without committing to 
 
 ## Canon Notes
 - [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Garl%20Glittergold.md).
+- [Character-only] [Confirmed on 2026-07-11] Dain escaped Truthhammer Mountain through hidden tunnels about one hundred years ago with a friend's help.
+- [Character-only] [Confirmed on 2026-07-11] The friend sacrificed himself to pursuing troopers during the escape. [To verify whether the friend died, the troopers' identity, and the exact sequence]
+- [Party] [To verify who overheard] Dain revealed this history to [Brother Taleesh](../../Characters/Brother%20Taleesh.md) during a long rest shortly before Kagrenac accused Dain of murder.
 - [Inferred] This may be a central reason Dain is vague about his life, stories, and backstory.
-- [To verify] Whether Dain physically left because of the outcast status, was formally exiled, left before formal censure, or still has some way home.
+- [To verify] Whether Dain fled because of the faith-based outcast status, was formally exiled, left before formal censure, or escaped for another connected reason.
 
 ## Related entries
 - [Dain Background Evasions](../Dain%20Background%20Evasions.md)
 - [Home In The Truthammer Mountains](./Home%20In%20The%20Truthammer%20Mountains.md)
 - [Garl Glittergold](../Garl%20Glittergold.md)
+- [Session 2026-07-11](../../../Adventures/2026-07-11.md)

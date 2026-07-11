@@ -1,39 +1,46 @@
 # Open Threads
 
-## Current Live Focus - 2026-06-20
-- [Party] [Confirmed] Survive the collapse in the [hidden tunnel near Truthhammer Mountain](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md): the floor has given way above the Underdark, a roper may be below, and Dain has begun stepping back after sensing danger. Confirm who fell, distances, initiative, and whether retreat is possible.
-- [Party] [Character-only] [To verify] Decide whether the local tunnel shortcut is still worth using for [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), or whether the party should mark the hidden passage, warn Dain's father / the Truthhammers, and come back armed.
-- [Party] [Character-only] [To verify] Resolve the dice-game aftermath with [Brother Taleesh](../Characters/Brother%20Taleesh.md): Taleesh failed the `Suggestion` save and the game completed, but final silver flow, Dain's seal status, any revealed trick, and lasting party tension remain unresolved.
-- [Party] [Character-only] [To verify] Address the [unnamed town](../Places/Unnamed%20Town%20-%202026-06-20.md)'s rat-and-poverty problem: find the [rat-house human/townsperson](../Characters/Rat-House%20Human%20-%202026-06-20.md), identify the house, inspect or gather the rats, and decide how Dain can give silver responsibly.
-- [Character-only] [To verify] Develop the failed-moral-lesson rat spell seed: Dain has begun writing after next-morning prayer to [Garl Glittergold](./Garl%20Glittergold.md) and a rat falling from the ceiling, but all mechanics remain non-canon until approved.
-- [Character-only] [To verify] Investigate or deliver the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md): identify the church / forge shrine, the sack contents, and whether the local faith is Garl, Gond, mixed, or something else.
-- [Party] [To verify] Lock down the six-dragon artisan deal: confirm exact dragon material, promised equipment, recipients, crafting timeline, and who owns any leftovers.
-- [Party] [Confirmed] Keep the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) delivery intact while handling town business: confirm carrier, route, urgency, and whether the unnamed town is on the way to the actual general near Samyrn Torst.
+## Current Live Focus - 2026-07-11
+- [Party] [Confirmed] Resume at [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md): Kagrenac says he no longer trusts Dain and accuses him of murdering a dwarf.
+- [Character-only] [Confirmed] Dain has disclosed to Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers.
+- [Party] [To verify] Establish the dead dwarf's identity, Kagrenac's evidence, the meaning of the studded cold leather note, and whether a natural `1` established a great accident rather than murder.
+- [Party] [Confirmed] The party reached the tunnel's far end and completed a long rest; Dain's HP, spell slots, and long-rest resources are restored.
+- [Character-only] [Confirmed] Dain finished the [Sauna Pelt](../Items/Sauna%20Pelt.md): always warm in cold environments, with wetness that smells like wolf piss. Confirm carrier and whether earlier steam danger remains.
+- [Party] [Character-only] Dain apologized to Taleesh for the dice-game coercion; Taleesh answered that it was "the Truthammer virtue, not Taleesh virtue."
+- [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
 
-### Survive The Hidden Tunnel Collapse
+### Answer Kagrenac's Murder Accusation
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
+- Why it matters: Kagrenac has explicitly withdrawn trust and accused Dain of murder at the moment Dain's hidden century-old escape history is surfacing.
+- Latest development: After the party reached the tunnel's far end and completed a long rest, Dain told Taleesh that a friend helped him escape these tunnels one hundred years ago and sacrificed himself to pursuing troopers. Kagrenac then accused Dain of murdering a dwarf. A natural `1` raises the possibility of a great accident instead, but its exact meaning is unclear.
+- Next possible actions: Ask Kagrenac to name the dead dwarf and present his evidence; clarify the illegible studded cold leather note; establish who rolled the natural `1`; separate direct murder, accidental death, abandonment, concealment, and survivor's guilt; decide how much Dain reveals about his friend and the troopers.
+- Linked entries: [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hidden Tunnel](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
+
+### Survive The Hidden Tunnel Collapse
+- Status: Resolved
+- Tags: [Party] [Character-only] [To verify]
 - Why it matters: The party's possible shortcut through local tunnels has become an immediate survival scene. The floor has collapsed over the Underdark, a roper may be present, and the route may threaten both the party and the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission.
-- Latest development: On 2026-06-20, after travelling east, crossing or reaching a stone bridge, entering a tunnel through a grand door, finding a hearth and hidden passage, and descending toward an unknown spiral stair, the party travelled about another hour before the floor collapsed beneath them. Below is the Underdark. Dain senses danger and begins stepping back. A roper is possible but not confirmed.
-- Next possible actions: Confirm who fell, who is still on stable ground, current light sources, edge distance, initiative, whether a roper or tendrils are visible, and whether the party can retreat to the grand door. Use rope before anyone leans over the edge; ask what Dain's Stonecunning / Tremorsense, Arcana, History, or family stories reveal; decide whether to fight, secure the collapse, withdraw, or mark the passage and return armed.
+- Latest development: By 2026-07-11, the party has moved through to the tunnel's far end and completed a long rest. The collapse is no longer the immediate live danger, though exact roper and fall details remain [To verify].
+- Next possible actions: Preserve any unresolved factual details for cleanup, but treat the murder accusation at the tunnel's end as the current scene.
 - Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Hidden Tunnel Near Truthhammer Mountain](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Current State](../../Character/Current%20State.md)
 
 ### Investigate The Hidden Truthhammer Tunnel
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: The hidden passage may be unknown to the Truthhammers, connected to Dain's father and family lore, or part of a larger mountain/Underdark hazard. If it truly sits near the Truthhammer route, it may affect Dain's home, clan security, and the safest route toward the party's larger mission.
-- Latest development: On 2026-06-20, the party reached a grand tunnel door, found an entrance hearth, lit it, and got no obvious response. They found a hidden passage behind rubble; Hammerton / "Dresden" broke through with a protesting hammer. A spiral staircase goes straight down and is described in the notes as unknown to the Truthhammers. Dain says his father should be informed and the party should come back armed.
-- Next possible actions: Confirm the tunnel's exact location relative to Truthhammer Mountain, what the stone bridge crosses, whether the grand door and hearth are Truthhammer work, whether the stair is truly unknown to Dain's clan, what Dain's father may know, and whether Dain's fire-spirit / mountain-spirit stories help identify the danger.
+- Latest development: By 2026-07-11, the party reaches the tunnel's far end. During a long rest, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers. This complicates the earlier note that the passage was unknown to the Truthhammers.
+- Next possible actions: Confirm the tunnel's exact location, why Dain initially treated it as unknown, whether the known and hidden sections are distinct, who the troopers served, what Dain's father knows, and how the dead dwarf and Kagrenac's accusation connect to the escape.
 - Linked entries: [Hidden Tunnel Near Truthhammer Mountain](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
 
 ### Finish The Dice Game With Taleesh
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dice-game cheating or apparent cheating sharply changes Dain's trust in him, creates an immediate party tension, and has already escalated to Dain casting `Suggestion` on another party member.
-- Latest development: On 2026-06-20, Taleesh invited Dain to dice before Dain left the tavern. Dain initially could not detect the cheating, later concluded Taleesh cheated, reduced respect by `-11`, and decided to anti-cheat after Taleesh tried to deceive him and frame the game as "just a little fun and games." When Taleesh detected Dain's counterplay and tried to end the game, Dain cast `Suggestion` on Taleesh with the command: "Complete the game." Taleesh failed the save, the game completed, Dain later lost a betting round, and [Ollyander](../Characters/Ollyander.md) ended up winning.
-- Next possible actions: Confirm whether Taleesh objectively cheated, current pot and stakes, whether Ollyander's `3 rats` is the correct reading, who holds [Dain's Seal](../Items/Dains%20Seal.md), who holds the `100 gp` worth of silver Dain bet, what happened with the human/townsperson's `60 gp` worth of silver trade with Ollyander, whether the party notices or objects to the spell, and how Taleesh responds after the game ends.
+- Latest development: During the 2026-07-11 long rest, Dain apologizes to Taleesh for his dice-game actions and explains that he meant to teach a moral lesson about virtue. Taleesh replies, "It's the Truthammer virtue, not Taleesh virtue." The notebook records `+13` respect connected to Taleesh [To verify direction and resulting total].
+- Next possible actions: Treat the direct moral dispute as addressed but not necessarily forgiven; confirm final money, [Dain's Seal](../Items/Dains%20Seal.md), Ollyander's `3 rats`, and whether Taleesh accepts the completed [Sauna Pelt](../Items/Sauna%20Pelt.md).
 - Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Ollyander](../Characters/Ollyander.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Dain's Seal](../Items/Dains%20Seal.md), [Relationships](../../Character/Relationships.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Resolve The Dragon Remains Artisan Deal
@@ -98,12 +105,12 @@
 - Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Kurtlemack](./Kurtlemack.md), [Garl Glittergold](./Garl%20Glittergold.md), [Party Loot](../../Character/Party%20Loot.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md)
 
 ### Complete The Sauna Pelt
-- Status: Active
-- Tags: [Character-only] [To verify]
+- Status: Resolved
+- Tags: [Character-only] [Confirmed] [To verify mechanics]
 - Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md) asked Dain for always-warm leather, and Dain's answer is becoming the [Sauna Pelt](../Items/Sauna%20Pelt.md), a dangerous but promising follow-through on the warmth bargain.
-- Latest development: On 2026-05-30, Taleesh gave Dain a good-quality large pelt. Dain accepted the work with creative freedom and constraints, then developed the Sauna Pelt / "The Warmth That Forgot Manners." Dain records `84%` progress using knowledge from the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) and the earlier `6%` always-warm garment attempt. The 2026-06-20 notebook goals call this "Complete Sauna Jacket," likely a shorthand for the same project, but exact naming is [To verify].
-- Next possible actions: Confirm Tom accepts the `84%` progress, define the remaining 16%, choose the safety mechanism that prevents lethal steam, confirm who carries the pelt, and decide whether Taleesh knows the current prototype risks.
-- Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md)
+- Latest development: Dain completed the Sauna Pelt during the 2026-07-11 long rest. It is always warm in cold environments, and its wetness smells like wolf piss.
+- Next possible actions: Confirm who carries it, whether it was handed to Taleesh, exact mechanical wording, attunement, and whether the earlier steam/scalding risk remains.
+- Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Confirm Level 4 Derived Values
 - Status: Open
@@ -245,8 +252,8 @@
 - Status: Open
 - Tags: [Party] [Confirmed]
 - Why it matters: This is now the party's direct assignment and their clearest current objective.
-- Latest development: Commander Agland has sent the party into the mountains with a sealed letter for the actual general in the city near Samyrn Torst. On 2026-06-20, after town business and Dain's morning spell seed, the party travels east, considers whether local tunnels can save time compared with a Truthhammer Mountain detour, enters a hidden tunnel, and reaches a collapse over the Underdark with a possible roper below.
-- Next possible actions: Learn the general's name, confirm the mountain city near Samyrn Torst, choose or confirm the correct route after the town and tunnel detour, identify who physically carries the letter, verify it remains sealed and intact, decide whether the hidden tunnel is still a viable shortcut or a mission risk, and deliver it intact.
+- Latest development: The party has traversed the hidden tunnel to its far end and completed a long rest. The live scene is now Kagrenac accusing Dain of murder while Dain heads home toward the Truthhammer Mountains; the letter's carrier and condition remain [To verify].
+- Next possible actions: Resolve the accusation without losing the mission, identify who physically carries the letter, verify it remains sealed and intact, learn the general's name and destination, and resume delivery after the Truthhammer homecoming crisis.
 - Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Commander Agland](../Characters/Commander%20Agland.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Samyrn Torst](../Lore/Samyrn%20Torst.md), [Inventory](../../Character/Inventory.md)
 
 ### Assess The Harpy Nest Ahead
@@ -293,8 +300,8 @@
 - Status: Open
 - Tags: [DM-private] [Character-only] [To verify]
 - Why it matters: Dain being considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](./Garl%20Glittergold.md) gives his homeland, faith, and evasive backstory a sharper emotional and social cost.
-- Latest development: On 2026-05-03, the DM note established that Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](./Garl%20Glittergold.md); later that same session, Dain publicly invoked the Truthammer name as safe and respectable while reassuring Brother Taleesh, then invoked a Truthammer principle to refuse goji leaves.
-- Next possible actions: Clarify who considers Dain an outcast, whether the status is formal exile or social rejection, whether family members share or oppose it, whether Dain can return safely, and what he is willing to reveal to the party.
+- Latest development: On 2026-07-11, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers. The party is now heading home, and Kagrenac has accused Dain of murdering a dwarf connected to this history.
+- Next possible actions: Clarify who the troopers served, whether the escape was caused by faith-based exile, who the sacrificed friend and dead dwarf were, whether Dain can return safely, and what truth he gives Kagrenac and the wider party.
 - Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Why He Left Home](./Dain%20Background%20Evasions/Why%20He%20Left%20Home.md), [Relationships](../../Character/Relationships.md)
 
 ### Evaluate Truthsage Mode And Productive Use Brainstorm

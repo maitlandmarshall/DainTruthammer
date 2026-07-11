@@ -15,7 +15,8 @@
 - [Truthhammer Mountains](../Codex/Places/Truthhammer%20Mountains.md)
 - Current standing: [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md).
 - Dain's known belief: [Character-only] Home is still formative and beloved, but not simple to discuss.
-- Unresolved tension: [To verify] whether the outcast status is religious, familial, legal, political, or social, and whether Dain can return safely.
+- Escape history: [Character-only] [Confirmed on 2026-07-11] About one hundred years ago, a friend helped Dain escape Truthhammer Mountain through the hidden tunnels now being traversed; the friend sacrificed himself to pursuing troopers. [To verify names, allegiance, exact fate, and relationship to Dain's outcast status]
+- Unresolved tension: [To verify] whether the outcast status is religious, familial, legal, political, or social; whether the troopers represented the Truthhammers; and whether Dain can return safely now that he is heading home.
 - Roleplay interpretation: [Inferred] This may explain Dain's vague stories and careful backstory evasions.
 
 ## People
@@ -52,7 +53,10 @@
 - Respect marker: [Character-only] Taleesh / Jackson gains `+3` respect as of 2026-05-03. [To verify respect direction]
 - Respect marker: [Character-only] Dain records `-11` respect toward Taleesh on 2026-06-20 after concluding Taleesh cheated at dice.
 - Private follow-through: [Character-only] Dain begins trying to make always-warm robes for Taleesh, reaches `6%` progress, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype.
-- Current crafting follow-through: [Character-only] On 2026-05-30, Taleesh gives Dain a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), now `84%` complete [To verify DM acceptance].
+- Crafting origin: [Character-only] On 2026-05-30, Taleesh gives Dain a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) and initially reaches `84%` progress.
+- Completed crafting follow-through: [Character-only] During the 2026-07-11 long rest, Dain finishes the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md): always warm in cold environments, with wetness that smells like wolf piss. [To verify carrier and remaining steam risk]
+- Reconciliation beat: [Party] [To verify who overheard] During the 2026-07-11 long rest, Dain apologizes for his dice-game actions and explains he wanted to teach a moral lesson about virtue. Taleesh replies, "It's the Truthammer virtue, not Taleesh virtue."
+- Respect marker: [Character-only] The 2026-07-11 notebook records `+13` respect connected to Taleesh. [To verify direction and resulting total]
 - Current tension: [Party] On 2026-06-20, Taleesh invites Dain to dice, cheats or appears to cheat, offers weed, tries to deceive Dain, then tries to end the game when Dain decides to anti-cheat. Dain casts `Suggestion`: "Complete the game," Taleesh fails the save, and the game completes; Dain later loses the betting round while Ollyander wins. [To verify whether Taleesh objectively cheated, exact final stakes, and longer party fallout]
 - Knowledge boundary reminder: [Character-only] Dain currently knows the dice-game behavior, weed offer, deception attempt, and `Suggestion` escalation. Taleesh's backstory-level distrust of dwarves and elves is player/codex knowledge unless revealed in play.
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
@@ -65,6 +69,8 @@
 - Missing details: [To verify] role in the party, how long Dain has known him, and whether the trust is mutual
 
 - [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md)
-- Current standing: [Character-only] Dain now has `+4` respect toward Kagrenac, recorded during camp on 2026-04-18; during Taleesh's herb offer, Dain suggests Kagrenac may be interested in the goji leaves.
+- Current standing: [Party] On 2026-07-11, Kagrenac declares that he no longer trusts Dain and accuses him of murdering a dwarf connected to the tunnel history.
 - Dain's known belief: [Character-only] Kagrenac is bold enough to try firing Yuckie from a ballista and has earned a little more of Dain's respect than before. Dain's suggestion that the "young elf" may be interested in goji leaves is a public nudge, not confirmed evidence of Kagrenac's actual interest.
-- Missing details: [To verify] motives, baseline relationship, what exactly prompted the respect increase, and how Kagrenac responds to being suggested as a possible goji-leaf recipient.
+- Respect marker: [Character-only] Dain previously recorded `+4` respect toward Kagrenac; the 2026-07-11 notebook records another `+13` respect connected to Kagrenac. [To verify direction, trigger, and resulting total]
+- Current tension: Kagrenac's trust is explicitly broken. Dain must answer the murder accusation and explain the century-old escape, sacrificed friend, dead dwarf, and possible great accident without assuming Kagrenac's evidence or conclusion.
+- Missing details: [To verify] the dead dwarf's identity, Kagrenac's evidence, who rolled the natural `1`, what accident may have occurred, and whether Kagrenac can be persuaded to distinguish concealment from murder.
