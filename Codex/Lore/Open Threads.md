@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Party] [Confirmed] Dain successfully persuades the Truthammer gate guards to excuse Taleesh's Sauna Jacket smell by taking responsibility and invoking the dwarven god [Tharrd Harr](./Tharrd%20Harr.md)'s post-victory smell. The party is allowed through the checkpoint.
+- [Party] [To verify] Confirm whether Taleesh must wash later, Dain's exact Persuasion roll, and whether the Tharrd Harr claim was accepted religious history, obscure lore, or persuasive embellishment.
 - [Party] [Confirmed] The party has entered the [Truthammer Gate Cavern](../Places/Truthammer%20Gate%20Cavern.md), passing between two axe-bearing dwarf statues into a vast naturally lit interior filled with masterful carvings and many dwarves.
 - [Party] [To verify] Identify the previously visited dwarven tower whose architecture resembles the cavern, establish the connection, and determine how the resident dwarves react to Dain's return.
 - [Party] [Confirmed] After another one or two hours of walking, the party sees the Truthammer gates and airships near or above the mountain.

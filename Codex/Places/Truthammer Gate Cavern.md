@@ -21,10 +21,12 @@ A vast, naturally lit and heavily inhabited dwarven cavern immediately beyond th
 
 ## Notable Events
 - 2026-07-11: The party passes through the Truthammer gates and enters the cavern while pursuing the moon elf's new immediate priority of delivering armor to Dain's father. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: Gate guards stop Taleesh over the Sauna Jacket's smell and demand that he wash; Dain invokes Tharrd Harr, takes responsibility, and succeeds on Persuasion, allowing the party to continue deeper. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Truthhammer Mountains](./Truthhammer%20Mountains.md)
 - [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - [Iron Shore Watchtower](./Iron%20Shore%20Watchtower.md)
 - [Lerdar](./Lerdar.md)
-
+- [Truthammer Gate Guards](../Factions/Truthammer%20Gate%20Guards.md)
+- [Tharrd Harr](../Lore/Tharrd%20Harr.md)

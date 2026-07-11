@@ -182,6 +182,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-07-11: During a long rest, Dain apologizes to Taleesh over the dice game, explains the intended moral lesson, reveals his century-old tunnel escape and friend's sacrifice, and finishes the [Sauna Pelt](../Items/Sauna%20Pelt.md). [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Taleesh graciously accepts and loves the completed Sauna Jacket. He now carries/wears it, and its wetness makes the surrounding area smell like female white-wolf piss. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: When a huge, bumpy brown-and-green [giant lake frog](./Giant%20Lake%20Frog%20-%202026-07-11.md) clamps its jaws around Ollyander, Taleesh immediately responds by slashing it while Dain freezes water around its mouth. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify weapon, roll, and damage]
+- 2026-07-11: Truthammer gate guards tell Taleesh he must wash because his Sauna Jacket smells like female white-wolf piss. Dain steps in, accepts responsibility for the smell, invokes Tharrd Harr, and successfully persuades the guards to let the party through. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)
