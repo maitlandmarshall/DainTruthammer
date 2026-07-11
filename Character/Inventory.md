@@ -5,6 +5,7 @@
 - [To verify] The sheet does not distinguish clearly between equipped, worn, and stowed items, so this file preserves what is listed.
 
 ## Currency
+- Standing gold practice: [Character-only] [Confirmed by user on 2026-07-11] Dain treats all personal gold as committed to future kindness or goodwill rather than savings. When gnomes are available, part is given as `Glittergold's Share`; generosity is not limited to gnomes. He may carry gold temporarily until he finds an appropriate recipient.
 - CP: 0
 - SP: 0
 - EP: 0

@@ -7,6 +7,7 @@
 - [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md)
 - Current standing: [Confirmed] chosen on 2026-04-18 as Dain's deity
 - Dain's known belief: [Character-only] cleverness, benevolent trickery, delight, and protective misdirection can all serve good ends
+- Dain's standing practice: [Character-only] [Confirmed by user on 2026-07-11] all personal gold should be spent through kindness or goodwill rather than hoarded. When gnomes are present, Dain seeks them out for `Glittergold's Share`, a portion given directly in Garl's honor and without controlling what interesting good they make of it.
 - Cost: [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain because of this faith.
 - Relationship beat: [Character-only] On 2026-06-20, after the failed pub moral lesson and the [rat-house human/townsperson](../Codex/Characters/Rat-House%20Human%20-%202026-06-20.md) thread, Dain prays to Garl about his disappointment; a rat falls from the ceiling, and Dain begins writing the `Truthammer's Cuddly Rat` spell seed. Whether this is an omen, joke, local rat hazard, or ordinary coincidence remains [To verify].
 - Missing details: [To verify] specific rites, symbols, prayers, clergy ties, how public Dain is about this devotion, and whether the falling rat is Garl-related in-world

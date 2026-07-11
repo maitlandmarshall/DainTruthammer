@@ -13,6 +13,8 @@ Dain Truthammer's chosen deity, whose worship carries a real cost in his relatio
 ## What Dain Knows
 - [Character-only] This faith is important enough to shape Dain's identity, choices, and magical style.
 - [Character-only] Cleverness, benevolent trickery, delight, and protective misdirection can all serve good ends.
+- [Character-only] [Confirmed by user on 2026-07-11] Dain's personal expression of the faith includes refusing to hoard gold. Every personal gold piece should eventually be spent in kindness, hospitality, generosity, or goodwill.
+- [Character-only] Dain calls the gnomish portion `Glittergold's Share`: when gnomes are present, he seeks them out as favored recipients in Garl's honor, gives without demanding a particular use, and trusts them to turn the gift into kindness, delight, or an interesting consequence. This does not prevent him from giving gold to non-gnomes in need.
 - [Character-only] The faith is tied to his outcast status from home. [DM-private] [Confirmed]
 - [Character-only] On 2026-05-03, Dain begins praying to Garl Glittergold in front of the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), and the puppet bites him. Dain does not know why.
 - [Character-only] Dain then realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](./Kurtlemack.md) hates you."

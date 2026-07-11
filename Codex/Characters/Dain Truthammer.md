@@ -32,6 +32,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] He would rather solve problems with baffling or obscure magic than by brute force.
 - [Character-only] He actively seeks out ridiculous or impractical spells because even useless-looking magic may hide wonder or utility.
 - [Character-only] He wants, over time, to develop the most unique and useless spells known to the realm.
+- [Character-only] [Confirmed by user on 2026-07-11] Dain believes gold should never be hoarded or spent merely on himself: every gold piece that comes into his personal possession should leave through an act of kindness, hospitality, generosity, or goodwill.
+- [Character-only] Dain calls the gnomish portion of this practice `Glittergold's Share`. When gnomes are present, he deliberately seeks them out and gives some of his gold directly to them in honor of [Garl Glittergold](../Lore/Garl%20Glittergold.md), trusting them to turn it into kindness, delight, or some interesting consequence of their own choosing.
+- [Character-only] This is a standing character trait rather than a one-session vow. Dain may carry gold briefly while looking for a worthy recipient, but he does not regard personal gold as savings; silver, copper, barter, and shared party resources can cover ordinary needs.
 - [Character-only] He formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) during the forest long rest on 2026-05-03.
 - [Character-only] He knows he is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md). [DM-private] [Confirmed]
 - [Character-only] At the forest camp, he hears Kagrenac say "a lizard has arrived," sees Hammerton holding a severed lizard head, initially assumes the head is what Kagrenac means, then realizes the mistake and booms "Who goes there?" with `Prestidigitation`.

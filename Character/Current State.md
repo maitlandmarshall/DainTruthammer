@@ -90,6 +90,7 @@
 
 ## Character Priorities
 - [Character-only] Protect the innocent, expose wickedness, and push events toward the right outcome.
+- [Character-only] Spend every personal gold piece in kindness or goodwill rather than hoarding it; seek out gnomes to receive `Glittergold's Share` whenever practical, without limiting generosity to gnomes alone.
 - [Character-only] Solve problems with deception, illusion, or obscure magical tricks before brute force.
 - [Character-only] Seek out bizarre, impractical, and "useless" spells because even silly magic may hide real wonder.
 - [Character-only] Slowly develop the most unique and gloriously useless spells known to the realm.
@@ -127,6 +128,7 @@
 
 ## Voice And Habits
 - [Character-only] Benevolent meddler: Dain bends plans, expectations, and sometimes the truth to protect people or reach a kinder outcome.
+- [Character-only] Treats gold as a kindness waiting for a recipient, not as personal savings. In settlements he looks for gnomes first, both as an act of devotion to Garl Glittergold and because he trusts gnomes to make generosity interesting.
 - [Character-only] He steals dignity from bullies rather than property from the helpless.
 - [Character-only] He treats suspicious authority as a puzzle to test rather than a master to obey.
 - [Character-only] He speaks to conjured or illusory things as though manners still apply.
@@ -145,6 +147,8 @@
 - [Character-only] "Careful, little cobalt thing. Garl loves a joke, and worse for you, he remembers the punchline."
 - [Character-only] "You mistake blood for tribute. That is common among small gods and badly made knives."
 - [Character-only] "Remember the name Truthhammer."
+- [Character-only] "Gold does not glitter until it is given."
+- [Character-only] "Silver buys necessities. Gold buys goodwill."
 - [Character-only] "Gather the rats while I'm gone."
 
 ## Evasive Dainisms
