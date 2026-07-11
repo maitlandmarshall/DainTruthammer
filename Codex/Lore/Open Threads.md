@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Party] [Confirmed] The party has entered the [Truthammer Gate Cavern](../Places/Truthammer%20Gate%20Cavern.md), passing between two axe-bearing dwarf statues into a vast naturally lit interior filled with masterful carvings and many dwarves.
+- [Party] [To verify] Identify the previously visited dwarven tower whose architecture resembles the cavern, establish the connection, and determine how the resident dwarves react to Dain's return.
 - [Party] [Confirmed] After another one or two hours of walking, the party sees the Truthammer gates and airships near or above the mountain.
 - [Party] [Confirmed] The moon elf chooses to head to the mountains first, prioritizing delivery of armor to Dain's father ahead of Agland's still-undelivered sealed letter. Confirm moon elf identity, armor, carrier, father, airships, and party agreement.
 - [Party] [Confirmed] At the [unnamed frog lake](../Places/Unnamed%20Frog%20Lake%20-%202026-07-11.md), a huge, bumpy brown-and-green [giant frog](../Characters/Giant%20Lake%20Frog%20-%202026-07-11.md) has Ollyander in its jaws. Taleesh slashes it while Dain freezes water around its mouth with `Shape Water` to halt further clamping.

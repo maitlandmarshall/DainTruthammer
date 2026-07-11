@@ -9,8 +9,8 @@
 
 ## Live Snapshot - 2026-07-11
 - Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: After another one or two hours of walking beyond the lake encounter, the party sees the monumental gates of the [Truthhammer Mountains](../Codex/Places/Truthhammer%20Mountains.md), with airships visible near or overhead. The moon elf decides to head to the mountains first and prioritizes delivering armor to Dain's father ahead of Agland's sealed letter.
-- Immediate unresolved state: moon elf identity, airship ownership and purpose, the exact armor and its carrier, Dain's father's identity/location, whether the party agrees to the new priority, the sealed letter's urgency, the giant frog's fate and Ollyander's condition, the armored dwarf's identity, Dain's missing friend's fate, the Sauna Jacket's steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify].
+- Location/status: The party has passed between two axe-bearing dwarf statues and through the gates into the [Truthammer Gate Cavern](../Codex/Places/Truthammer%20Gate%20Cavern.md), a vast naturally lit interior full of high-quality dwarven carvings and many dwarves. The architecture looks familiar to the whole party from an earlier dwarven tower.
+- Immediate unresolved state: resident reaction to Dain's return, Gate Cavern name/function, identity of the similar tower, moon elf identity, airship ownership and purpose, the exact armor and its carrier, Dain's father's identity/location, whether the party agrees to the new priority, the sealed letter's urgency, the giant frog's fate and Ollyander's condition, the armored dwarf's identity, Dain's missing friend's fate, the Sauna Jacket's steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify].
 - Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity
