@@ -43,7 +43,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] About 30 minutes after leaving the goblin camp, Kagrenac's owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): a cave/nest with fur on rocks, smoke coming out, and very large four-claw scratch marks on nearby trees. [Confirmed on 2026-05-03]
 - [Party] During the werebear fight at the smoky cave, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
 - [Party] Matt casts `Inflict Wounds` on the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), delivering the killing blow. [Confirmed on 2026-05-03] [To verify whether this was Kagrenac's action and exact spell source/resource]
-- [Party] After the 2026-07-11 long rest, Kagrenac states that he no longer trusts Dain and accuses him of murder. The exact evidence and dead dwarf's identity remain [To verify].
+- [Party] After the 2026-07-11 long rest, Kagrenac states that he no longer trusts Dain and accuses him of murder. The DM later clarifies that the armor Kagrenac uses as evidence would not realistically belong to Dain's missing friend; it more likely belonged to a separate dwarf who searched for the friend. [Inferred owner; To verify identity]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.

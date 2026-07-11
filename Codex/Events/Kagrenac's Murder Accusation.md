@@ -10,6 +10,8 @@ After a long rest in the hidden tunnel, Kagrenac declares that he no longer trus
 - [Party] [Confirmed] Kagrenac says he no longer trusts Dain and accuses him of murder.
 - [To verify] The dead dwarf's name, exact evidence, and the illegible notebook reference to studded cold leather.
 - [To verify] Whether the death was murder, a great accident, or something else.
+- [DM-private] [Confirmed DM clarification] The armor Kagrenac is using as evidence would not realistically have belonged to Dain's missing friend.
+- [DM-private] [Inferred] The armor more likely belonged to a different dwarf who later went searching for the missing friend.
 
 ## Immediate Context
 - The party has moved through the hidden tunnel and completed a long rest.
@@ -22,13 +24,19 @@ After a long rest in the hidden tunnel, Kagrenac declares that he no longer trus
 - Kagrenac accuses Dain of murdering a dwarf.
 - A natural `1` leads to the possibility that Dain did not commit murder but that a great accident occurred. [To verify who rolled, what check was made, and what the result established]
 
+## Evidence Clarification
+- The armor does not realistically connect the corpse directly to Dain's missing friend. [Confirmed DM clarification]
+- The leading interpretation is that an unknown second dwarf went searching for the friend after he disappeared and is the more likely owner of the armor. [DM-private] [Inferred]
+- This weakens any simple claim that the armored corpse is the friend Dain abandoned or killed, but it does not yet establish how the searching dwarf died.
+
 ## Open Questions
-- Who is the dead dwarf, and is he Dain's sacrificed friend?
+- Who is the armored dwarf who apparently went searching for Dain's missing friend?
+- Who was Dain's missing friend, and what happened after he sacrificed himself to the troopers?
 - What is Kagrenac's evidence?
 - What happened in these tunnels one hundred years ago?
 - Who were the pursuing troopers, and whom did they serve?
 - What does the notebook's studded cold leather line mean?
-- Does Kagrenac accuse Dain of direct killing, responsibility for an accident, abandonment, or concealment?
+- Does Kagrenac accuse Dain of killing the later searcher, causing the searcher's accident, abandoning the original friend, or concealing the history?
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)

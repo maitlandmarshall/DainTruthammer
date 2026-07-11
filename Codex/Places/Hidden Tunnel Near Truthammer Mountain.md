@@ -21,7 +21,8 @@ A hidden mountain tunnel route near Truthhammer Mountain, entered through a gran
 - [Character-only] Dain considers this passage important enough to tell his father and return armed.
 - [Character-only] Dain has father-taught stories about fire spirits and spirits haunting the mountain. Exact wording, truth, and relevance to this tunnel are [To verify].
 - [Character-only] Dain sensed danger at the collapse and began stepping back.
-- [Character-only] Dain's friend sacrificed himself to pursuing troopers during the century-old escape. [To verify the friend's exact fate and the troopers' allegiance]
+- [Character-only] Dain's friend sacrificed himself to pursuing troopers during the century-old escape and went missing. [To verify the friend's ultimate fate and the troopers' allegiance]
+- [DM-private] [Inferred] A different dwarf later searched these tunnels for the missing friend and is the more likely owner of the armor used in Kagrenac's accusation.
 
 ## What The Party Knows
 - The route included eastward travel, a stone bridge, a tunnel within about six hours, and a grand door.
@@ -37,7 +38,7 @@ A hidden mountain tunnel route near Truthhammer Mountain, entered through a gran
 - [To verify] Whether the possible roper is actually present, and whether it is the cause of the collapse.
 - [To verify] Whether anyone fell, took damage, is separated, or is in initiative.
 - [To verify] How Dain's century-old knowledge fits the earlier claim that the passage was unknown to the Truthhammers.
-- [To verify] The dead dwarf's identity, Kagrenac's murder evidence, and whether a great accident occurred here.
+- [To verify] The later searching dwarf's identity, Kagrenac's remaining evidence, and whether that dwarf died in a great accident here.
 
 ## Dain-Facing Live Use
 - Do not bunch up at the edge; step back, spread out, and secure rope before peering or descending.

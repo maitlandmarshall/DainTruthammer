@@ -15,7 +15,8 @@
 - [Truthhammer Mountains](../Codex/Places/Truthhammer%20Mountains.md)
 - Current standing: [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md).
 - Dain's known belief: [Character-only] Home is still formative and beloved, but not simple to discuss.
-- Escape history: [Character-only] [Confirmed on 2026-07-11] About one hundred years ago, a friend helped Dain escape Truthhammer Mountain through the hidden tunnels now being traversed; the friend sacrificed himself to pursuing troopers. [To verify names, allegiance, exact fate, and relationship to Dain's outcast status]
+- Escape history: [Character-only] [Confirmed on 2026-07-11] About one hundred years ago, a friend helped Dain escape Truthhammer Mountain through the hidden tunnels now being traversed; the friend sacrificed himself to pursuing troopers and went missing. [To verify names, allegiance, exact fate, and relationship to Dain's outcast status]
+- Later search: [DM-private] [Inferred] A separate dwarf later went looking for the missing friend and is the more likely owner of the armor Kagrenac is using as evidence. The DM has clarified that the armor would not realistically belong to the friend himself.
 - Unresolved tension: [To verify] whether the outcast status is religious, familial, legal, political, or social; whether the troopers represented the Truthhammers; and whether Dain can return safely now that he is heading home.
 - Roleplay interpretation: [Inferred] This may explain Dain's vague stories and careful backstory evasions.
 
@@ -72,5 +73,5 @@
 - Current standing: [Party] On 2026-07-11, Kagrenac declares that he no longer trusts Dain and accuses him of murdering a dwarf connected to the tunnel history.
 - Dain's known belief: [Character-only] Kagrenac is bold enough to try firing Yuckie from a ballista and has earned a little more of Dain's respect than before. Dain's suggestion that the "young elf" may be interested in goji leaves is a public nudge, not confirmed evidence of Kagrenac's actual interest.
 - Respect marker: [Character-only] Dain previously recorded `+4` respect toward Kagrenac; the 2026-07-11 notebook records another `+13` respect connected to Kagrenac. [To verify direction, trigger, and resulting total]
-- Current tension: Kagrenac's trust is explicitly broken. Dain must answer the murder accusation and explain the century-old escape, sacrificed friend, dead dwarf, and possible great accident without assuming Kagrenac's evidence or conclusion.
-- Missing details: [To verify] the dead dwarf's identity, Kagrenac's evidence, who rolled the natural `1`, what accident may have occurred, and whether Kagrenac can be persuaded to distinguish concealment from murder.
+- Current tension: Kagrenac's trust is explicitly broken. Dain must answer the murder accusation while distinguishing his missing friend from the later armored dwarf who apparently searched for him.
+- Missing details: [To verify] the searcher's identity, Kagrenac's remaining evidence, who rolled the natural `1`, what accident may have occurred, and whether Kagrenac can distinguish concealment, survivor's guilt, and accidental responsibility from murder.

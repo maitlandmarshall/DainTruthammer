@@ -3,7 +3,7 @@
 ## Current Live Focus - 2026-07-11
 - [Party] [Confirmed] Resume at [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md): Kagrenac says he no longer trusts Dain and accuses him of murdering a dwarf.
 - [Character-only] [Confirmed] Dain has disclosed to Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers.
-- [Party] [To verify] Establish the dead dwarf's identity, Kagrenac's evidence, the meaning of the studded cold leather note, and whether a natural `1` established a great accident rather than murder.
+- [Party] [To verify] Establish the armored dwarf's identity, Kagrenac's remaining evidence, the meaning of the studded cold leather note, and whether a natural `1` established a great accident rather than murder. The DM has clarified that the armor would not realistically belong to Dain's missing friend.
 - [Party] [Confirmed] The party reached the tunnel's far end and completed a long rest; Dain's HP, spell slots, and long-rest resources are restored.
 - [Character-only] [Confirmed] Dain finished the [Sauna Pelt](../Items/Sauna%20Pelt.md): always warm in cold environments, with wetness that smells like wolf piss. Confirm carrier and whether earlier steam danger remains.
 - [Party] [Character-only] Dain apologized to Taleesh for the dice-game coercion; Taleesh answered that it was "the Truthammer virtue, not Taleesh virtue."
@@ -15,8 +15,8 @@
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: Kagrenac has explicitly withdrawn trust and accused Dain of murder at the moment Dain's hidden century-old escape history is surfacing.
-- Latest development: After the party reached the tunnel's far end and completed a long rest, Dain told Taleesh that a friend helped him escape these tunnels one hundred years ago and sacrificed himself to pursuing troopers. Kagrenac then accused Dain of murdering a dwarf. A natural `1` raises the possibility of a great accident instead, but its exact meaning is unclear.
-- Next possible actions: Ask Kagrenac to name the dead dwarf and present his evidence; clarify the illegible studded cold leather note; establish who rolled the natural `1`; separate direct murder, accidental death, abandonment, concealment, and survivor's guilt; decide how much Dain reveals about his friend and the troopers.
+- Latest development: Dain's friend sacrificed himself to the pursuing troopers and went missing. Kagrenac later uses armor as evidence for a murder accusation, but the DM clarifies that the armor would not realistically belong to the friend; it more likely belonged to a separate dwarf who went searching for him. A natural `1` raises the possibility that this searcher died in a great accident instead of being murdered. [To verify exact result]
+- Next possible actions: Ask Kagrenac to identify the armored searcher and present any evidence beyond the armor; clarify the illegible studded cold leather note; establish who rolled the natural `1`; separate the missing friend's fate from the later searcher's death; determine what responsibility Dain actually bears.
 - Linked entries: [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hidden Tunnel](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Survive The Hidden Tunnel Collapse
@@ -31,8 +31,8 @@
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: The hidden passage may be unknown to the Truthhammers, connected to Dain's father and family lore, or part of a larger mountain/Underdark hazard. If it truly sits near the Truthhammer route, it may affect Dain's home, clan security, and the safest route toward the party's larger mission.
-- Latest development: By 2026-07-11, the party reaches the tunnel's far end. During a long rest, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers. This complicates the earlier note that the passage was unknown to the Truthhammers.
-- Next possible actions: Confirm the tunnel's exact location, why Dain initially treated it as unknown, whether the known and hidden sections are distinct, who the troopers served, what Dain's father knows, and how the dead dwarf and Kagrenac's accusation connect to the escape.
+- Latest development: By 2026-07-11, the party reaches the tunnel's far end. Dain tells Taleesh that a friend helped him escape through these tunnels one hundred years ago, sacrificed himself to pursuing troopers, and went missing. A separate dwarf apparently searched for the friend later and likely owned the armor now used as accusation evidence.
+- Next possible actions: Confirm the tunnel's exact location, why Dain initially treated it as unknown, whether the known and hidden sections are distinct, who the troopers served, what Dain's father knows, who the later searcher was, and how that searcher died.
 - Linked entries: [Hidden Tunnel Near Truthhammer Mountain](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
 
 ### Finish The Dice Game With Taleesh
@@ -300,8 +300,8 @@
 - Status: Open
 - Tags: [DM-private] [Character-only] [To verify]
 - Why it matters: Dain being considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](./Garl%20Glittergold.md) gives his homeland, faith, and evasive backstory a sharper emotional and social cost.
-- Latest development: On 2026-07-11, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers. The party is now heading home, and Kagrenac has accused Dain of murdering a dwarf connected to this history.
-- Next possible actions: Clarify who the troopers served, whether the escape was caused by faith-based exile, who the sacrificed friend and dead dwarf were, whether Dain can return safely, and what truth he gives Kagrenac and the wider party.
+- Latest development: On 2026-07-11, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago, sacrificed himself to pursuing troopers, and went missing. The armor in Kagrenac's accusation more likely belonged to a separate dwarf who later searched for that friend.
+- Next possible actions: Clarify who the troopers served, whether the escape was caused by faith-based exile, who the missing friend and later searcher were, how the searcher died, whether Dain can return safely, and what truth he gives Kagrenac and the wider party.
 - Linked entries: [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Why He Left Home](./Dain%20Background%20Evasions/Why%20He%20Left%20Home.md), [Relationships](../../Character/Relationships.md)
 
 ### Evaluate Truthsage Mode And Productive Use Brainstorm

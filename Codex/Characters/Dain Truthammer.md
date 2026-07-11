@@ -70,7 +70,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain notices that the unnamed town has issues with rats and poverty, records an action item to find the human/townsperson and give silver, and tells the human, "Gather the rats while I'm gone." [To verify identity and house]
 - [Character-only] Dain gives his last `5 gp` to the human/townsperson tied to the rat-house thread. His gold-piece balance is likely `0`, but exact silver and other coin holdings remain [To verify].
 - [Character-only] The next morning, Dain reflects on his failed pub moral lesson, prays to [Garl Glittergold](../Lore/Garl%20Glittergold.md) about his disappointment, sees a rat fall from the ceiling, and begins writing a new failed-moral-lesson rat spell in his wizard book / spellbook. Current lead pitch: `Truthammer's Cuddly Rat`, whose full-hour cuddle leaves the target feeling as if they failed an important moral lesson; mechanics remain idea-stage in [Failed Moral Lesson Rat Spell Ideas](../Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md).
-- [Character-only] During the 2026-07-11 long rest, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels about one hundred years ago and sacrificed himself to pursuing troopers.
+- [Character-only] During the 2026-07-11 long rest, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels about one hundred years ago, sacrificed himself to pursuing troopers, and went missing.
 - [Character-only] Dain apologizes to Taleesh for the dice-game coercion and explains the intended moral lesson; Taleesh answers that it is "the Truthammer virtue, not Taleesh virtue."
 - [Character-only] Dain completes the [Sauna Pelt](../Items/Sauna%20Pelt.md): always warm in cold environments, with wetness that smells like wolf piss.
 - [Party] Kagrenac declares that he no longer trusts Dain and accuses him of murdering a dwarf. A natural `1` suggests a possible great accident rather than murder, but the exact check and conclusion are [To verify].
@@ -92,7 +92,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [To verify] Which wizard spells are prepared right now versus simply present on the export.
 - [To verify] What "outcast" means mechanically/socially: family rejection, religious censure, legal exile, clan politics, or another status.
 - [To verify] Whether the half-Azer connection applies only to Dain, to the Truthammer bloodline more broadly, or to another family/cultural layer, and whether it has any mechanical effect.
-- [To verify] The dead dwarf's identity, the studded cold leather note, Kagrenac's evidence, the sacrificed friend's identity and fate, the troopers' allegiance, and whether a great accident rather than murder occurred.
+- [DM-private] The armor used as evidence would not realistically belong to Dain's missing friend; it more likely belonged to a separate dwarf who later searched for him. [Inferred ownership]
+- [To verify] The searching dwarf's identity, the studded cold leather note, Kagrenac's remaining evidence, the missing friend's identity and fate, the troopers' allegiance, and whether a great accident rather than murder occurred.
 
 ## Description
 - [Confirmed] Male dwarf, age 107, medium, 4'9", white skin, brown eyes, black hair.

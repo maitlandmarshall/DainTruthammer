@@ -20,7 +20,9 @@ Answers for when people ask what Dain has done, what went wrong, or what he woul
 - [Party] [Confirmed on 2026-07-11] Kagrenac accuses Dain of murdering a dwarf connected to the hidden tunnel history and says he no longer trusts him.
 - [Party] [To verify] A natural `1` leads to the possibility that Dain did not murder the dwarf but that a great accident occurred. Confirm who rolled, what check was involved, and whether this is fact, inference, or mistaken belief.
 - [Character-only] Dain's confirmed history includes escaping through these tunnels about one hundred years ago with a friend's help; the friend sacrificed himself to pursuing troopers.
-- [To verify] The dead dwarf's name, the studded cold leather note, how the dead dwarf relates to Dain's sacrificed friend, and what Dain actually did.
+- [DM-private] [Confirmed DM clarification] The armor used as evidence would not realistically belong to Dain's missing friend.
+- [DM-private] [Inferred] The armored dwarf was more likely a separate searcher who later went looking for the missing friend.
+- [To verify] The searching dwarf's name, the studded cold leather note, how the searcher died, and what responsibility Dain actually bears.
 
 ## Related entries
 - [Dain Background Evasions](../Dain%20Background%20Evasions.md)
