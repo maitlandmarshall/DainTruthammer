@@ -1,6 +1,6 @@
 # Ollyander
 
-![Ollyander portrait](./Ollyander_portrait.png)
+![Ollyander portrait based on the player's sketch](./Ollyander_portrait-v2.png)
 
 ## One-Line Summary
 Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-carrying but not visibly hostile when first approaching Dain's camp.
@@ -19,6 +19,8 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 ## What Dain Knows
 - [Party] Ollyander first appears as a small hobbit-like humanoid.
 - [Party] Ollyander has pale skin, straight fawn-brown hair, a pointy nose, and a shell-shocked look.
+- [Party] [Confirmed by user on 2026-07-11] Ollyander wears an enormous spotted reptilian or dinosaur-like hide as a hood and mantle. The preserved animal head rests above his own, with a long snout, visible teeth, a side eye, and rounded bumps; the dark spotted hide hangs down his back and over one shoulder.
+- [To verify] The creature species, how Ollyander obtained the hide, and whether the headpiece has any mundane or magical properties.
 - [Party] Ollyander rarely blinks and carries a large knife.
 - [Party] Ollyander is not visibly hostile on approach.
 - [Character-only] Dain records `+4` respect toward Ollyander.
@@ -45,7 +47,16 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - Pointy nose.
 - Shell-shocked expression.
 - Rarely blinks.
+- Wears a huge spotted reptilian or dinosaur-like head and hide as a hooded mantle.
+- The animal's snout and teeth project over Ollyander's visible humanoid face, while the long spotted pelt trails down his back.
 - Carries a large knife.
+
+## Appearance Reference
+![User-provided sketch of Ollyander](./Ollyander_reference-sketch.jpg)
+
+- [Confirmed by user on 2026-07-11] This sketch is the primary source for Ollyander's appearance.
+- The generated `Ollyander_portrait-v2.png` translates the sketch into the campaign's established visual style.
+- The earlier `Ollyander_portrait.png` is retained as historical art but is superseded where it conflicts with the sketch, especially regarding the animal-hide hood and mantle.
 
 ## Notable Events
 - 2026-05-30: Ollyander arrives at camp, apparently frightened or stunned but not hostile; Dain's best immediate read is to check Insight before treating the knife as threat. [Session 2026-05-30](../../Adventures/2026-05-30.md)
@@ -53,6 +64,7 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - 2026-05-30: As the party travels north-east along the river into colder country, Ollyander walks close to Dain and holds onto his Truthammer garment. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-06-20: During the tavern dice game, Dain gives Ollyander `1 gp`; Ollyander wins as well, and Dain later values Ollyander's `3 rats` as `9 gp` while going all in. After Dain loses a later betting round, Ollyander ends up winning, and a human/townsperson trade involving Ollyander is valued at `60 gp` worth of silver. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify "rats" and silver trade]
 - 2026-07-11: A huge, bumpy brown-and-green [giant lake frog](./Giant%20Lake%20Frog%20-%202026-07-11.md) emerges from an unnamed lake and clamps its jaws around Ollyander. Taleesh slashes it, and Dain freezes water around its mouth with `Shape Water` to stop it clamping down further. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify Ollyander's damage and condition]
+- 2026-07-11: The user supplies a definitive appearance sketch showing Ollyander in a huge spotted reptilian or dinosaur-like head-and-hide hood, with the toothed snout above his visible face and the pelt hanging down his back. This supersedes conflicting details in the earlier generated portrait. [Character appearance reference]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
