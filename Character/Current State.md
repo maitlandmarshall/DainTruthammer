@@ -9,8 +9,8 @@
 
 ## Live Snapshot - 2026-07-11
 - Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: Inside the [Truthammer Gate Cavern](../Codex/Places/Truthammer%20Gate%20Cavern.md), beyond the guard checkpoint. The guards challenged Taleesh over the Sauna Jacket's smell, but Dain accepted responsibility, invoked the dwarven god [Tharrd Harr](../Codex/Lore/Tharrd%20Harr.md), succeeded on Persuasion, and secured passage for the party.
-- Immediate unresolved state: whether Taleesh must wash later, Tharrd Harr's full lore and the truth-status of Dain's victory story, resident reaction to Dain's return, Gate Cavern name/function, identity of the similar tower, moon elf identity, airship ownership and purpose, the exact armor and its carrier, Dain's father's identity/location, whether the party agrees to the new priority, the sealed letter's urgency, the giant frog's fate and Ollyander's condition, the armored dwarf's identity, Dain's missing friend's fate, the Sauna Jacket's steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify].
+- Location/status: At or entering the formal [Truthammer Clan-Head Chamber](../Codex/Places/Truthammer%20Clan-Head%20Chamber.md). Dain has declared that he is going to meet [his father](../Codex/Characters/Dains%20Father.md), the head of the Truthammer clan, and has crossed the busy mixed-population district to reach him.
+- Immediate unresolved state: Dain's father's name, formal title, appearance, reaction and role in the exile; who accompanies Dain into the chamber; whether Taleesh must wash later; Tharrd Harr's full lore; airship ownership and purpose; the exact armor and its carrier; the sealed letter's urgency; the giant frog's fate and Ollyander's condition; the armored dwarf's identity; Dain's missing friend's fate; the Sauna Jacket's steam risk; exact coin balance; [Dain's Seal](../Codex/Items/Dains%20Seal.md) status; and Breastplate of Balance charges are all [To verify].
 - Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity

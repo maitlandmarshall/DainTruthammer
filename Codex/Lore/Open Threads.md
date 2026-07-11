@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Character-only] [Confirmed] Dain declares that he is going to meet [his father](../Characters/Dains%20Father.md), the head of the Truthammer clan, and reaches the formal [clan-head chamber](../Places/Truthammer%20Clan-Head%20Chamber.md).
+- [Party] [To verify] Confirm the father's name and formal title, who enters the chamber with Dain, how the father reacts to Dain's return, and whether the meeting addresses the armor, airships, hidden tunnel, exile, missing friend, or letter mission first.
 - [Party] [Confirmed] Dain successfully persuades the Truthammer gate guards to excuse Taleesh's Sauna Jacket smell by taking responsibility and invoking the dwarven god [Tharrd Harr](./Tharrd%20Harr.md)'s post-victory smell. The party is allowed through the checkpoint.
 - [Party] [To verify] Confirm whether Taleesh must wash later, Dain's exact Persuasion roll, and whether the Tharrd Harr claim was accepted religious history, obscure lore, or persuasive embellishment.
 - [Party] [Confirmed] The party has entered the [Truthammer Gate Cavern](../Places/Truthammer%20Gate%20Cavern.md), passing between two axe-bearing dwarf statues into a vast naturally lit interior filled with masterful carvings and many dwarves.

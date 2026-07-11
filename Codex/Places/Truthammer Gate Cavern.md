@@ -11,6 +11,7 @@ A vast, naturally lit and heavily inhabited dwarven cavern immediately beyond th
 - [Party] The stonework features extensive, exceptionally high-quality dwarven carving.
 - [Party] Many dwarves are present inside; the space is active and inhabited rather than abandoned.
 - [Party] To everyone in the party, the architecture looks similar to a dwarven tower visited earlier. [To verify which tower]
+- [Party] Beyond the guard checkpoint, a busy district contains many dwarves and gnomes, some deep gnomes and halflings, and perhaps only one or two humans.
 - `Truthammer Gate Cavern` is a tracking name, not yet a confirmed in-world name.
 
 ## What Is Uncertain
@@ -22,6 +23,7 @@ A vast, naturally lit and heavily inhabited dwarven cavern immediately beyond th
 ## Notable Events
 - 2026-07-11: The party passes through the Truthammer gates and enters the cavern while pursuing the moon elf's new immediate priority of delivering armor to Dain's father. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Gate guards stop Taleesh over the Sauna Jacket's smell and demand that he wash; Dain invokes Tharrd Harr, takes responsibility, and succeeds on Persuasion, allowing the party to continue deeper. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: Dain declares he is going to meet his father and crosses the mixed-population district toward the [Truthammer Clan-Head Chamber](./Truthammer%20Clan-Head%20Chamber.md). [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Truthhammer Mountains](./Truthhammer%20Mountains.md)
