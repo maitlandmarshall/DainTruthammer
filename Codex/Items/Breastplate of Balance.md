@@ -1,6 +1,6 @@
 # Breastplate of Balance
 
-![Breastplate of Balance rules reference](./Breastplate_of_Balance_source.jpg)
+![Breastplate of Balance reference](./Breastplate_of_Balance_ref.png)
 
 ## One-Line Summary
 A rare copper-and-clockwork breastplate that spends magical charges to flatten advantage or disadvantage and correct bodily afflictions.
@@ -11,7 +11,7 @@ A rare copper-and-clockwork breastplate that spends magical charges to flatten a
 - [Confirmed] Medium armor (breastplate), rare, requires attunement, `20 lb.`
 - [Character-only] [Confirmed by user on 2026-07-11] Dain received it when the party killed the harpies on 2026-04-18.
 - [To verify] Who currently carries it, whether Dain is wearing it, and whether he is attuned.
-- [To verify] Whether Dain has medium armor training through a table ruling, feature, feat, or another source not yet recorded.
+- [Character-only] [Confirmed by user on 2026-07-11] Dain is proficient/trained in medium armor.
 
 ## Appearance
 - Burnished copper construction resembling interlocking gears.
@@ -38,16 +38,25 @@ A rare copper-and-clockwork breastplate that spends magical charges to flatten a
 - Effect: casts `Lesser Restoration` from the armor.
 - Typical uses: end one disease or one condition affecting a creature: Blinded, Deafened, Paralyzed, or Poisoned, subject to the table's spell version.
 
-## Important Limitation For Dain
-- Dain is recorded as a Wizard 4 with no medium armor training.
-- Under the standard armor rules, a spellcaster must have training/proficiency with worn armor to cast spells while wearing it.
-- Until the table confirms otherwise, treat the breastplate as owned but not safely wearable during wizard spellcasting.
-- Attunement and armor training are separate requirements: attuning to the item does not automatically grant training with medium armor.
+## Suitability For Dain
+- Dain is proficient/trained in medium armor, so he can wear the breastplate and continue casting wizard spells.
+- With `DEX +0`, it raises his passive AC from the recorded unarmored `10` to `14`.
+- `Mage Armor` would provide only AC `13` with `DEX +0` and cannot be combined with worn armor, so the breastplate is the stronger passive defense and saves a 1st-level spell slot when Mage Armor would otherwise be used.
+- The breastplate does not impose disadvantage on Stealth checks and has no Strength requirement under the standard breastplate rules.
+- Attunement remains required. Dain currently has no confirmed competing attuned item, although the [Ghostly Form Tattoo](./Ghostly%20Form%20Tattoo.md)'s attunement requirement is still [To verify].
+
+## Tactical Assessment
+- [Inferred] Strong recommendation: wear and attune unless Dain already has three more valuable attuned items or needs to conceal the conspicuous copper armor.
+- `Equalize` is the main combat value: use it to remove a dangerous enemy's advantage or an ally's disadvantage before the d20 is rolled.
+- Preserve at least `2` charges when disease, poison, paralysis, blindness, or deafness is a plausible threat so `Expunge Imbalance` remains available.
+- The reaction cost competes with any other reaction options Dain gains, but no major competing reaction spell is currently recorded on his sheet.
 
 ## Source Evidence
+![User-provided Breastplate of Balance rules photo](./Breastplate_of_Balance_source.jpg)
+
 - User-provided table reference photo received on 2026-07-11.
 - The original baseline character-sheet PDF does not list this item, so the user's correction takes precedence for campaign continuity.
-- The user-provided rules photo is the current visual reference. A separate campaign-style item render was attempted on 2026-07-11, but the repository image generator reached its runtime limit without producing an asset.
+- Campaign-style reference render completed on 2026-07-11 as `Breastplate_of_Balance_ref.png`.
 
 ## Notable Events
 - 2026-04-18: Dain receives the Breastplate of Balance after the party kills the harpies near the mountain route toward Samyrn Torst. [Confirmed by user on 2026-07-11] [Session 2026-04-18](../../Adventures/2026-04-18.md)

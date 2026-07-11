@@ -18,6 +18,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed] Current location established on 2026-04-18 as the coastline near the Iron Shore Tribes.
 - [Confirmed] Dain received the `Ghostly Form Tattoo` reward after the harpy fight; this was corrected on 2026-05-03 to clarify that Kagrenac did not receive it.
 - [Confirmed] Dain received the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) when the party killed the harpies; user confirmation recorded 2026-07-11.
+- [Confirmed by user on 2026-07-11] Dain is proficient/trained in medium armor.
 - [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from [Truthammer mountain](../Places/Truthhammer%20Mountains.md) because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - [To verify] Weight, Temp HP, and prepared-spell markings remain unsettled.
 - [Confirmed from 2026-05-30 shared session] Dain took Resilient: Constitution at Wizard 4, raising CON from `13` to `14` and CON save to `+4`.
@@ -160,7 +161,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Prove that strange edge-case spells can hold wonder, elegance, and real value even when no one else sees the point.
 
 ## Mechanical Snapshot
-- Current HP nearly 1 after the Coal Mine Puppet stabbing [To verify exact value]; max HP likely 29 [To verify Tom's HP ruling]; AC 10; Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4.
+- Current HP nearly 1 after the Coal Mine Puppet stabbing [To verify exact value]; max HP likely 29 [To verify Tom's HP ruling]; AC 10 unarmored or `14` in the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) with current `DEX +0`; Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4; medium armor training confirmed.
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 
