@@ -161,7 +161,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Prove that strange edge-case spells can hold wonder, elegance, and real value even when no one else sees the point.
 
 ## Mechanical Snapshot
-- Current HP nearly 1 after the Coal Mine Puppet stabbing [To verify exact value]; max HP likely 29 [To verify Tom's HP ruling]; AC 10 unarmored or `14` in the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) with current `DEX +0`; Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4; medium armor training confirmed.
+- Current HP nearly 1 after the Coal Mine Puppet stabbing [To verify exact value]; max HP likely 29 [To verify Tom's HP ruling]; current AC `14` from the equipped and attuned [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md); Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4; medium armor training confirmed; `1 / 3` confirmed attunement slots occupied.
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 
@@ -176,6 +176,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Codex reference images, including `Dain_Truthammer_portrait_v3.png`, were regenerated in the campaign's kinetic shonen fantasy anime style.
 - 2026-05-03: User correction clarified that Dain, not Kagrenac, received the `Ghostly Form Tattoo` reward from the harpy fight.
 - 2026-07-11: User confirmed Dain also received the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) when the party killed the harpies on 2026-04-18.
+- 2026-07-11: Dain equips and attunes to the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md), setting his current AC to `14` and occupying one attunement slot. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-05-03: During a forest long rest beside a flowing river, Dain formally created [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and spent the final hour meditating inside it.
 - 2026-05-03: DM note recorded that Dain is considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Lore/Garl%20Glittergold.md).
 - 2026-05-03: Dain exited [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) dressed but damp, heard Kagrenac's Common announcement that "a lizard has arrived," saw Hammerton holding a severed lizard head, and initially misunderstood the announcement. [Session 2026-05-03](../../Adventures/2026-05-03.md)

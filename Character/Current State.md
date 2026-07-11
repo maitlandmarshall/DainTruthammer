@@ -31,7 +31,7 @@
 - Max HP: likely 29 [To verify Tom's HP ruling after Resilient: Constitution and level 4]
 - Current HP: nearly 1 after the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) stabbed Dain on 2026-05-30 [To verify exact HP and damage]
 - Temp HP: [To verify] the Temp HP field shows `--`
-- AC: 10 while not wearing armor; `14` if Dain equips the [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with his current `DEX +0`. [To verify current equipped state]
+- AC: `14` from the equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11]
 - Initiative: +0
 - Speed: 30 ft. (walking)
 - Hit Dice: 4d6
@@ -64,11 +64,12 @@
 
 ## Resources
 - Spell Slots: maximum now 1st level 4/4 and 2nd level 3/3 after Wizard 4; current remaining after the 2026-05-30 winter wolf fight and 2026-06-20 `Suggestion` against Taleesh is [To verify]. Taleesh failed the `Suggestion` save; whether the slot was spent normally should still be confirmed at the table.
+- Attunement: `1 / 3` confirmed slots occupied by the [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Ghostly Form Tattoo](../Codex/Items/Ghostly%20Form%20Tattoo.md)'s attunement requirement and applied state remain [To verify].
 - Arcane Recovery: 1 / Long Rest
 - Stonecunning (Tremorsense): 2 / Long Rest
 - Chromatic Orb: Cast at the [Werebear at Smoky Cave](../Codex/Characters/Werebear%20at%20Smoky%20Cave.md) for `11` acid damage on 2026-05-03. [To verify] Whether this spent a 1st-level spell slot, the refreshed Magic Initiate `1 / Long Rest` use, or another table-specific resource.
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
-- Breastplate of Balance: [Character-only] [Confirmed by user on 2026-07-11] Dain received this rare medium armor when the party killed the harpies on 2026-04-18 and is proficient/trained in medium armor. Whether he currently carries, wears, or is attuned to it is [To verify]. With Dain's current `DEX +0`, it provides `AC 14` when worn and does not prevent his spellcasting.
+- Breastplate of Balance: [Character-only] [Confirmed by user on 2026-07-11] Dain received this rare medium armor when the party killed the harpies on 2026-04-18, is proficient/trained in medium armor, and has now equipped and attuned to it. With Dain's current `DEX +0`, it provides `AC 14` and does not prevent his spellcasting. Current charges are [To verify].
 - Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
 - Conjured warm cloak: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night; the night has passed, so any continued cloak effect is [To verify]. [Party] [Character-only] [Confirmed]
 - Former in-progress craft: [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), begun from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), then offered to the goblin leader as food during the toll encounter. The goblin leader is eating it and has taken `4` fire damage; final lantern state is [To verify].

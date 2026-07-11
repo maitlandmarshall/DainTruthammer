@@ -10,7 +10,8 @@ A rare copper-and-clockwork breastplate that spends magical charges to flatten a
 - [Confirmed] Published magic item from *The Book of Many Things*, page 34.
 - [Confirmed] Medium armor (breastplate), rare, requires attunement, `20 lb.`
 - [Character-only] [Confirmed by user on 2026-07-11] Dain received it when the party killed the harpies on 2026-04-18.
-- [To verify] Who currently carries it, whether Dain is wearing it, and whether he is attuned.
+- [Character-only] [Confirmed by user on 2026-07-11] Dain currently carries, wears, and is attuned to the breastplate.
+- [To verify] Current charges remaining.
 - [Character-only] [Confirmed by user on 2026-07-11] Dain is proficient/trained in medium armor.
 
 ## Appearance
@@ -46,7 +47,7 @@ A rare copper-and-clockwork breastplate that spends magical charges to flatten a
 - Attunement remains required. Dain currently has no confirmed competing attuned item, although the [Ghostly Form Tattoo](./Ghostly%20Form%20Tattoo.md)'s attunement requirement is still [To verify].
 
 ## Tactical Assessment
-- [Inferred] Strong recommendation: wear and attune unless Dain already has three more valuable attuned items or needs to conceal the conspicuous copper armor.
+- [Confirmed on 2026-07-11] Dain accepted the recommendation and equipped and attuned to the breastplate.
 - `Equalize` is the main combat value: use it to remove a dangerous enemy's advantage or an ally's disadvantage before the d20 is rolled.
 - Preserve at least `2` charges when disease, poison, paralysis, blindness, or deafness is a plausible threat so `Expunge Imbalance` remains available.
 - The reaction cost competes with any other reaction options Dain gains, but no major competing reaction spell is currently recorded on his sheet.
@@ -60,6 +61,7 @@ A rare copper-and-clockwork breastplate that spends magical charges to flatten a
 
 ## Notable Events
 - 2026-04-18: Dain receives the Breastplate of Balance after the party kills the harpies near the mountain route toward Samyrn Torst. [Confirmed by user on 2026-07-11] [Session 2026-04-18](../../Adventures/2026-04-18.md)
+- 2026-07-11: Dain equips and attunes to the Breastplate of Balance, setting his current AC to `14` and occupying one attunement slot. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
