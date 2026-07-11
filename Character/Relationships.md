@@ -25,7 +25,10 @@
 - [Dain's Father](../Codex/Characters/Dains%20Father.md)
 - Current role: [Party] [Confirmed on 2026-07-11] head of the Truthammer clan; formal title [To verify].
 - Current beat: [Character-only] Dain declares that he is going to meet his father and heads directly toward the clan-head chamber after returning through the gates.
-- Current conversation: [Character-only] Dain admits possible responsibility for the loaned sigil, reports the journey, warns his father about the moon elf's accusations, and discloses possible debt caused by Norhan's character. The father's response is [To verify].
+- Current conversation: [Character-only] Dain admits possible responsibility for the loaned sigil, reports the journey, warns his father about the moon elf's accusations, and discloses possible debt caused by Norhan's character. His father's formal judgment remains [To verify].
+- Guest-right beat: [Character-only] Dain's father offers him a bath, dinner, a place to stay, and guest status. When Dain asks to dine later, his father kindly tells him he is always welcome at his table.
+- Faith tension: [Character-only] Dain's father remains disappointed over Dain's break with Moradin, likely connected to Dain's devotion to Garl Glittergold. [To verify exact wording and interpretation]
+- Clan boundary: [Character-only] The father's personal and familial welcome does not establish that Dain's rejection from the Truthammer clan has been reversed.
 - Relationship tension: [Character-only] Dain remains wounded by his rejection from the clan but has not surrendered the Truthammer name or the relationship implied by calling this dwarf his father. [To verify the father's personal role in the exile]
 - Unresolved tension: [To verify] whether the outcast status is religious, familial, legal, political, or social; whether the troopers represented the Truthhammers; and whether Dain can return safely now that he is heading home.
 - Roleplay interpretation: [Inferred] This may explain Dain's vague stories and careful backstory evasions.

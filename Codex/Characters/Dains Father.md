@@ -1,7 +1,7 @@
 # Dain's Father
 
 ## One-Line Summary
-Dain Truthammer's father and the confirmed leader of the Truthammer clan, now receiving Dain's admission and report after his return to the mountain.
+Dain Truthammer's father and the confirmed leader of the Truthammer clan, who remains religiously disappointed in Dain yet assures his son that he is always welcome at his table.
 
 ## Status
 - [Party] [Confirmed on 2026-07-11] Dain's father is the head of the Truthammer clan.
@@ -10,6 +10,9 @@ Dain Truthammer's father and the confirmed leader of the Truthammer clan, now re
 - [Party] When Dain arrives, his father is speaking with advisers and a group of gnomes.
 - [Character-only] Dain overhears his father express disappointment that a sigil has been used by someone for gold, identified table-side as Norhan, and warn that another occurrence will require investigation.
 - [Character-only] Dain speaks to his father directly, admits possible responsibility for lending the sigil, reports the events leading to the mountain, warns about the moon elf's accusations, and raises possible Truthammer debt caused by Norhan's character.
+- [Character-only] He offers Dain a place to stay, dinner, a bath, and the hospitality of a guest.
+- [Character-only] He expresses disappointment over Dain's having surrendered or left his faith in Moradin. Context suggests this concerns Dain's devotion to Garl Glittergold, but the exact wording and meaning remain [To verify].
+- [Character-only] When Dain asks to dine with him later, he answers kindly that Dain is always welcome at his table.
 - [To verify] Name, age, species details, appearance, formal title, office, mechanical role, current health, personality, and whether he expected Dain's return.
 - [To verify] The spoken description considers and rejects `magistrate`, then mentions `vizier` before trailing off. Neither is locked as his title.
 
@@ -18,15 +21,17 @@ Dain Truthammer's father and the confirmed leader of the Truthammer clan, now re
 - [Character-only] Dain previously said the hidden passage should be reported to his father and that the party should return armed.
 - [To verify] Whether the father personally ordered, supported, opposed, regretted, or merely inherited Dain's outcast status.
 - [To verify] Whether Dain's father knows the truth about the century-old escape, missing friend, later searcher, Garl Glittergold faith, or accusation evidence.
+- [Character-only] His personal welcome does not by itself restore Dain's formal standing in the Truthammer clan or resolve the dishonor Dain feels from his rejection.
 
 ## Image Status
-- No portrait generated: his appearance is not established. The 2026-07-11 approach panel keeps him distant or unseen.
+- No definitive portrait generated: his appearance is not established. The 2026-07-11 hospitality scene shows him from behind and should not be treated as locking facial details.
 
 ## Notable Events
 - 2026-07-11: Dain declares he is going to meet his father and reaches the formal clan-head chamber after passing through the busy interior district. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Dain sees his father conferring with advisers and gnomes as Dain opens the earlier gnome gift and discovers gunpowder. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Dain overhears his father warn the gnomes that he is disappointed a sigil was used for gold and that a repeat will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify sigil owner, exact actor, and transaction]
-- 2026-07-11: Dain makes a direct report to his father, admits possible responsibility, warns of the moon elf's accusations, and discloses that lending the sigil may have allowed Norhan's character to create debt in the Truthammer name. The father's response is [To verify]. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: Dain makes a direct report to his father, admits possible responsibility, warns of the moon elf's accusations, and discloses that lending the sigil may have allowed Norhan's character to create debt in the Truthammer name. His father responds with personal hospitality while his formal judgment on the sigil and debt remains [To verify]. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: His father offers Dain a bath, dinner, a place to stay, and guest-right, but voices disappointment about Dain's break with Moradin. As Dain prepares to leave, his father kindly assures him that he is always welcome at his table. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify exact faith wording and clan implications]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)

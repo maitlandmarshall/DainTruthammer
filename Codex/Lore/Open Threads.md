@@ -2,7 +2,9 @@
 
 ## Current Live Focus - 2026-07-11
 - [Character-only] [Confirmed] Dain directly admits possible responsibility to his father, reports the journey, warns him of the moon elf's accusations, and discloses possible debt caused after lending the sigil to Norhan's character.
-- [Character-only] [To verify] Record the father's response, actual debt, sigil holder, whether confession prevents or starts investigation, what journey details Dain disclosed, and what the clan leader decides to address first.
+- [Character-only] [Confirmed] Dain's father offers him a bath, dinner, a place to stay, and guest-right; despite disappointment over Dain's break with Moradin, he kindly assures Dain that he is always welcome at his table.
+- [Character-only] [To verify] Confirm whether Dain accepts the bath or stay, who attends dinner, the exact Moradin/Garl wording, and whether this personal welcome has any effect on Dain's formal clan status.
+- [Character-only] [To verify] Record the father's formal response concerning the actual debt, sigil holder, whether confession prevents or starts investigation, what journey details Dain disclosed, and what the clan leader decides to address first.
 - [Character-only] [Confirmed] Dain overhears his father express disappointment that a sigil was used for gold by someone identified table-side as Norhan and warn that another occurrence will require investigation.
 - [Character-only] [To verify] Determine whose sigil is meant, whether Hammerton/Harry used it, whether this is the 2026-06-20 seal-for-silver transaction or a separate use, who holds the seal, how the clan detected it, and what the threatened investigation would cover.
 - [Character-only] [Confirmed] Dain finds his father conferring with advisers and gnomes, opens the earlier half-pound gnome gift, and discovers coarse dark-grey gunpowder inside.

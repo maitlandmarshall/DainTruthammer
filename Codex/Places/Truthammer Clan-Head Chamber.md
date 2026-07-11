@@ -10,6 +10,7 @@ The formal, non-royal chamber where Dain's father conducts his role as head of t
 - [Party] The chamber feels almost like a throne room but is not described as royal.
 - [Party] Dain's father, the head of the Truthammer clan, is located here.
 - [Party] On Dain's arrival, his father is speaking with advisers and a group of gnomes.
+- [Character-only] Dain's father offers Dain guest-right, a bath, a place to stay, and dinner here, then assures him he is always welcome at his table.
 - `Truthammer Clan-Head Chamber` is a tracking name, not a confirmed in-world name.
 
 ## What Is Uncertain
@@ -22,6 +23,7 @@ The formal, non-royal chamber where Dain's father conducts his role as head of t
 - 2026-07-11: Dain finds his father conferring with advisers and gnomes, then opens the half-pound gnome gift and discovers coarse dark-grey gunpowder inside. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: In the same meeting, Dain overhears his father express disappointment that a sigil was used for gold and warn that another occurrence will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Dain then speaks directly with his father, admits possible responsibility, reports the journey, warns of the moon elf's accusations, and discloses possible debt caused through the loaned sigil. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: The audience closes with a mixture of religious disappointment and familial warmth: Dain's father regrets Dain's break with Moradin but offers him hospitality, and promises that Dain is always welcome at his table. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify exact faith wording; no clan reinstatement confirmed]
 
 ## Related Entries
 - [Dain's Father](../Characters/Dains%20Father.md)
