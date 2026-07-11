@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Party] [Confirmed] Dain and the party are heading to the Truthammer settlement's [bathhouses](../Places/Berronar%20Truesilver%20Bathhouses.md), described table-side as `Barren Archer of Silver hand`.
+- [Party] [To verify] Confirm whether the intended name is Berronar Truesilver, whether the bathhouses are dedicated to her, who goes inside, and the site's customs and facilities.
 - [Character-only] [Confirmed] Dain directly admits possible responsibility to his father, reports the journey, warns him of the moon elf's accusations, and discloses possible debt caused after lending the sigil to Norhan's character.
 - [Character-only] [Confirmed] Dain's father offers him a bath, dinner, a place to stay, and guest-right; despite disappointment over Dain's break with Moradin, he kindly assures Dain that he is always welcome at his table.
 - [Character-only] [To verify] Confirm whether Dain accepts the bath or stay, who attends dinner, the exact Moradin/Garl wording, and whether this personal welcome has any effect on Dain's formal clan status.
