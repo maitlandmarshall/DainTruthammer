@@ -55,7 +55,7 @@
 - [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) [Character-only] [Complete]
   A wet-heat pelt for Brother Taleesh, begun on 2026-05-30 and completed during the 2026-07-11 long rest.
   Research progress: complete. Dain used knowledge from the Always-Cold Robes and the recovered `6%` warm-garment branch.
-  Confirmed final notes: always warm in any cold environment; the wetness always smells like wolf piss. [To verify exact mechanics, carrier, attunement, and whether the earlier steam/scalding risk remains]
+  Confirmed final notes: always warm in any cold environment; its wetness makes the surrounding area smell like female white-wolf piss. Taleesh graciously accepts and loves the completed jacket and now carries/wears it. [To verify exact mechanics, odor radius, attunement, and whether the earlier steam/scalding risk remains]
 - [Failed Moral Lesson Rat Spell Ideas](../Codex/Brainstorm/Powers/Failed%20Moral%20Lesson%20Rat%20Spell%20Ideas.md) [Character-only] [Idea-stage] [In progress]
   A new spell seed begun on 2026-06-20 after Dain reflected on a failed pub moral lesson, prayed to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and saw a rat fall from the ceiling.
   Research progress: beginning notes only. Dain has started writing in his wizard book / spellbook; no name, level, school, components, or mechanics are approved yet.

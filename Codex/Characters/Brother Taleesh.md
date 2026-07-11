@@ -49,7 +49,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Taleesh offers Dain weed, says "Brother Truthammer, it's just a little fun and games," tries to end the game after detecting Dain's counterplay, then fails Dain's `Suggestion` save to "Complete the game." [To verify exact motive, wording, final stakes, and party reaction]
 - [Party] [To verify who overheard] During the 2026-07-11 long rest, Dain apologizes for his dice-game actions and says he meant to teach a moral lesson about virtue. Taleesh replies, "It's the Truthammer virtue, not Taleesh virtue."
 - [Character-only] During the same long rest, Dain tells Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers.
-- [Party] Dain completes the [Sauna Pelt](../Items/Sauna%20Pelt.md) for Taleesh: always warm in cold environments, with wetness that smells like wolf piss. [To verify whether it has been handed over]
+- [Party] Dain completes the [Sauna Pelt / Sauna Jacket](../Items/Sauna%20Pelt.md) for Taleesh: always warm in cold environments, with wetness that makes the surrounding area smell like female white-wolf piss.
+- [Party] Taleesh graciously accepts the completed Sauna Jacket, now carries/wears it, and loves it. The jacket makes the surrounding area smell like female white-wolf piss.
 - [Character-only] The notebook records `+13` respect connected to Taleesh. [To verify direction and resulting total]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
@@ -179,6 +180,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-05-30: Taleesh provides Dain with a good-quality large pelt and asks for always-warm leather; Dain begins the [Sauna Pelt](../Items/Sauna%20Pelt.md) and reaches `84%` progress. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-06-20: Taleesh invites Dain to dice in a tavern, cheats or appears to cheat, offers weed, and tries to end the game when Dain decides to anti-cheat; Dain responds with `Suggestion`: "Complete the game," Taleesh fails the save, and the game completes. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify final accounting and fallout]
 - 2026-07-11: During a long rest, Dain apologizes to Taleesh over the dice game, explains the intended moral lesson, reveals his century-old tunnel escape and friend's sacrifice, and finishes the [Sauna Pelt](../Items/Sauna%20Pelt.md). [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: Taleesh graciously accepts and loves the completed Sauna Jacket. He now carries/wears it, and its wetness makes the surrounding area smell like female white-wolf piss. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

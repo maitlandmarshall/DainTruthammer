@@ -5,7 +5,7 @@
 - [Character-only] [Confirmed] Dain has disclosed to Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers.
 - [Party] [To verify] Establish the armored dwarf's identity, Kagrenac's remaining evidence, the meaning of the studded cold leather note, and whether a natural `1` established a great accident rather than murder. The DM has clarified that the armor would not realistically belong to Dain's missing friend.
 - [Party] [Confirmed] The party reached the tunnel's far end and completed a long rest; Dain's HP, spell slots, and long-rest resources are restored.
-- [Character-only] [Confirmed] Dain finished the [Sauna Pelt](../Items/Sauna%20Pelt.md): always warm in cold environments, with wetness that smells like wolf piss. Confirm carrier and whether earlier steam danger remains.
+- [Party] [Confirmed] Dain finished the [Sauna Pelt / Sauna Jacket](../Items/Sauna%20Pelt.md) and Taleesh graciously accepted it, now wears/carries it, and loves it. It stays warm in cold environments and makes the area smell like female white-wolf piss. Confirm whether earlier steam danger remains.
 - [Party] [Character-only] Dain apologized to Taleesh for the dice-game coercion; Taleesh answered that it was "the Truthammer virtue, not Taleesh virtue."
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
@@ -108,8 +108,8 @@
 - Status: Resolved
 - Tags: [Character-only] [Confirmed] [To verify mechanics]
 - Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md) asked Dain for always-warm leather, and Dain's answer is becoming the [Sauna Pelt](../Items/Sauna%20Pelt.md), a dangerous but promising follow-through on the warmth bargain.
-- Latest development: Dain completed the Sauna Pelt during the 2026-07-11 long rest. It is always warm in cold environments, and its wetness smells like wolf piss.
-- Next possible actions: Confirm who carries it, whether it was handed to Taleesh, exact mechanical wording, attunement, and whether the earlier steam/scalding risk remains.
+- Latest development: Dain completed the Sauna Jacket during the 2026-07-11 long rest. Taleesh graciously accepts it, wears/carries it, and loves it. It is always warm in cold environments, and its wetness makes the surrounding area smell like female white-wolf piss.
+- Next possible actions: Confirm exact mechanical wording, odor radius, attunement, and whether the earlier steam/scalding risk remains.
 - Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Confirm Level 4 Derived Values

@@ -3,7 +3,7 @@
 ![Sauna Pelt reference](./Sauna_Pelt_ref.png)
 
 ## One-Line Summary
-A completed wet-heat pelt for Brother Taleesh that remains warm in any cold environment while its perpetual dampness smells like wolf piss.
+A completed wet-heat jacket now joyfully worn by Brother Taleesh: warm in any cold environment and damp enough to make the area smell like female white-wolf piss.
 
 ## Status
 - [Character-only] [Confirmed] Begun during the 2026-05-30 session from a good-quality large pelt provided by [Brother Taleesh](../Characters/Brother%20Taleesh.md).
@@ -13,15 +13,19 @@ A completed wet-heat pelt for Brother Taleesh that remains warm in any cold envi
 - [Character-only] [Confirmed] Dain recorded `84%` progress using knowledge from the [Always-Cold Robes](./Always-Cold%20Robes.md) and the earlier `6%` always-warm garment attempt.
 - [Character-only] [Confirmed] Dain completed the Sauna Pelt during the 2026-07-11 long rest.
 - [Character-only] [Confirmed] The finished pelt is always warm in any cold environment.
-- [Character-only] [Confirmed] The finished pelt's wetness always smells like wolf piss.
+- [Party] [Confirmed] The finished jacket's wetness makes the surrounding area smell like female white-wolf piss.
+- [Party] [Confirmed on 2026-07-11] Taleesh graciously accepts the completed jacket and loves it.
+- [Party] [Confirmed on 2026-07-11] Taleesh now carries/wears the item; Dain no longer carries it.
+- [Party] [Retcon / specificity] The final odor is specifically female white-wolf piss, and it affects the surrounding area rather than only the pelt itself.
 - [Character-only] [To verify] The 2026-06-20 notebook goal calls the project "Sauna Jacket"; this is currently treated as shorthand or an alternate name for the Sauna Pelt until confirmed otherwise.
-- [To verify] What final resources were spent and whether the completed pelt is currently carried by Dain or Taleesh.
+- [To verify] What final resources were spent, whether the item requires attunement, and the odor's effective radius.
 - [To verify] Whether this is a magic item, spell prototype, mundane craft with magical treatment, or unstable experimental object.
 
 ## What Dain Knows
 - [Character-only] A straightforward always-warm leather was requested, but the result is becoming something more Dain-shaped.
 - [Character-only] The completed pelt remains wet and keeps its wearer warm in cold environments.
-- [Character-only] Its wetness smells like wolf piss.
+- [Party] Its wetness makes the surrounding area smell like female white-wolf piss.
+- [Party] Taleesh loves the result.
 - [Character-only] Earlier research risked escalating damp warmth into dangerous or lethal steam. Whether that risk remains in the completed version is [To verify].
 - [Character-only] The earlier `6%` warm-garment work was recovered or converted into this new project.
 - [Character-only] The Always-Cold Robes taught Dain something useful about temperature magic from the wrong direction.
@@ -35,11 +39,11 @@ A completed wet-heat pelt for Brother Taleesh that remains warm in any cold envi
 - [To verify] Exact mechanical meaning of "always warm in any cold environment" and of the persistent wetness.
 - [To verify] Whether it still creates steam, inflicts heat/scalding, causes a formal Wet condition, resists fire, or interacts with cold/fire/lightning damage.
 - [To verify] Whether it requires attunement, charges, concentration, a rest reset, or crafting checks.
-- [To verify] Whether Taleesh wants the Dain-style version after learning the risks.
+- [Confirmed] Taleesh wants and loves the Dain-style finished jacket.
 
 ## Description
 - Base material: good-quality large pelt from Brother Taleesh.
-- Finished traits: damp hide, reliable warmth in cold environments, and wetness that smells like wolf piss.
+- Finished traits: damp hide, reliable warmth in cold environments, and an area-filling smell of female white-wolf piss.
 - Earlier design direction: sealed warmth cycle, steam buildup, and dangerous over-warmth. [To verify what survived completion]
 - Thematic link: a sibling problem to [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), which already weaponizes inconvenient wetness.
 
@@ -49,6 +53,7 @@ A completed wet-heat pelt for Brother Taleesh that remains warm in any cold envi
 - 2026-05-30: Dain reaches `84%` completion by applying knowledge from the Always-Cold Robes and recovering the abandoned `6%` warm-jacket progress. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify DM acceptance]
 - 2026-06-20: Notebook goals include completing the "Sauna Jacket," currently treated as this Sauna Pelt project unless later corrected. [Session 2026-06-20](../../Adventures/2026-06-20.md)
 - 2026-07-11: Dain completes the Sauna Pelt during the long rest. Its finished notes say it is always warm in any cold environment and its wetness smells like wolf piss. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: Taleesh graciously accepts and loves the finished Sauna Jacket. He now carries/wears it, and the surrounding area smells like female white-wolf piss. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
