@@ -9,8 +9,8 @@
 
 ## Live Snapshot - 2026-07-11
 - Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: The party has moved through to the end of the [hidden tunnel near Truthhammer Mountain](../Codex/Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md) and completed a long rest. Dain has described his century-old escape through these tunnels to [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), finished the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md), and now faces [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md)'s accusation that he murdered a dwarf. Play resumes at the accusation scene.
-- Immediate unresolved state: the armored dwarf's identity, the exact studded-cold-leather note, whether that dwarf was a later searcher and died by accident, Dain's missing friend's identity and fate, Kagrenac's remaining evidence, the completed Sauna Pelt's remaining steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify]. The DM has clarified that the armor would not realistically belong to Dain's missing friend.
+- Location/status: The party has reached an [unnamed mountain lake](../Codex/Places/Unnamed%20Frog%20Lake%20-%202026-07-11.md), where a huge, bumpy brown-and-green [giant frog](../Codex/Characters/Giant%20Lake%20Frog%20-%202026-07-11.md) has clamped its jaws around Ollyander. Taleesh slashes the frog while Dain uses `Shape Water` to freeze water around its mouth and prevent it clamping down further.
+- Immediate unresolved state: Ollyander's damage and condition, Taleesh's attack details, the frog's current HP and fate, initiative, the exact `Shape Water` ruling, whether more frogs are present, the armored dwarf's identity, Dain's missing friend's fate, the Sauna Jacket's remaining steam risk, exact coin balance, [Dain's Seal](../Codex/Items/Dains%20Seal.md) status, and Breastplate of Balance charges are all [To verify].
 - Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity

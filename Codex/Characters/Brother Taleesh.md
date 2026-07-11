@@ -181,6 +181,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-06-20: Taleesh invites Dain to dice in a tavern, cheats or appears to cheat, offers weed, and tries to end the game when Dain decides to anti-cheat; Dain responds with `Suggestion`: "Complete the game," Taleesh fails the save, and the game completes. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify final accounting and fallout]
 - 2026-07-11: During a long rest, Dain apologizes to Taleesh over the dice game, explains the intended moral lesson, reveals his century-old tunnel escape and friend's sacrifice, and finishes the [Sauna Pelt](../Items/Sauna%20Pelt.md). [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Taleesh graciously accepts and loves the completed Sauna Jacket. He now carries/wears it, and its wetness makes the surrounding area smell like female white-wolf piss. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: When a huge, bumpy brown-and-green [giant lake frog](./Giant%20Lake%20Frog%20-%202026-07-11.md) clamps its jaws around Ollyander, Taleesh immediately responds by slashing it while Dain freezes water around its mouth. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify weapon, roll, and damage]
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

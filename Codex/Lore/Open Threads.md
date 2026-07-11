@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Party] [Confirmed] At the [unnamed frog lake](../Places/Unnamed%20Frog%20Lake%20-%202026-07-11.md), a huge, bumpy brown-and-green [giant frog](../Characters/Giant%20Lake%20Frog%20-%202026-07-11.md) has Ollyander in its jaws. Taleesh slashes it while Dain freezes water around its mouth with `Shape Water` to halt further clamping.
+- [Party] [To verify] Resolve Ollyander's damage and condition, Taleesh's attack roll/damage, the exact `Shape Water` ruling, current initiative, the frog's fate, and whether more frogs are present.
 - [Party] [Confirmed] Resume at [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md): Kagrenac says he no longer trusts Dain and accuses him of murdering a dwarf.
 - [Character-only] [Confirmed] Dain has disclosed to Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers.
 - [Party] [To verify] Establish the armored dwarf's identity, Kagrenac's remaining evidence, the meaning of the studded cold leather note, and whether a natural `1` established a great accident rather than murder. The DM has clarified that the armor would not realistically belong to Dain's missing friend.

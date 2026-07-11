@@ -52,6 +52,7 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - 2026-05-30: Dain records `+4` respect toward Ollyander. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: As the party travels north-east along the river into colder country, Ollyander walks close to Dain and holds onto his Truthammer garment. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-06-20: During the tavern dice game, Dain gives Ollyander `1 gp`; Ollyander wins as well, and Dain later values Ollyander's `3 rats` as `9 gp` while going all in. After Dain loses a later betting round, Ollyander ends up winning, and a human/townsperson trade involving Ollyander is valued at `60 gp` worth of silver. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify "rats" and silver trade]
+- 2026-07-11: A huge, bumpy brown-and-green [giant lake frog](./Giant%20Lake%20Frog%20-%202026-07-11.md) emerges from an unnamed lake and clamps its jaws around Ollyander. Taleesh slashes it, and Dain freezes water around its mouth with `Shape Water` to stop it clamping down further. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify Ollyander's damage and condition]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)
@@ -60,3 +61,4 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - [Relationships](../../Character/Relationships.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-05-30](../../Adventures/2026-05-30.md)
+- [Session 2026-07-11](../../Adventures/2026-07-11.md)
