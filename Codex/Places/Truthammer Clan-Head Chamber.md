@@ -9,6 +9,7 @@ The formal, non-royal chamber where Dain's father conducts his role as head of t
 - [Party] [Confirmed on 2026-07-11] Reached after crossing a busy interior district of the Truthammer mountain settlement.
 - [Party] The chamber feels almost like a throne room but is not described as royal.
 - [Party] Dain's father, the head of the Truthammer clan, is located here.
+- [Party] On Dain's arrival, his father is speaking with advisers and a group of gnomes.
 - `Truthammer Clan-Head Chamber` is a tracking name, not a confirmed in-world name.
 
 ## What Is Uncertain
@@ -18,6 +19,7 @@ The formal, non-royal chamber where Dain's father conducts his role as head of t
 
 ## Notable Events
 - 2026-07-11: Dain declares he is going to meet his father and reaches this chamber immediately before their reunion or confrontation. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: Dain finds his father conferring with advisers and gnomes, then opens the half-pound gnome gift and discovers coarse dark-grey gunpowder inside. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Dain's Father](../Characters/Dains%20Father.md)
@@ -25,4 +27,3 @@ The formal, non-royal chamber where Dain's father conducts his role as head of t
 - [Truthhammer Gate Cavern](./Truthammer%20Gate%20Cavern.md)
 - [Truthhammer Mountains](./Truthhammer%20Mountains.md)
 - [Session 2026-07-11](../../Adventures/2026-07-11.md)
-

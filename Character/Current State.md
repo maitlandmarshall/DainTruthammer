@@ -9,8 +9,8 @@
 
 ## Live Snapshot - 2026-07-11
 - Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: At or entering the formal [Truthammer Clan-Head Chamber](../Codex/Places/Truthammer%20Clan-Head%20Chamber.md). Dain has declared that he is going to meet [his father](../Codex/Characters/Dains%20Father.md), the head of the Truthammer clan, and has crossed the busy mixed-population district to reach him.
-- Immediate unresolved state: Dain's father's name, formal title, appearance, reaction and role in the exile; who accompanies Dain into the chamber; whether Taleesh must wash later; Tharrd Harr's full lore; airship ownership and purpose; the exact armor and its carrier; the sealed letter's urgency; the giant frog's fate and Ollyander's condition; the armored dwarf's identity; Dain's missing friend's fate; the Sauna Jacket's steam risk; exact coin balance; [Dain's Seal](../Codex/Items/Dains%20Seal.md) status; and Breastplate of Balance charges are all [To verify].
+- Location/status: In the formal [Truthammer Clan-Head Chamber](../Codex/Places/Truthammer%20Clan-Head%20Chamber.md). Dain's father is speaking with advisers and gnomes while Dain holds the opened [half-pound gnome gift](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), now revealed to contain coarse dark-grey gunpowder.
+- Immediate unresolved state: purpose, quantity, mechanics and safe handling of the gunpowder; identity and business of the advisers and gnome delegation; Dain's father's name, formal title, appearance, reaction and role in the exile; who accompanies Dain; whether Taleesh must wash later; Tharrd Harr's full lore; airship ownership and purpose; the exact armor and its carrier; the sealed letter's urgency; the giant frog's fate and Ollyander's condition; the armored dwarf's identity; Dain's missing friend's fate; the Sauna Jacket's steam risk; exact coin balance; [Dain's Seal](../Codex/Items/Dains%20Seal.md) status; and Breastplate of Balance charges are all [To verify].
 - Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity
@@ -116,7 +116,7 @@
 - [Character-only] Observe how Taleesh uses the completed [Sauna Jacket](../Codex/Items/Sauna%20Pelt.md), how others react to the female-white-wolf-piss odor, and whether the wet warmth replaced or merely disguised the earlier lethal-steam risk.
 - [Character-only] Answer Kagrenac's murder accusation without surrendering the truth of Dain's century-old tunnel escape or the friend's sacrifice that made it possible.
 - [Character-only] Resolve the dice-game aftermath with Brother Taleesh without letting cheating become the final joke; clarify final winnings, unfair play, and any party tension after Taleesh failed the `Suggestion` save.
-- [Character-only] Deliver or investigate the [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) received from Glittergold-worshipping gnomes and intended for the local church.
+- [Character-only] Determine why the Glittergold-worshipping gnomes gave Dain coarse dark-grey gunpowder, confirm its mechanics and safe storage, and ask whether it was ever truly intended for the local church.
 - [Character-only] Find the human/townsperson tied to the town's rat-and-poverty problem, inspect the house, gather the rats, and decide how much silver Dain can responsibly give.
 - [Character-only] Develop the failed-moral-lesson rat spell seed without treating its mechanics as canon before user/DM approval.
 - [Character-only] Survive the hidden tunnel collapse over the Underdark, confirm whether a roper is truly present, and avoid turning a shortcut into a swallowed mission.

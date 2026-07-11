@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Character-only] [Confirmed] Dain finds his father conferring with advisers and gnomes, opens the earlier half-pound gnome gift, and discovers coarse dark-grey gunpowder inside.
+- [Party] [To verify] Ask why the gnomes gave Dain gunpowder, whether the present gnome delegation knows, how much remains, what rules it uses, and whether opening it near clan leadership causes concern.
 - [Character-only] [Confirmed] Dain declares that he is going to meet [his father](../Characters/Dains%20Father.md), the head of the Truthammer clan, and reaches the formal [clan-head chamber](../Places/Truthammer%20Clan-Head%20Chamber.md).
 - [Party] [To verify] Confirm the father's name and formal title, who enters the chamber with Dain, how the father reacts to Dain's return, and whether the meeting addresses the armor, airships, hidden tunnel, exile, missing friend, or letter mission first.
 - [Party] [Confirmed] Dain successfully persuades the Truthammer gate guards to excuse Taleesh's Sauna Jacket smell by taking responsibility and invoking the dwarven god [Tharrd Harr](./Tharrd%20Harr.md)'s post-victory smell. The party is allowed through the checkpoint.
@@ -61,12 +63,12 @@
 - Next possible actions: Confirm the exact town, dragon type, who owns the remains, what material the artisans keep, what equipment they agreed to make, who receives the finished equipment, crafting time, and whether any leftover dragon material remains party property.
 - Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Unnamed Town - 2026-06-20](../Places/Unnamed%20Town%20-%202026-06-20.md), [Party Loot](../../Character/Party%20Loot.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
 
-### Deliver The Half-Pound Sack To The Church
+### Determine The Purpose Of The Gnome Gunpowder Gift
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
-- Why it matters: Dain's attempt to be "interesting, but essentially useless" has created a small religious errand involving local Glittergold-worshipping gnomes, the unknown [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), and a possibly forge-related church.
-- Latest development: On 2026-06-20, Dain tried to find 10 gnomes who worship Glittergold and give each `1 gp`. He found six gnomes in a building, gave each `1 gp`, received the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) in return, and recorded an action item to find the church, possibly "Gond of the forge," and give the bag to it.
-- Next possible actions: Confirm whether the local faith is Garl Glittergold, Gond, another forge/gnome deity, or a mixed shrine; identify the sack contents; confirm whether Dain delivered it; record exact gold donated and current coin balance.
+- Why it matters: Dain's Glittergold-shaped generosity returned to him as a potentially dangerous and useful gift: the [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) contains gunpowder, and Dain has opened it while a gnome delegation is meeting with his father.
+- Latest development: On 2026-07-11, Dain retrieves and opens the sack in the Truthammer clan-head chamber, discovering coarse dark-grey gunpowder inside. The earlier intended church delivery is no longer assumed to remain the plan.
+- Next possible actions: Ask the gnome delegation why Dain was given gunpowder; confirm quantity, quality, mechanics, value and safe storage; establish whether the gift connects to Garl Glittergold, Gond, a forge faith, the church, airships, clan business, or an intended task.
 - Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Half-Pound Sack From Glittergold Gnomes](../Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), [Garl Glittergold](./Garl%20Glittergold.md), [Inventory](../../Character/Inventory.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Current State](../../Character/Current%20State.md)
 
 ### Address The Town Rat Problem And Poverty
