@@ -91,6 +91,7 @@
 ## Character Priorities
 - [Character-only] Protect the innocent, expose wickedness, and push events toward the right outcome.
 - [Character-only] Spend every personal gold piece in kindness or goodwill rather than hoarding it; seek out gnomes to receive `Glittergold's Share` whenever practical, without limiting generosity to gnomes alone.
+- [Character-only] Make the life purchased by his friend's century-old sacrifice produce enough good to feel worthy of survival, even though Dain does not believe the debt can truly be repaid and has not forgiven himself for leaving the tunnels alive.
 - [Character-only] Solve problems with deception, illusion, or obscure magical tricks before brute force.
 - [Character-only] Seek out bizarre, impractical, and "useless" spells because even silly magic may hide real wonder.
 - [Character-only] Slowly develop the most unique and gloriously useless spells known to the realm.
@@ -129,6 +130,7 @@
 ## Voice And Habits
 - [Character-only] Benevolent meddler: Dain bends plans, expectations, and sometimes the truth to protect people or reach a kinder outcome.
 - [Character-only] Treats gold as a kindness waiting for a recipient, not as personal savings. In settlements he looks for gnomes first, both as an act of devotion to Garl Glittergold and because he trusts gnomes to make generosity interesting.
+- [Character-only] Presents generosity as cheerful Glittergold mischief, concealing that much of it is driven by survivor's guilt and a private, impossible attempt to justify the life his friend saved.
 - [Character-only] He steals dignity from bullies rather than property from the helpless.
 - [Character-only] He treats suspicious authority as a puzzle to test rather than a master to obey.
 - [Character-only] He speaks to conjured or illusory things as though manners still apply.

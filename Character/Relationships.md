@@ -17,6 +17,7 @@
 - Current standing: [DM-private] [Character-only] [Confirmed] Dain is considered an outcast from Truthammer mountain due to his faith in [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md).
 - Dain's known belief: [Character-only] Home is still formative and beloved, but not simple to discuss.
 - Escape history: [Character-only] [Confirmed on 2026-07-11] About one hundred years ago, a friend helped Dain escape Truthhammer Mountain through the hidden tunnels now being traversed; the friend sacrificed himself to pursuing troopers and went missing. [To verify names, allegiance, exact fate, and relationship to Dain's outcast status]
+- Lasting wound: [Character-only] [Confirmed by user on 2026-07-11] Dain cannot forgive himself for surviving the escape at his friend's expense. His refusal to hoard gold and his insistence on spending it through kindness are an ongoing attempt to make the saved life worthwhile, not a debt he expects ever to finish paying.
 - Later search: [DM-private] [Inferred] A separate dwarf later went looking for the missing friend and is the more likely owner of the armor Kagrenac is using as evidence. The DM has clarified that the armor would not realistically belong to the friend himself.
 - Unresolved tension: [To verify] whether the outcast status is religious, familial, legal, political, or social; whether the troopers represented the Truthhammers; and whether Dain can return safely now that he is heading home.
 - Roleplay interpretation: [Inferred] This may explain Dain's vague stories and careful backstory evasions.
