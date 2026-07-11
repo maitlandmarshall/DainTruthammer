@@ -1,6 +1,8 @@
 # Open Threads
 
 ## Current Live Focus - 2026-07-11
+- [Character-only] [Confirmed] Dain overhears his father express disappointment that a sigil was used for gold by someone identified table-side as Norhan and warn that another occurrence will require investigation.
+- [Character-only] [To verify] Determine whose sigil is meant, whether Hammerton/Harry used it, whether this is the 2026-06-20 seal-for-silver transaction or a separate use, who holds the seal, how the clan detected it, and what the threatened investigation would cover.
 - [Character-only] [Confirmed] Dain finds his father conferring with advisers and gnomes, opens the earlier half-pound gnome gift, and discovers coarse dark-grey gunpowder inside.
 - [Party] [To verify] Ask why the gnomes gave Dain gunpowder, whether the present gnome delegation knows, how much remains, what rules it uses, and whether opening it near clan leadership causes concern.
 - [Character-only] [Confirmed] Dain declares that he is going to meet [his father](../Characters/Dains%20Father.md), the head of the Truthammer clan, and reaches the formal [clan-head chamber](../Places/Truthammer%20Clan-Head%20Chamber.md).
@@ -22,6 +24,14 @@
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
+
+### Prevent A Truthammer Sigil Investigation
+- Status: Active
+- Tags: [Character-only] [Party] [To verify]
+- Why it matters: Dain's father and the gnome delegation know a Truthammer-linked sigil was used to obtain gold, are disappointed by the incident, and have stated that another occurrence will require investigation. Dain previously handed [Dain's Seal](../Items/Dains%20Seal.md) to Harry / Hammerton for `100 gp` worth of silver.
+- Latest development: On 2026-07-11, Dain overhears the warning in the clan-head chamber. The user identifies the responsible person table-side as Norhan; because Norhan plays [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), Hammerton is the likely in-world actor, but this remains [To verify].
+- Next possible actions: Establish whose sigil is meant, ask what transaction the clan detected, confirm whether Hammerton still holds it, retrieve or disable it before another use, decide whether Dain admits voluntarily handing it over, and learn what authority or fraud risk the sigil carries.
+- Linked entries: [Dain's Seal](../Items/Dains%20Seal.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Dain's Father](../Characters/Dains%20Father.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Answer Kagrenac's Murder Accusation
 - Status: Active

@@ -50,7 +50,7 @@
 ## Quest Items
 - [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Party] [Confirmed on 2026-04-18]
 - [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) x1 [Opened; currently handled by Dain] Contains coarse dark-grey gunpowder, confirmed on 2026-07-11. Exact quantity, mechanics, value, purpose, safe storage, and whether any church delivery remains intended are [To verify].
-- [Dain's Seal](../Codex/Items/Dains%20Seal.md) x1 [To verify exact object, prior inventory status, and current holder] On 2026-06-20, Harry / [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) asks for Truthammer's seal; Dain provides it in exchange for `100 gp` worth of silver, then bets that silver. Confirm whether this is a signet, stamp, document seal, clan seal, or other item, and whether Dain can reclaim it.
+- [Dain's Seal](../Codex/Items/Dains%20Seal.md) x1 [Not currently confirmed in Dain's possession] On 2026-06-20 Dain gives it to Harry / Hammerton for `100 gp` worth of silver. On 2026-07-11 Dain overhears his father express disappointment that a sigil was used for gold by someone identified table-side as Norhan and warn that a repeat will require investigation. Confirm exact object, sigil owner, current holder, whether Hammerton used it, which transaction is meant, and reclaimability.
 
 ## Shared Party Loot Reference
 - [Party Loot](./Party%20Loot.md) tracks shared items that are not Dain's personal inventory.

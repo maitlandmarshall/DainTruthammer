@@ -9,8 +9,8 @@
 
 ## Live Snapshot - 2026-07-11
 - Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: In the formal [Truthammer Clan-Head Chamber](../Codex/Places/Truthammer%20Clan-Head%20Chamber.md). Dain's father is speaking with advisers and gnomes while Dain holds the opened [half-pound gnome gift](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md), now revealed to contain coarse dark-grey gunpowder.
-- Immediate unresolved state: purpose, quantity, mechanics and safe handling of the gunpowder; identity and business of the advisers and gnome delegation; Dain's father's name, formal title, appearance, reaction and role in the exile; who accompanies Dain; whether Taleesh must wash later; Tharrd Harr's full lore; airship ownership and purpose; the exact armor and its carrier; the sealed letter's urgency; the giant frog's fate and Ollyander's condition; the armored dwarf's identity; Dain's missing friend's fate; the Sauna Jacket's steam risk; exact coin balance; [Dain's Seal](../Codex/Items/Dains%20Seal.md) status; and Breastplate of Balance charges are all [To verify].
+- Location/status: In the formal [Truthammer Clan-Head Chamber](../Codex/Places/Truthammer%20Clan-Head%20Chamber.md), holding the opened gunpowder sack and overhearing his father warn the gnomes about a sigil used for gold. The father is disappointed and says another occurrence will require investigation.
+- Immediate unresolved state: whose sigil was used, whether Hammerton/Harry used it, whether this is the earlier seal-for-silver exchange or a separate transaction, current seal holder, investigation scope; gunpowder purpose and mechanics; adviser and gnome identities; Dain's father's name, title, appearance, reaction and role in the exile; who accompanies Dain; Taleesh's wash obligation; Tharrd Harr's lore; airships; armor delivery; sealed letter urgency; giant frog outcome; armored dwarf identity; missing friend's fate; Sauna Jacket steam risk; coin balance; and Breastplate of Balance charges are all [To verify].
 - Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
 
 ## Identity

@@ -33,6 +33,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Party] Called Dresden at the table during the trader negotiation after the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) reveal. [To verify table shorthand vs character-name variant]
 - [Party] Hammerton / Dresden asks for more from the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) because the original deal was negotiated before the party knew about the puppet. Dain defuses the escalation by keeping the original deal and adding five truthful answers due upon delivery. [Confirmed on 2026-05-03]
 - [Party] On 2026-06-20, Harry / Hammerton asks Truthammer for [Dain's Seal](../Items/Dains%20Seal.md); Dain provides it in exchange for `100 gp` worth of silver, which Dain then bets in the dice game. [To verify whether the notebook's "Harry" is Hammerton, exact seal object, and whether the seal can be reclaimed]
+- [Character-only] On 2026-07-11, Dain overhears his father say a sigil was used by someone for gold, identified table-side as Norhan, and that a repeat will require investigation. Since Norhan plays Hammerton, Hammerton/Harry is the likely in-world actor. [Inferred; To verify whether this is the 2026-06-20 seal exchange or a separate use]
 - [To verify] Whether Dain knows Hammerton's quartermaster history, spellcasting, military rank, or relationship to the current mission.
 
 ## What The Party Knows
@@ -154,6 +155,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-05-03: The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: At the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md), Hammerton attacks the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md) with a hammer, missing once and hitting once. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify damage and exact hammer]
 - 2026-06-20: Harry / Hammerton asks Truthammer for [Dain's Seal](../Items/Dains%20Seal.md); Dain provides it in exchange for `100 gp` worth of silver, then bets that silver in the tavern dice game. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact object and current holder]
+- 2026-07-11: Dain overhears his father tell the gnomes that he is disappointed a sigil was used for gold by someone identified table-side as Norhan and that another use will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md) [Inferred Hammerton connection; To verify]
 
 ## Related Entries
 - [Table Roster](../Lore/Table%20Roster.md)
