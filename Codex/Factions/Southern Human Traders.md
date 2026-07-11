@@ -24,8 +24,10 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] [Confirmed] A second manticore descends and attacks the other human trader with bites and slashes for around `20` total damage.
 - [Party] [Confirmed] On 2026-05-30, three travelling humans follow behind while the party leads north-east along the river into colder country.
 - [Party] [Confirmed] After Dain denies [Kurtlemack](../Lore/Kurtlemack.md) tribute from four winter wolves' deaths, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs Dain and nearly drops him to `1 HP`.
+- [Party] [Confirmed on 2026-07-11] In a truth-for-truth exchange, the traders reveal that their true goal is to establish new trade and ask Dain about the nature of the Truthammer mountain.
+- [Party] Dain answers their questions and the Coal Mine Puppet's mine question by revealing that the mountain contains one of the richest mines in the land.
 - [Party] [To verify] The humans restrain "him" afterward; whether this means the puppet, Dain, or both is unclear.
-- [To verify] Names, number of traders, broader goods carried, route, intent, honesty, threat level, whether they know anything about the party's mission, and the exact later half of the payment.
+- [To verify] Names, exact number of traders, goods and services intended for the new trade, desired partners, route, authority, honesty, threat level, whether they already knew or suspected the mine, whether they know anything about the party's mission, and the exact later half of the payment.
 
 ## What Dain Knows
 - [Party] They approach from the distance at the start of the new day.
@@ -45,6 +47,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] Another human trader is bitten and slashed by a second manticore for around `20` total damage.
 - [Party] On 2026-05-30, the humans follow behind as the party leads north-east along the river into a cold area.
 - [Party] After Dain denies Kurtlemack tribute and is stabbed by the puppet, the humans restrain "him." [To verify whether they restrained the puppet, Dain, or both]
+- [Party] The traders' underlying purpose is to establish new trade; they ask Dain about the mountain's nature and learn from him that it contains one of the richest mines in the land.
 - [To verify] Whether Dain recognizes their route, dialect, trade marks, clothing, or destination.
 
 ## What The Party Knows
@@ -80,6 +83,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - Storage: [Party Loot](../../Character/Party%20Loot.md). Current carrier [To verify].
 - Later half: owed by the traders; exact contents and value [To verify].
 - Addendum after the puppet reveal: the original material payment stays intact, and upon delivery the traders owe the party five truthful answers. Delivery target, exact asker, and enforcement are [To verify].
+- 2026-07-11 truth exchange: [To verify] whether the traders' admission about seeking trade counts as one of the five truthful answers, represents a separate reciprocal bargain, or occurs before the earlier debt formally comes due.
 - Draft 2026-05-30 puppet questions: chain of custody, what the puppet is, which coal mines it wants and what waits there, what happens if it is returned/destroyed/abandoned/stolen/kept away, and why it reacted to Garl Glittergold / Kurtlemack / "you." [To verify final wording asked in play]
 
 ## Notable Events
@@ -95,6 +99,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - 2026-05-03: A second manticore descends from the sky and bites and slashes the other human trader for around `20` total damage. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-30: The three travelling humans follow behind while the party leads north-east along the river into a cold area. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: After Dain denies Kurtlemack tribute from the winter wolves' deaths, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him nearly to `1 HP`; the humans restrain "him" afterward. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify restraint target]
+- 2026-07-11: The traders exchange a truth with Dain, revealing that their real aim is to establish new trade. They ask about the mountain and hear Dain state that it contains one of the richest mines in the land. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify intended trade and five-truth accounting]
 
 ## Related Entries
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)

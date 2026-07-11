@@ -27,8 +27,10 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [Party] [Confirmed on 2026-07-11] After another one or two hours of walking beyond the lake encounter, the party sees the monumental gates leading into the Truthhammer mountain stronghold.
 - [Party] Two monumental statues of dwarves holding axes flank the gates.
 - [Party] Airships are visible near or above the mountain as the party approaches. Their number, origin, ownership, construction, and purpose are [To verify].
+- [Character-only] Dain knows the mountain contains one of the richest mines in the land and has now disclosed that fact to the southern human traders and their Coal Mine Puppet.
 - [Party] The moon elf notices the airships and chooses the mountain route first, prioritizing delivery of armor to Dain's father ahead of Agland's still-undelivered sealed letter. [To verify moon elf identity, armor, father, and party agreement]
 - [Party] Beyond the gates lies the [Truthammer Gate Cavern](./Truthammer%20Gate%20Cavern.md), a vast naturally lit space full of dwarves and high-quality carvings whose architecture resembles a previously visited dwarven tower.
+- [Character-only] [Confirmed on 2026-07-11] Dain states truthfully that the mountain is home to one of the richest mines in the land.
 
 ## What Is Uncertain
 - [To verify] Whether "outcast" means social shame, formal exile, family estrangement, religious censure, political danger, or some combination.
@@ -39,6 +41,8 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [To verify] Whether half-Azer ancestry affects Dain, the Truthhammers, forge access, heat tolerance, magic, clan politics, or none of these mechanically.
 - [To verify] Whether the hidden tunnel / spiral stair discovered on 2026-06-20 was built by Truthhammers, predates them, was forgotten by them, or was never known to them.
 - [To verify] Whether the Underdark collapse below the hidden tunnel is an old natural breach, a roper's hunting ground, recent damage, or deliberate construction.
+- [To verify] Mine name, precise location, mined resources, scale, ownership, workforce, entrances, security, secrecy, relationship to the volcano and forges, and whether outsiders commonly know of its wealth.
+- [To verify] Whether Dain was permitted to disclose the mine's exceptional wealth and whether the clan must respond to the traders and puppet now possessing that information.
 
 ## Description
 - A clan mountain with a volcano just behind it, suitable for a forge powered by volcanic flow.

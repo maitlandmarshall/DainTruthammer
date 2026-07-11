@@ -16,6 +16,8 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Party] [Confirmed] During the forest-road manticore encounter, the human holding the puppet takes `11` damage from the [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md).
 - [Party] [Confirmed] On 2026-05-30, after the party destroys four winter wolves, Dain prays to [Garl Glittergold](../Lore/Garl%20Glittergold.md) near the puppet and denies [Kurtlemack](../Lore/Kurtlemack.md) tribute from the wolves' deaths.
 - [Party] [Confirmed] The puppet stabs Dain and nearly drops him to `1 HP`.
+- [Party] [Confirmed on 2026-07-11] During a truth-for-truth conversation between Dain and the southern human traders, the puppet asks whether the Truthammer mountain has a mine.
+- [Party] Dain answers that the mountain contains one of the richest mines in the land.
 - [To verify] Whether the travelling humans restrained the puppet, Dain, or both after the stabbing.
 - [To verify] Whether the puppet is a magic item, construct, cursed object, possessed object, familiar, mouthpiece, illusion, or living creature.
 - [To verify] Whether Dain spent a spell slot, began a ritual, or had the casting interrupted before any resource was consumed.
@@ -33,6 +35,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Character-only] Dain does not know why the puppet bites him.
 - [Character-only] At that moment, Dain realizes the puppet is a cobalt puppet.
 - [Party] The puppet says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you."
+- [Character-only] The puppet now knows, or has heard Dain claim, that the Truthammer mountain holds one of the richest mines in the land.
 
 ## What The Party Knows
 - [Party] The puppet can speak.
@@ -55,6 +58,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [To verify] Whether the manticore targeted the puppet-holder because of the puppet, the trader, ordinary predator behavior, or chance.
 - [To verify] Whether the 2026-05-30 stabbing was triggered by prayer, tribute denial, Garl's name, Kurtlemack's denied claim, Dain's proximity, or another condition.
 - [To verify] Whether the humans restrained the puppet, Dain, or both afterward.
+- [To verify] Why the puppet asks about a mine, whether it recognizes the Truthammer mountain as the mine it wants, whether it seeks coal specifically, and what it intends to do with Dain's answer.
 
 ## Notable Events
 - 2026-05-03: After [Kagrenac](../Characters/The%20Astral%20Elf.md) privately warns Dain in Draconic that the newcomers are glowing with magic, a human trader sighs and pulls out the puppet; Dain shakes the puppet's hand and attempts `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
@@ -62,6 +66,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - 2026-05-03: Dain realizes the puppet is a cobalt puppet, and it says, "[Kurtlemack](../Lore/Kurtlemack.md) hates you." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) attacks the protected traders and deals `11` damage to the human holding the puppet. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-30: After four winter wolves are destroyed, Dain prays to Garl Glittergold near the puppet and denies Kurtlemack tribute from the deaths; the puppet stabs him, nearly dropping him to `1 HP`, and the travelling humans restrain "him" afterward. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify restraint target and exact HP]
+- 2026-07-11: The puppet asks Dain whether the Truthammer mountain has a mine during a truth-for-truth exchange; Dain replies that it is home to one of the richest mines in the land. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
