@@ -27,6 +27,7 @@
 - Current beat: [Character-only] Dain declares that he is going to meet his father and heads directly toward the clan-head chamber after returning through the gates.
 - Current conversation: [Character-only] Dain admits possible responsibility for the loaned sigil, reports the journey, warns his father about the moon elf's accusations, and discloses possible debt caused by Norhan's character. His father's formal judgment remains [To verify].
 - Guest-right beat: [Character-only] Dain's father offers him a bath, dinner, a place to stay, and guest status. When Dain asks to dine later, his father kindly tells him he is always welcome at his table.
+- Latest boundary: [Character-only] At dinner, Dain's father warns him not to reveal forge secrets, refuses the human traders' proposed relationship, orders Dain not to claim southern land in his name, and tells him to take the traders and puppet onward.
 - Faith tension: [Character-only] Dain's father remains disappointed over Dain's break with Moradin, likely connected to Dain's devotion to Garl Glittergold. [To verify exact wording and interpretation]
 - Clan boundary: [Character-only] The father's personal and familial welcome does not establish that Dain's rejection from the Truthammer clan has been reversed.
 - Relationship tension: [Character-only] Dain remains wounded by his rejection from the clan but has not surrendered the Truthammer name or the relationship implied by calling this dwarf his father. [To verify the father's personal role in the exile]
@@ -58,6 +59,7 @@
 - Opportunity: [Character-only] Dain may find common ground through stonework, forge craft, strange spell mechanics, and the quiet comedy of a quartermaster trying to inventory chaos.
 - Sigil tension: [Character-only] Dain overhears his father tell gnomes that he is disappointed a sigil was used for gold by someone identified table-side as Norhan and that a repeat will require investigation. Hammerton is the likely in-world actor because Norhan is his player; confirm whether this is the earlier Dain's Seal transaction.
 - Relationship beat: [Party] On 2026-06-20, Harry / Hammerton asks for [Dain's Seal](../Codex/Items/Dains%20Seal.md); Dain provides it in exchange for `100 gp` worth of silver. [To verify whether "Harry" is Hammerton, exact object, and whether it is lent, pawned, or transferred]
+- Latest beat: [Party] Dain and Harry discuss use of Dain's father's credit or authority; Dain promises Harry a Bag of Holding if he attends dinner. Later, Harry catches the Coal Mine Puppet, extracts unspecified information, binds it in rat form, and ties it to his belt. [To verify bag ownership, sigil resolution, and what the puppet revealed]
 - Missing details: [To verify] how Hammerton joins the current mission, his motives, what the severed lizard head is, what the sheet-listed `Slave collar` represents, and what cost he sets for the southern traders.
 
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
@@ -85,8 +87,8 @@
 - Missing details: [To verify] role in the party, how long Dain has known him, and whether the trust is mutual
 
 - [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md)
-- Current standing: [Party] On 2026-07-11, Kagrenac declares that he no longer trusts Dain and accuses him of murdering a dwarf connected to the tunnel history.
+- Current standing: [Party] Reconciled after the accusation. Biggus and Kagrenac explain the Berronar-marked armor's origin at dinner, and Kagrenac apologizes to Dain.
 - Dain's known belief: [Character-only] Kagrenac is bold enough to try firing Yuckie from a ballista and has earned a little more of Dain's respect than before. Dain's suggestion that the "young elf" may be interested in goji leaves is a public nudge, not confirmed evidence of Kagrenac's actual interest.
 - Respect marker: [Character-only] Dain previously recorded `+4` respect toward Kagrenac; the 2026-07-11 notebook records another `+13` respect connected to Kagrenac. [To verify direction, trigger, and resulting total]
-- Current tension: Kagrenac's trust is explicitly broken. Dain must answer the murder accusation while distinguishing his missing friend from the later armored dwarf who apparently searched for him.
+- Current tension: The direct accusation is resolved, but the missing friend, later searcher, roper, one-mile stair, and hidden tunnel remain unresolved history. Kagrenac has also taught Dain `Find Familiar`, reinforcing the repaired working relationship.
 - Missing details: [To verify] the searcher's identity, Kagrenac's remaining evidence, who rolled the natural `1`, what accident may have occurred, and whether Kagrenac can distinguish concealment, survivor's guilt, and accidental responsibility from murder.

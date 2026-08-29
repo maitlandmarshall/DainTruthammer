@@ -48,13 +48,15 @@
   Effects as currently understood: while the tattoo is on the skin, one charge can be spent to become incorporeal; for the duration, gain resistance to bludgeoning attacks, cannot be grappled or restrained, and can move through creatures and solid objects as though they were difficult terrain; moving through a solid object deals `1d10` damage and places the wearer in the nearest available space. [To verify exact wording, total charges, and duration]
 
 ## Quest Items
-- [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Party] [Confirmed on 2026-04-18]
-- [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) x1 [Opened; currently handled by Dain] Contains coarse dark-grey gunpowder, confirmed on 2026-07-11. Exact quantity, mechanics, value, purpose, safe storage, and whether any church delivery remains intended are [To verify].
+- [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Delivered] [Party] Delivered to the dwarven commander at Samyrn Torst on 2026-07-11; no longer carried by the party.
+- [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) x1 [Opened; currently handled by Dain] Contains coarse dark-grey gunpowder. During the Gondian airship journey, Dain produces a pouch of smoke powder while theorizing about the ship's propulsion. [To verify whether this is the same substance/container, amount remaining, mechanics, purpose, and safe storage]
 - [Dain's Seal](../Codex/Items/Dains%20Seal.md) x1 [Not currently confirmed in Dain's possession] On 2026-06-20 Dain gives it to Harry / Hammerton for `100 gp` worth of silver. On 2026-07-11 Dain hears the clan warning, then admits to his father that lending the sigil may have allowed Norhan's character to create Truthammer debt. Confirm exact object, sigil owner, recipient, current holder, debt, which transaction is meant, and reclaimability.
 
 ## Shared Party Loot Reference
 - [Party Loot](./Party%20Loot.md) tracks shared items that are not Dain's personal inventory.
 - [Confirmed] On 2026-05-03, the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) paid the upfront half of their arrangement as [Burdock](../Codex/Items/Burdock.md) x10 oz and [Ginseng](../Codex/Items/Ginseng.md) x2 oz into [Party Loot](./Party%20Loot.md). Current carrier is [To verify].
+- [Party] A Bag of Holding survives the traders' destruction by holy fire at Samyrn Torst and is acquired by the party. [To verify whether this is the bag Dain promised Harry, who owns/carries it, contents, and whether it was issued earlier by the Truthammer quartermaster]
+- [Party] The [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) survives the same holy fire and is currently tied in rat form to Harry's belt.
 
 ## Carry Load
 - Weight Carried: at least `73 lb.` from the `53 lb.` baseline plus the equipped `20 lb.` [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) is with the goblin leader, and the completed [Sauna Jacket](../Codex/Items/Sauna%20Pelt.md) is now with Taleesh. [To verify fully reconciled weight after adding 250 ft of silk rope]
@@ -73,5 +75,5 @@
 - [Character-only] [Confirmed] Dain began the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) for Brother Taleesh on 2026-05-30 and completed it during the 2026-07-11 long rest.
 - [Party] [Confirmed on 2026-07-11] Taleesh graciously accepts and loves the completed Sauna Jacket; Dain no longer carries it.
 - [To verify] 2026-06-20 cash flow: Dain attempts to donate to 10 gnomes, gives `1 gp` each to six gnomes seen in a building, gives `1 gp` to Ollyander after winning a dice round, gets back `2 gp`, wins another `2 gp`, provides [Dain's Seal](../Codex/Items/Dains%20Seal.md) to Harry / Hammerton for `100 gp` worth of silver, bets that silver, loses the later betting round, records a human/townsperson trade with Ollyander involving `60 gp` worth of silver, and later gives his last `5 gp` to the human/townsperson tied to the rat-house thread. Exact starting coin source, tavern drink cost, wagers, winnings, silver ownership, seal status, and final silver/other-coin balance are unresolved.
-- [To verify] Which party member is physically carrying Commander Agland's sealed letter.
+- [Confirmed from 2026-07-11 summary] Commander Agland's sealed letter has been delivered and is no longer party inventory.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

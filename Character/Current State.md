@@ -6,12 +6,13 @@
 - [Confirmed] Level 4 choices and 2026-05-30 session state imported from the shared ChatGPT conversation at https://chatgpt.com/share/6a360b0e-3758-83ec-99cf-7042d1dd01e5.
 - [To verify] 2026-05-30 is an approximate session date. On 2026-06-20, the user clarified the shared chat was from roughly three weeks earlier, not from 2026-06-20.
 - [Confirmed] 2026-06-20 live session notes imported from user notebook photos in [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md).
+- [Confirmed] Later 2026-07-11 events imported on 2026-08-29 from the user-supplied PDF `Session Summary 2026.7.11` and reconciled into [Session 2026-07-11](../Adventures/2026-07-11.md).
 
 ## Live Snapshot - 2026-08-29
 - Current live session: [Session 2026-08-29](../Adventures/2026-08-29.md), continuing directly from [Session 2026-07-11](../Adventures/2026-07-11.md).
-- Location/status: At or near the [bathhouses](../Codex/Places/Berronar%20Truesilver%20Bathhouses.md), in a truth-for-truth conversation with the [southern human traders](../Codex/Factions/Southern%20Human%20Traders.md) and [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md). The humans admit they seek new trade, and Dain reveals that the mountain contains one of the richest mines in the land.
-- Immediate unresolved state: traders' intended goods, partners and terms; puppet's interest in the mine; mine name, contents, secrecy and defenses; Dain's authority to reveal it; whether the exchange uses an owed truthful answer; bathhouse proper name and possible Berronar Truesilver dedication; bathhouse customs; overnight stay; dinner; Moradin/Garl wording; formal clan status; sigil and debt judgment; gunpowder purpose; Taleesh's wash obligation; airships; armor delivery; sealed letter urgency; giant frog outcome; armored dwarf identity; missing friend's fate; Sauna Jacket steam risk; coin balance; and Breastplate of Balance charges are all [To verify].
-- Carry-forward source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md). No new 2026-08-29 in-world action has been recorded yet.
+- Location/status: At [Samyrn Torst](../Codex/Lore/Samyrn%20Torst.md) after delivery of [Agland's sealed letter](../Codex/Items/Aglands%20Sealed%20Letter.md). A dwarven commander has assigned the party to recover captives from cult-raided settlements involving Yuan-ti and to warn and rally humans in the southwest.
+- Immediate unresolved state: obtain an introduction letter; choose immediate transport or an airship; build the airship's magical and mundane outfitting list; identify the raided settlements, captives, cult, Yuan-ti role, and southwestern contacts; learn what Harry extracted from the puppet; determine why holy fire killed the traders; establish Bag of Holding ownership; and reconcile Dain's HP, spell slots, coin, smoke powder, Breastplate charges, seal, and other resources.
+- Carry-forward source: [Session 2026-07-11](../Adventures/2026-07-11.md), including the user-supplied PDF imported on 2026-08-29. No new 2026-08-29 in-world action has been recorded yet.
 
 ## Identity
 - Name: Dain Truthammer
@@ -63,7 +64,7 @@
 - Other noted skills: Athletics +2, Deception +2, Insight +1, Medicine +3, Perception +1, Survival +1
 
 ## Resources
-- Spell Slots: `1st 4/4`, `2nd 3/3` after the completed 2026-07-11 long rest.
+- Spell Slots: restored during the later 2026-07-11 long rest before airship travel; current slots after the three-red-wyrmling battle are [To verify]. Maximum remains `1st 4/4`, `2nd 3/3`.
 - Attunement: `1 / 3` confirmed slots occupied by the [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Ghostly Form Tattoo](../Codex/Items/Ghostly%20Form%20Tattoo.md)'s attunement requirement and applied state remain [To verify].
 - Arcane Recovery: 1 / Long Rest
 - Stonecunning (Tremorsense): 2 / Long Rest
@@ -71,6 +72,7 @@
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Breastplate of Balance: [Character-only] [Confirmed by user on 2026-07-11] Dain received this rare medium armor when the party killed the harpies on 2026-04-18, is proficient/trained in medium armor, and has now equipped and attuned to it. With Dain's current `DEX +0`, it provides `AC 14` and does not prevent his spellcasting. Current charges are [To verify].
 - Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
+- Newly learned spell: `Find Familiar`, taught by Kagrenac during the 2026-07-11 long rest. [Confirmed from user-supplied summary; To verify transcription cost, components, and preparation]
 - Conjured warm cloak: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night; the night has passed, so any continued cloak effect is [To verify]. [Party] [Character-only] [Confirmed]
 - Former in-progress craft: [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), begun from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), then offered to the goblin leader as food during the toll encounter. The goblin leader is eating it and has taken `4` fire damage; final lantern state is [To verify].
 - In-progress magical prototype: [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md), begun after Dain reached `6%` progress on always-warm robes for Brother Taleesh, realized that was not truly him, and pivoted to robes that always make the wearer cold. As the party continues onward on 2026-05-03, Dain casts cold magic into the jacket / robe prototype, gets further along, realizes he is already cold, and records that current coldness as a comparison point for later development. Exact cold-robes progress, mechanics, and spell/resource expenditure are [To verify].
@@ -96,33 +98,32 @@
 - [Character-only] Solve problems with deception, illusion, or obscure magical tricks before brute force.
 - [Character-only] Seek out bizarre, impractical, and "useless" spells because even silly magic may hide real wonder.
 - [Character-only] Slowly develop the most unique and gloriously useless spells known to the realm.
-- [Character-only] Help the party carry Commander Agland's sealed letter into the mountains to the actual general while quietly learning the fuller shape of the mission.
-- [Character-only] Help Kagrenac make the climb toward Samyrn Torst safely.
+- [Character-only] Help recover people abducted from cult-raided settlements and expose the Yuan-ti role in the threat.
+- [Character-only] Help warn and rally the humans in the southwest while making the Truthammer name stand for useful kindness rather than territorial claims.
+- [Character-only] Preserve the repaired trust with Kagrenac after his apology without abandoning the unresolved truth of the hidden tunnel and missing friend.
 - [Character-only] Keep control over how much of his outcast status and faith-related exile he reveals.
 
 ## Short-Term Character Goals
-- [Character-only] Help Kagrenac make the mountain road toward Samyrn Torst safer with practical tricks, preparation, or magic.
-- [Character-only] Quietly learn what the sealed-letter mission is truly about without shattering trust.
+- [Character-only] Get a letter of introduction from the Samyrn Torst commander for the southwestern humans.
+- [Character-only] Decide whether to use immediate transport or an airship, then build the magical and mundane provisioning list with Ben and the quartermasters.
+- [Character-only] Identify the raided settlements, captives, cult structure, Yuan-ti involvement, rescue window, and southwestern contacts.
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.
 - [Character-only] Marvel in the newly created [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), then confirm final mechanics and useful edge cases.
 - [Character-only] Track the fate of the [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md), now being eaten by the goblin leader after Dain offered it as food.
 - [Character-only] Clarify or continue the [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) prototype, including whether the abandoned `6%` warm-robes progress matters.
-- [Character-only] Track the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), their exact status after the transition into the [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md), and whether the truthful-answer debt trigger has arrived.
-- [Character-only] Track the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) arrangement: the upfront half is now in [Party Loot](./Party%20Loot.md), while the later half remains owed and should not be forgotten.
-- [Character-only] Preserve the five truthful answers owed by the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) upon delivery, ideally for the puppet, [Kurtlemack](../Codex/Lore/Kurtlemack.md), or coal-mine mystery.
-- [Character-only] Ask the five prepared puppet questions when the truthful-answer debt comes due.
+- [Character-only] Investigate why the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) were consumed by holy fire at Samyrn Torst's gates and whether their later payment or five-truth obligation survives their deaths.
+- [Character-only] Ask Harry what information he extracted from the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md), determine how it became a rat, and pursue the five prepared questions directly with the puppet if possible.
 - [Character-only] Survive and recover from the Coal Mine Puppet stabbing, confirm current HP, and make sure the puppet is restrained or otherwise made safe.
 - [Character-only] Observe how Taleesh uses the completed [Sauna Jacket](../Codex/Items/Sauna%20Pelt.md), how others react to the female-white-wolf-piss odor, and whether the wet warmth replaced or merely disguised the earlier lethal-steam risk.
-- [Character-only] Answer Kagrenac's murder accusation without surrendering the truth of Dain's century-old tunnel escape or the friend's sacrifice that made it possible.
+- [Character-only] Treat Kagrenac's apology as reconciliation while continuing to clarify the dead searcher's identity and Dain's missing friend's fate.
 - [Character-only] Resolve the dice-game aftermath with Brother Taleesh without letting cheating become the final joke; clarify final winnings, unfair play, and any party tension after Taleesh failed the `Suggestion` save.
 - [Character-only] Determine why the Glittergold-worshipping gnomes gave Dain coarse dark-grey gunpowder, confirm its mechanics and safe storage, and ask whether it was ever truly intended for the local church.
 - [Character-only] Find the human/townsperson tied to the town's rat-and-poverty problem, inspect the house, gather the rats, and decide how much silver Dain can responsibly give.
 - [Character-only] Develop the failed-moral-lesson rat spell seed without treating its mechanics as canon before user/DM approval.
-- [Character-only] Survive the hidden tunnel collapse over the Underdark, confirm whether a roper is truly present, and avoid turning a shortcut into a swallowed mission.
-- [Character-only] Mark or secure the hidden passage near the Truthhammer route, then decide whether to retreat, warn Dain's father / the Truthhammers, and return armed.
+- [Character-only] Preserve the hidden tunnel as an unresolved clan-security thread: confirm the roper, one-mile stair, Berronar-marked armor, missing friend, later searcher, and what Dain's father knows.
 - [Character-only] Ask what Dain knows from his father's fire-spirit and mountain-spirit stories before assuming the hidden passage is ordinary stonework.
-- [Character-only] Use the current play aid for table questions, Dain-facing lore checks, and ready lines while the 2026-06-20 session remains active.
+- [Character-only] Use the [current session record](../Adventures/2026-08-29.md) for table questions, objectives, and ready lines at Samyrn Torst.
 - [Character-only] Investigate why the newcomers glow with magic, why the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) can apparently block or resist `Identify`, why it bit Dain when he began praying to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and what [Kurtlemack](../Codex/Lore/Kurtlemack.md)'s hatred means.
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.

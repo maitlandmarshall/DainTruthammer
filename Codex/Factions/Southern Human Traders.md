@@ -26,6 +26,8 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] [Confirmed] After Dain denies [Kurtlemack](../Lore/Kurtlemack.md) tribute from four winter wolves' deaths, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs Dain and nearly drops him to `1 HP`.
 - [Party] [Confirmed on 2026-07-11] In a truth-for-truth exchange, the traders reveal that their true goal is to establish new trade and ask Dain about the nature of the Truthammer mountain.
 - [Party] Dain answers their questions and the Coal Mine Puppet's mine question by revealing that the mountain contains one of the richest mines in the land.
+- [Party] [Confirmed from the later 2026-07-11 summary] The traders watch activity at the Truthammer airship dock, attend dinner with Dain's father, and are told to continue onward with Dain and the party after the proposed trade is rejected.
+- [Party] The traders travel aboard the Gondian airship to Samyrn Torst and are consumed by holy fire at the city's gates. Their Bag of Holding and Coal Mine Puppet survive and are acquired by the party.
 - [Party] [To verify] The humans restrain "him" afterward; whether this means the puppet, Dain, or both is unclear.
 - [To verify] Names, exact number of traders, goods and services intended for the new trade, desired partners, route, authority, honesty, threat level, whether they already knew or suspected the mine, whether they know anything about the party's mission, and the exact later half of the payment.
 
@@ -71,6 +73,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [To verify] Exact later half of the payment, collection timing, who physically carries the upfront herbs, exact delivery trigger for the five truthful answers, and whether Olar Dunglor changes the party's route or obligations.
 - [To verify] Why all the newcomers appear to be glowing with magic, what the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is, why it bit Dain during prayer, what [Kurtlemack](../Lore/Kurtlemack.md) means to the traders or puppet, and whether the traders control it, fear it, owe it, or are burdened by it.
 - [To verify] The wounded puppet-holder's name, current HP, wound severity, whether the puppet is damaged or reacting, the other wounded human's name/current HP, exact damage, and whether either manticore targeted a trader for a reason.
+- [To verify] Why Samyrn Torst's holy fire targeted the traders, whether they were human as presented, whether any survived, and whether their later payment and five-truth obligations can still be collected.
 
 ## Payment
 
@@ -100,6 +103,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - 2026-05-30: The three travelling humans follow behind while the party leads north-east along the river into a cold area. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: After Dain denies Kurtlemack tribute from the winter wolves' deaths, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him nearly to `1 HP`; the humans restrain "him" afterward. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify restraint target]
 - 2026-07-11: The traders exchange a truth with Dain, revealing that their real aim is to establish new trade. They ask about the mountain and hear Dain state that it contains one of the richest mines in the land. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify intended trade and five-truth accounting]
+- 2026-07-11: Dain's father rejects their proposed trade, tells Dain to take the traders and puppet onward, and the traders join the party aboard a Gondian airship to Samyrn Torst. At the city gates, holy fire consumes them while their Bag of Holding and Coal Mine Puppet survive. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify cause, casualties, and outstanding debts]
 
 ## Related Entries
 - [Olar Dunglor](../Places/Olar%20Dunglor.md)

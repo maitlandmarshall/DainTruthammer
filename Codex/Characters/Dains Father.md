@@ -13,6 +13,8 @@ Dain Truthammer's father and the confirmed leader of the Truthammer clan, who re
 - [Character-only] He offers Dain a place to stay, dinner, a bath, and the hospitality of a guest.
 - [Character-only] He expresses disappointment over Dain's having surrendered or left his faith in Moradin. Context suggests this concerns Dain's devotion to Garl Glittergold, but the exact wording and meaning remain [To verify].
 - [Character-only] When Dain asks to dine with him later, he answers kindly that Dain is always welcome at his table.
+- [Character-only] During the later dinner, he discusses Dain's exile, warns Dain not to reveal forge secrets to outsiders, and explicitly forbids Dain from claiming southern land in his name.
+- [Party] He is uninterested in the southern human traders' proposed relationship, says humans take from the Truthhammers, and instructs Dain to take the traders and their Coal Mine Puppet onward.
 - [To verify] Name, age, species details, appearance, formal title, office, mechanical role, current health, personality, and whether he expected Dain's return.
 - [To verify] The spoken description considers and rejects `magistrate`, then mentions `vizier` before trailing off. Neither is locked as his title.
 
@@ -32,6 +34,7 @@ Dain Truthammer's father and the confirmed leader of the Truthammer clan, who re
 - 2026-07-11: Dain overhears his father warn the gnomes that he is disappointed a sigil was used for gold and that a repeat will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify sigil owner, exact actor, and transaction]
 - 2026-07-11: Dain makes a direct report to his father, admits possible responsibility, warns of the moon elf's accusations, and discloses that lending the sigil may have allowed Norhan's character to create debt in the Truthammer name. His father responds with personal hospitality while his formal judgment on the sigil and debt remains [To verify]. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: His father offers Dain a bath, dinner, a place to stay, and guest-right, but voices disappointment about Dain's break with Moradin. As Dain prepares to leave, his father kindly assures him that he is always welcome at his table. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify exact faith wording and clan implications]
+- 2026-07-11: At dinner, he warns Dain not to reveal forge secrets, forbids Dain from claiming southern land in his name, rejects the human traders' proposed trade, and tells Dain to take the traders and puppet onward. [Session 2026-07-11](../../Adventures/2026-07-11.md) [Imported from user-supplied summary on 2026-08-29]
 
 ## Related Entries
 - [Dain Truthammer](./Dain%20Truthammer.md)

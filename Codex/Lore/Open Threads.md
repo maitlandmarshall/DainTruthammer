@@ -1,7 +1,18 @@
 # Open Threads
 
 ## Current Live Focus - 2026-08-29
-- [Party] The [current session](../../Adventures/2026-08-29.md) resumes directly from the final truth-for-truth beat of [Session 2026-07-11](../../Adventures/2026-07-11.md); no new in-world action has been recorded yet.
+- [Party] The [current session](../../Adventures/2026-08-29.md) opens at [Samyrn Torst](./Samyrn%20Torst.md) after Agland's sealed letter is delivered.
+- [Party] [Confirmed] A dwarven commander assigns two objectives: recover people abducted from settlements raided by a cult with previously unknown Yuan-ti involvement, and warn and rally humans in the southwest.
+- [Party] [Open] Obtain a letter of introduction for the southwestern humans.
+- [Party] [Open] Choose immediate transport back to the original tower or an airship, then speak with Ben about magical outfitting and quartermasters about supplies.
+- [Party] [Open] Identify the raided settlements, captives, cult, Yuan-ti role, rescue window, southwestern contacts, and commander's authority.
+- [Party] [Confirmed] The southern human traders were consumed by holy fire at Samyrn Torst's gates; their Bag of Holding and Coal Mine Puppet survived.
+- [Party] [Open] Learn why the holy fire triggered, who now owns the Bag of Holding, and whether the traders' later payment and five-truth obligation survive their deaths.
+- [Party] [Confirmed] Harry extracted unspecified information from the puppet, which is now bound in rat form to his belt. Kagrenac's `Identify` revealed nothing.
+- [Party] [Open] Ask Harry what the puppet said; determine the rat-form trigger, restraint security, true nature, coal-mine goal, and connection to Kurtlemack and Garl Glittergold.
+
+## Prior Live Focus - 2026-07-11 (superseded by imported summary)
+- [Superseded] The initial 2026-08-29 scaffold expected play to resume from the truth-for-truth beat. The later user-supplied summary establishes that the 2026-07-11 session continued through Samyrn Torst and the new commander's briefing.
 - [Party] [Confirmed] In a truth-for-truth exchange, the southern human traders reveal their true goal is to establish new trade; the Coal Mine Puppet asks whether the mountain has a mine, and Dain reveals that it contains one of the richest mines in the land.
 - [Party] [To verify] Establish intended trade goods, partners and terms; why the puppet cares about the mine; whether Dain's disclosure was authorized; whether the mine's wealth was secret; and whether this uses one of the five truthful answers owed.
 - [Party] [Confirmed] Dain and the party are heading to the Truthammer settlement's [bathhouses](../Places/Berronar%20Truesilver%20Bathhouses.md), described table-side as `Barren Archer of Silver hand`.
@@ -34,6 +45,30 @@
 
 ## Open
 
+### Recover The Cult's Captives
+- Status: Active
+- Tags: [Party] [Confirmed] [To verify]
+- Why it matters: People have been taken from settlements raided by a cult, and the new mission explicitly asks the party to find and, if possible, recover them.
+- Latest development: The Samyrn Torst commander reveals that dwarven leadership had not known Yuan-ti were involved and assigns the recovery objective after Agland's letter is delivered.
+- Next possible actions: Name the raided settlements; establish numbers, dates, witnesses, cult signs, Yuan-ti role, likely destination, captive condition, rescue window, and whether the party should investigate or strike first.
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md)
+
+### Rally The Humans In The Southwest
+- Status: Active
+- Tags: [Party] [Confirmed] [To verify]
+- Why it matters: The commander wants the southwestern humans warned and rallied against the cult and Yuan-ti threat; political access may determine whether the mission gains allies or another suspicious border.
+- Latest development: The party is told to confer with the humans in the southwest and needs a letter of introduction before departure.
+- Next possible actions: Obtain the letter; identify the human polity, leaders, route, existing relations, desired commitment, evidence to present, and whether Dain should invoke or avoid the Truthammer name.
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md)
+
+### Fit Out Transport For The New Mission
+- Status: Active
+- Tags: [Party] [Confirmed] [To verify]
+- Why it matters: The party has been offered immediate transport back to the original tower or an airship, and the mission's reach and survivability depend on that choice and loadout.
+- Latest development: The commander directs the party to Ben for magical outfitting and to the quartermasters for other supplies. The prior Gondian airship survived a three-red-wyrmling attack with help from its cannons.
+- Next possible actions: Choose transport; identify the airship, crew, range, speed, lift, fuel, defenses and ownership; ask Ben about magic; build a shopping/requisition list; secure food, water, healing, ammunition, rope, maps, cold-weather gear, spare parts, restraints, and rescue capacity.
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md)
+
 ### Prevent A Truthammer Sigil Investigation
 - Status: Active
 - Tags: [Character-only] [Party] [To verify]
@@ -43,11 +78,11 @@
 - Linked entries: [Dain's Seal](../Items/Dains%20Seal.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Dain's Father](../Characters/Dains%20Father.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Answer Kagrenac's Murder Accusation
-- Status: Active
+- Status: Resolved
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: Kagrenac has explicitly withdrawn trust and accused Dain of murder at the moment Dain's hidden century-old escape history is surfacing.
-- Latest development: Dain's friend sacrificed himself to the pursuing troopers and went missing. Kagrenac later uses armor as evidence for a murder accusation, but the DM clarifies that the armor would not realistically belong to the friend; it more likely belonged to a separate dwarf who went searching for him. A natural `1` raises the possibility that this searcher died in a great accident instead of being murdered. Dain has now warned his father, the Truthammer clan leader, about the moon elf's accusations. [To verify exact report and response]
-- Next possible actions: Ask Kagrenac to identify the armored searcher and present any evidence beyond the armor; clarify the illegible studded cold leather note; establish who rolled the natural `1`; separate the missing friend's fate from the later searcher's death; determine what responsibility Dain actually bears.
+- Latest development: Biggus and Kagrenac explain the Berronar-marked armor's origin to Dain at dinner, and Kagrenac apologizes. Treat the direct accusation and broken-trust scene as resolved; the missing friend's fate and later searcher's identity remain separate open lore questions.
+- Next possible actions: Preserve the reconciliation, then clarify the armored searcher, one-mile stair, roper, and missing friend without treating Dain as still under accusation.
 - Linked entries: [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Hidden Tunnel](../Places/Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Survive The Hidden Tunnel Collapse
@@ -123,10 +158,10 @@
 - Linked entries: [Ollyander](../Characters/Ollyander.md), [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md), [Relationships](../../Character/Relationships.md), [Table Roster](./Table%20Roster.md), [Session 2026-05-30](../../Adventures/2026-05-30.md)
 
 ### Ask The Five Puppet Truths
-- Status: Active
+- Status: Deferred
 - Tags: [Party] [To verify]
 - Why it matters: The five truthful answers owed by the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) are the party's best current leverage for learning what the Coal Mine Puppet is and why it reacts to Dain, Garl, and Kurtlemack.
-- Latest development: During the 2026-05-30 shared session, the draft question set was refined to cover chain of custody, true nature, intended coal mines, return/destruction risks, and the Garl/Kurtlemack reaction. On 2026-07-11, Dain instead enters a reciprocal truth-for-truth exchange: the humans reveal their trade goal, the puppet asks whether the mountain has a mine, and Dain reveals its extraordinary wealth. Whether this consumes any of the five owed answers is [To verify].
+- Latest development: The traders are consumed by holy fire at Samyrn Torst's gates before the debt is reconciled. Harry subsequently extracts unspecified information from the surviving puppet, now bound in rat form to his belt. Whether the five-answer obligation can still be collected is [To verify].
 - Next possible actions: When the debt comes due, ask:
   1. "Tell us exactly how the Coal Mine Puppet came into your possession, from the first moment any of you encountered it to now."
   2. "What do you know, suspect, or have been told the puppet actually is?"
@@ -176,19 +211,19 @@
 - Linked entries: [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Current State](../../Character/Current%20State.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Respond To Southern Human Traders
-- Status: Active
+- Status: Resolved
 - Tags: [Party] [To verify]
 - Why it matters: The traders may be ordinary lost travellers, a source of route information, a trade opportunity, or a risk arriving exactly as the weather worsens.
-- Latest development: On 2026-07-11, the traders reveal in a truth-for-truth exchange that their true aim is to establish new trade. They ask about the mountain, the Coal Mine Puppet asks whether it has a mine, and Dain answers that the mountain contains one of the richest mines in the land.
-- Next possible actions: Identify the traders and whom they represent; establish proposed goods, partners, route and terms; learn whether they already suspected the mine; determine whether the puppet's coal-mine destination is connected; track payment and truthful-answer balances; and decide whether Dain should warn his father or clan leadership about the disclosure.
+- Latest development: Dain's father rejects the proposed trade and tells Dain to take the humans and puppet onward. At Samyrn Torst's gates, the traders are consumed by holy fire; their Bag of Holding and puppet survive.
+- Next possible actions: Treat direct negotiation as ended. Investigate the holy fire, the traders' true nature, and the status of their unpaid later half and five-truth debt.
 - Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Burdock](../Items/Burdock.md), [Ginseng](../Items/Ginseng.md), [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md), [Party Loot](../../Character/Party%20Loot.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Investigate The Coal Mine Puppet
 - Status: Active
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: The puppet may explain the magical glow around the newcomers, can apparently resist or prevent `Identify`, and has asked to be taken back to "the coal mines."
-- Latest development: On 2026-07-11, the puppet asks whether the Truthammer mountain has a mine and hears Dain reveal that it holds one of the richest mines in the land.
-- Next possible actions: Ask why the puppet wanted to know, whether this is the coal mine it seeks, what it recognizes about the mountain, whether it now intends to enter the mine, and whether its question or the traders' answer used any of the five owed truths.
+- Latest development: The puppet survives the holy fire that kills its human carriers. Kagrenac's `Identify` reveals nothing; Harry catches it, extracts unspecified information, binds it in rat form, and attaches it to his belt.
+- Next possible actions: Ask Harry exactly what it said; confirm who controls or carries it; establish how and why it becomes a rat; test the restraints; determine whether holy fire spared it intentionally; and pursue its mine, Garl, Kurtlemack, and identity mysteries.
 - Linked entries: [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Kurtlemack](./Kurtlemack.md), [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Garl Glittergold](./Garl%20Glittergold.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Handle The Goblin Camp Encounter
@@ -280,11 +315,11 @@
 - Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Commander Agland](../Characters/Commander%20Agland.md)
 
 ### Deliver Agland's Sealed Letter
-- Status: Open
+- Status: Resolved
 - Tags: [Party] [Confirmed]
 - Why it matters: This is now the party's direct assignment and their clearest current objective.
-- Latest development: The party has traversed the hidden tunnel to its far end and completed a long rest. The live scene is now Kagrenac accusing Dain of murder while Dain heads home toward the Truthhammer Mountains; the letter's carrier and condition remain [To verify].
-- Next possible actions: Resolve the accusation without losing the mission, identify who physically carries the letter, verify it remains sealed and intact, learn the general's name and destination, and resume delivery after the Truthhammer homecoming crisis.
+- Latest development: Ben leads the party to the dwarven commander at Samyrn Torst, and the letter is delivered. The commander responds with two new mission objectives.
+- Next possible actions: Preserve as completed mission history and follow the captive-recovery and southwestern-diplomacy assignments.
 - Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Commander Agland](../Characters/Commander%20Agland.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Samyrn Torst](../Lore/Samyrn%20Torst.md), [Inventory](../../Character/Inventory.md)
 
 ### Assess The Harpy Nest Ahead

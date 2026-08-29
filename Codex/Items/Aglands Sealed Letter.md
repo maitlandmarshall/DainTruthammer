@@ -8,13 +8,14 @@ A sealed letter Commander Agland gives the party to deliver to the actual genera
 ## Status
 - [Party] [Confirmed] Commander Agland gives the party a new sealed letter on 2026-04-18.
 - [Party] [Confirmed] The letter is meant for the actual general in a settlement in the mountains.
-- [To verify] Who carries the letter, what seal marks it, whether it is magical, and what it says.
+- [Party] [Confirmed from the 2026-07-11 summary] Ben leads the party to a dwarven commander at Samyrn Torst and the letter is delivered.
+- [To verify] What seal marked it, whether it was magical, what it said, and whether the recipient was the originally intended general.
 
 ## What Dain Knows
 - [Character-only] Dain knows the party has promised or agreed to carry the letter onward.
 - [Character-only] Dain does not yet know the original news the party brought to Agland.
 - [Character-only] The 2026-06-20 town errands, dice conflict, rat problem, and sack delivery are all local business; the letter remains the clearest formal mission thread unless Tom confirms the party has completed or paused it.
-- [Party] On 2026-07-11, the moon elf notices airships near the Truthhammer gates and changes his immediate priority from this letter to delivering armor to Dain's father. The letter remains undelivered and should be treated as delayed or deprioritized, not abandoned, unless the table confirms a formal mission change.
+- [Party] On 2026-07-11, Kagrenac delays the letter briefly to deliver armor to Dain's father, then secures Gondian airship passage to Samyrn Torst. Ben later leads the party to the dwarven commander, where the letter is delivered.
 
 ## What The Party Knows
 - [Party] The letter must be delivered to the actual general near Samyrn Torst.
@@ -26,13 +27,12 @@ A sealed letter Commander Agland gives the party to deliver to the actual genera
 - [To verify] Who physically carries the letter during the 2026-06-20 town session and whether the unnamed town is on the intended route.
 
 ## Dain-Facing Live Use
-- Before leaving the unnamed town, confirm the carrier, seal integrity, destination, urgency, and route.
-- If local errands threaten to delay the party, Dain can frame the choice plainly: help the town without losing the letter's purpose.
-- Do not open, identify, trade, pledge, or use the letter as leverage unless the party and Tom make clear that doing so is allowed.
+- Delivery complete. Use the commander's resulting captive-recovery and southwestern-diplomacy objectives as the live mission.
 
 ## Notable Events
 - 2026-04-18: Commander Agland gives the party the sealed letter after hearing their report. [Session 2026-04-18](../../Adventures/2026-04-18.md)
 - 2026-07-11: On seeing airships near the Truthhammer gates, the moon elf prioritizes reaching the mountains to deliver armor to Dain's father before completing the letter delivery. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify moon elf identity, armor, party agreement, and new route]
+- 2026-07-11: After Gondian airship travel to Samyrn Torst, Ben leads the party to a dwarven commander and the letter is delivered. The commander assigns two new objectives. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Commander Agland](../Characters/Commander%20Agland.md)
