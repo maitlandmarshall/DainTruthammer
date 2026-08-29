@@ -7,6 +7,7 @@
 - [Party] [Confirmed] The party has selected a [balloon-like skyship](../Places/Party%20Skyship%20-%202026-08-29.md) and is about to board; confirm its route, crew, lift system, cannon and remaining provisions.
 - [Party] [Confirmed] Before boarding, the party enters [Moradin's chamber](../Places/Moradins%20Chamber%20-%20Ola%20Dung%20Lot.md). Ola Dung Lot has fourteen temples and the fourteen named gods of the [Morndinsamman](./Morndinsamman.md) are now recorded.
 - [Party] [Open] Establish why the party entered Moradin's chamber, who is present, what happens there, and whether the city's fourteen temples correspond one-to-one with the fourteen listed deities.
+- [Party] [Confirmed] The chamber centres on a `20-foot` pure-gold statue of a dwarf, with non-dwarven humanoids—including gnomes—worshipping around it. Identify the depicted dwarf, the rite and the congregation.
 - [Party] [Open] Identify the raided settlements, captives, cult, Yuan-ti role, rescue window, southwestern contacts, and commander's authority.
 - [Party] [Confirmed] The southern human traders were consumed by holy fire at Ola Dung Lot's gates; their Bag of Holding and Coal Mine Puppet survived.
 - [Party] [Open] Learn why the holy fire triggered, who now owns the Bag of Holding, and whether the traders' later payment and five-truth obligation survive their deaths.
