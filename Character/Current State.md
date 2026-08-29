@@ -11,8 +11,8 @@
 ## Live Snapshot - 2026-08-29
 - Current live session: [Session 2026-08-29](../Adventures/2026-08-29.md), continuing directly from [Session 2026-07-11](../Adventures/2026-07-11.md).
 - Location/status: At [Samyrn Torst](../Codex/Lore/Samyrn%20Torst.md) after delivery of [Agland's sealed letter](../Codex/Items/Aglands%20Sealed%20Letter.md). A dwarven commander has assigned the party to recover captives from cult-raided settlements involving Yuan-ti and to warn and rally humans in the southwest.
-- Immediate unresolved state: obtain an introduction letter; choose immediate transport or an airship; build the airship's magical and mundane outfitting list; identify the raided settlements, captives, cult, Yuan-ti role, and southwestern contacts; learn what Harry extracted from the puppet; determine why holy fire killed the traders; establish Bag of Holding ownership; and reconcile Dain's HP, spell slots, coin, smoke powder, Breastplate charges, seal, and other resources.
-- Carry-forward source: [Session 2026-07-11](../Adventures/2026-07-11.md), including the user-supplied PDF imported on 2026-08-29. No new 2026-08-29 in-world action has been recorded yet.
+- Immediate unresolved state: obtain an introduction letter; choose immediate transport or an airship; build the airship's magical and mundane outfitting list; identify the raided settlements, captives, cult, Yuan-ti role, and southwestern contacts; learn what Harry extracted from the puppet; determine why holy fire killed the traders; establish Bag of Holding ownership; confirm and potentially equip the newly acquired [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md); and reconcile Dain's HP, spell slots, coin, smoke powder, Breastplate charges, seal, and other resources.
+- Carry-forward source: [Session 2026-07-11](../Adventures/2026-07-11.md), including the user-supplied PDF imported on 2026-08-29. New 2026-08-29 canon currently includes the Sauna Jacket retrieval clarification and Dain's acquisition of dwarven half plate described as `+2 AC`.
 
 ## Identity
 - Name: Dain Truthammer
@@ -32,7 +32,7 @@
 - Max HP: likely 29 [To verify Tom's HP ruling after Resilient: Constitution and level 4]
 - Current HP: restored to maximum by the 2026-07-11 long rest; exact maximum is likely `29` but remains [To verify Tom's ruling].
 - Temp HP: [To verify] the Temp HP field shows `--`
-- AC: `14` from the equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11]
+- AC: `14` from the last confirmed equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11] Dain now owns [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md) described as `+2 AC`; if this is standard magical `+2` half plate and he equips it, his AC would be `17`. Equipped state and exact table wording remain [To verify].
 - Initiative: +0
 - Speed: 30 ft. (walking)
 - Hit Dice: 4d6
@@ -71,6 +71,7 @@
 - Chromatic Orb: Cast at the [Werebear at Smoky Cave](../Codex/Characters/Werebear%20at%20Smoky%20Cave.md) for `11` acid damage on 2026-05-03. [To verify] Whether this spent a 1st-level spell slot, the refreshed Magic Initiate `1 / Long Rest` use, or another table-specific resource.
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Breastplate of Balance: [Character-only] [Confirmed by user on 2026-07-11] Dain received this rare medium armor when the party killed the harpies on 2026-04-18, is proficient/trained in medium armor, and has now equipped and attuned to it. With Dain's current `DEX +0`, it provides `AC 14` and does not prevent his spellcasting. Current charges are [To verify].
+- Dwarven Half Plate: [Character-only] [Confirmed by user on 2026-08-29] Dain has acquired [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md) described as `+2 AC`. If this is standard magical `+2` half plate, it provides `AC 17` with Dain's `DEX +0`; if the user meant a flat two-point increase over his current armour, the intended total would be `AC 16`. Source, exact wording, equipped state, Stealth effect and attunement are [To verify].
 - Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
 - Newly learned spell: `Find Familiar`, taught by Kagrenac during the 2026-07-11 long rest. [Confirmed from user-supplied summary; To verify transcription cost, components, and preparation]
 - Conjured warm cloak: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night; the night has passed, so any continued cloak effect is [To verify]. [Party] [Character-only] [Confirmed]
@@ -105,7 +106,7 @@
 
 ## Short-Term Character Goals
 - [Character-only] Get a letter of introduction from the Samyrn Torst commander for the southwestern humans.
-- [Character-only] Decide whether to use immediate transport or an airship, then build the magical and mundane provisioning list with Ben and the quartermasters.
+- [Character-only] Decide whether to use immediate transport or an airship, then build the magical and mundane provisioning list with Ben and the quartermasters. Dain specifically wants [scrolls, curios and laboratory supplies](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md) whose principles can help him invent odd and apparently useless spells.
 - [Character-only] Identify the raided settlements, captives, cult structure, Yuan-ti involvement, rescue window, and southwestern contacts.
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.
@@ -124,6 +125,7 @@
 - [Character-only] Preserve the hidden tunnel as an unresolved clan-security thread: confirm the roper, one-mile stair, Berronar-marked armor, missing friend, later searcher, and what Dain's father knows.
 - [Character-only] Ask what Dain knows from his father's fire-spirit and mountain-spirit stories before assuming the hidden passage is ordinary stonework.
 - [Character-only] Use the [current session record](../Adventures/2026-08-29.md) for table questions, objectives, and ready lines at Samyrn Torst.
+- [Character-only] Confirm the [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md)'s exact `+2 AC` wording and whether Dain equips it in place of the Breastplate of Balance; standard magical-half-plate interpretation would set AC to `17` with `DEX +0`.
 - [Character-only] Investigate why the newcomers glow with magic, why the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) can apparently block or resist `Identify`, why it bit Dain when he began praying to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and what [Kurtlemack](../Codex/Lore/Kurtlemack.md)'s hatred means.
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.

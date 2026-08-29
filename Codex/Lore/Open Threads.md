@@ -10,6 +10,7 @@
 - [Party] [Open] Learn why the holy fire triggered, who now owns the Bag of Holding, and whether the traders' later payment and five-truth obligation survive their deaths.
 - [Party] [Confirmed] Harry extracted unspecified information from the puppet, which is now bound in rat form to his belt. Kagrenac's `Identify` revealed nothing.
 - [Party] [Open] Ask Harry what the puppet said; determine the rat-form trigger, restraint security, true nature, coal-mine goal, and connection to Kurtlemack and Garl Glittergold.
+- [Character-only] [Confirmed] Dain has acquired [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md) described as `+2 AC`; confirm exact mechanics and whether he equips it over the Breastplate of Balance.
 
 ## Prior Live Focus - 2026-07-11 (superseded by imported summary)
 - [Superseded] The initial 2026-08-29 scaffold expected play to resume from the truth-for-truth beat. The later user-supplied summary establishes that the 2026-07-11 session continued through Samyrn Torst and the new commander's briefing.
@@ -45,6 +46,14 @@
 
 ## Open
 
+### Confirm And Equip The Dwarven Half Plate
+- Status: Open
+- Tags: [Character-only] [Confirmed acquisition] [To verify mechanics]
+- Why it matters: Dain's newly acquired [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md) may substantially improve his passive defence, but replacing the [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md) could surrender charge-based utility and impose Stealth disadvantage.
+- Latest development: On 2026-08-29, the user confirms Dain acquired dwarven half plate described as `+2 AC`. If this is standard magical `+2` half plate, Dain's `DEX +0` would produce `AC 17`; if it means two points over his current `AC 14`, the intended total would be `AC 16`.
+- Next possible actions: Confirm the exact item wording, source, rarity, weight, attunement, Stealth rule and whether Dain equips it; if equipped, update current AC and the Breastplate of Balance's carried/attuned state.
+- Linked entries: [Session 2026-08-29](../../Adventures/2026-08-29.md), [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md), [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md), [Inventory](../../Character/Inventory.md), [Current State](../../Character/Current%20State.md)
+
 ### Recover The Cult's Captives
 - Status: Active
 - Tags: [Party] [Confirmed] [To verify]
@@ -65,9 +74,9 @@
 - Status: Active
 - Tags: [Party] [Confirmed] [To verify]
 - Why it matters: The party has been offered immediate transport back to the original tower or an airship, and the mission's reach and survivability depend on that choice and loadout.
-- Latest development: The commander directs the party to Ben for magical outfitting and to the quartermasters for other supplies. The prior Gondian airship survived a three-red-wyrmling attack with help from its cannons.
-- Next possible actions: Choose transport; identify the airship, crew, range, speed, lift, fuel, defenses and ownership; ask Ben about magic; build a shopping/requisition list; secure food, water, healing, ammunition, rope, maps, cold-weather gear, spare parts, restraints, and rescue capacity.
-- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md)
+- Latest development: The commander directs the party to Ben for magical outfitting and to the quartermasters for other supplies. The prior Gondian airship survived a three-red-wyrmling attack with help from its cannons. Dain now specifically intends to request scrolls, curios and research materials that can teach him principles for inventing odd and apparently useless spells; a non-canon candidate list is staged in [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md).
+- Next possible actions: Choose transport; identify the airship, crew, range, speed, lift, fuel, defenses and ownership; confirm Ben's authority and the requisition budget; choose priority spell-research requests; secure food, water, healing, ammunition, rope, maps, cold-weather gear, spare parts, restraints, rescue capacity, books, ink and experimental components.
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Prevent A Truthammer Sigil Investigation
 - Status: Active

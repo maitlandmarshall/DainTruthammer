@@ -41,6 +41,7 @@
 - [Confirmed] The user describes Dain as loving deception, illusion, and odd magical tricks.
 - [Inferred] The current list strongly supports misdirection, concealment, and socially disruptive magic even though his formal school is conjuration.
 - [Character-only] Dain's long-term magical ambition is to invent uniquely strange, marginal, and apparently useless spells no one else would bother to create.
+- [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls, magical curios and scribing supplies that expose useful spellmaking principles. Candidate priorities are staged in [Dain's Requisition Wishlist](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md); nothing on that list is acquired until confirmed in play.
 
 ## Experimental Spell Research
 - [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) [Character-only]
