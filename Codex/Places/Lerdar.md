@@ -28,5 +28,5 @@ A smaller dwarven city east of the Iron Shore coast where the party meets Comman
 ## Related Entries
 - [Commander Agland](../Characters/Commander%20Agland.md)
 - [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md)
-- [Samyrn Torst](../Lore/Samyrn%20Torst.md)
+- [Samryn Torsten](../Lore/Samryn%20Torsten.md)
 - [Session 2026-04-18](../../Adventures/2026-04-18.md)

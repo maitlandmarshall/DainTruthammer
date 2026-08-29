@@ -3,13 +3,13 @@
 ![Southern human traders approaching in cold winds](../../Adventures/2026-05-03/2026-05-03_cold-winds-southern-traders-arrive.png)
 
 ## One-Line Summary
-An unnamed group of human traders from the south who approach the party in cold mountain winds while seeking the way to [Olar Dunglor](../Places/Olar%20Dunglor.md).
+An unnamed group of human traders from the south who approach the party in cold mountain winds while seeking the way to [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md).
 
 ## Status
 - [Party] [Confirmed] First encountered on 2026-05-03 at the forested mountain camp after the long rest.
 - [Party] [Confirmed] They speak Common.
 - [Party] [Confirmed] They identify themselves as traders from the south.
-- [Party] [Confirmed] They are looking for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md).
+- [Party] [Confirmed] They are looking for the way to [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md).
 - [Party] [Confirmed] Dain rolls a natural `20` on Persuasion to convince them to trust the party and come with them.
 - [Party] [Confirmed] Dain delegates cost-setting to [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) and requests half payment upfront.
 - [Party] [Confirmed] The arrangement is half now, half later; the upfront half is paid into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz.
@@ -27,14 +27,14 @@ An unnamed group of human traders from the south who approach the party in cold 
 - [Party] [Confirmed on 2026-07-11] In a truth-for-truth exchange, the traders reveal that their true goal is to establish new trade and ask Dain about the nature of the Truthammer mountain.
 - [Party] Dain answers their questions and the Coal Mine Puppet's mine question by revealing that the mountain contains one of the richest mines in the land.
 - [Party] [Confirmed from the later 2026-07-11 summary] The traders watch activity at the Truthammer airship dock, attend dinner with Dain's father, and are told to continue onward with Dain and the party after the proposed trade is rejected.
-- [Party] The traders travel aboard the Gondian airship to Samyrn Torst and are consumed by holy fire at the city's gates. Their Bag of Holding and Coal Mine Puppet survive and are acquired by the party.
+- [Party] The traders travel aboard the Gondian airship to Ola Dung Lot in Samryn Torsten and are consumed by holy fire at the city's gates. Their Bag of Holding and Coal Mine Puppet survive and are acquired by the party.
 - [Party] [To verify] The humans restrain "him" afterward; whether this means the puppet, Dain, or both is unclear.
 - [To verify] Names, exact number of traders, goods and services intended for the new trade, desired partners, route, authority, honesty, threat level, whether they already knew or suspected the mine, whether they know anything about the party's mission, and the exact later half of the payment.
 
 ## What Dain Knows
 - [Party] They approach from the distance at the start of the new day.
 - [Party] Their opening greeting is directed at "dwarves."
-- [Party] They ask for directions to [Olar Dunglor](../Places/Olar%20Dunglor.md), a lake high in the mountains.
+- [Party] They ask for directions to [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), now confirmed to be a city in the Samryn Torsten area. [Retcon] Earlier notes interpreted it as a high-mountain lake.
 - [Party] Dain persuades them to trust the party and come with them, rolling a natural `20`.
 - [Party] Dain wants half the agreed cost paid upfront and has delegated the final cost to [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md).
 - [Party] The party receives the upfront half as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz, worth `5 gp` equivalent, stored in [Party Loot](../../Character/Party%20Loot.md).
@@ -54,7 +54,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 
 ## What The Party Knows
 - [Party] They are human traders from the south.
-- [Party] They are seeking [Olar Dunglor](../Places/Olar%20Dunglor.md).
+- [Party] They are seeking [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md).
 - [Party] They arrive as cold winds begin and [Kagrenac](../Characters/The%20Astral%20Elf.md) warns conditions will worsen.
 - [Party] After Dain's natural `20` Persuasion check, they are being invited to trust the party and travel with them.
 - [Party] The escort or guidance payment is half now, half later.
@@ -69,11 +69,11 @@ An unnamed group of human traders from the south who approach the party in cold 
 
 ## What Is Uncertain
 - [To verify] Whether they are lost, truthful, desperate, bait, or ordinary traders.
-- [To verify] Whether Olar Dunglor intersects with the party's route toward the mountain general near [Samyrn Torst](../Lore/Samyrn%20Torst.md).
-- [To verify] Exact later half of the payment, collection timing, who physically carries the upfront herbs, exact delivery trigger for the five truthful answers, and whether Olar Dunglor changes the party's route or obligations.
+- [Confirmed on 2026-08-29] Ola Dung Lot is the city in the Samryn Torsten area that the party ultimately reaches.
+- [To verify] Exact later half of the payment, collection timing, who physically carries the upfront herbs, and exact delivery trigger for the five truthful answers.
 - [To verify] Why all the newcomers appear to be glowing with magic, what the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is, why it bit Dain during prayer, what [Kurtlemack](../Lore/Kurtlemack.md) means to the traders or puppet, and whether the traders control it, fear it, owe it, or are burdened by it.
 - [To verify] The wounded puppet-holder's name, current HP, wound severity, whether the puppet is damaged or reacting, the other wounded human's name/current HP, exact damage, and whether either manticore targeted a trader for a reason.
-- [To verify] Why Samyrn Torst's holy fire targeted the traders, whether they were human as presented, whether any survived, and whether their later payment and five-truth obligations can still be collected.
+- [To verify] Why Ola Dung Lot's holy fire targeted the traders, whether they were human as presented, whether any survived, and whether their later payment and five-truth obligations can still be collected.
 
 ## Payment
 
@@ -90,7 +90,7 @@ An unnamed group of human traders from the south who approach the party in cold 
 - Draft 2026-05-30 puppet questions: chain of custody, what the puppet is, which coal mines it wants and what waits there, what happens if it is returned/destroyed/abandoned/stolen/kept away, and why it reacted to Garl Glittergold / Kurtlemack / "you." [To verify final wording asked in play]
 
 ## Notable Events
-- 2026-05-03: The traders approach the party from the distance and say in Common, "Hi dwarves. Hail, we are traders from the south, we are looking for our way to Olar Dunglor." [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: The traders approach the party from the distance and say in Common, "Hi dwarves. Hail, we are traders from the south, we are looking for our way to Ola Dung Lot." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain rolls a natural `20` on Persuasion to convince the traders to trust the party and come with them; he delegates cost-setting to Hammerton Harry Drizddon and requests half paid upfront. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The arrangement is clarified as half now, half later; the upfront half is paid as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz into [Party Loot](../../Character/Party%20Loot.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac privately warns Dain in Draconic that the newcomers are glowing with magic; a human trader sighs and produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), which blocks or prevents Dain's attempted `Identify` and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
@@ -103,10 +103,10 @@ An unnamed group of human traders from the south who approach the party in cold 
 - 2026-05-30: The three travelling humans follow behind while the party leads north-east along the river into a cold area. [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - 2026-05-30: After Dain denies Kurtlemack tribute from the winter wolves' deaths, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) stabs him nearly to `1 HP`; the humans restrain "him" afterward. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify restraint target]
 - 2026-07-11: The traders exchange a truth with Dain, revealing that their real aim is to establish new trade. They ask about the mountain and hear Dain state that it contains one of the richest mines in the land. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify intended trade and five-truth accounting]
-- 2026-07-11: Dain's father rejects their proposed trade, tells Dain to take the traders and puppet onward, and the traders join the party aboard a Gondian airship to Samyrn Torst. At the city gates, holy fire consumes them while their Bag of Holding and Coal Mine Puppet survive. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify cause, casualties, and outstanding debts]
+- 2026-07-11: Dain's father rejects their proposed trade, tells Dain to take the traders and puppet onward, and the traders join the party aboard a Gondian airship to Ola Dung Lot in Samryn Torsten. At the city gates, holy fire consumes them while their Bag of Holding and Coal Mine Puppet survive. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify cause, casualties, and outstanding debts]
 
 ## Related Entries
-- [Olar Dunglor](../Places/Olar%20Dunglor.md)
+- [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md)
 - [Kagrenac](../Characters/The%20Astral%20Elf.md)
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 - [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md)

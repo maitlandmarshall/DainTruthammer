@@ -1,9 +1,9 @@
-# Harpy Nest Near Samyrn Torst
+# Harpy Nest Near Samryn Torsten
 
 ![Harpy nest reference](./Harpy_Nest_ref.png)
 
 ## One-Line Summary
-A high mountain crag where five harpies circle their nest along the route toward Samyrn Torst.
+A high mountain crag where five harpies circle their nest along the route toward Samryn Torsten.
 
 ## Status
 - [Party] [Confirmed] The party sees five harpies around a nest two hours into the day's travel after the ogre ambush.
@@ -16,7 +16,7 @@ A high mountain crag where five harpies circle their nest along the route toward
 - [Character-only] Dain immolated an alpha harpy and fixed it in place with `Suggestion`.
 
 ## Description
-- A high mountain nesting site near the route toward Samyrn Torst.
+- A high mountain nesting site near the route toward Samryn Torsten.
 - [Inferred] Exposed crags, wind, narrow approaches, and mountain wall cracks make concealment possible.
 
 ## Notable Events
@@ -27,5 +27,5 @@ A high mountain crag where five harpies circle their nest along the route toward
 ## Related Entries
 - [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md)
 - [Ghostly Form Tattoo](../Items/Ghostly%20Form%20Tattoo.md)
-- [Samyrn Torst](../Lore/Samyrn%20Torst.md)
+- [Samryn Torsten](../Lore/Samryn%20Torsten.md)
 - [Session 2026-04-18](../../Adventures/2026-04-18.md)

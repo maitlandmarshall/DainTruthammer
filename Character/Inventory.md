@@ -49,14 +49,14 @@
   Effects as currently understood: while the tattoo is on the skin, one charge can be spent to become incorporeal; for the duration, gain resistance to bludgeoning attacks, cannot be grappled or restrained, and can move through creatures and solid objects as though they were difficult terrain; moving through a solid object deals `1d10` damage and places the wearer in the nearest available space. [To verify exact wording, total charges, and duration]
 
 ## Quest Items
-- [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Delivered] [Party] Delivered to the dwarven commander at Samyrn Torst on 2026-07-11; no longer carried by the party.
+- [Agland's Sealed Letter](../Codex/Items/Aglands%20Sealed%20Letter.md) x1 [Delivered] [Party] Delivered to the dwarven commander in Ola Dung Lot, within Samryn Torsten, on 2026-07-11; no longer carried by the party.
 - [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) x1 [Opened; currently handled by Dain] Contains coarse dark-grey gunpowder. During the Gondian airship journey, Dain produces a pouch of smoke powder while theorizing about the ship's propulsion. [To verify whether this is the same substance/container, amount remaining, mechanics, purpose, and safe storage]
 - [Dain's Seal](../Codex/Items/Dains%20Seal.md) x1 [Not currently confirmed in Dain's possession] On 2026-06-20 Dain gives it to Harry / Hammerton for `100 gp` worth of silver. On 2026-07-11 Dain hears the clan warning, then admits to his father that lending the sigil may have allowed Norhan's character to create Truthammer debt. Confirm exact object, sigil owner, recipient, current holder, debt, which transaction is meant, and reclaimability.
 
 ## Shared Party Loot Reference
 - [Party Loot](./Party%20Loot.md) tracks shared items that are not Dain's personal inventory.
 - [Confirmed] On 2026-05-03, the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) paid the upfront half of their arrangement as [Burdock](../Codex/Items/Burdock.md) x10 oz and [Ginseng](../Codex/Items/Ginseng.md) x2 oz into [Party Loot](./Party%20Loot.md). Current carrier is [To verify].
-- [Party] A Bag of Holding survives the traders' destruction by holy fire at Samyrn Torst and is acquired by the party. [To verify whether this is the bag Dain promised Harry, who owns/carries it, contents, and whether it was issued earlier by the Truthammer quartermaster]
+- [Party] A Bag of Holding survives the traders' destruction by holy fire at Ola Dung Lot's gates and is acquired by the party. [To verify whether this is the bag Dain promised Harry, who owns/carries it, contents, and whether it was issued earlier by the Truthammer quartermaster]
 - [Party] The [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) survives the same holy fire and is currently tied in rat form to Harry's belt.
 - [Party] [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) x5 [Confirmed on 2026-08-29] Acquired during requisition planning with Ben and the quartermasters. Ownership and current carrier are [To verify]; no scroll has yet been confirmed assigned to Dain, copied, cast or consumed.
 

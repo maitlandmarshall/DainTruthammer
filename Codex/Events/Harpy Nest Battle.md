@@ -26,7 +26,7 @@ The party defeats five harpies at a mountain nest after Dain hides in the stone,
 - [To verify] Full loot from the nest beyond the tattoo and Breastplate of Balance.
 
 ## Related Entries
-- [Harpy Nest Near Samyrn Torst](../Places/Harpy%20Nest%20Near%20Samyrn%20Torst.md)
+- [Harpy Nest Near Samryn Torsten](../Places/Harpy%20Nest%20Near%20Samryn%20Torsten.md)
 - [Ghostly Form Tattoo](../Items/Ghostly%20Form%20Tattoo.md)
 - [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md)
 - [Kagrenac](../Characters/The%20Astral%20Elf.md)

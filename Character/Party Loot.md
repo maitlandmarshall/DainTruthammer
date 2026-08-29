@@ -19,7 +19,7 @@
 ## Non-Material Claims
 - Five truthful answers from the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md), owed upon delivery after Dain defuses Hammerton / Dresden's push for more payment. [Party] [Confirmed]
 - Draft 2026-05-30 puppet questions: chain of custody; what the puppet is; which coal mines it wants and what waits there; what happens if it is returned/destroyed/abandoned/stolen/kept away; and why it reacted to Dain praying to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), invoked [Kurtlemack](../Codex/Lore/Kurtlemack.md), and said "you." [Party] [To verify final wording asked in play]
-- Delivery target: [To verify], likely connected to [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md).
+- Delivery target: [To verify], likely connected to [Ola Dung Lot](../Codex/Places/Ola%20Dung%20Lot.md).
 - Question holder / asker: [To verify].
 - Enforcement: [To verify] whether this is honor-bound, magically binding, or merely negotiated.
 
@@ -38,7 +38,7 @@
 - [Ollyander](../Codex/Characters/Ollyander.md) ends up winning. [Party] [Confirmed from 2026-06-20 notebook notes]
 - A human/townsperson from before is involved in a trade with Ollyander worth `60 gp` in silver. [Party] [To verify direction of trade, current holder, whether this is the human who ran away, and whether it belongs in party loot or Ollyander's personal inventory]
 
-## Samyrn Torst Requisition
+## Ola Dung Lot Requisition
 - [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) x5 [Party] [Confirmed on 2026-08-29] Acquired while the party is preparing magical equipment and research requests through Ben and the quartermasters. Exact source, ownership and current carrier are [To verify]. No scroll has yet been confirmed copied, cast, consumed or distributed.
 
 ## Open Questions
@@ -55,7 +55,7 @@
 - [Burdock](../Codex/Items/Burdock.md)
 - [Ginseng](../Codex/Items/Ginseng.md)
 - [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md)
-- [Olar Dunglor](../Codex/Places/Olar%20Dunglor.md)
+- [Ola Dung Lot](../Codex/Places/Ola%20Dung%20Lot.md)
 - [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md)
 - [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md)
 - [Ollyander](../Codex/Characters/Ollyander.md)

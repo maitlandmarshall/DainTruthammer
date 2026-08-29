@@ -27,5 +27,5 @@ A rainy Y-shaped creek confluence on the mountain road where Dain researches she
 ## Related Entries
 - [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)
 - [Creek-Fork Ogre Ambush](../Events/Creek-Fork%20Ogre%20Ambush.md)
-- [Samyrn Torst](../Lore/Samyrn%20Torst.md)
+- [Samryn Torsten](../Lore/Samryn%20Torsten.md)
 - [Session 2026-04-18](../../Adventures/2026-04-18.md)

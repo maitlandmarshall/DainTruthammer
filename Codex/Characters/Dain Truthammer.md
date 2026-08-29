@@ -54,7 +54,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Dain receives one pound of hedgehog mushroom from Taleesh and begins hollowing it into a [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md) inspired by the lantern story.
 - [Character-only] Dain records `+17` respect toward Taleesh after the hedgehog mushroom gift and lantern-making start.
 - [Character-only] Dain reaches `6%` progress on always-warm robes for Taleesh, realizes the concept is not truly him, and pivots into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration.
-- [Party] At the start of the new in-world day after the forest long rest, Dain wakes to cold winds, hears [Kagrenac](./The%20Astral%20Elf.md) warn that the winds will worsen, and sees [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach seeking [Olar Dunglor](../Places/Olar%20Dunglor.md).
+- [Party] At the start of the new in-world day after the forest long rest, Dain wakes to cold winds, hears [Kagrenac](./The%20Astral%20Elf.md) warn that the winds will worsen, and sees [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach seeking [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md).
 - [Party] Dain rolls a natural `20` on Persuasion to convince the traders to trust the party and come with them, then delegates cost-setting to [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) while requesting half paid upfront.
 - [Party] The traders' arrangement becomes half now, half later; the upfront half is paid into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz, worth `5 gp` equivalent.
 - [Character-only] Kagrenac tells Dain in Draconic that the newcomers are all glowing in magic. [To verify detection source]
@@ -87,7 +87,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## What The Party Knows
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
-- [Party] Olar Dunglor is a lake high in the mountains, named by southern human traders seeking directions on 2026-05-03.
+- [Party] [Confirmed on 2026-08-29] Ola Dung Lot is a city in the wider Samryn Torsten area. The southern human traders sought directions there on 2026-05-03. [Retcon] Earlier notes interpreted it as a high-mountain lake.
 - [To verify] Whether the party knows Dain is an outcast from his mountain homeland.
 - [To verify] Dain's public-facing motives and immediate purpose on that coast are not yet recorded.
 - [Party] [To verify who overheard] Dain has told Taleesh about escaping through the hidden tunnels one hundred years ago and about the friend who sacrificed himself to the pursuing troopers.
@@ -159,7 +159,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "That is a long story, and some of the witnesses are still cross."
 
 ## Near-Term Motivations
-- [Character-only] Help Kagrenac reach the mountain road near Samyrn Torst safely.
+- [Character-only] Help Kagrenac reach the mountain road near Samryn Torsten safely.
 - [Character-only] Deliver Commander Agland's sealed letter to the actual general.
 - [Character-only] Quietly discover the fuller truth behind the party's mission.
 - [Character-only] Hunt for strange mountain magic, old wards, and improbable little spells.
@@ -208,7 +208,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-05-03: Dain receives one pound of hedgehog mushroom from Taleesh, hollows it out, and begins creating the [Hedgehog Mushroom Lantern](../Items/Hedgehog%20Mushroom%20Lantern.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain records `+17` respect toward Brother Taleesh, using the player shorthand "the Lizard." [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain reaches `6%` progress on always-warm robes for Brother Taleesh, realizes the idea is not truly him, and pivots into the [Always-Cold Robes](../Items/Always-Cold%20Robes.md) prototype after a flash of inspiration. [Session 2026-05-03](../../Adventures/2026-05-03.md)
-- 2026-05-03: The party wakes to cold winds after the forest long rest; Kagrenac warns the winds will worsen, and [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach asking for the way to [Olar Dunglor](../Places/Olar%20Dunglor.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- 2026-05-03: The party wakes to cold winds after the forest long rest; Kagrenac warns the winds will worsen, and [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) approach asking for the way to [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Dain rolls a natural `20` on Persuasion to convince the southern human traders to trust the party and come with them, delegates cost-setting to [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md), and requests half paid upfront. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: The trader arrangement is set as half now, half later; the upfront half goes into [Party Loot](../../Character/Party%20Loot.md) as [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac warns Dain in Draconic that the newcomers are glowing with magic; Dain shakes the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)'s hand while attempting `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
@@ -260,6 +260,6 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Dain's Seal](../Items/Dains%20Seal.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
 - [Kurtlemack](../Lore/Kurtlemack.md)
-- [Olar Dunglor](../Places/Olar%20Dunglor.md)
+- [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md)
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md)

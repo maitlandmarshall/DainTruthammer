@@ -60,7 +60,7 @@ A rare copper-and-clockwork breastplate that spends magical charges to flatten a
 - Campaign-style reference render completed on 2026-07-11 as `Breastplate_of_Balance_ref.png`.
 
 ## Notable Events
-- 2026-04-18: Dain receives the Breastplate of Balance after the party kills the harpies near the mountain route toward Samyrn Torst. [Confirmed by user on 2026-07-11] [Session 2026-04-18](../../Adventures/2026-04-18.md)
+- 2026-04-18: Dain receives the Breastplate of Balance after the party kills the harpies near the mountain route toward Samryn Torsten. [Confirmed by user on 2026-07-11] [Session 2026-04-18](../../Adventures/2026-04-18.md)
 - 2026-07-11: Dain equips and attunes to the Breastplate of Balance, setting his current AC to `14` and occupying one attunement slot. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries

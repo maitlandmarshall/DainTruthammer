@@ -1,12 +1,14 @@
 # Open Threads
 
 ## Current Live Focus - 2026-08-29
-- [Party] The [current session](../../Adventures/2026-08-29.md) opens at [Samyrn Torst](./Samyrn%20Torst.md) after Agland's sealed letter is delivered.
+- [Party] The [current session](../../Adventures/2026-08-29.md) opens in [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), a city in the [Samryn Torsten](./Samryn%20Torsten.md) area, after Agland's sealed letter is delivered.
 - [Party] [Confirmed] A dwarven commander assigns two objectives: recover people abducted from settlements raided by a cult with previously unknown Yuan-ti involvement, and warn and rally humans in the southwest.
 - [Party] [Open] Obtain a letter of introduction for the southwestern humans.
 - [Party] [Confirmed] The party has selected a [balloon-like skyship](../Places/Party%20Skyship%20-%202026-08-29.md) and is about to board; confirm its route, crew, lift system, cannon and remaining provisions.
+- [Party] [Confirmed] Before boarding, the party enters [Moradin's chamber](../Places/Moradins%20Chamber%20-%20Ola%20Dung%20Lot.md). Ola Dung Lot has fourteen temples and the fourteen named gods of the [Morndinsamman](./Morndinsamman.md) are now recorded.
+- [Party] [Open] Establish why the party entered Moradin's chamber, who is present, what happens there, and whether the city's fourteen temples correspond one-to-one with the fourteen listed deities.
 - [Party] [Open] Identify the raided settlements, captives, cult, Yuan-ti role, rescue window, southwestern contacts, and commander's authority.
-- [Party] [Confirmed] The southern human traders were consumed by holy fire at Samyrn Torst's gates; their Bag of Holding and Coal Mine Puppet survived.
+- [Party] [Confirmed] The southern human traders were consumed by holy fire at Ola Dung Lot's gates; their Bag of Holding and Coal Mine Puppet survived.
 - [Party] [Open] Learn why the holy fire triggered, who now owns the Bag of Holding, and whether the traders' later payment and five-truth obligation survive their deaths.
 - [Party] [Confirmed] Harry extracted unspecified information from the puppet, which is now bound in rat form to his belt. Kagrenac's `Identify` revealed nothing.
 - [Party] [Open] Ask Harry what the puppet said; determine the rat-form trigger, restraint security, true nature, coal-mine goal, and connection to Kurtlemack and Garl Glittergold.
@@ -15,7 +17,7 @@
 - [Character-only] [Open] Acquire `Skywrite` and `Pyrotechnics` later; neither is currently known or owned, and sourcebook availability remains [To verify with Tom].
 
 ## Prior Live Focus - 2026-07-11 (superseded by imported summary)
-- [Superseded] The initial 2026-08-29 scaffold expected play to resume from the truth-for-truth beat. The later user-supplied summary establishes that the 2026-07-11 session continued through Samyrn Torst and the new commander's briefing.
+- [Superseded] The initial 2026-08-29 scaffold expected play to resume from the truth-for-truth beat. The later user-supplied summary establishes that the 2026-07-11 session continued through Ola Dung Lot in Samryn Torsten and the new commander's briefing.
 - [Party] [Confirmed] In a truth-for-truth exchange, the southern human traders reveal their true goal is to establish new trade; the Coal Mine Puppet asks whether the mountain has a mine, and Dain reveals that it contains one of the richest mines in the land.
 - [Party] [To verify] Establish intended trade goods, partners and terms; why the puppet cares about the mine; whether Dain's disclosure was authorized; whether the mine's wealth was secret; and whether this uses one of the five truthful answers owed.
 - [Party] [Confirmed] Dain and the party are heading to the Truthammer settlement's [bathhouses](../Places/Berronar%20Truesilver%20Bathhouses.md), described table-side as `Barren Archer of Silver hand`.
@@ -68,9 +70,9 @@
 - Status: Active
 - Tags: [Party] [Confirmed] [To verify]
 - Why it matters: People have been taken from settlements raided by a cult, and the new mission explicitly asks the party to find and, if possible, recover them.
-- Latest development: The Samyrn Torst commander reveals that dwarven leadership had not known Yuan-ti were involved and assigns the recovery objective after Agland's letter is delivered.
+- Latest development: The dwarven commander in Ola Dung Lot reveals that dwarven leadership had not known Yuan-ti were involved and assigns the recovery objective after Agland's letter is delivered.
 - Next possible actions: Name the raided settlements; establish numbers, dates, witnesses, cult signs, Yuan-ti role, likely destination, captive condition, rescue window, and whether the party should investigate or strike first.
-- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md)
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samryn Torsten](./Samryn%20Torsten.md)
 
 ### Rally The Humans In The Southwest
 - Status: Active
@@ -78,7 +80,7 @@
 - Why it matters: The commander wants the southwestern humans warned and rallied against the cult and Yuan-ti threat; political access may determine whether the mission gains allies or another suspicious border.
 - Latest development: The party is told to confer with the humans in the southwest and needs a letter of introduction before departure.
 - Next possible actions: Obtain the letter; identify the human polity, leaders, route, existing relations, desired commitment, evidence to present, and whether Dain should invoke or avoid the Truthammer name.
-- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md)
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samryn Torsten](./Samryn%20Torsten.md)
 
 ### Fit Out Transport For The New Mission
 - Status: Active
@@ -86,7 +88,7 @@
 - Why it matters: The party has selected a skyship for the new mission, and its reach, armament, lift system and loadout now directly determine mission survivability.
 - Latest development: The party is about to board the [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), described as much more like a very large hot-air balloon than a conventional ship and carrying at least one cannon. Dain has acquired five [`Magic Mouth` spell scrolls](../Items/Magic%20Mouth%20Scrolls.md) and named `Skywrite` and `Pyrotechnics` as future goals.
 - Next possible actions: Board; identify the ship's formal name, commander, crew, route, range, speed, lift, fuel, defenses, ownership, cannon count/type and ammunition; assign the five `Magic Mouth` scrolls; confirm provisions, rescue capacity and whether Ben can still fit additional magic before departure.
-- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [Samryn Torsten](./Samryn%20Torsten.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Prevent A Truthammer Sigil Investigation
 - Status: Active
@@ -188,7 +190,7 @@
 - Status: Deferred
 - Tags: [Party] [To verify]
 - Why it matters: The five truthful answers owed by the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) are the party's best current leverage for learning what the Coal Mine Puppet is and why it reacts to Dain, Garl, and Kurtlemack.
-- Latest development: The traders are consumed by holy fire at Samyrn Torst's gates before the debt is reconciled. Harry subsequently extracts unspecified information from the surviving puppet, now bound in rat form to his belt. Whether the five-answer obligation can still be collected is [To verify].
+- Latest development: The traders are consumed by holy fire at Ola Dung Lot's gates before the debt is reconciled. Harry subsequently extracts unspecified information from the surviving puppet, now bound in rat form to his belt. Whether the five-answer obligation can still be collected is [To verify].
 - Next possible actions: When the debt comes due, ask:
   1. "Tell us exactly how the Coal Mine Puppet came into your possession, from the first moment any of you encountered it to now."
   2. "What do you know, suspect, or have been told the puppet actually is?"
@@ -241,9 +243,9 @@
 - Status: Resolved
 - Tags: [Party] [To verify]
 - Why it matters: The traders may be ordinary lost travellers, a source of route information, a trade opportunity, or a risk arriving exactly as the weather worsens.
-- Latest development: Dain's father rejects the proposed trade and tells Dain to take the humans and puppet onward. At Samyrn Torst's gates, the traders are consumed by holy fire; their Bag of Holding and puppet survive.
+- Latest development: Dain's father rejects the proposed trade and tells Dain to take the humans and puppet onward. At Ola Dung Lot's gates, the traders are consumed by holy fire; their Bag of Holding and puppet survive.
 - Next possible actions: Treat direct negotiation as ended. Investigate the holy fire, the traders' true nature, and the status of their unpaid later half and five-truth debt.
-- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Burdock](../Items/Burdock.md), [Ginseng](../Items/Ginseng.md), [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md), [Party Loot](../../Character/Party%20Loot.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Burdock](../Items/Burdock.md), [Ginseng](../Items/Ginseng.md), [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md), [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md), [Party Loot](../../Character/Party%20Loot.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Investigate The Coal Mine Puppet
 - Status: Active
@@ -275,7 +277,7 @@
 - Why it matters: Dain's persuasion created an opportunity, but the final cost and upfront payment determine whether this becomes a formal escort, guidance, or trade arrangement.
 - Latest development: After persuading the southern traders with a natural `20`, Dain delegates the cost to [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) / Norhan and requests half paid upfront. The accepted structure is half now, half later; the party receives [Burdock](../Items/Burdock.md) x10 oz and [Ginseng](../Items/Ginseng.md) x2 oz as the upfront half, worth `5 gp` equivalent, now tracked in [Party Loot](../../Character/Party%20Loot.md). After the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) is revealed, Hammerton / Dresden asks for more; Dain keeps the original deal but adds five truthful answers owed upon delivery.
 - Next possible actions: Confirm the exact later half, collection trigger, and payment form; record who carries the upfront herbs; decide whether any are consumed before the later half is paid; confirm the delivery trigger for the five truthful answers; and note whether this arrangement changes the party's route or obligations.
-- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Olar Dunglor](../Places/Olar%20Dunglor.md), [Burdock](../Items/Burdock.md), [Ginseng](../Items/Ginseng.md), [Party Loot](../../Character/Party%20Loot.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
+- Linked entries: [Southern Human Traders](../Factions/Southern%20Human%20Traders.md), [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md), [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), [Burdock](../Items/Burdock.md), [Ginseng](../Items/Ginseng.md), [Party Loot](../../Character/Party%20Loot.md), [Inventory](../../Character/Inventory.md), [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 ### Introduce Brother Taleesh
 - Status: Active
@@ -345,9 +347,9 @@
 - Status: Resolved
 - Tags: [Party] [Confirmed]
 - Why it matters: This is now the party's direct assignment and their clearest current objective.
-- Latest development: Ben leads the party to the dwarven commander at Samyrn Torst, and the letter is delivered. The commander responds with two new mission objectives.
+- Latest development: Ben leads the party to the dwarven commander in Ola Dung Lot, and the letter is delivered. The commander responds with two new mission objectives.
 - Next possible actions: Preserve as completed mission history and follow the captive-recovery and southwestern-diplomacy assignments.
-- Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Commander Agland](../Characters/Commander%20Agland.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Samyrn Torst](../Lore/Samyrn%20Torst.md), [Inventory](../../Character/Inventory.md)
+- Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Commander Agland](../Characters/Commander%20Agland.md), [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md), [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), [Samryn Torsten](../Lore/Samryn%20Torsten.md), [Inventory](../../Character/Inventory.md)
 
 ### Assess The Harpy Nest Ahead
 - Status: Open
@@ -355,7 +357,7 @@
 - Why it matters: Five harpies near the road could threaten the party's onward route into the mountains or offer a hazard that must be avoided, observed, or cleared.
 - Latest development: The party defeated the harpies near the nest, but Kagrenac killed Dain's suggested target before the enchantment could be exploited further; Dain received the `Ghostly Form Tattoo` reward. [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Next possible actions: Confirm the final loot from the nest beyond Dain's tattoo, and record whether anything else was recovered or learned there.
-- Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md), [Harpy Nest Near Samyrn Torst](../Places/Harpy%20Nest%20Near%20Samyrn%20Torst.md)
+- Linked entries: [Session 2026-04-18](../../Adventures/2026-04-18.md), [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md), [Harpy Nest Near Samryn Torsten](../Places/Harpy%20Nest%20Near%20Samryn%20Torsten.md)
 
 ### Clarify The Ghostly Form Tattoo
 - Status: Open

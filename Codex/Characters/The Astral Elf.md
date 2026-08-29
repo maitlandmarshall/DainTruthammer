@@ -93,7 +93,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md)
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
 - [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md)
-- [Olar Dunglor](../Places/Olar%20Dunglor.md)
+- [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md)
 - [Relationships](../../Character/Relationships.md)
 - [Creek-Fork Ogre Ambush](../Events/Creek-Fork%20Ogre%20Ambush.md)
 - [Harpy Nest Battle](../Events/Harpy%20Nest%20Battle.md)

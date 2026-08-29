@@ -33,7 +33,7 @@ A currently unnamed town where Dain enters the 2026-06-20 session amid six drago
 - [Party] At least one [human/townsperson](../Characters/Rat-House%20Human%20-%202026-06-20.md) runs away or withdraws after seeing the amount of money involved in the dice/silver scene. [To verify identity and motive]
 
 ## What Is Uncertain
-- [To verify] Whether this town is on the earlier mountain route, near Samyrn Torst, near Olar Dunglor, or somewhere reached after an unlogged transition.
+- [To verify] Whether this town is on the earlier mountain route, near Samryn Torsten, near Ola Dung Lot, or somewhere reached after an unlogged transition.
 - [To verify] Whether the six dragon remains were slain by the party, found by the town, brought in by another faction, or tied to the artisan deal in another way.
 - [To verify] Whether the artisans keep all dragon material, only leftovers, or a specific share in exchange for making equipment.
 - [To verify] Whether the church is dedicated to [Garl Glittergold](../Lore/Garl%20Glittergold.md), Gond, another forge / gnome deity, a mixed shrine, or a local civic institution.

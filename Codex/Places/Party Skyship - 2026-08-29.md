@@ -3,14 +3,14 @@
 ![Dain prepares to board the balloon-like skyship](../../Adventures/2026-08-29/2026-08-29_boarding-balloon-skyship.png)
 
 ## One-Line Summary
-The party's assigned sky transport from Samyrn Torst: an enormous hot-air-balloon-like vessel with a suspended ship structure and at least one cannon aboard.
+The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: an enormous hot-air-balloon-like vessel with a suspended ship structure and at least one cannon aboard.
 
 ## Status
-- [Party] [Confirmed on 2026-08-29] The party is about to board this skyship at or near [Samyrn Torst](../Lore/Samyrn%20Torst.md).
+- [Party] [Confirmed on 2026-08-29] The party is about to board this skyship in [Ola Dung Lot](./Ola%20Dung%20Lot.md), a city in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area.
 - [Party] [Confirmed] Its overall design is more like a very large hot-air balloon than a conventional sailing ship.
 - [Party] [Confirmed] It has some form of cannon aboard; exact number and type are [To verify].
 - [To verify] Formal name, builder, Gondian affiliation, owner, commander, crew, assigned pilot, route, destination, speed, range, lift system, fuel, balloon material, armament, ammunition, defenses, cargo capacity and whether the party owns the vessel or merely has mission use of it.
-- [To verify] Whether this is the same Gondian airship previously used to reach Samyrn Torst or a different vessel of a similar design.
+- [To verify] Whether this is the same Gondian airship previously used to reach Ola Dung Lot or a different vessel of a similar design.
 
 ## What Dain Knows
 - The vessel is large enough to read visually as a gigantic hot-air balloon carrying a ship-like structure beneath it.
@@ -26,10 +26,11 @@ The party's assigned sky transport from Samyrn Torst: an enormous hot-air-balloo
 - Does the ship already have magical fittings from Ben, or are further installations still possible?
 
 ## Notable Events
-- 2026-08-29: The party prepares to board the balloon-like skyship at Samyrn Torst. The user confirms that it resembles a very large hot-air balloon and carries some sort of cannon. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: The party prepares to board the balloon-like skyship in Ola Dung Lot. The user confirms that it resembles a very large hot-air balloon and carries some sort of cannon. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
-- [Samyrn Torst](../Lore/Samyrn%20Torst.md)
+- [Ola Dung Lot](./Ola%20Dung%20Lot.md)
+- [Samryn Torsten](../Lore/Samryn%20Torsten.md)
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 - [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - [Open Threads](../Lore/Open%20Threads.md)

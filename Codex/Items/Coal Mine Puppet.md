@@ -18,7 +18,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Party] [Confirmed] The puppet stabs Dain and nearly drops him to `1 HP`.
 - [Party] [Confirmed on 2026-07-11] During a truth-for-truth conversation between Dain and the southern human traders, the puppet asks whether the Truthammer mountain has a mine.
 - [Party] Dain answers that the mountain contains one of the richest mines in the land.
-- [Party] [Confirmed from the later 2026-07-11 summary] The puppet survives the holy fire that consumes the southern human traders at Samyrn Torst's gates.
+- [Party] [Confirmed from the later 2026-07-11 summary] The puppet survives the holy fire that consumes the southern human traders at Ola Dung Lot's gates.
 - [Party] Kagrenac throws it toward Dain, who dodges. Harry catches it, shouts at it, and extracts unspecified information after arm-twisting.
 - [Party] Kagrenac's `Identify` reveals nothing; he then casts unspecified additional magic at or on it.
 - [Party] The puppet assumes or is revealed in rat form. Harry binds it and attaches it to his belt.
@@ -49,7 +49,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [Party] The puppet invokes [Kurtlemack](../Lore/Kurtlemack.md)'s hatred. [To verify who "you" refers to]
 - [Party] The human holding the puppet is struck by the manticore for `11` damage.
 - [Party] After Dain denies Kurtlemack tribute from the winter wolves' deaths, the puppet stabs Dain, nearly dropping him to `1 HP`.
-- [Party] It survives the Samyrn Torst gate's holy fire, resists or reveals nothing to Kagrenac's `Identify`, and is currently bound in rat form to Harry's belt.
+- [Party] It survives Ola Dung Lot's gate-fire, resists or reveals nothing to Kagrenac's `Identify`, and is currently bound in rat form to Harry's belt.
 
 ## What Is Uncertain
 - [To verify] Which coal mines the puppet means.
@@ -64,7 +64,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - [To verify] Whether the 2026-05-30 stabbing was triggered by prayer, tribute denial, Garl's name, Kurtlemack's denied claim, Dain's proximity, or another condition.
 - [To verify] Whether the humans restrained the puppet, Dain, or both afterward.
 - [To verify] Why the puppet asks about a mine, whether it recognizes the Truthammer mountain as the mine it wants, whether it seeks coal specifically, and what it intends to do with Dain's answer.
-- [To verify] What information Harry extracted, whether coercion altered its behavior, who controls its transformations, what rat form changes mechanically, whether its restraints are reliable, and why Samyrn Torst's holy fire spared it.
+- [To verify] What information Harry extracted, whether coercion altered its behavior, who controls its transformations, what rat form changes mechanically, whether its restraints are reliable, and why Ola Dung Lot's holy fire spared it.
 
 ## Notable Events
 - 2026-05-03: After [Kagrenac](../Characters/The%20Astral%20Elf.md) privately warns Dain in Draconic that the newcomers are glowing with magic, a human trader sighs and pulls out the puppet; Dain shakes the puppet's hand and attempts `Identify`, but the puppet appears to prevent the spell and speaks of being taken back to the coal mines. [Session 2026-05-03](../../Adventures/2026-05-03.md)
@@ -73,7 +73,7 @@ A strange cobalt puppet carried by one of the [Southern Human Traders](../Factio
 - 2026-05-03: The [Manticore on the Forest Road](../Characters/Manticore%20on%20the%20Forest%20Road.md) attacks the protected traders and deals `11` damage to the human holding the puppet. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-30: After four winter wolves are destroyed, Dain prays to Garl Glittergold near the puppet and denies Kurtlemack tribute from the deaths; the puppet stabs him, nearly dropping him to `1 HP`, and the travelling humans restrain "him" afterward. [Session 2026-05-30](../../Adventures/2026-05-30.md) [To verify restraint target and exact HP]
 - 2026-07-11: The puppet asks Dain whether the Truthammer mountain has a mine during a truth-for-truth exchange; Dain replies that it is home to one of the richest mines in the land. [Session 2026-07-11](../../Adventures/2026-07-11.md)
-- 2026-07-11: The puppet survives the holy fire that consumes its human carriers at Samyrn Torst. Kagrenac's `Identify` reveals nothing; Harry extracts unspecified information, binds the puppet in rat form, and ties it to his belt. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-07-11: The puppet survives the holy fire that consumes its human carriers at Ola Dung Lot's gates. Kagrenac's `Identify` reveals nothing; Harry extracts unspecified information, binds the puppet in rat form, and ties it to his belt. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ## Related Entries
 - [Southern Human Traders](../Factions/Southern%20Human%20Traders.md)
