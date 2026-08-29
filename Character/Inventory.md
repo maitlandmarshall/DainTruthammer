@@ -36,7 +36,7 @@
 - [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) x1 [Character-only] [In progress] Begun on 2026-05-03 after Dain abandoned or pivoted from a `6%` always-warm robes attempt for Brother Taleesh. Base robe, materials, exact progress, and whether inventory is consumed are [To verify].
 
 ## Completed Crafted Items
-- [Sauna Pelt / Sauna Jacket](../Codex/Items/Sauna%20Pelt.md) x1 [Party] [Complete on 2026-07-11] [Transferred to Brother Taleesh] Begun from a good-quality large pelt provided by Taleesh and finished during the long rest. Taleesh graciously accepts and loves it. It is always warm in cold environments, and its wetness makes the surrounding area smell like female white-wolf piss. [To verify attunement, exact mechanics, odor radius, and whether the earlier steam/scalding risk remains]
+- [Sauna Pelt / Sauna Jacket](../Codex/Items/Sauna%20Pelt.md) x1 [Party] [Complete on 2026-07-11] [Owned by Brother Taleesh] [Left behind in town] Begun from a good-quality large pelt provided by Taleesh and finished during the long rest. Taleesh graciously accepted and loves it. It is always warm in cold environments, and its wetness makes the surrounding area smell like female white-wolf piss. Dain and Taleesh must eventually return to retrieve it. [To verify exact town, storage location, attunement, mechanics, odor radius, and whether the earlier steam/scalding risk remains]
 
 ## Clothing
 - Robe x2 [To verify whether one robe is being altered into the Always-Cold Robes prototype]
@@ -59,7 +59,7 @@
 - [Party] The [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) survives the same holy fire and is currently tied in rat form to Harry's belt.
 
 ## Carry Load
-- Weight Carried: at least `73 lb.` from the `53 lb.` baseline plus the equipped `20 lb.` [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) is with the goblin leader, and the completed [Sauna Jacket](../Codex/Items/Sauna%20Pelt.md) is now with Taleesh. [To verify fully reconciled weight after adding 250 ft of silk rope]
+- Weight Carried: at least `73 lb.` from the `53 lb.` baseline plus the equipped `20 lb.` [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) is with the goblin leader, and the completed [Sauna Jacket](../Codex/Items/Sauna%20Pelt.md) belongs to Taleesh but was left behind in a town. [To verify fully reconciled weight after adding 250 ft of silk rope]
 - Encumbered: 225 lb.
 - Push/Drag/Lift: 450 lb.
 
@@ -74,6 +74,7 @@
 - [Confirmed on 2026-05-30] Dain acquired 250 ft of silk rope for `35 gp`; payment source, carrier arrangement, and final carried weight are [To verify].
 - [Character-only] [Confirmed] Dain began the [Sauna Pelt](../Codex/Items/Sauna%20Pelt.md) for Brother Taleesh on 2026-05-30 and completed it during the 2026-07-11 long rest.
 - [Party] [Confirmed on 2026-07-11] Taleesh graciously accepts and loves the completed Sauna Jacket; Dain no longer carries it.
+- [Party] [Confirmed on 2026-08-29] The Sauna Jacket remains Taleesh's gift and property, but it was left behind in a town. Dain and Taleesh intend to return eventually to retrieve it. [To verify exact town and storage location]
 - [To verify] 2026-06-20 cash flow: Dain attempts to donate to 10 gnomes, gives `1 gp` each to six gnomes seen in a building, gives `1 gp` to Ollyander after winning a dice round, gets back `2 gp`, wins another `2 gp`, provides [Dain's Seal](../Codex/Items/Dains%20Seal.md) to Harry / Hammerton for `100 gp` worth of silver, bets that silver, loses the later betting round, records a human/townsperson trade with Ollyander involving `60 gp` worth of silver, and later gives his last `5 gp` to the human/townsperson tied to the rat-house thread. Exact starting coin source, tavern drink cost, wagers, winnings, silver ownership, seal status, and final silver/other-coin balance are unresolved.
 - [Confirmed from 2026-07-11 summary] Commander Agland's sealed letter has been delivered and is no longer party inventory.
 - [To verify] Whether Dain has already applied the `Ghostly Form Tattoo`, where it appears on his body, and whether it requires attunement.

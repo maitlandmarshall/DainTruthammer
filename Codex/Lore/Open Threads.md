@@ -39,7 +39,7 @@
 - [Character-only] [Confirmed] Dain has disclosed to Taleesh that a friend helped him escape Truthhammer Mountain through these tunnels one hundred years ago and sacrificed himself to pursuing troopers.
 - [Party] [To verify] Establish the armored dwarf's identity, Kagrenac's remaining evidence, the meaning of the studded cold leather note, and whether a natural `1` established a great accident rather than murder. The DM has clarified that the armor would not realistically belong to Dain's missing friend.
 - [Party] [Confirmed] The party reached the tunnel's far end and completed a long rest; Dain's HP, spell slots, and long-rest resources are restored.
-- [Party] [Confirmed] Dain finished the [Sauna Pelt / Sauna Jacket](../Items/Sauna%20Pelt.md) and Taleesh graciously accepted it, now wears/carries it, and loves it. It stays warm in cold environments and makes the area smell like female white-wolf piss. Confirm whether earlier steam danger remains.
+- [Party] [Confirmed] Dain finished the [Sauna Pelt / Sauna Jacket](../Items/Sauna%20Pelt.md), and Taleesh graciously accepted it and loves it. It stays warm in cold environments and makes the area smell like female white-wolf piss. It remains Taleesh's property but was left behind in a town and must be retrieved. [To verify exact location and whether earlier steam danger remains]
 - [Party] [Character-only] Dain apologized to Taleesh for the dice-game coercion; Taleesh answered that it was "the Truthammer virtue, not Taleesh virtue."
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
@@ -106,8 +106,16 @@
 - Tags: [Party] [Character-only] [To verify]
 - Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md)'s dice-game cheating or apparent cheating sharply changes Dain's trust in him, creates an immediate party tension, and has already escalated to Dain casting `Suggestion` on another party member.
 - Latest development: During the 2026-07-11 long rest, Dain apologizes to Taleesh for his dice-game actions and explains that he meant to teach a moral lesson about virtue. Taleesh replies, "It's the Truthammer virtue, not Taleesh virtue." The notebook records `+13` respect connected to Taleesh [To verify direction and resulting total].
-- Next possible actions: Treat the direct moral dispute as addressed but not necessarily forgiven; confirm final money, [Dain's Seal](../Items/Dains%20Seal.md), Ollyander's `3 rats`, and whether Taleesh accepts the completed [Sauna Pelt](../Items/Sauna%20Pelt.md).
+- Next possible actions: Treat the direct moral dispute as addressed but not necessarily forgiven; confirm final money, [Dain's Seal](../Items/Dains%20Seal.md), Ollyander's `3 rats`, and any remaining party tension. Taleesh's acceptance of the completed [Sauna Pelt](../Items/Sauna%20Pelt.md) is confirmed; its retrieval is tracked separately.
 - Linked entries: [Session 2026-06-20](../../Adventures/2026-06-20.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Ollyander](../Characters/Ollyander.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [Dain's Seal](../Items/Dains%20Seal.md), [Relationships](../../Character/Relationships.md), [Spellbook](../../Character/Spellbook.md)
+
+### Retrieve Taleesh's Sauna Jacket
+- Status: Open
+- Tags: [Party] [Confirmed] [To verify location]
+- Why it matters: The [Sauna Pelt / Sauna Jacket](../Items/Sauna%20Pelt.md) was Dain's gift to [Brother Taleesh](../Characters/Brother%20Taleesh.md) and remains Taleesh's property, but it was left behind in a town.
+- Latest development: On 2026-08-29, the user confirms that Dain and Taleesh must eventually return to the town and retrieve the jacket.
+- Next possible actions: Confirm which town and where within it the jacket was left; plan the return route; retrieve it before travel takes the party too far away.
+- Linked entries: [Session 2026-08-29](../../Adventures/2026-08-29.md), [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Inventory](../../Character/Inventory.md), [Current State](../../Character/Current%20State.md)
 
 ### Resolve The Dragon Remains Artisan Deal
 - Status: Active
@@ -174,8 +182,8 @@
 - Status: Resolved
 - Tags: [Character-only] [Confirmed] [To verify mechanics]
 - Why it matters: [Brother Taleesh](../Characters/Brother%20Taleesh.md) asked Dain for always-warm leather, and Dain's answer is becoming the [Sauna Pelt](../Items/Sauna%20Pelt.md), a dangerous but promising follow-through on the warmth bargain.
-- Latest development: Dain completed the Sauna Jacket during the 2026-07-11 long rest. Taleesh graciously accepts it, wears/carries it, and loves it. It is always warm in cold environments, and its wetness makes the surrounding area smell like female white-wolf piss.
-- Next possible actions: Confirm exact mechanical wording, odor radius, attunement, and whether the earlier steam/scalding risk remains.
+- Latest development: Dain completed the Sauna Jacket during the 2026-07-11 long rest. Taleesh graciously accepted it, wore/carried it, and loves it. It is always warm in cold environments, and its wetness makes the surrounding area smell like female white-wolf piss. The separate task of retrieving it from the town where it was left is tracked under `Retrieve Taleesh's Sauna Jacket`.
+- Next possible actions: Confirm exact mechanical wording, odor radius, attunement, and whether the earlier steam/scalding risk remains; completion itself remains resolved.
 - Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Confirm Level 4 Derived Values

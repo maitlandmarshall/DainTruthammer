@@ -3,7 +3,7 @@
 ![Sauna Pelt reference](./Sauna_Pelt_ref.png)
 
 ## One-Line Summary
-A completed wet-heat jacket now joyfully worn by Brother Taleesh: warm in any cold environment and damp enough to make the area smell like female white-wolf piss.
+A completed wet-heat jacket belonging to Brother Taleesh: warm in any cold environment, damp enough to make the area smell like female white-wolf piss, and currently awaiting retrieval from a town where it was left behind.
 
 ## Status
 - [Character-only] [Confirmed] Begun during the 2026-05-30 session from a good-quality large pelt provided by [Brother Taleesh](../Characters/Brother%20Taleesh.md).
@@ -15,7 +15,8 @@ A completed wet-heat jacket now joyfully worn by Brother Taleesh: warm in any co
 - [Character-only] [Confirmed] The finished pelt is always warm in any cold environment.
 - [Party] [Confirmed] The finished jacket's wetness makes the surrounding area smell like female white-wolf piss.
 - [Party] [Confirmed on 2026-07-11] Taleesh graciously accepts the completed jacket and loves it.
-- [Party] [Confirmed on 2026-07-11] Taleesh now carries/wears the item; Dain no longer carries it.
+- [Party] [Confirmed on 2026-07-11] Taleesh accepted and carried/wore the item; Dain no longer carries it.
+- [Party] [Confirmed on 2026-08-29] The jacket remains Taleesh's gift and property, but it was left behind in a town. Dain and Taleesh intend to return eventually to retrieve it. The exact town and storage location are [To verify].
 - [Party] [Retcon / specificity] The final odor is specifically female white-wolf piss, and it affects the surrounding area rather than only the pelt itself.
 - [Character-only] [To verify] The 2026-06-20 notebook goal calls the project "Sauna Jacket"; this is currently treated as shorthand or an alternate name for the Sauna Pelt until confirmed otherwise.
 - [To verify] What final resources were spent, whether the item requires attunement, and the odor's effective radius.
@@ -55,6 +56,7 @@ A completed wet-heat jacket now joyfully worn by Brother Taleesh: warm in any co
 - 2026-07-11: Dain completes the Sauna Pelt during the long rest. Its finished notes say it is always warm in any cold environment and its wetness smells like wolf piss. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Taleesh graciously accepts and loves the finished Sauna Jacket. He now carries/wears it, and the surrounding area smells like female white-wolf piss. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Truthammer gate guards tell Taleesh he must wash because of the jacket's piss smell. Dain accepts responsibility, invokes the dwarven god [Tharrd Harr](../Lore/Tharrd%20Harr.md)'s post-victory smell, succeeds on Persuasion, and gets the party through without Taleesh washing first. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-08-29: User clarification establishes that the jacket was left behind in a town. It still belongs to Taleesh, and Dain and Taleesh need to return eventually to retrieve it. Exact town and storage location are [To verify]. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
