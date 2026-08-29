@@ -52,7 +52,7 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Party] Dain completes the [Sauna Pelt / Sauna Jacket](../Items/Sauna%20Pelt.md) for Taleesh: always warm in cold environments, with wetness that makes the surrounding area smell like female white-wolf piss.
 - [Party] Taleesh graciously accepts the completed Sauna Jacket and loves it. He remains its owner, but it was later left behind in a town; he and Dain intend to return eventually to retrieve it. The jacket makes the surrounding area smell like female white-wolf piss. [To verify exact town and storage location]
 - [Character-only] The notebook records `+13` respect connected to Taleesh. [To verify direction and resulting total]
-- [Party] On 2026-08-29, Taleesh attempts to replicate the metal-offering ritual at Moradin's shared-wall forge. Dain warns that Moradin protects his believers and may not protect Taleesh; Taleesh says he wants the experience for its own sake, earning Dain's respect. [To verify completion, offering, retrieved object, injury and exact respect change]
+- [Party] On 2026-08-29, Taleesh succeeds at the metal-offering ritual at Moradin's shared-wall forge without showing pain. Dain had warned that Moradin protects believers and may not protect Taleesh. Taleesh's composure and desire for the experience itself produce a respect result of `18`. [To verify respect-tracker meaning, offering, retrieved object, concealed pain and unseen injury]
 - [To verify] Whether Dain knows any of Taleesh's backstory, faith, tribal loss, monastery history, or distrust of dwarves and elves.
 
 ## What The Party Knows
@@ -185,7 +185,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-07-11: When a huge, bumpy brown-and-green [giant lake frog](./Giant%20Lake%20Frog%20-%202026-07-11.md) clamps its jaws around Ollyander, Taleesh immediately responds by slashing it while Dain freezes water around its mouth. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify weapon, roll, and damage]
 - 2026-07-11: Truthammer gate guards tell Taleesh he must wash because his Sauna Jacket smells like female white-wolf piss. Dain steps in, accepts responsibility for the smell, invokes Tharrd Harr, and successfully persuades the guards to let the party through. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-08-29: User clarification establishes that Taleesh's Sauna Jacket was left behind in a town. It remains his gift and property, and Taleesh and Dain need to return eventually to retrieve it. Exact town and storage location are [To verify]. [Session 2026-08-29](../../Adventures/2026-08-29.md)
-- 2026-08-29: Taleesh attempts Moradin's shared-forge ritual despite Dain's warning that the god may not protect a nonbeliever. Taleesh says he wants the experience for its own sake, and Dain gains respect for him. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify ritual outcome and respect amount]
+- 2026-08-29: Taleesh succeeds at Moradin's shared-forge ritual without showing pain despite Dain's warning that the god may not protect a nonbeliever. Taleesh's success and desire for the experience itself produce a respect result of `18`. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify tracker meaning and any concealed injury]
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

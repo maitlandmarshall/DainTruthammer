@@ -9,7 +9,7 @@
 - [Party] [Open] Establish why the party entered Moradin's chamber, who is present, what happens there, and whether the city's fourteen temples correspond one-to-one with the fourteen listed deities.
 - [Party] [Confirmed] The chamber centres on a `20-foot` pure-gold statue of a dwarf, with non-dwarven humanoids—including gnomes—worshipping around it. Identify the depicted dwarf, the rite and the congregation.
 - [Party] [Confirmed] Moradin's temple shares a symbolic forge-wall with a second, unnamed temple. Worshippers offer chunks of metal and retrieve white-to-red-hot objects without apparent burns; identify the adjacent temple, objects and protection mechanism.
-- [Party] [Confirmed] Taleesh attempts the forge ritual after Dain warns that Moradin may protect only believers. Dain gains respect when Taleesh says he wants the experience for its own sake. Confirm the attempt's outcome and exact respect change.
+- [Party] [Confirmed] Taleesh succeeds at the forge ritual without showing pain after Dain warns that Moradin may protect only believers. His success and experience-seeking outlook produce a respect result of `18`. Confirm the respect-tracker meaning, offered and retrieved objects, and any concealed injury.
 - [Party] [Open] Identify the raided settlements, captives, cult, Yuan-ti role, rescue window, southwestern contacts, and commander's authority.
 - [Party] [Confirmed] The southern human traders were consumed by holy fire at Ola Dung Lot's gates; their Bag of Holding and Coal Mine Puppet survived.
 - [Party] [Open] Learn why the holy fire triggered, who now owns the Bag of Holding, and whether the traders' later payment and five-truth obligation survive their deaths.

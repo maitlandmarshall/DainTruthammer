@@ -1,6 +1,6 @@
 # Moradin's Chamber - Ola Dung Lot
 
-![Dain warns Taleesh as he attempts Moradin's shared-forge ritual](../../Adventures/2026-08-29/2026-08-29_dain-warns-taleesh-at-moradin-forge.png)
+![Taleesh completes Moradin's forge ritual without showing pain](../../Adventures/2026-08-29/2026-08-29_taleesh-completes-moradin-forge-ritual.png)
 
 ## One-Line Summary
 A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by the party shortly before their skyship departure.
@@ -26,13 +26,13 @@ A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by
 - Worshippers bring chunks of metal as offerings and take something white-to-red hot from the forge. Their hands show no apparent burns.
 - [To verify] Whether the statue depicts Moradin, whether it is solid gold rather than gold-clad, and the chamber's remaining architecture and furnishings.
 - [To verify] Whether the forge physically transforms the offerings, what the retrieved objects are, whether the same object is returned, and whether heat immunity comes from the forge, a blessing, the rite, the worshippers or an illusion.
-- [Party] Taleesh moves to replicate the rite. Dain warns him that Moradin may protect believers but not Taleesh; Taleesh says he wants the experience for its own sake, earning Dain's respect. [To verify outcome]
+- [Party] Taleesh replicates the rite successfully without showing pain. His composure and experience-seeking outlook produce a respect result of `18`. [To verify tracker meaning and concealed injury]
 
 ## Notable Events
 - 2026-08-29: The party enters Moradin's chamber; no interaction with the chamber's occupants has yet been recorded. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: The party sees the central `20-foot` pure-gold dwarf statue and a congregation of non-dwarven humanoids, including gnomes, worshipping in the chamber. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: The party observes the shared-wall forge ritual: worshippers offer chunks of metal and retrieve white-to-red-hot objects without apparent burns. [Session 2026-08-29](../../Adventures/2026-08-29.md)
-- 2026-08-29: Taleesh attempts to replicate the ritual despite Dain's warning about Moradin's protection. Taleesh's desire for the experience earns Dain's respect; the attempt's outcome remains unresolved. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: Taleesh successfully completes the ritual without showing pain despite Dain's warning about Moradin's protection. His success and outlook produce a respect result of `18`. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify tracker meaning and concealed injury]
 
 ## Related Entries
 - [Morndinsamman](../Lore/Morndinsamman.md)
