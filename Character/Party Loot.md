@@ -38,6 +38,9 @@
 - [Ollyander](../Codex/Characters/Ollyander.md) ends up winning. [Party] [Confirmed from 2026-06-20 notebook notes]
 - A human/townsperson from before is involved in a trade with Ollyander worth `60 gp` in silver. [Party] [To verify direction of trade, current holder, whether this is the human who ran away, and whether it belongs in party loot or Ollyander's personal inventory]
 
+## Samyrn Torst Requisition
+- [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) x5 [Party] [Confirmed on 2026-08-29] Acquired while the party is preparing magical equipment and research requests through Ben and the quartermasters. Exact source, ownership and current carrier are [To verify]. No scroll has yet been confirmed copied, cast, consumed or distributed.
+
 ## Open Questions
 - [To verify] Which party member carries the burdock and ginseng.
 - [To verify] Whether any herb is consumed before the traders pay the second half.
@@ -46,6 +49,7 @@
 - [To verify] Who carries the opened [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md), who carries or splits the `500 gp`, who claims the [Mask of Changed Appearance](../Codex/Items/Mask%20of%20Changed%20Appearance.md), the mask's duration/recharge/attunement, and whether taking it creates future trouble with the goblins.
 - [To verify] Exact artisan equipment order from the dragon remains and whether this creates shared party gear, Dain-specific gear, or town obligations.
 - [To verify] Final dice-table accounting after the 2026-06-20 game: who holds [Dain's Seal](../Codex/Items/Dains%20Seal.md), who holds the `100 gp` worth of silver Dain bet, what Ollyander won, and how the human/townsperson's `60 gp` worth of silver was exchanged.
+- [To verify] Who owns and carries the five [`Magic Mouth` scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md), and whether Dain may reserve one for spellbook transcription.
 
 ## Related Entries
 - [Burdock](../Codex/Items/Burdock.md)
@@ -61,3 +65,5 @@
 - [Kurtlemack](../Codex/Lore/Kurtlemack.md)
 - [Session 2026-05-03](../Adventures/2026-05-03.md)
 - [Session 2026-06-20](../Adventures/2026-06-20.md)
+- [Magic Mouth Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md)
+- [Session 2026-08-29](../Adventures/2026-08-29.md)

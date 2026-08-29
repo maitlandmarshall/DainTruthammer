@@ -58,6 +58,7 @@
 - [Confirmed] On 2026-05-03, the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) paid the upfront half of their arrangement as [Burdock](../Codex/Items/Burdock.md) x10 oz and [Ginseng](../Codex/Items/Ginseng.md) x2 oz into [Party Loot](./Party%20Loot.md). Current carrier is [To verify].
 - [Party] A Bag of Holding survives the traders' destruction by holy fire at Samyrn Torst and is acquired by the party. [To verify whether this is the bag Dain promised Harry, who owns/carries it, contents, and whether it was issued earlier by the Truthammer quartermaster]
 - [Party] The [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) survives the same holy fire and is currently tied in rat form to Harry's belt.
+- [Party] [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) x5 [Confirmed on 2026-08-29] Acquired during requisition planning with Ben and the quartermasters. Ownership and current carrier are [To verify]; no scroll has yet been confirmed assigned to Dain, copied, cast or consumed.
 
 ## Carry Load
 - Weight Carried: at least `73 lb.` from the `53 lb.` baseline plus the equipped `20 lb.` [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) is with the goblin leader, and the completed [Sauna Jacket](../Codex/Items/Sauna%20Pelt.md) belongs to Taleesh but was left behind in a town. [To verify fully reconciled weight after adding 250 ft of silk rope]

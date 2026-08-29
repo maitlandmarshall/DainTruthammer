@@ -5,7 +5,7 @@ An idea-stage requisition list for scrolls, magical curios and laboratory suppli
 
 ## Status
 - [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls or items that support his long-term ambition to create odd and useless spells.
-- [Character-only] [Idea-stage] The candidates below are recommendations, not items requested, approved or acquired in play.
+- [Character-only] [Idea-stage except where promoted] The candidates below remain recommendations unless a line explicitly records acquisition. `Magic Mouth` has now been promoted into canon through the party's acquisition of [five scrolls](../../Items/Magic%20Mouth%20Scrolls.md).
 - [To verify] Ben's authority and stock, the quartermasters' budget, Tom's allowed sourcebooks, copying rules and whether the party must choose between personal research supplies and airship mission equipment.
 
 ## Brainstorm Routing
@@ -18,7 +18,7 @@ An idea-stage requisition list for scrolls, magical curios and laboratory suppli
 These avoid spells already recorded in Dain's book, including `Silent Image` and `Rope Trick`. Dain can normally copy only wizard spells of a level he can prepare, so 1st- and 2nd-level wizard scrolls are the cleanest requests at Wizard 4.
 
 ### First Priority: Spellmaking Principles
-1. **Magic Mouth** (`2nd`, ritual): programmable triggers, conditional behaviour and a permanent magical effect; perhaps the single best foundation for spells that do one ridiculous thing under extremely specific circumstances.
+1. **Magic Mouth** (`2nd`, ritual) — **[Acquired: 5 spell scrolls on 2026-08-29]**: programmable triggers, conditional behaviour and a permanent magical effect; perhaps the single best foundation for spells that do one ridiculous thing under extremely specific circumstances. Ownership, carrier and final allocation remain [To verify].
 2. **Nystul's Magic Aura** (`2nd`): teaches Dain how magical detection, false signatures and classification can be manipulated—the proper science of making one spell pretend to be another sort of nonsense.
 3. **Identify** (`1st`, ritual): less useless, but indispensable laboratory equipment in spell form; it gives Dain a repeatable way to inspect strange items and compare finished experiments. Request the reusable `100 gp` pearl as well.
 4. **Illusory Script** (`1st`, ritual): selective readers, deceptive writing and calligrapher synergy; an excellent basis for spells involving absurd footnotes, private instructions or messages that only reveal themselves to the wrong person.
