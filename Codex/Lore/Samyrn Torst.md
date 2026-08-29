@@ -8,6 +8,7 @@ A mountain city reached by Gondian airship where the party delivered Agland's le
 - [Confirmed] Agland's assigned destination is the city up near Samyrn Torst in the mountains.
 - [Party] [Confirmed from the 2026-07-11 summary] The party enters a city identified as Samyrn Torst after travelling by Gondian airship.
 - [Party] Agland's sealed letter is delivered to a dwarven commander here.
+- [Party] [Confirmed on 2026-08-29] The party prepares to leave aboard a selected [balloon-like skyship](../Places/Party%20Skyship%20-%202026-08-29.md) carrying at least one cannon.
 - [To verify] Whether Samyrn Torst names the city itself, its mountain, or both.
 
 ## What the character knows
@@ -39,9 +40,12 @@ A mountain city reached by Gondian airship where the party delivered Agland's le
 - 2026-04-18: By the end of the second day, the party reaches a Y-shaped confluence of two creeks where the path divides. [Session 2026-04-18](../../Adventures/2026-04-18.md)
 - 2026-07-11: The party arrives by Gondian airship after defeating three red dragon wyrmlings with the ship's cannons. The southern human traders are consumed by holy fire at the gates. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-07-11: Ben leads the party to deliver Agland's sealed letter. A dwarven commander gives the party its captive-recovery and southwestern-diplomacy objectives and offers immediate transport or an airship. [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-08-29: The party selects the airship option and prepares to board a vessel described as an enormous hot-air-balloon-like skyship with at least one cannon aboard. Departure and destination remain [To verify]. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related entries
 - [Session 2026-04-18](../../Adventures/2026-04-18.md)
+- [Party Skyship - 2026-08-29](../Places/Party%20Skyship%20-%202026-08-29.md)
+- [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - [Commander Agland](../Characters/Commander%20Agland.md)
 - [Lerdar](../Places/Lerdar.md)
 - [Creek-Fork Camp](../Places/Creek-Fork%20Camp.md)

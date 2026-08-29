@@ -4,7 +4,7 @@
 - [Party] The [current session](../../Adventures/2026-08-29.md) opens at [Samyrn Torst](./Samyrn%20Torst.md) after Agland's sealed letter is delivered.
 - [Party] [Confirmed] A dwarven commander assigns two objectives: recover people abducted from settlements raided by a cult with previously unknown Yuan-ti involvement, and warn and rally humans in the southwest.
 - [Party] [Open] Obtain a letter of introduction for the southwestern humans.
-- [Party] [Open] Choose immediate transport back to the original tower or an airship, then speak with Ben about magical outfitting and quartermasters about supplies.
+- [Party] [Confirmed] The party has selected a [balloon-like skyship](../Places/Party%20Skyship%20-%202026-08-29.md) and is about to board; confirm its route, crew, lift system, cannon and remaining provisions.
 - [Party] [Open] Identify the raided settlements, captives, cult, Yuan-ti role, rescue window, southwestern contacts, and commander's authority.
 - [Party] [Confirmed] The southern human traders were consumed by holy fire at Samyrn Torst's gates; their Bag of Holding and Coal Mine Puppet survived.
 - [Party] [Open] Learn why the holy fire triggered, who now owns the Bag of Holding, and whether the traders' later payment and five-truth obligation survive their deaths.
@@ -83,10 +83,10 @@
 ### Fit Out Transport For The New Mission
 - Status: Active
 - Tags: [Party] [Confirmed] [To verify]
-- Why it matters: The party has been offered immediate transport back to the original tower or an airship, and the mission's reach and survivability depend on that choice and loadout.
-- Latest development: The commander directs the party to Ben for magical outfitting and to the quartermasters for other supplies. The prior Gondian airship survived a three-red-wyrmling attack with help from its cannons. Dain specifically seeks scrolls, curios and research materials for inventing odd and apparently useless spells, and the party has now acquired five [`Magic Mouth` spell scrolls](../Items/Magic%20Mouth%20Scrolls.md).
-- Next possible actions: Choose transport; identify the airship, crew, range, speed, lift, fuel, defenses and ownership; confirm Ben's authority and the requisition budget; assign the five `Magic Mouth` scrolls and decide whether Dain attempts transcription; seek `Skywrite` and `Pyrotechnics` now or in a later market; secure food, water, healing, ammunition, rope, maps, cold-weather gear, spare parts, restraints, rescue capacity, books, ink and experimental components.
-- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
+- Why it matters: The party has selected a skyship for the new mission, and its reach, armament, lift system and loadout now directly determine mission survivability.
+- Latest development: The party is about to board the [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), described as much more like a very large hot-air balloon than a conventional ship and carrying at least one cannon. Dain has acquired five [`Magic Mouth` spell scrolls](../Items/Magic%20Mouth%20Scrolls.md) and named `Skywrite` and `Pyrotechnics` as future goals.
+- Next possible actions: Board; identify the ship's formal name, commander, crew, route, range, speed, lift, fuel, defenses, ownership, cannon count/type and ammunition; assign the five `Magic Mouth` scrolls; confirm provisions, rescue capacity and whether Ben can still fit additional magic before departure.
+- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Prevent A Truthammer Sigil Investigation
 - Status: Active
