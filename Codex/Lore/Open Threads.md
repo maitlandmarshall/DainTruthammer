@@ -4,7 +4,8 @@
 - [Party] The [current session](../../Adventures/2026-08-29.md) opens in [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), a city in the [Samryn Torsten](./Samryn%20Torsten.md) area, after Agland's sealed letter is delivered.
 - [Party] [Confirmed] A dwarven commander assigns two objectives: recover people abducted from settlements raided by a cult with previously unknown Yuan-ti involvement, and warn and rally humans in the southwest.
 - [Party] [Open] Obtain a letter of introduction for the southwestern humans.
-- [Party] [Confirmed] The party has selected a [balloon-like skyship](../Places/Party%20Skyship%20-%202026-08-29.md) and is about to board; confirm its route, crew, lift system, cannon and remaining provisions.
+- [Party] [Confirmed] The party has boarded its [balloon-like skyship](../Places/Party%20Skyship%20-%202026-08-29.md), departed Ola Dung Lot and begun travelling south.
+- [Party] [Active encounter] Two [crymeria](../Characters/Crymeria%20Attackers%20-%202026-08-29.md) attack the airborne skyship. Confirm whether the name means standard chimeras, establish initiative and range, protect the balloon and crew, determine whether the cannon can bear on them, and track all damage, resources and outcomes.
 - [Party] [Confirmed] Before boarding, the party enters [Moradin's chamber](../Places/Moradins%20Chamber%20-%20Ola%20Dung%20Lot.md). Ola Dung Lot has fourteen temples and the fourteen named gods of the [Morndinsamman](./Morndinsamman.md) are now recorded.
 - [Party] [Open] Establish why the party entered Moradin's chamber, who is present, what happens there, and whether the city's fourteen temples correspond one-to-one with the fourteen listed deities.
 - [Party] [Confirmed] The chamber centres on a `20-foot` pure-gold statue of a dwarf, with non-dwarven humanoids—including gnomes—worshipping around it. Identify the depicted dwarf, the rite and the congregation.

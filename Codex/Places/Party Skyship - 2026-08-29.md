@@ -6,7 +6,7 @@
 The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: an enormous hot-air-balloon-like vessel with a suspended ship structure and at least one cannon aboard.
 
 ## Status
-- [Party] [Confirmed on 2026-08-29] The party is about to board this skyship in [Ola Dung Lot](./Ola%20Dung%20Lot.md), a city in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area.
+- [Party] [Confirmed on 2026-08-29] The party has boarded this skyship, departed [Ola Dung Lot](./Ola%20Dung%20Lot.md) and is travelling south when two [crymeria](../Characters/Crymeria%20Attackers%20-%202026-08-29.md) attack. Whether `crymeria` means standard chimeras is [To verify].
 - [Party] [Confirmed] Its overall design is more like a very large hot-air balloon than a conventional sailing ship.
 - [Party] [Confirmed] It has some form of cannon aboard; exact number and type are [To verify].
 - [To verify] Formal name, builder, Gondian affiliation, owner, commander, crew, assigned pilot, route, destination, speed, range, lift system, fuel, balloon material, armament, ammunition, defenses, cargo capacity and whether the party owns the vessel or merely has mission use of it.
@@ -15,7 +15,8 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 ## What Dain Knows
 - The vessel is large enough to read visually as a gigantic hot-air balloon carrying a ship-like structure beneath it.
 - At least one cannon is visible or otherwise known to be aboard.
-- The party is at the point of boarding; departure itself has not yet been confirmed.
+- The vessel is airborne and heading south on the party's new mission.
+- Two airborne `crymeria` are attacking it; their exact identity, approach and damage remain unresolved.
 
 ## Immediate Questions
 - Who commands and pilots it?
@@ -27,6 +28,7 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 
 ## Notable Events
 - 2026-08-29: The party prepares to board the balloon-like skyship in Ola Dung Lot. The user confirms that it resembles a very large hot-air balloon and carries some sort of cannon. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: The skyship takes off toward the south and is attacked by two creatures called `crymeria`. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
 - [Ola Dung Lot](./Ola%20Dung%20Lot.md)
