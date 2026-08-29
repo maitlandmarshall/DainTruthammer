@@ -5,7 +5,8 @@
 - [Party] [Confirmed] A dwarven commander assigns two objectives: recover people abducted from settlements raided by a cult with previously unknown Yuan-ti involvement, and warn and rally humans in the southwest.
 - [Party] [Open] Obtain a letter of introduction for the southwestern humans.
 - [Party] [Confirmed] The party has boarded its [balloon-like skyship](../Places/Party%20Skyship%20-%202026-08-29.md), departed Ola Dung Lot and begun travelling south.
-- [Party] [Active encounter] Two [crymeria](../Characters/Crymeria%20Attackers%20-%202026-08-29.md) attack the airborne skyship. Confirm whether the name means standard chimeras, establish initiative and range, protect the balloon and crew, determine whether the cannon can bear on them, and track all damage, resources and outcomes.
+- [Party] [Resolved encounter] Two [crymeria](../Characters/Crymeria%20Attackers%20-%202026-08-29.md) attacked the airborne skyship and were destroyed after Taleesh made a rapid rope descent to the ground toward one attacker. Preserve as follow-up questions the exact creature identity, Taleesh's mechanics and return aboard, final blows, ship damage, injuries, resources, bodies and salvage.
+- [Character-only] [Open] Dain has acquired a [Flying Broom](../Items/Flying%20Broom.md). Confirm its source, exact item identity, command word, flight rules, carrying capacity, attunement, stowage and first use.
 - [Party] [Confirmed] Before boarding, the party enters [Moradin's chamber](../Places/Moradins%20Chamber%20-%20Ola%20Dung%20Lot.md). Ola Dung Lot has fourteen temples and the fourteen named gods of the [Morndinsamman](./Morndinsamman.md) are now recorded.
 - [Party] [Open] Establish why the party entered Moradin's chamber, who is present, what happens there, and whether the city's fourteen temples correspond one-to-one with the fourteen listed deities.
 - [Party] [Confirmed] The chamber centres on a `20-foot` pure-gold statue of a dwarf, with non-dwarven humanoids—including gnomes—worshipping around it. Identify the depicted dwarf, the rite and the congregation.
@@ -57,6 +58,14 @@
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
+
+### Identify And Test The Flying Broom
+- Status: Open
+- Tags: [Character-only] [Confirmed acquisition] [To verify mechanics]
+- Why it matters: Dain now owns personal magical flight, potentially transforming his scouting, rescue options, skyship access and capacity for dangerously independent experiments.
+- Latest development: After the party destroys two `crymeria` attacking the southbound balloon skyship, Dain acquires a [Flying Broom](../Items/Flying%20Broom.md). No source, command word or rules have yet been recorded.
+- Next possible actions: Establish who or what provided it; confirm whether it is the standard `Broom of Flying`; identify its command word, flight speed, carrying capacity, recall, attunement and storage; then record Dain's first flight.
+- Linked entries: [Session 2026-08-29](../../Adventures/2026-08-29.md), [Flying Broom](../Items/Flying%20Broom.md), [Inventory](../../Character/Inventory.md), [Current State](../../Character/Current%20State.md)
 
 ### Confirm And Equip The Dwarven Half Plate
 - Status: Open

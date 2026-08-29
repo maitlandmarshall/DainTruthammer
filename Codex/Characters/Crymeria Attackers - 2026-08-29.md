@@ -9,7 +9,8 @@ Two airborne creatures called `crymeria` that attack the party's balloon-like sk
 - Table role: DM-controlled / NPC creatures.
 - [Party] [Confirmed on 2026-08-29] Exactly two attackers are present.
 - [Party] [Confirmed] They attack while the skyship is airborne and travelling south.
-- [To verify] Whether `crymeria` is the intended spelling of `chimera`, whether both use a standard chimera stat block, their appearance, sizes, heads, breath weapons, motives, origin, initiative, ranges, current positions, damage and eventual fate.
+- [Party] [Confirmed] Both attackers are destroyed by the party.
+- [To verify] Whether `crymeria` is the intended spelling of `chimera`, whether both use a standard chimera stat block, their appearance, sizes, heads, breath weapons, motives, origin, initiative, ranges, damage, final blows, bodies and salvage.
 - [Inferred visual only] The current scene art interprets `crymeria` as chimeric winged mixed-beast creatures. This does not settle their canonical anatomy or rules.
 
 ## What Dain Knows
@@ -18,6 +19,7 @@ Two airborne creatures called `crymeria` that attack the party's balloon-like sk
 
 ## Notable Events
 - 2026-08-29: The pair attacks after the party takes off from Ola Dung Lot and heads south. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: Taleesh rapidly descends from the balloon to the ground using rope and drives downward toward one attacker; the party destroys both creatures. [To verify Taleesh's exact mechanics, return aboard and the final blows] [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
 - [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
