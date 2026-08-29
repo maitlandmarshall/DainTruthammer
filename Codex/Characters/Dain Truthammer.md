@@ -89,6 +89,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] Session 2026-04-18 opens along the coastline near the Iron Shore Tribes.
 - [Party] [Confirmed on 2026-08-29] Ola Dung Lot is a city in the wider Samryn Torsten area. The southern human traders sought directions there on 2026-05-03. [Retcon] Earlier notes interpreted it as a high-mountain lake.
 - [Character-only] In Moradin's chamber on 2026-08-29, Dain warns Taleesh that Moradin protects believers and may not protect him during the forge ritual. Taleesh succeeds without showing pain, and his experience-seeking outlook produces a respect result of `18`. [To verify tracker meaning and any concealed injury]
+- [Party] Immediately after Taleesh's ritual, Dain briefly sees an unidentified [azer](./Azer%20in%20Moradins%20Forge.md) within the forge before it disappears back into the fire. Any connection to Dain's half-Azer heritage is [Inferred] and [To verify].
 - [To verify] Whether the party knows Dain is an outcast from his mountain homeland.
 - [To verify] Dain's public-facing motives and immediate purpose on that coast are not yet recorded.
 - [Party] [To verify who overheard] Dain has told Taleesh about escaping through the hidden tunnels one hundred years ago and about the friend who sacrificed himself to the pursuing troopers.

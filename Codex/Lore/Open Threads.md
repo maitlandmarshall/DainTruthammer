@@ -10,6 +10,7 @@
 - [Party] [Confirmed] The chamber centres on a `20-foot` pure-gold statue of a dwarf, with non-dwarven humanoids—including gnomes—worshipping around it. Identify the depicted dwarf, the rite and the congregation.
 - [Party] [Confirmed] Moradin's temple shares a symbolic forge-wall with a second, unnamed temple. Worshippers offer chunks of metal and retrieve white-to-red-hot objects without apparent burns; identify the adjacent temple, objects and protection mechanism.
 - [Party] [Confirmed] Taleesh succeeds at the forge ritual without showing pain after Dain warns that Moradin may protect only believers. His success and experience-seeking outlook produce a respect result of `18`. Confirm the respect-tracker meaning, offered and retrieved objects, and any concealed injury.
+- [Party] [Confirmed] An unidentified azer briefly appears within the forge after Taleesh's ritual and disappears back into the fire. Identify it and investigate any link to the ritual, Moradin, the adjacent temple, Dain's half-Azer heritage or the Truthhammer forge tradition.
 - [Party] [Open] Identify the raided settlements, captives, cult, Yuan-ti role, rescue window, southwestern contacts, and commander's authority.
 - [Party] [Confirmed] The southern human traders were consumed by holy fire at Ola Dung Lot's gates; their Bag of Holding and Coal Mine Puppet survived.
 - [Party] [Open] Learn why the holy fire triggered, who now owns the Bag of Holding, and whether the traders' later payment and five-truth obligation survive their deaths.
@@ -390,9 +391,9 @@
 - Status: Open
 - Tags: [Character-only] [To verify]
 - Why it matters: Dain's home and clan craft tradition may become a durable background anchor for future roleplay, magic, equipment, and family history.
-- Latest development: On 2026-04-24, the user set the clan mountain near a volcano and proposed making the Truthhammers master smiths with a forge powered by volcanic flow. On 2026-05-30, the shared session notes report that Tom confirmed Dain and/or the Truthhammers have a half-Azer connection; the scope is still [To verify], and the father/forge accident material remains idea-stage.
-- Next possible actions: Confirm whether the master-smith lore is canon, name the mountain hold, decide how volcanic flow is controlled, confirm whether the half-Azer connection applies only to Dain or to the Truthhammers more broadly, and decide what Dain personally knows or learned from the forge tradition.
-- Linked entries: [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md)
+- Latest development: On 2026-04-24, the user set the clan mountain near a volcano and proposed making the Truthhammers master smiths with a forge powered by volcanic flow. On 2026-05-30, the shared session notes report that Tom confirmed Dain and/or the Truthhammers have a half-Azer connection; the scope is still [To verify]. On 2026-08-29, an unidentified [azer](../Characters/Azer%20in%20Moradins%20Forge.md) briefly appears within Moradin's forge after Taleesh's ritual and disappears back into the fire. A connection to Dain or the Truthhammers is plausible but unconfirmed.
+- Next possible actions: Confirm whether the master-smith lore is canon, name the mountain hold, decide how volcanic flow is controlled, confirm whether the half-Azer connection applies only to Dain or to the Truthhammers more broadly, identify the azer in Moradin's forge, and decide what Dain personally knows or recognizes.
+- Linked entries: [Truthhammer Mountains](../Places/Truthhammer%20Mountains.md), [Azer in Moradin's Forge](../Characters/Azer%20in%20Moradins%20Forge.md), [Home In The Truthammer Mountains](./Dain%20Background%20Evasions/Home%20In%20The%20Truthammer%20Mountains.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 
 ### Clarify Dain's Outcast Status
 - Status: Open

@@ -1,6 +1,6 @@
 # Moradin's Chamber - Ola Dung Lot
 
-![Taleesh completes Moradin's forge ritual without showing pain](../../Adventures/2026-08-29/2026-08-29_taleesh-completes-moradin-forge-ritual.png)
+![An azer briefly appears within Moradin's forge after Taleesh completes the ritual](../../Adventures/2026-08-29/2026-08-29_azer-appears-in-moradin-forge.png)
 
 ## One-Line Summary
 A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by the party shortly before their skyship departure.
@@ -27,12 +27,14 @@ A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by
 - [To verify] Whether the statue depicts Moradin, whether it is solid gold rather than gold-clad, and the chamber's remaining architecture and furnishings.
 - [To verify] Whether the forge physically transforms the offerings, what the retrieved objects are, whether the same object is returned, and whether heat immunity comes from the forge, a blessing, the rite, the worshippers or an illusion.
 - [Party] Taleesh replicates the rite successfully without showing pain. His composure and experience-seeking outlook produce a respect result of `18`. [To verify tracker meaning and concealed injury]
+- [Party] Immediately afterward, an unidentified [azer](../Characters/Azer%20in%20Moradins%20Forge.md) briefly appears within the forge and disappears back into the fire.
 
 ## Notable Events
 - 2026-08-29: The party enters Moradin's chamber; no interaction with the chamber's occupants has yet been recorded. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: The party sees the central `20-foot` pure-gold dwarf statue and a congregation of non-dwarven humanoids, including gnomes, worshipping in the chamber. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: The party observes the shared-wall forge ritual: worshippers offer chunks of metal and retrieve white-to-red-hot objects without apparent burns. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: Taleesh successfully completes the ritual without showing pain despite Dain's warning about Moradin's protection. His success and outlook produce a respect result of `18`. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify tracker meaning and concealed injury]
+- 2026-08-29: An azer briefly appears in the forge and then vanishes back into its fire. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify identity, purpose and relation to the ritual]
 
 ## Related Entries
 - [Morndinsamman](../Lore/Morndinsamman.md)
@@ -40,3 +42,4 @@ A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by
 - [Samryn Torsten](../Lore/Samryn%20Torsten.md)
 - [Party Skyship - 2026-08-29](./Party%20Skyship%20-%202026-08-29.md)
 - [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- [Azer in Moradin's Forge](../Characters/Azer%20in%20Moradins%20Forge.md)
