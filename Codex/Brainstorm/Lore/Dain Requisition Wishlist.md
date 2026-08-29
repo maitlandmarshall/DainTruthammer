@@ -14,6 +14,27 @@ An idea-stage requisition list for scrolls, magical curios and laboratory suppli
 - Proposed canon destinations if approved or acquired: [Spellbook](../../../Character/Spellbook.md), [Inventory](../../../Character/Inventory.md), individual `Codex/Items/` pages where warranted, and the current [session record](../../../Adventures/2026-08-29.md).
 - Promotion requirement: record the exact request made in play, then promote only what Ben or the quartermasters actually provide or what Tom approves for research.
 
+## How Dain Should Judge An Item
+
+An item is a strong fit when it does at least two of these things:
+
+1. **Teaches a new magical principle**: triggers, permanence, false auras, transformation, containment, remote control, elemental conversion or bounded conjuration.
+2. **Creates several sideways solutions** rather than giving one larger number. Dain should prize objects whose limits invite experiments.
+3. **Covers a real failure mode**: falling from the skyship, losing the spellbook, being unable to communicate, running out of slots, or being trapped without the right tool.
+4. **Avoids unnecessary competition**: non-attunement items are especially valuable because Dain already has the attuned Breastplate of Balance and may eventually need to choose between several important magical items.
+5. **Supports the current mission** while remaining useful afterward.
+6. **Feels like Truthammer**: clever, benevolent, improbable and capable of becoming the seed of an original spell.
+
+Quick table-side test: score each candidate `0-2` for **survival**, **versatility**, **research value** and **character fit**, then subtract `2` if it duplicates something Dain already owns and `2` if its attunement cost displaces a better item. A score of `5+` is worth asking about; `7+` is a priority.
+
+Build a balanced requisition rather than asking only for curios:
+
+- one dependable **power or recovery item**
+- one **mission-safety item**
+- one **research instrument**
+- one **wildcard object** with many strange uses
+- cheap **consumables, components and laboratory supplies**
+
 ## Best Scroll Requests From Ben
 
 These avoid spells already recorded in Dain's book, including `Silent Image` and `Rope Trick`. Dain can normally copy only wizard spells of a level he can prepare, so 1st- and 2nd-level wizard scrolls are the cleanest requests at Wizard 4.
@@ -53,6 +74,38 @@ Ask first for retired, cosmetically damaged, unfashionable or otherwise unwanted
 6. **Staff of Adornment**: suspends small objects for display; potentially useful for studying stable, trivial levitation.
 7. **Alchemy Jug** or **Immovable Rod**: more valuable and genuinely useful, but both invite strange experiments far beyond their obvious function.
 8. **Failed scrolls, cracked foci, harmless cursed curios and defective minor items**: request quarantined examples Ben considers safe to study rather than use.
+
+## Other Items Worth Seeking
+
+### Strong, Sensible Foundations
+
+1. **Enduring Spellbook**: protects Dain's most important possession from fire, water and ordinary deterioration without consuming attunement. Particularly apt aboard a balloon skyship and near an Elemental Plane of Fire portal.
+2. **Pearl of Power**: restores magical endurance and turns one more strange experiment into a practical possibility each day. It uses attunement, so compare it against Dain's armour and future focus items.
+3. **Arcane Grimoire +1**: the straightforward power choice—stronger wizard spells and improved Arcane Recovery—but less interesting as a research object. [To verify allowed sourcebook]
+4. **Wand of Magic Detection** or **Wand of Secrets**: repeatable investigation without consuming the slots Dain would rather spend on experiments.
+5. **Sending Stones**: resilient party communication for scouting, rescues and a separated skyship crew; useful without competing for attunement.
+
+### Wildcards With Many Truthammer Uses
+
+1. **Immovable Rod**: portable impossible geometry for anchoring lines, barring doors, creating handholds and testing force effects.
+2. **Alchemy Jug**: a daily supply of peculiar mundane substances that can become reagents, bribes, trail markers, props or terrible ideas.
+3. **Decanter of Endless Water**: pairs beautifully with `Shape Water`, firefighting, cleaning, propulsion experiments and Dain's established fondness for deliberately inconvenient shelters.
+4. **Robe of Useful Items**: a collection of one-use physical answers that rewards improvisation more than optimization.
+5. **Dust of Dryness**: water compressed into tiny pellets is exactly the sort of limited magical principle from which Dain might derive an absurd spell.
+6. **Eversmoking Bottle**: persistent smoke for concealment, signals and experimentation, provided the party is prepared for the visibility hazard it creates.
+7. **Wind Fan**: a practical skyship tool and a research model for directional wind magic. [To verify availability and how Tom handles wind against the balloon]
+
+### Future Dream Items
+
+1. **Ring of Spell Storing**: lets Dain place unusual spells into another person's hands and study magic separated from its original caster. Rare and attunement-dependent, but an excellent long-term goal.
+2. **Nolzur's Marvelous Pigments**: turns painted possibilities into physical objects; almost the perfect union of conjuration, trickery and useful nonsense. Very rare and likely far beyond an ordinary requisition.
+3. **Mizzium Apparatus** or a setting-appropriate experimental equivalent: dangerous access to unfamiliar spell structures would suit Dain exceptionally well, but it is source-specific, powerful and entirely subject to Tom's approval.
+
+### Current-Mission Note
+
+- Dain already knows `Feather Fall`, so the immediate need is to keep it available before skyship travel rather than spend a request duplicating it.
+- Dain already owns the Breastplate of Balance and newly acquired Dwarven Half Plate, so another armour upgrade is a low priority. Utility, recovery, communication and spell-research tools will broaden him more.
+- Ask for fireproof and waterproof spellbook protection, tethering or climbing equipment, signal gear and safe storage for smoke powder before requesting luxury curios.
 
 ## Quartermaster Scribing And Experiment Kit
 
