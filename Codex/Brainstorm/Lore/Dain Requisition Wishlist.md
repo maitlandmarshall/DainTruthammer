@@ -59,6 +59,20 @@ These avoid spells already recorded in Dain's book, including `Silent Image` and
 - **Skywrite** (`2nd`, ritual) — **[Confirmed acquisition goal; not owned]**: enormous temporary cloud writing; spectacularly public and gloriously impractical. [To verify allowed sourcebook]
 - **Pyrotechnics** (`2nd`) — **[Confirmed acquisition goal; not owned]**: turns an existing flame into smoke or fireworks; useful for non-damaging spectacle research. [To verify allowed sourcebook]
 
+### Airship-Crew And Summoning Candidates
+
+These are idea-stage possibilities only. Dain has not yet chosen to pursue them, and sourcebook availability remains subject to Tom.
+
+1. **Unseen Servant** (`1st`, ritual): an invisible, non-attacking force with `Strength 2` that performs simple tasks for an hour within `60 feet`; useful for fetching tools, cleaning, mending, carrying light lines and handling simple deck objects.
+2. **Flock of Familiars** (`2nd`, concentration, up to 1 hour): temporarily provides three familiars in total, accounting for any familiar Dain already has. Flying forms could inspect the envelope, rigging and hull, carry light messages and scout up to the spell's extended telepathic range. [To verify whether the *Lost Laboratory of Kwalish* spell is allowed]
+3. **Tiny Servant** (`3rd`, 8 hours, no concentration): animates a Tiny object into a weak but persistent helper. This is the best near-future magical deckhand candidate for repetitive light work, tools, lookout stations and message-running; Dain becomes able to prepare 3rd-level wizard spells at Wizard 5.
+4. **Summon Elemental — Air** (`4th`, concentration, up to 1 hour): creates a flying elemental spirit that obeys Dain's commands and is physically strong enough for more demanding aerial assistance, subject to Tom's ruling on ropes, sails and object interaction. Requires the reusable `400 gp` focus described by the spell. Available from Wizard 7 if its source is allowed.
+5. **Conjure Minor Elementals** (`4th`, concentration, up to 1 hour): may provide several flying minor elementals, but the exact creatures are not reliable enough to treat as guaranteed crew. Available from Wizard 7 under 2014 rules.
+6. **Conjure Elemental — Air Elemental** (`5th`, concentration, up to 1 hour): a true air elemental can fly and obey commands, but becomes uncontrolled and hostile if Dain loses concentration before the spell ends. It is powerful help and a catastrophic thing to mishandle aboard a balloon. Available from Wizard 9.
+7. **Planar Binding** (`5th`): can bind an elemental to service for `24 hours`, potentially turning a properly contained air elemental into longer-term airship assistance. It consumes a `1,000 gp` jewel, requires a failed Charisma save and needs careful summoning/containment logistics; higher-level slots greatly extend the service period.
+
+Useful non-summoning complements include `Mending` for small breaks, `Gust of Wind` for short controlled airflow, `Fly` for exterior repairs, `Fabricate` for major material work, `Control Winds` for hour-long manipulation of a large airspace, and `Telekinesis` for handling heavy objects. Their effect on propulsion or lift is always subject to the skyship's established magic and Tom's rulings.
+
 ### Other Exotic Stock
 - A **cantrip tutor** for `Mending` or `Prestidigitation`; under normal rules Dain cannot simply copy a cantrip scroll into his spellbook, so instruction or a table-approved research route would be more useful than buying the scroll blindly.
 
