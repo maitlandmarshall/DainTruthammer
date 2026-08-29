@@ -29,6 +29,7 @@ A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by
 - [Party] Taleesh replicates the rite successfully without showing pain. His composure and experience-seeking outlook produce a respect result of `18`. [To verify tracker meaning and concealed injury]
 - [Party] Immediately afterward, an unidentified [azer](../Characters/Azer%20in%20Moradins%20Forge.md) briefly appears within the forge and disappears back into the fire.
 - [Character-only] Inspired by Taleesh and the azer vision, Dain performs the rite. The ritual rod grows colder as Dain grows hotter, his skin takes on a bronze sheen, and he experiences intense guilt over neglecting the Truthammer forge after releasing it.
+- [Character-only] [Confirmed correction] Performing the rite is Dain consciously accepting the azer connection and its fire-plane magic.
 - [Party] Taleesh gives Dain a surprised, surreal farewell and leaves the immediate chamber scene. [To verify destination]
 
 ## Notable Events

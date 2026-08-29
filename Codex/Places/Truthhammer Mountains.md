@@ -12,8 +12,10 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [To verify] Exact settlement name, map position, neighboring landmarks, and public name used by outsiders.
 - [To verify] The Truthhammer clan may be master smiths with a forge powered by volcanic flow, but this remains proposed lore until the user locks it in.
 - [Confirmed by user from DM] Dain and/or the Truthhammers have a half-Azer connection; exact scope is [To verify].
+- [Confirmed through Dain's accepted azer connection] The forge beneath Truthammer has an open portal to the Elemental Plane of Fire that appeared when Dain had the forge incident.
 - [Inferred] The [azer briefly seen in Moradin's forge](../Characters/Azer%20in%20Moradins%20Forge.md) may relate to this heritage, but no connection is confirmed.
 - [Character-only] [Confirmed on 2026-08-29] After performing Moradin's forge ritual, Dain feels intense guilt about not tending the Truthammer forge. The ritual's bronze sheen and heat response may echo his half-Azer connection, but that link is [Inferred].
+- [Character-only] [Confirmed correction] The ritual was Dain accepting the azer connection, so its fire-plane response is no longer merely inferred; exact mechanics and duration remain [To verify].
 - [Character-only] [To verify] On 2026-06-20, Dain noted that a detour to Truthhammer Mountain may add a day or two of travel, while cutting through local tunnels may save time.
 - [Party] [To verify] A [hidden tunnel near Truthhammer Mountain](./Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md) contains a grand door, hearth, hidden passage, descending spiral stair, and a floor collapse over the Underdark.
 

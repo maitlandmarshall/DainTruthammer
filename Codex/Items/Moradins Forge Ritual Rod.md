@@ -7,6 +7,7 @@ An unidentified rod used in Moradin's shared-forge ritual that grows colder in D
 
 ## Status
 - [Party] [Confirmed on 2026-08-29] Dain takes the rod while performing the ritual inspired by Taleesh and the brief azer vision.
+- [Character-only] [Confirmed correction] Dain's use of the rod is the ritual act by which he accepts the azer connection.
 - [Party] [Confirmed] The rod becomes colder while Dain becomes hotter and his skin develops a bronze sheen.
 - [Party] [Confirmed] Dain puts the rod back down; it is not recorded as acquired or carried.
 - [To verify] Material, size, original temperature, owner, purpose, exact ritual sequence, temperature after release and whether it is the same object produced from another worshipper's metal offering.

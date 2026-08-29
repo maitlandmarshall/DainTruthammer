@@ -50,3 +50,5 @@ Every brainstorm page should include:
   - [Truthammer Forge Accident](./Lore/Truthammer%20Forge%20Accident.md)
   - [Dain as Smith Apprentice](./Lore/Dain%20as%20Smith%20Apprentice.md)
   - [Garl-Voltaire Hidden Connection](./Lore/Garl-Voltaire%20Hidden%20Connection.md)
+- Promoted azer-origin proposal:
+  - [Azer Spark and Truthammer Fire Portal](./Lore/Azer%20Spark%20and%20Truthammer%20Fire%20Portal.md)

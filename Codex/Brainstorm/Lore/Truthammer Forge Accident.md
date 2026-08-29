@@ -8,6 +8,7 @@ A non-canon, idea-stage explanation for Dain's exile: a stored-impression discha
 - [DM-private] [To verify] Not confirmed history, not character knowledge, and not a replacement for the current confirmed note that Dain is an outcast because of his faith in [Garl Glittergold](../../Lore/Garl%20Glittergold.md).
 - [To verify] Whether this is the true cause of exile, a partial cause, Dain's interpretation, clan propaganda, or unused mythology.
 - [DM-private] [To verify] The 2026-05-30 shared session notes report that Tom confirmed Dain and/or the Truthhammers have a half-Azer connection; this may support fire/forge lineage, but it does not confirm this accident, Dain's father role, or exile causality.
+- [DM-private] [Confirmed boundary on 2026-08-29] Dain's ritual accepted the DM's [Azer Spark and Truthhammer Fire Portal](../../Lore/Azer%20Spark%20and%20Truthhammer%20Fire%20Portal.md) account. The fire-plane magic and portal are canon; the stored-impression accident version on this page remains idea-stage and is superseded wherever incompatible.
 
 ## Brainstorm Routing
 - Current shelf: [Brainstorm](../README.md).
@@ -50,6 +51,7 @@ A non-canon, idea-stage explanation for Dain's exile: a stored-impression discha
 - It may explain why [Truthsage Mode](../Powers/Truthsage%20Mode.md) feels like dwarven ward-storage routed through useless magic.
 - It may connect to [Dain as Smith Apprentice](./Dain%20as%20Smith%20Apprentice.md), especially if Dain was expected to become a master smith.
 - It may clarify why [Truthhammer Mountains](../../Places/Truthhammer%20Mountains.md) lore matters to Dain's magic and exile.
+- It is superseded where incompatible by the accepted [Azer Spark and Truthhammer Fire Portal](../../Lore/Azer%20Spark%20and%20Truthhammer%20Fire%20Portal.md) account.
 
 ## Open Questions
 - Did the accident happen at all?
@@ -60,6 +62,7 @@ A non-canon, idea-stage explanation for Dain's exile: a stored-impression discha
 - Does Dain remember the accident clearly, half-remember it, avoid it, or hide it?
 - Was his faith in Garl the true offense, the visible excuse, or the thing that made the forge accident politically unforgivable?
 - What would happen if Dain returned to the forge?
+- Which compatible pieces, if any, of this stored-impression version survive alongside the accepted fire-plane portal account?
 
 ## Image Status
 - No canonical image is embedded because this is idea-stage only.
@@ -74,3 +77,4 @@ A non-canon, idea-stage explanation for Dain's exile: a stored-impression discha
 - [Truthsage Mode](../Powers/Truthsage%20Mode.md)
 - [Why He Left Home](../../Lore/Dain%20Background%20Evasions/Why%20He%20Left%20Home.md)
 - [Open Threads](../../Lore/Open%20Threads.md)
+- [Azer Spark and Truthammer Fire Portal](./Azer%20Spark%20and%20Truthammer%20Fire%20Portal.md)

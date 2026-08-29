@@ -14,6 +14,7 @@ An unidentified azer glimpsed for a brief moment inside Moradin's symbolic forge
 - [Character-only] The vision helps inspire Dain to perform the ritual himself; Dain then experiences an inverse heat exchange with the rod, a bronze skin sheen and guilt over neglecting the Truthammer forge.
 - [Character-only] Dain has an established but incompletely defined half-Azer connection, potentially shared by the Truthhammer line.
 - [Inferred] The sighting may matter to Dain's ancestry or forge heritage, but no connection has been confirmed.
+- [Confirmed by later user clarification] The sighting immediately precedes and inspires Dain's ritual acceptance of the azer connection. The figure's identity and direct relationship to Dain remain [To verify].
 
 ## What The Party Knows
 - [Party] The figure is an azer.
