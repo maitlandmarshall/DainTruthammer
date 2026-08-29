@@ -13,6 +13,7 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [To verify] The Truthhammer clan may be master smiths with a forge powered by volcanic flow, but this remains proposed lore until the user locks it in.
 - [Confirmed by user from DM] Dain and/or the Truthhammers have a half-Azer connection; exact scope is [To verify].
 - [Inferred] The [azer briefly seen in Moradin's forge](../Characters/Azer%20in%20Moradins%20Forge.md) may relate to this heritage, but no connection is confirmed.
+- [Character-only] [Confirmed on 2026-08-29] After performing Moradin's forge ritual, Dain feels intense guilt about not tending the Truthammer forge. The ritual's bronze sheen and heat response may echo his half-Azer connection, but that link is [Inferred].
 - [Character-only] [To verify] On 2026-06-20, Dain noted that a detour to Truthhammer Mountain may add a day or two of travel, while cutting through local tunnels may save time.
 - [Party] [To verify] A [hidden tunnel near Truthhammer Mountain](./Hidden%20Tunnel%20Near%20Truthammer%20Mountain.md) contains a grand door, hearth, hidden passage, descending spiral stair, and a floor collapse over the Underdark.
 
@@ -41,6 +42,7 @@ Dain's mountain homeland, now placed near a volcano that may power the Truthhamm
 - [To verify] Whether Dain trained in smith-lore himself or merely grew up around it.
 - [To verify] Whether half-Azer ancestry affects Dain, the Truthhammers, forge access, heat tolerance, magic, clan politics, or none of these mechanically.
 - [To verify] Whether the azer seen in Moradin's forge is connected to the Truthhammers, their ancestry, their volcanic forge tradition, or neither.
+- [To verify] What it means to tend the Truthammer forge, whether Dain had a duty to do so, and whether his ritual-induced guilt is divine, ancestral, magical or personal.
 - [To verify] Whether the hidden tunnel / spiral stair discovered on 2026-06-20 was built by Truthhammers, predates them, was forgotten by them, or was never known to them.
 - [To verify] Whether the Underdark collapse below the hidden tunnel is an old natural breach, a roper's hunting ground, recent damage, or deliberate construction.
 - [To verify] Mine name, precise location, mined resources, scale, ownership, workforce, entrances, security, secrecy, relationship to the volcano and forges, and whether outsiders commonly know of its wealth.

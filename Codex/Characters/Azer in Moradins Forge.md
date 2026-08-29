@@ -11,6 +11,7 @@ An unidentified azer glimpsed for a brief moment inside Moradin's symbolic forge
 
 ## What Dain Knows
 - [Party] The sighting occurs immediately after Taleesh successfully completes the forge ritual without showing pain.
+- [Character-only] The vision helps inspire Dain to perform the ritual himself; Dain then experiences an inverse heat exchange with the rod, a bronze skin sheen and guilt over neglecting the Truthammer forge.
 - [Character-only] Dain has an established but incompletely defined half-Azer connection, potentially shared by the Truthhammer line.
 - [Inferred] The sighting may matter to Dain's ancestry or forge heritage, but no connection has been confirmed.
 
@@ -24,6 +25,7 @@ An unidentified azer glimpsed for a brief moment inside Moradin's symbolic forge
 
 ## Notable Events
 - 2026-08-29: The azer briefly appears within Moradin's shared-wall forge and disappears again into the fire after Taleesh's ritual. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: Inspired by the sighting and Taleesh, Dain performs the ritual and manifests heat, a bronze sheen and guilt tied to the Truthammer forge. Whether the azer caused or intended any of this is [To verify]. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
 - [Moradin's Chamber - Ola Dung Lot](../Places/Moradins%20Chamber%20-%20Ola%20Dung%20Lot.md)
