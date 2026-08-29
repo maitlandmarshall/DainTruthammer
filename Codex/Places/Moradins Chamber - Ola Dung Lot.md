@@ -1,6 +1,6 @@
 # Moradin's Chamber - Ola Dung Lot
 
-![Dain performs Moradin's forge ritual as the rod cools and his skin turns bronze](../../Adventures/2026-08-29/2026-08-29_dain-performs-moradin-forge-ritual.png)
+![Taleesh gives Dain a surprised farewell before leaving Moradin's chamber](../../Adventures/2026-08-29/2026-08-29_taleesh-pizza-pie-farewell.png)
 
 ## One-Line Summary
 A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by the party shortly before their skyship departure.
@@ -29,6 +29,7 @@ A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by
 - [Party] Taleesh replicates the rite successfully without showing pain. His composure and experience-seeking outlook produce a respect result of `18`. [To verify tracker meaning and concealed injury]
 - [Party] Immediately afterward, an unidentified [azer](../Characters/Azer%20in%20Moradins%20Forge.md) briefly appears within the forge and disappears back into the fire.
 - [Character-only] Inspired by Taleesh and the azer vision, Dain performs the rite. The ritual rod grows colder as Dain grows hotter, his skin takes on a bronze sheen, and he experiences intense guilt over neglecting the Truthammer forge after releasing it.
+- [Party] Taleesh gives Dain a surprised, surreal farewell and leaves the immediate chamber scene. [To verify destination]
 
 ## Notable Events
 - 2026-08-29: The party enters Moradin's chamber; no interaction with the chamber's occupants has yet been recorded. [Session 2026-08-29](../../Adventures/2026-08-29.md)
@@ -37,6 +38,7 @@ A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by
 - 2026-08-29: Taleesh successfully completes the ritual without showing pain despite Dain's warning about Moradin's protection. His success and outlook produce a respect result of `18`. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify tracker meaning and concealed injury]
 - 2026-08-29: An azer briefly appears in the forge and then vanishes back into its fire. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify identity, purpose and relation to the ritual]
 - 2026-08-29: Dain performs the ritual, producing an inverse temperature change with the rod, a bronze sheen and a powerful sense of guilt tied to the Truthammer forge. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify duration and cause]
+- 2026-08-29: Taleesh tells Dain, “As the moon hits the eye, I’d like to go be a pizza pie,” before leaving in surprise. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
 - [Morndinsamman](../Lore/Morndinsamman.md)

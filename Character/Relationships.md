@@ -81,6 +81,7 @@
 - Relationship payoff: [Party] The warmth promise is fulfilled in a thoroughly Dain-shaped way, and Taleesh's delighted acceptance provides a genuine positive bond despite the earlier dice conflict.
 - Latest respect beat: [Character-only] On 2026-08-29, Taleesh succeeds at Moradin's metal-offering ritual without showing pain after Dain warns that the god may not protect him. Taleesh's experience-for-its-own-sake outlook and successful composure produce a respect result of `18`. [To verify whether `18` is gained respect, a roll or the resulting total]
 - Influence beat: [Character-only] Taleesh's successful ritual and outlook inspire Dain to perform the same rite after the brief azer vision. Dain's attempt produces a bronze sheen, inverse heat exchange with the rod, and guilt over neglecting the Truthammer forge.
+- Latest beat: [Party] Before leaving the immediate chamber scene in surprise, Taleesh tells Dain, “As the moon hits the eye, I’d like to go be a pizza pie.” Meaning, destination and cause of surprise remain [To verify].
 - Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain continues beyond the night, whether the mushroom lantern is completed, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
