@@ -27,6 +27,7 @@ The dwarven pantheon honoured across fourteen temples in [Ola Dung Lot](../Place
 ## What Dain Knows
 - [Party] Moradin has a chamber in Ola Dung Lot that the party enters on 2026-08-29.
 - [Party] Fourteen temples stand across the city.
+- [Party] Moradin's temple shares a wall and symbolic forge with a second, unnamed temple. Worshippers use it for a metal-offering rite and handle white-to-red-hot objects without apparent injury.
 - [To verify] Which temples Dain has previously visited, the local priesthoods, rites, rivalries and political influence.
 
 ## Notable Events

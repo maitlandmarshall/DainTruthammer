@@ -1,6 +1,6 @@
 # Moradin's Chamber - Ola Dung Lot
 
-![Dain sees the pure-gold dwarf statue and non-dwarven worshippers in Moradin's chamber](../../Adventures/2026-08-29/2026-08-29_moradins-chamber-golden-statue.png)
+![Dain warns Taleesh as he attempts Moradin's shared-forge ritual](../../Adventures/2026-08-29/2026-08-29_dain-warns-taleesh-at-moradin-forge.png)
 
 ## One-Line Summary
 A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by the party shortly before their skyship departure.
@@ -10,21 +10,29 @@ A sacred chamber of Moradin in [Ola Dung Lot](./Ola%20Dung%20Lot.md), entered by
 - [Party] [Confirmed] The chamber is in Ola Dung Lot, a city within the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area.
 - [Party] [Confirmed on 2026-08-29] A `20-foot` statue of a dwarf made from pure gold stands at the chamber's centre.
 - [Party] [Confirmed on 2026-08-29] A variety of non-dwarven humanoids, including gnomes, is worshipping inside.
-- [To verify] Whether this chamber is itself one of the city's fourteen temples, part of a larger temple, or a separate civic or sacred room.
+- [Party] [Confirmed on 2026-08-29] Moradin's temple or chamber connects to a second temple along a shared wall. A symbolic forge representing Moradin is built into that wall.
+- [To verify] The identity of the adjoining temple and whether the chamber is itself one of the city's fourteen temples or part of a larger temple complex.
 
 ## What Dain Knows
 - [Party] The city contains fourteen temples associated with the [Morndinsamman](../Lore/Morndinsamman.md).
 - [Party] Non-dwarven worshippers are present, including gnomes.
+- [Party] Worshippers offer chunks of metal at the shared-wall forge and retrieve unidentified white-to-red-hot objects with bare hands that do not appear to burn.
 - [To verify] The chamber's clergy, purpose, full congregation, current ceremony and why the party has entered.
 
 ## Description
 - A chamber sacred to Moradin, centred on a `20-foot` pure-gold statue depicting a dwarf.
 - A mixed congregation of humanoids who are not dwarves, including gnomes, worships around the statue.
+- One wall connects this temple to a second temple. A symbolic forge representing Moradin is built into the shared structure.
+- Worshippers bring chunks of metal as offerings and take something white-to-red hot from the forge. Their hands show no apparent burns.
 - [To verify] Whether the statue depicts Moradin, whether it is solid gold rather than gold-clad, and the chamber's remaining architecture and furnishings.
+- [To verify] Whether the forge physically transforms the offerings, what the retrieved objects are, whether the same object is returned, and whether heat immunity comes from the forge, a blessing, the rite, the worshippers or an illusion.
+- [Party] Taleesh moves to replicate the rite. Dain warns him that Moradin may protect believers but not Taleesh; Taleesh says he wants the experience for its own sake, earning Dain's respect. [To verify outcome]
 
 ## Notable Events
 - 2026-08-29: The party enters Moradin's chamber; no interaction with the chamber's occupants has yet been recorded. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: The party sees the central `20-foot` pure-gold dwarf statue and a congregation of non-dwarven humanoids, including gnomes, worshipping in the chamber. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: The party observes the shared-wall forge ritual: worshippers offer chunks of metal and retrieve white-to-red-hot objects without apparent burns. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: Taleesh attempts to replicate the ritual despite Dain's warning about Moradin's protection. Taleesh's desire for the experience earns Dain's respect; the attempt's outcome remains unresolved. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
 - [Morndinsamman](../Lore/Morndinsamman.md)

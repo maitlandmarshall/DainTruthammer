@@ -79,6 +79,7 @@
 - Unresolved tension: [Party] [To verify] Taleesh's backstory includes deep distrust of dwarves and elves; Dain is a dwarf, and the party includes Kagrenac, an Astral Elf.
 - Opportunity: [Character-only] Dain may be able to build trust through warmth, lantern-making, practical hospitality, respect for the bone charm, and careful honesty instead of clever evasions.
 - Relationship payoff: [Party] The warmth promise is fulfilled in a thoroughly Dain-shaped way, and Taleesh's delighted acceptance provides a genuine positive bond despite the earlier dice conflict.
+- Latest respect beat: [Character-only] On 2026-08-29, Taleesh tries to replicate the metal-offering ritual at Moradin's symbolic forge. Dain warns that Moradin protects his believers and may not protect Taleesh; Taleesh replies that he wants the experience for its own sake. Dain gains respect for him. [To verify numerical change and ritual outcome]
 - Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain continues beyond the night, whether the mushroom lantern is completed, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)

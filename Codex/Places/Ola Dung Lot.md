@@ -11,6 +11,7 @@ The city in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area where the par
 - [Retcon] Earlier archive entries interpreted Ola Dung Lot as a high-mountain lake. That interpretation is superseded, though the original 2026-05-03 live prompt remains preserved verbatim in the session record.
 - [Party] The city contains the gates where holy fire consumed the southern human traders, the dwarven commander's location where Agland's letter was delivered, and the party's current skyship boarding point.
 - [Party] [Confirmed on 2026-08-29] Fourteen temples stand across the city, and the party enters [Moradin's chamber](./Moradins%20Chamber%20-%20Ola%20Dung%20Lot.md) before boarding the skyship.
+- [Party] [Confirmed on 2026-08-29] Moradin's temple connects to a second, unnamed temple along a shared wall containing a symbolic forge used for metal-offering rites.
 
 ## What Dain Knows
 - [Party] The southern human traders were seeking their way to Ola Dung Lot.
@@ -32,6 +33,7 @@ The city in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area where the par
 - 2026-07-11: The party arrives by Gondian airship. Holy fire consumes the southern human traders at the city gates; Ben then leads the party to deliver Agland's sealed letter to a dwarven commander. [Session 2026-07-11](../../Adventures/2026-07-11.md)
 - 2026-08-29: The party prepares to board a large balloon-like skyship here. The user confirms Ola Dung Lot is the city and Samryn Torsten is the surrounding area. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: The party enters Moradin's chamber, and the city is established as containing fourteen temples associated with the Morndinsamman. [Session 2026-08-29](../../Adventures/2026-08-29.md)
+- 2026-08-29: The party observes worshippers offering metal at Moradin's shared-wall forge and retrieving white-to-red-hot objects without apparent burns. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 ## Related Entries
 - [Samryn Torsten](../Lore/Samryn%20Torsten.md)
