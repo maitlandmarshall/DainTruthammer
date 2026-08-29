@@ -1,6 +1,7 @@
 # Open Threads
 
-## Current Live Focus - 2026-07-11
+## Current Live Focus - 2026-08-29
+- [Party] The [current session](../../Adventures/2026-08-29.md) resumes directly from the final truth-for-truth beat of [Session 2026-07-11](../../Adventures/2026-07-11.md); no new in-world action has been recorded yet.
 - [Party] [Confirmed] In a truth-for-truth exchange, the southern human traders reveal their true goal is to establish new trade; the Coal Mine Puppet asks whether the mountain has a mine, and Dain reveals that it contains one of the richest mines in the land.
 - [Party] [To verify] Establish intended trade goods, partners and terms; why the puppet cares about the mine; whether Dain's disclosure was authorized; whether the mine's wealth was secret; and whether this uses one of the five truthful answers owed.
 - [Party] [Confirmed] Dain and the party are heading to the Truthammer settlement's [bathhouses](../Places/Berronar%20Truesilver%20Bathhouses.md), described table-side as `Barren Archer of Silver hand`.

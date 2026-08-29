@@ -7,11 +7,11 @@
 - [To verify] 2026-05-30 is an approximate session date. On 2026-06-20, the user clarified the shared chat was from roughly three weeks earlier, not from 2026-06-20.
 - [Confirmed] 2026-06-20 live session notes imported from user notebook photos in [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md).
 
-## Live Snapshot - 2026-07-11
-- Current live session: [Session 2026-07-11](../Adventures/2026-07-11.md).
+## Live Snapshot - 2026-08-29
+- Current live session: [Session 2026-08-29](../Adventures/2026-08-29.md), continuing directly from [Session 2026-07-11](../Adventures/2026-07-11.md).
 - Location/status: At or near the [bathhouses](../Codex/Places/Berronar%20Truesilver%20Bathhouses.md), in a truth-for-truth conversation with the [southern human traders](../Codex/Factions/Southern%20Human%20Traders.md) and [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md). The humans admit they seek new trade, and Dain reveals that the mountain contains one of the richest mines in the land.
 - Immediate unresolved state: traders' intended goods, partners and terms; puppet's interest in the mine; mine name, contents, secrecy and defenses; Dain's authority to reveal it; whether the exchange uses an owed truthful answer; bathhouse proper name and possible Berronar Truesilver dedication; bathhouse customs; overnight stay; dinner; Moradin/Garl wording; formal clan status; sigil and debt judgment; gunpowder purpose; Taleesh's wash obligation; airships; armor delivery; sealed letter urgency; giant frog outcome; armored dwarf identity; missing friend's fate; Sauna Jacket steam risk; coin balance; and Breastplate of Balance charges are all [To verify].
-- Table-side source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md).
+- Carry-forward source: [Session 2026-07-11 notebook photos and live notes](../Adventures/2026-07-11.md). No new 2026-08-29 in-world action has been recorded yet.
 
 ## Identity
 - Name: Dain Truthammer
