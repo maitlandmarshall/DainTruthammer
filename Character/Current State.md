@@ -109,6 +109,7 @@
 - [Character-only] Get a letter of introduction from the Samyrn Torst commander for the southwestern humans.
 - [Character-only] Decide whether to use immediate transport or an airship, then build the magical and mundane provisioning list with Ben and the quartermasters. Dain specifically wants [scrolls, curios and laboratory supplies](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md) whose principles can help him invent odd and apparently useless spells.
 - [Character-only] Decide how to allocate the party's five [`Magic Mouth` scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md), including whether Dain reserves one for an attempted spellbook transcription.
+- [Character-only] Seek `Skywrite` and `Pyrotechnics` as future spell acquisitions. Neither is currently known or owned; sourcebook availability remains [To verify with Tom].
 - [Character-only] Identify the raided settlements, captives, cult structure, Yuan-ti involvement, rescue window, and southwestern contacts.
 - [Character-only] Search the mountain road and its settlements for odd runes, obscure wards, and delightfully impractical magic.
 - [Character-only] Collect inspirations, edge cases, and absurd magical problems that might become new useless spell designs later.

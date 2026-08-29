@@ -43,6 +43,7 @@
 - [Character-only] Dain's long-term magical ambition is to invent uniquely strange, marginal, and apparently useless spells no one else would bother to create.
 - [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls, magical curios and scribing supplies that expose useful spellmaking principles. Candidate priorities are staged in [Dain's Requisition Wishlist](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md); most remain ideas, while `Magic Mouth` has now been promoted through confirmed scroll acquisition.
 - [Party] [Confirmed on 2026-08-29] The party acquires five [`Magic Mouth` spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md). `Magic Mouth` is not yet added to Dain's spells on sheet: ownership, carrier, transcription attempt, materials and outcome remain [To verify].
+- [Character-only] [Confirmed goal on 2026-08-29] Dain intends to acquire `Skywrite` and `Pyrotechnics` later. They are research targets only, not current spells or inventory; confirm Tom permits their source material.
 
 ## Experimental Spell Research
 - [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) [Character-only]

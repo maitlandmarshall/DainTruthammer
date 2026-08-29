@@ -12,6 +12,7 @@
 - [Party] [Open] Ask Harry what the puppet said; determine the rat-form trigger, restraint security, true nature, coal-mine goal, and connection to Kurtlemack and Garl Glittergold.
 - [Character-only] [Confirmed] Dain has acquired [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md) described as `+2 AC`; confirm exact mechanics and whether he equips it over the Breastplate of Balance.
 - [Party] [Confirmed] The party has acquired five [`Magic Mouth` spell scrolls](../Items/Magic%20Mouth%20Scrolls.md); confirm ownership, carrier and whether Dain attempts to copy one.
+- [Character-only] [Open] Acquire `Skywrite` and `Pyrotechnics` later; neither is currently known or owned, and sourcebook availability remains [To verify with Tom].
 
 ## Prior Live Focus - 2026-07-11 (superseded by imported summary)
 - [Superseded] The initial 2026-08-29 scaffold expected play to resume from the truth-for-truth beat. The later user-supplied summary establishes that the 2026-07-11 session continued through Samyrn Torst and the new commander's briefing.
@@ -55,6 +56,14 @@
 - Next possible actions: Confirm the exact item wording, source, rarity, weight, attunement, Stealth rule and whether Dain equips it; if equipped, update current AC and the Breastplate of Balance's carried/attuned state.
 - Linked entries: [Session 2026-08-29](../../Adventures/2026-08-29.md), [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md), [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md), [Inventory](../../Character/Inventory.md), [Current State](../../Character/Current%20State.md)
 
+### Acquire Skywrite And Pyrotechnics
+- Status: Open
+- Tags: [Character-only] [Confirmed goal]
+- Why it matters: `Skywrite` and `Pyrotechnics` fit Dain's long-term ambition to collect conspicuous, narrow and apparently impractical magic that can seed stranger original spells.
+- Latest development: On 2026-08-29, Dain names both spells as future acquisition goals after the party secures five `Magic Mouth` scrolls. Neither spell nor scroll is currently owned.
+- Next possible actions: Ask Ben about present stock; confirm Tom allows the relevant source material; otherwise watch later markets, libraries, spellbooks and defeated wizards for either spell.
+- Linked entries: [Session 2026-08-29](../../Adventures/2026-08-29.md), [Dain Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md)
+
 ### Recover The Cult's Captives
 - Status: Active
 - Tags: [Party] [Confirmed] [To verify]
@@ -76,7 +85,7 @@
 - Tags: [Party] [Confirmed] [To verify]
 - Why it matters: The party has been offered immediate transport back to the original tower or an airship, and the mission's reach and survivability depend on that choice and loadout.
 - Latest development: The commander directs the party to Ben for magical outfitting and to the quartermasters for other supplies. The prior Gondian airship survived a three-red-wyrmling attack with help from its cannons. Dain specifically seeks scrolls, curios and research materials for inventing odd and apparently useless spells, and the party has now acquired five [`Magic Mouth` spell scrolls](../Items/Magic%20Mouth%20Scrolls.md).
-- Next possible actions: Choose transport; identify the airship, crew, range, speed, lift, fuel, defenses and ownership; confirm Ben's authority and the requisition budget; assign the five `Magic Mouth` scrolls and decide whether Dain attempts transcription; continue choosing priority spell-research requests; secure food, water, healing, ammunition, rope, maps, cold-weather gear, spare parts, restraints, rescue capacity, books, ink and experimental components.
+- Next possible actions: Choose transport; identify the airship, crew, range, speed, lift, fuel, defenses and ownership; confirm Ben's authority and the requisition budget; assign the five `Magic Mouth` scrolls and decide whether Dain attempts transcription; seek `Skywrite` and `Pyrotechnics` now or in a later market; secure food, water, healing, ammunition, rope, maps, cold-weather gear, spare parts, restraints, rescue capacity, books, ink and experimental components.
 - Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samyrn Torst](./Samyrn%20Torst.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Prevent A Truthammer Sigil Investigation

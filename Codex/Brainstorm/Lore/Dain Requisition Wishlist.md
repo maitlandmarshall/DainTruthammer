@@ -6,6 +6,7 @@ An idea-stage requisition list for scrolls, magical curios and laboratory suppli
 ## Status
 - [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls or items that support his long-term ambition to create odd and useless spells.
 - [Character-only] [Idea-stage except where promoted] The candidates below remain recommendations unless a line explicitly records acquisition. `Magic Mouth` has now been promoted into canon through the party's acquisition of [five scrolls](../../Items/Magic%20Mouth%20Scrolls.md).
+- [Character-only] [Confirmed goal on 2026-08-29] `Skywrite` and `Pyrotechnics` are now explicit future acquisition goals, but neither spell nor scroll is currently owned.
 - [To verify] Ben's authority and stock, the quartermasters' budget, Tom's allowed sourcebooks, copying rules and whether the party must choose between personal research supplies and airship mission equipment.
 
 ## Brainstorm Routing
@@ -33,9 +34,11 @@ These avoid spells already recorded in Dain's book, including `Silent Image` and
 11. **Comprehend Languages** (`1st`, ritual): supports old-scroll research and lets Dain inspect magical writing before deciding it deserves improvement.
 12. **Arcane Lock** (`2nd`): conditional access and magical permission rules; excellent raw material for doors that open only under unnecessarily peculiar circumstances.
 
-### Ask If Ben Has Exotic Stock
-- **Skywrite** (`2nd`, ritual): enormous temporary cloud writing; spectacularly public and gloriously impractical. [To verify allowed sourcebook]
-- **Pyrotechnics** (`2nd`): turns an existing flame into smoke or fireworks; useful for non-damaging spectacle research. [To verify allowed sourcebook]
+### Confirmed Future Spell Goals
+- **Skywrite** (`2nd`, ritual) — **[Confirmed acquisition goal; not owned]**: enormous temporary cloud writing; spectacularly public and gloriously impractical. [To verify allowed sourcebook]
+- **Pyrotechnics** (`2nd`) — **[Confirmed acquisition goal; not owned]**: turns an existing flame into smoke or fireworks; useful for non-damaging spectacle research. [To verify allowed sourcebook]
+
+### Other Exotic Stock
 - A **cantrip tutor** for `Mending` or `Prestidigitation`; under normal rules Dain cannot simply copy a cantrip scroll into his spellbook, so instruction or a table-approved research route would be more useful than buying the scroll blindly.
 
 ## Magical Curios To Ask Ben About
@@ -76,7 +79,7 @@ Ask first for retired, cosmetically damaged, unfashionable or otherwise unwanted
 
 ## Recommended Opening Request
 
-> Ben, I need scrolls that are too narrow, unfashionable or ridiculous for sensible wizards—especially Magic Mouth, Magic Aura, Identify and Illusory Script. If you have failed scrolls or harmless magical curios gathering dust, I would like those too. The quartermasters can supply the books, ink, components and something fireproof to put the mistakes in.
+> Ben, I need scrolls that are too narrow, unfashionable or ridiculous for sensible wizards—especially Magic Aura, Identify, Illusory Script, Skywrite and Pyrotechnics. If you have failed scrolls or harmless magical curios gathering dust, I would like those too. The quartermasters can supply the books, ink, components and something fireproof to put the mistakes in.
 
 ## Open Questions
 - How many scrolls or items may Dain request, and is there a monetary or rarity ceiling?
