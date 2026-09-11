@@ -2,6 +2,9 @@
 
 ## Current Live Focus - 2026-09-12
 
+- [Party] [Confirmed tracker import] Current [party holdings and allocations](../../Character/Party%20Loot.md#current-party-tracker---imported-2026-09-12), [ship stats/deck](../Places/Party%20Skyship%20-%202026-08-29.md#current-ship-tracker---imported-2026-09-12) and [sending stones](../Items/Party%20Sending%20Stones.md) are sourced from [four supplied screenshots](../../Adventures/2026-09-12-party-tracker.md). No new acquisition date or payout is inferred.
+- [Party] [Open] Reconcile the eight-way GP/EP/SP split versus nine-way CP split, fractional payouts, `Dane`/`Talesh` aliases and Biggus/Havana/Feral identities. Check duplicate 100-foot spiked-chain rows, the `710` silk-rope entry plus `Extra 250` note and beer/generic barrel overlap.
+- [Party] [Open] Identify the unknown partner of Kagrenac's spy-linked sending stone; establish whether its recovered Bag of Holding and Yuan-Ti spies are connected to the earlier traders/bag. Confirm the Dwarf General's identity, stone-use status, and Rogue Trader Warrant authority without assuming it is the introduction letter.
 - [Party] [Session 2026-09-12](../../Adventures/2026-09-12.md) is prepared from the southbound skyship fight's aftermath. Both attackers are destroyed; no new in-world action or rest is recorded at startup.
 - [Party] [To verify] Establish Taleesh's return aboard, party injuries/resources, ship condition and next destination; continue the captive-recovery and southwestern-warning missions and confirm the introduction letter.
 - [Character-only] [Open] Confirm the [Flying Broom](../Items/Flying%20Broom.md)'s rules and the [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md)'s equipped state; carry forward the accepted [azer connection](./Azer%20Spark%20and%20Truthhammer%20Fire%20Portal.md) without inventing mechanics.
@@ -110,8 +113,8 @@
 - Status: Active
 - Tags: [Party] [Confirmed] [To verify]
 - Why it matters: The party has selected a skyship for the new mission, and its reach, armament, lift system and loadout now directly determine mission survivability.
-- Latest development: The party is about to board the [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), described as much more like a very large hot-air balloon than a conventional ship and carrying at least one cannon. Dain has acquired five [`Magic Mouth` spell scrolls](../Items/Magic%20Mouth%20Scrolls.md) and named `Skywrite` and `Pyrotechnics` as future goals.
-- Next possible actions: Board; identify the ship's formal name, commander, crew, route, range, speed, lift, fuel, defenses, ownership, cannon count/type and ammunition; assign the five `Magic Mouth` scrolls; confirm provisions, rescue capacity and whether Ben can still fit additional magic before departure.
+- Latest development: The party has departed south and defeated the two attackers. The [current ship tracker](../Places/Party%20Skyship%20-%202026-08-29.md#current-ship-tracker---imported-2026-09-12), imported on 2026-09-12, records a ballista, 20 bolts, 50-ft tactical speed, 3 hexes/day, magic-user thrust, bonus-action piloting, hold supplies and deck layout. Earlier cannon terminology remains unresolved; do not invent a second weapon.
+- Next possible actions: Confirm pilot/crew, destination, ballista range/loading/firing, post-fight ship condition, map scale, load/rescue capacity, exact navigation-item and warrant functions; reconcile chain/rope/barrel entries; assign the five `Magic Mouth` scrolls. Their absence from these screenshots does not establish consumption.
 - Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [Samryn Torsten](./Samryn%20Torsten.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Prevent A Truthammer Sigil Investigation

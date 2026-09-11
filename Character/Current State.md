@@ -11,6 +11,7 @@
 ## Active Session - 2026-09-12
 
 - Active log: [Session 2026-09-12](../Adventures/2026-09-12.md), prepared from the final events of 2026-08-29. No new in-world events, elapsed time or resource recovery are recorded at startup.
+- Current party context: [tracker screenshots supplied 2026-09-12](../Adventures/2026-09-12-party-tracker.md) establish ship/hold resources and coin allocations in [Party Loot](./Party%20Loot.md). The [skyship](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) has a documented ballista with 20 bolts and 50-ft tactical speed; [sending stones](../Codex/Items/Party%20Sending%20Stones.md) connect Kagrenac to the Dwarf General and an unknown spy-linked partner. These do not establish Dain's personal payout or resource recovery.
 - Resume after the southbound skyship victory; confirm Taleesh's return aboard, post-combat HP/slots, ship condition, armour equipped and flying-broom rules. The snapshot below preserves the last recorded state; older full-HP and resource entries are not a verified post-combat total.
 
 ## Prior Live Snapshot - 2026-08-29

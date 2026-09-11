@@ -5,6 +5,7 @@
 - [To verify] The sheet does not distinguish clearly between equipped, worn, and stowed items, so this file preserves what is listed.
 
 ## Currency
+- [Party] [To verify] The [current party shares tracker](./Party%20Loot.md#coin-pot-and-shares), imported 2026-09-12, lists `Dane` with an allocation of `143 gp`, `92.5 ep`, `262.375 sp` and displayed `155.5555556 cp`. `Dane = Dain` is [Inferred]; actual distribution is unconfirmed. These values do not overwrite the personal purse below.
 - Standing gold practice: [Character-only] [Confirmed by user on 2026-07-11] Dain treats all personal gold as committed to future kindness or goodwill rather than savings. When gnomes are available, part is given as `Glittergold's Share`; generosity is not limited to gnomes. He may carry gold temporarily until he finds an appropriate recipient.
 - CP: 0
 - SP: 0
@@ -30,6 +31,7 @@
 - Oil x10
 - Tinderbox x1
 - Silk rope 250 ft [Confirmed on 2026-05-30] Acquired for `35 gp`; payment source, carrier, and final carried weight are [To verify] because Dain's personal coin record still shows only `13 gp`.
+- [To verify] The [2026-09-12 ship hold tracker](./Party%20Loot.md#ship-hold) lists Silk Rope `710` with note `Extra 250 from first town`. Units and whether that includes the earlier 250 ft are unresolved; do not double-count or assume transfer from Dain.
 
 ## In-Progress Crafted Items
 - [Hedgehog Mushroom Lantern](../Codex/Items/Hedgehog%20Mushroom%20Lantern.md) x1 [Party] [No longer carried by Dain] Begun on 2026-05-03 from one pound of hedgehog mushroom given by [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), then offered to the goblin leader as food during the goblin toll encounter. The goblin leader is eating it, took `4` fire damage from it, and the final remains are [To verify].

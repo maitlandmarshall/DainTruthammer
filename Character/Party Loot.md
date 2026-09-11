@@ -6,6 +6,82 @@
 - Shared party inventory and payments that are not Dain's personal gear.
 - [To verify] Confirm which party member physically carries each item when it matters for weight, access, theft risk, or use in combat.
 
+## Current Party Tracker - Imported 2026-09-12
+
+- [Party] [Confirmed] Current tracker supplied by Maitland; [original screenshots](../Adventures/2026-09-12-party-tracker.md). These are current recorded holdings and allocations, not newly narrated acquisitions or proof of distribution.
+- Historical receipts below remain provenance; do not add the earlier `500 gp`, payments or other historical amounts to this current pot without reconciliation. An item absent from these screenshots is not thereby lost, spent or removed.
+
+### Coin Pot And Shares
+
+| PP | GP | EP | SP | CP |
+| ---: | ---: | ---: | ---: | ---: |
+| 0 | 1144 | 740 | 2099 | 1400 |
+
+Holder labels and displayed precision follow Photo 1. Every holder has `Number = 1`; `Current Pot` cells and individual PP cells are blank.
+
+| Holder as written | Number | GP | EP | SP | CP displayed |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Biggus | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| Dane | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| Harry | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| Havana | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| Kagrenac | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| Talesh | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| The Ship | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| Supplies | 1 | 143 | 92.5 | 262.375 | 155.5555556 |
+| Feral | 1 | 0 | 0 | 0 | 155.5555556 |
+
+- [Calculated from displayed values] GP, EP and SP divide across eight holders; CP divides across nine, including Feral. The repeating copper share is rounded for display. Whether this difference is intentional, and how fractional coins are settled, remain [To verify].
+- [Inferred] `Dane` may be [Dain](../Codex/Characters/Dain%20Truthammer.md), and `Talesh` may be [Taleesh](../Codex/Characters/Brother%20Taleesh.md). Confirm before assigning personal currency. `The Ship` and `Supplies` are allocation labels, not additional characters.
+- [To verify] Biggus, Havana and Feral's identities/player mappings, and whether any displayed share has actually been paid out. Dain's personal purse is not overwritten by this allocation table.
+
+### Ship Hold
+
+From Photo 2. A dash below means a blank source cell, not a zero or a confirmed absence. `Character` is the source column; it does not necessarily establish personal ownership.
+
+| Item as shown | Count | Character | Notes |
+| --- | --- | --- | --- |
+| Spiked chain | 100 feet | Kagrenac | Possible duplicate of the other chain row below |
+| Barrels | 2 | — | — |
+| Block and Tackle | 4 | — | — |
+| Books (empty) | 4 | — | — |
+| Caltrops (bags) | 4 | — | — |
+| Chain (feet) Spiked | 100 | — | Possible duplicate; do not sum to 200 feet |
+| Chest | 1 | — | — |
+| Flasks | 40 | — | — |
+| Glass bottles | 40 | — | — |
+| Grappling hooks | 4 | — | — |
+| Incense - Spells | BULK (sure) | — | Exact quantity unrecorded |
+| Manacles | 10 | — | — |
+| Miner's picks - Stout dwar... | 4 | — | Source label is clipped; full descriptor [To verify] |
+| Parchment (sheets) | 40 | — | — |
+| Potion of Healing | 10 | — | Exact potion rules [To verify] |
+| Sack | 10 | — | — |
+| Silk Rope | 710 | — | Source note: "Extra 250 from first town"; unit and inclusion of the extra 250 [To verify] |
+| Torch | 10 | — | — |
+
+- [To verify] Reconcile the silk rope with Dain's earlier recorded `250 ft`; do not add 250 to 710 or count the same rope as both personal and ship stock without confirmation.
+- [Party] The [deck plan](../Adventures/2026-09-12-party-tracker.md#photo-4---balloon-ship-deck) additionally labels `B. of Beer x 2` and `Barrel x 2`. Whether these are four distinct barrels or overlapping labels is [To verify].
+
+### Chest Of Preserving
+
+| Item as shown | Count | Character | Notes |
+| --- | ---: | --- | --- |
+| Chimera - Flame Organ | 1 | Kagrenac | Damaged |
+| Chimera - Eggs | 4 | — | — |
+| Ogre Blood - Vial | 3 | Kagrenac | — |
+| White Dragon Blood Vial | 2 | Kagrenac | — |
+| Manticore Eyes | 4 | Kagrenac | — |
+| Manticore Venom Gland | 1 | Kagrenac | — |
+| Manticore Venom - 1 unit | 1 | Kagrenac | — |
+
+- [Party] [Confirmed] These materials are listed in the Chest of Preserving. Exact harvesting dates, sources, preservation mechanics, usable properties and egg viability remain [To verify]. The chimera labels do not by themselves prove these came from the 29 August attackers.
+
+### Ship Equipment And Communications
+
+- [Party] [Confirmed] The [ship tracker](../Codex/Places/Party%20Skyship%20-%202026-08-29.md#current-ship-tracker---imported-2026-09-12) lists a ballista with `20` bolts, an Orb of Navigation with note `Regional map - TH mountain`, a Rogue Trader Warrant and Navigator's Tools. Exact item mechanics and warrant authority remain [To verify].
+- [Party] [Confirmed] The [Sending Stones register](../Codex/Items/Party%20Sending%20Stones.md) links Kagrenac to the Dwarf General and records another stone with Kagrenac, found in a Bag of Holding taken from Yuan-Ti spies, whose partner is unknown.
+
 ## Herbal Payment From Southern Human Traders
 - Agreement: half now, half later for helping or escorting the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) after Dain's natural `20` Persuasion check. [Party] [Confirmed on 2026-05-03]
 - Upfront payment received now:
