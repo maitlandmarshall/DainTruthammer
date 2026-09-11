@@ -8,7 +8,12 @@
 - [Confirmed] 2026-06-20 live session notes imported from user notebook photos in [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md).
 - [Confirmed] Later 2026-07-11 events imported on 2026-08-29 from the user-supplied PDF `Session Summary 2026.7.11` and reconciled into [Session 2026-07-11](../Adventures/2026-07-11.md).
 
-## Live Snapshot - 2026-08-29
+## Active Session - 2026-09-12
+
+- Active log: [Session 2026-09-12](../Adventures/2026-09-12.md), prepared from the final events of 2026-08-29. No new in-world events, elapsed time or resource recovery are recorded at startup.
+- Resume after the southbound skyship victory; confirm Taleesh's return aboard, post-combat HP/slots, ship condition, armour equipped and flying-broom rules. The snapshot below preserves the last recorded state; older full-HP and resource entries are not a verified post-combat total.
+
+## Prior Live Snapshot - 2026-08-29
 - Current live session: [Session 2026-08-29](../Adventures/2026-08-29.md), continuing directly from [Session 2026-07-11](../Adventures/2026-07-11.md).
 - Location/status: Airborne aboard the party's [balloon-like skyship](../Codex/Places/Party%20Skyship%20-%202026-08-29.md), travelling south from [Ola Dung Lot](../Codex/Places/Ola%20Dung%20Lot.md) on the captive-recovery and southwestern-warning mission. The party has destroyed the two [crymeria attackers](../Codex/Characters/Crymeria%20Attackers%20-%202026-08-29.md).
 - Immediate scene: Post-combat aboard the southbound skyship. [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) rapidly descended by rope toward one attacker during the victory, and Dain has now acquired a [Flying Broom](../Codex/Items/Flying%20Broom.md). Ship damage, passenger injuries, resources spent and the broom's source and mechanics are [To verify].

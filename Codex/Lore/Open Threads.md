@@ -1,6 +1,13 @@
 # Open Threads
 
-## Current Live Focus - 2026-08-29
+## Current Live Focus - 2026-09-12
+
+- [Party] [Session 2026-09-12](../../Adventures/2026-09-12.md) is prepared from the southbound skyship fight's aftermath. Both attackers are destroyed; no new in-world action or rest is recorded at startup.
+- [Party] [To verify] Establish Taleesh's return aboard, party injuries/resources, ship condition and next destination; continue the captive-recovery and southwestern-warning missions and confirm the introduction letter.
+- [Character-only] [Open] Confirm the [Flying Broom](../Items/Flying%20Broom.md)'s rules and the [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md)'s equipped state; carry forward the accepted [azer connection](./Azer%20Spark%20and%20Truthhammer%20Fire%20Portal.md) without inventing mechanics.
+- [Party] [Open] Assign the five [Magic Mouth scrolls](../Items/Magic%20Mouth%20Scrolls.md), ask Harry about the puppet, and preserve the later [Sauna Jacket](../Items/Sauna%20Pelt.md) retrieval errand.
+
+## Prior Live Focus - 2026-08-29
 - [Party] The [current session](../../Adventures/2026-08-29.md) opens in [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), a city in the [Samryn Torsten](./Samryn%20Torsten.md) area, after Agland's sealed letter is delivered.
 - [Party] [Confirmed] A dwarven commander assigns two objectives: recover people abducted from settlements raided by a cult with previously unknown Yuan-ti involvement, and warn and rally humans in the southwest.
 - [Party] [Open] Obtain a letter of introduction for the southwestern humans.
