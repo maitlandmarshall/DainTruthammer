@@ -9,9 +9,11 @@ During travel, Ollyander speaks the Law of the Maw to a rat she loves; Dain find
 - [Confirmed scene on 2026-09-12] Ollyander says the supplied material to her beloved rat as the party travels toward its next destination. Dain hears her and records it.
 - [Character-only] Dain now has the reported pact account and six laws in his notes. This establishes what he heard, not independent verification of the pact's origin, enforcement or supernatural consequences.
 - [Reported account] The text describes Ollyander as illiterate and her encounter with Yeenoghu as primal and telepathic, during extreme violence and stress. It describes the pact as imposed without agreement and manifested as internal instincts.
-- [To verify] What the rest of the party heard, whether the rat understands or answers, the rat's name/identity, and the next destination. No response or action by the rat is recorded.
+- [To verify] What the rest of the party heard, whether the rat understands or answers, the rat's wider identity/history, and the next destination. No response or action by the rat is recorded.
 - [Source spelling] The image says `Oleander`; the user says `Ollyander`. Keep the existing character page under Ollyander and preserve the source spelling below. The user refers to her with she/her.
 - [Continuity boundary] Do not identify this rat with the Coal Mine Puppet, the falling-rat spell inspiration, or the earlier three rats mentioned in dice-game accounting without evidence. No new class, ability, alignment or hostile act is established here.
+
+- [Confirmed later on 2026-09-12] Oleander learns the rat's name: [Goarsqueek](../Characters/Goarsqueek.md). How she learns it and whether Dain also learns the name remain unrecorded. The user uses `Oleander` in this update.
 
 ## Source Transcription
 

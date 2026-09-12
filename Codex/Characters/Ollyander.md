@@ -19,6 +19,8 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - [Confirmed on 2026-09-12] The user refers to Ollyander with she/her. The supplied pact text uses `Oleander`; exact name spelling remains open.
 - [Confirmed on 2026-09-12] She speaks to a rat she loves while travelling; Dain writes down her [Law of the Maw account](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md).
 
+- [Confirmed on 2026-09-12] Oleander learns the name of her beloved rat: [Goarsqueek](./Goarsqueek.md). This establishes her knowledge; Dain's knowledge of the name is unrecorded. The user now also uses the spelling `Oleander`; the existing page path is retained for continuity.
+
 ## What Dain Knows
 - [Party] Ollyander first appears as a small hobbit-like humanoid.
 - [Party] Ollyander has pale skin, straight fawn-brown hair, a pointy nose, and a shell-shocked look.
@@ -73,7 +75,10 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 
 - 2026-09-12: During onward travel, Ollyander speaks the [Law of the Maw](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) to her beloved rat. Dain listens with interest and records it. [Session](../../Adventures/2026-09-12.md)
 
+- 2026-09-12: Oleander learns her rat's name, [Goarsqueek](./Goarsqueek.md). Method of discovery is unrecorded. [Session](../../Adventures/2026-09-12.md)
+
 ## Related Entries
+- [Goarsqueek](./Goarsqueek.md)
 - [Pact - Law of the Maw](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)

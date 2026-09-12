@@ -77,7 +77,8 @@
 - Status: Open; established during travel on 2026-09-12.
 - Knowledge boundary: [Character-only] Dain hears and records Ollyander's account; other listeners are unconfirmed.
 - Why it matters: The account describes an imposed Yeenoghu pact expressed as hunting, consuming and retaliatory instincts, with failure threatening return to a `Muddy Room`.
-- Unresolved: What the Muddy Room means; whether the instincts can be resisted; the rat's identity and understanding; what the Hunters Iron refers to. Do not infer class, mechanics or hostile intent from the account alone.
+- Name resolved on 2026-09-12: Oleander learns her rat is [Goarsqueek](../Characters/Goarsqueek.md). How she learns it and whether Dain learns the name remain unrecorded.
+- Unresolved: What the Muddy Room means; whether the instincts can be resisted; the rat's wider identity and understanding; what the Hunters Iron refers to. Do not infer class, mechanics or hostile intent from the account alone.
 - Possible follow-up, not an action taken: Ask Ollyander what she means by the Muddy Room and whether these laws are commands she wants to follow.
 - Sources: [Pact transcription and screenshot](./Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md), [session](../../Adventures/2026-09-12.md).
 
