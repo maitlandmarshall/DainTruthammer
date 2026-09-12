@@ -12,18 +12,18 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 - [Confirmed] The opening is big enough to walk into.
 - [Party] While hovering over it, the smell of bat droppings is noticed, and the party recognizes that this could be useful.
 - [To verify] Who or what was hovering during discovery, exact location, dimensions and depth, further interior, any additional inhabitants and access conditions. The narration does not specify whether this is the skyship or Dain using his broom.
-- [Confirmed earlier action] Before entering, Dain drops a bearing from his bag and casts [Magic Mouth on it as an alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md). One scroll use is inferred for bookkeeping, not explicitly stated. At that alarm-setting beat, no entry was reported. The party subsequently sees the open cavern and giant guano piles; 20 giant bats are subsequently spotted. No alarm activation, harvesting or recovery is reported.
+- [Confirmed earlier action] Before entering, Dain drops a bearing from his bag and casts [Magic Mouth on it as an alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md). One scroll use is inferred for bookkeeping, not explicitly stated. At that alarm-setting beat, no entry was reported. The party subsequently sees the open cavern and giant guano piles; 20 giant bats are subsequently spotted. The entrance alarm subsequently activates when a bat flies in; the scream prompts the bats to swarm the party. No harvesting or recovery is reported.
 - Roll preserved as reported: natural 20 / total 30. The modifiers or situational bonuses behind that total are unrecorded; do not replace Dain's recorded base Investigation modifier from this roll alone.
 
 - [Party] [Confirmed latest discovery] The party sees an open cavern containing giant piles of bat droppings, more than they have ever seen. The quantity is described comparatively, not measured.
 
-- [Party] [Confirmed subsequent discovery] The party spots [20 giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md). Their CR is reported table-side as `1/4` each; their behavior and awareness are unrecorded.
+- [Party] [Confirmed subsequent discovery] The party spots [20 giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md). Their CR is reported table-side as `1/4` each; they later begin swarming the party in response to the triggered entrance alarm.
 
 ## What Dain And The Party Know
 - Dain has identified a walk-in opening.
 - The smell is described as bat droppings, and the party considers the possible material useful.
 - [Confirmed] Enormous guano deposits are now visually observed in the open cavern.
-- [Confirmed] Twenty giant bats are visible. [Inferred] They are a plausible source of the guano deposits; no behavior or hostile reaction has been reported.
+- [Confirmed] Twenty giant bats are visible. [Inferred] They are a plausible source of the guano deposits; they subsequently swarm the party when the entrance mouth screams.
 
 ## Revealed Cavern
 
@@ -42,8 +42,13 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 - Bat guano and sulfur are the listed material component for [Fireball](https://www.dndbeyond.com/spells/2102-fireball). This is a rules reference, not a new spell learned by Dain. The guano deposits are confirmed, but no sulfur or harvested components are recorded.
 - Other alchemical, trade or research uses remain subject to what the party finds and Tom establishes.
 
+## Treasure Question And Alarm Incident
+- Stu casts Speak with Animals and asks a bat whether there is treasure; its reported answer is **no treasure**. This does not establish an exhaustive search of the cave.
+- A bat flies in and triggers the [entrance mouth](../Items/Cave%20Alarm%20Ball%20Bearing.md), which begins screaming. The bats start swarming the party in response.
+- No attacks, damage, condition or combat resolution are reported.
+
 ## Open Questions
-- How do the 20 giant bats respond, and what lies beyond the revealed cavern?
+- How does the party respond to the swarming bats and screaming alarm, and what lies beyond the revealed cavern?
 - Is guano accessible for collection, and does anyone choose to gather it?
 - Where is the crevasse relative to the party's route and next destination?
 
@@ -55,6 +60,8 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 - 2026-09-12: The party sees an open cavern with enormous piles of bat guano, more than they have ever seen. No collection or inhabitants are reported. [Session](../../Adventures/2026-09-12.md)
 
 - 2026-09-12: The party spots 20 giant bats, reported at CR 1/4 each; no combat is reported. [Session](../../Adventures/2026-09-12.md)
+
+- 2026-09-12: A bat tells Stu there is no treasure after Speak with Animals. Another reported bat-entry event triggers the mouth and its scream; bats begin swarming the party. Whether the entering bat is a different individual or additional to the original count is unrecorded. [Session](../../Adventures/2026-09-12.md)
 
 ## Related Entries
 - [Giant Bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md)

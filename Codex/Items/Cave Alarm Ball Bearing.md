@@ -13,7 +13,7 @@ A ball bearing Dain drops from his bag and enchants with Magic Mouth before ente
 - [Inferred bookkeeping assumption, stated to the user] This uses one of the party's five [Magic Mouth scrolls](./Magic%20Mouth%20Scrolls.md), leaving four provisionally. The cast is confirmed; its source is not explicit. No successful spellbook transcription has been recorded.
 - Under that scroll assumption, no spell slot or separate material-component expenditure is deducted. Reconcile if the user establishes a different casting source.
 - The bearing is deployed outside the cave before entry, not destroyed. Remaining bearings in Dain's bag are unknown; no standard bag quantity is assumed.
-- No actual cave entry, alarm activation or approaching creature is reported in this beat.
+- [Confirmed subsequent activation] A bat flies into the entrance and triggers the mouth, which begins screaming. The bats then start swarming the party in response. No further spell casting or resource expenditure is reported for this activation.
 
 ## Alarm Intent And Rules Boundary
 - Intended trigger: something entering the cave behind the party. Exact visual/audible trigger wording, party exclusions, and one-shot versus repeating behavior are not supplied.
@@ -23,11 +23,24 @@ A ball bearing Dain drops from his bag and enchants with Magic Mouth before ente
 - References: [Magic Mouth](https://www.dndbeyond.com/spells/2619023-magic-mouth), [Spell Scroll](https://www.dndbeyond.com/magic-items/5418-spell-scroll).
 
 ## Follow-Up
-- Track whether the bearing triggers and whether the party retrieves it on departure.
+- Activation is confirmed. Track when the screaming stops, whether the spell ends after this delivery or can trigger again, and whether the party retrieves the bearing. The original repeat setting remains unrecorded.
 - Confirm casting source if scroll accounting needs correction; preserve successful transcription as unconfirmed until established.
+
+## Observed Trigger And Consequence
+- [Party] An entering bat satisfies the actual trigger and makes the mouth scream.
+- [Party] The bats begin swarming the party in response.
+- This confirms an audible alarm event but does not establish indefinite screaming, repeated retriggering, exact message duration or a way to dismiss it.
 
 ## Notable Events
 - 2026-09-12: Dain drops the bearing and casts Magic Mouth before entering, intending an alarm against anything coming in behind the party. [Session](../../Adventures/2026-09-12.md)
+
+- 2026-09-12: An incoming bat triggers the mouth; it begins screaming, and bats start swarming the party in response. [Session](../../Adventures/2026-09-12.md)
+
+## Alarm Consequence Scene
+
+![Bats swarm the party in response to the screaming mouth](../../Adventures/2026-09-12/screaming-alarm-bat-swarm.png)
+
+*Illustrative staging; no mechanical outcome is inferred. [Prompt and provenance](../../Adventures/2026-09-12/bat-swarm-image-notes.md).*
 
 ## Related Entries
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)

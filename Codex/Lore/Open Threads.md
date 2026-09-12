@@ -2,11 +2,13 @@
 
 ## Current Live Focus - 2026-09-12
 
-- [Party] Latest discovery: **20 [giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md)** in the guano cavern, **CR 1/4 each** as table information. Awareness, behavior and any combat remain unreported.
+- [Party] Immediate situation: a bat triggers the [entrance mouth](../Items/Cave%20Alarm%20Ball%20Bearing.md), it screams, and the [giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md) begin swarming the party. No attacks or damage are yet reported. Stu previously used Speak with Animals and received a bat's answer that there is no treasure.
+
+- [Party] Latest discovery: **20 [giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md)** in the guano cavern, **CR 1/4 each** as table information. The later alarm incident provokes swarming; initiative and damage remain unreported.
 
 - [Party] Earlier view: an [open cavern with giant bat-guano heaps](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), more than the party has ever seen. Deposits are now visually confirmed; collection remains unreported; 20 giant bats are subsequently spotted.
 
-- [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Track activation and retrieval. Scrolls provisionally `5 → 4` under the stated casting-source assumption.
+- [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Activation is now confirmed; track when the screaming stops and eventual retrieval. Scrolls provisionally `5 → 4` under the stated casting-source assumption.
 
 - [Party] Entrance discovery: Dain spots a [walk-in crevasse](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) on Investigation `30` (natural `20`). Hovering above it, bat-dropping odor suggests potentially useful material; no entry or collection is established.
 
@@ -83,12 +85,12 @@
 
 ### Investigate The Guano-Scented Crevasse
 - Latest player action: Dain encourages [Olly](../Characters/Ollyander.md) to explore farther and see what else is in the cave. Her answer, movement and findings are unreported.
-- Latest development: After seeing the enormous guano piles, the party spots **20 giant bats, CR 1/4 each**. Their reaction and any combat remain unreported. Dain set the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md) beforehand; activation and retrieval remain unreported.
+- Latest development: Stu casts Speak with Animals and asks a bat about treasure; it reports none. A bat flies in and triggers the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md), which screams. The bats swarm the party in response. Initially 20 giant bats were spotted, CR 1/4 each; no additional count is assumed.
 - Status: Open; discovered on 2026-09-12.
 - Knowledge boundary: [Party]. Dain spots a walk-in crevasse with Investigation `30` (natural `20`); bat-dropping odor is noticed while hovering above it.
 - Why it matters: The party recognizes potential usefulness in the material. Bat guano is also a standard Fireball component when paired with sulfur [rules reference, not a new learned spell].
-- Next possible actions: Record Olly's response to Dain's encouragement and any exploration; establish the giant bats' behavior and decide whether to collect material. No harvesting has been reported.
-- Unresolved: Exact location, earlier hovering subject/platform, bat behavior and any additional inhabitants, access to the observed deposits and measured quantities. Preserve the roll total as reported; modifiers are not established.
+- Next possible actions: Record the party's response to the swarming bats and screaming alarm, whether initiative is called, and any damage or resolution. Olly's exploration response is still unreported. No harvesting has been reported.
+- Unresolved: Exact location, earlier hovering subject/platform, precise bat behavior/positions/current count and any additional inhabitants, access to the observed deposits and measured quantities. Preserve the roll total as reported; modifiers are not established.
 - Sources: [Crevasse record](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), [session](../../Adventures/2026-09-12.md).
 
 ### Understand Ollyander's Law Of The Maw

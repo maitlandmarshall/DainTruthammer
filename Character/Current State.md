@@ -10,9 +10,10 @@
 
 ## Active Session - 2026-09-12
 
-- Latest action: Dain encourages [Olly](../Codex/Characters/Ollyander.md) to explore farther into the cave and see what else is there. Her response and movement are not yet reported; no resource or encounter-state change is established.
+- Earlier action: Dain encouraged [Olly](../Codex/Characters/Ollyander.md) to explore farther into the cave. Her response or discoveries remain unreported.
 
-- Latest scene: in the [guano cavern](../Codex/Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), the party spots [20 giant bats](../Codex/Characters/Giant%20Bats%20-%20Guano%20Cavern.md), reported table-side as CR `1/4` each. Their behavior and awareness are unrecorded; no initiative, damage or other resource change is reported. The entrance alarm remains deployed with no activation reported; scroll balance remains four provisionally under the earlier casting-source assumption.
+- Latest scene: [giant bats](../Codex/Characters/Giant%20Bats%20-%20Guano%20Cavern.md) are swarming the party in response to the [entrance Magic Mouth alarm](../Codex/Items/Cave%20Alarm%20Ball%20Bearing.md), which began screaming when a bat flew in. Initially 20 giant bats were spotted (CR 1/4 each); whether the arriving bat changes that count is unrecorded. No initiative, damage or imposed condition is reported. Scroll balance stays four provisionally under the original casting-source assumption.
+- Latest conversation: Stu casts Speak with Animals and asks a bat about treasure; its reported answer is no treasure. Stu's identity, expenditure and whether Dain hears a translation are unrecorded.
 - Earlier this session: Dain listened to and wrote down [Oleander's Law of the Maw account](../Codex/Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) with interest.
 - Active log: [Session 2026-09-12](../Adventures/2026-09-12.md), prepared from the final events of 2026-08-29. No new in-world events, elapsed time or resource recovery are recorded at startup.
 - Current party context: [tracker screenshots supplied 2026-09-12](../Adventures/2026-09-12-party-tracker.md) establish ship/hold resources and coin allocations in [Party Loot](./Party%20Loot.md). The [skyship](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) has a documented ballista with 20 bolts and 50-ft tactical speed; [sending stones](../Codex/Items/Party%20Sending%20Stones.md) connect Kagrenac to the Dwarf General and an unknown spy-linked partner. These do not establish Dain's personal payout or resource recovery.
