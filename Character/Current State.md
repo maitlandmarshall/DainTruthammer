@@ -10,9 +10,11 @@
 
 ## Active Session - 2026-09-12
 
+- Latest scene: Travelling toward **the tower**, the party stops and packs down the transport to weather the storm at night, with heavy winds forecast. Tower identity, stop location and pack-down details remain unrecorded. Dain's last confirmed HP is **3**; no healing, completed rest or new spell use is reported.
+
 - Earlier action: Dain encouraged [Olly](../Codex/Characters/Ollyander.md) to explore farther; she is now reported at the cave's far end fighting one swarm. Her route and exploration findings remain unrecorded.
 
-- Latest scene: Dain is badly beaten and reduced to **3 HP**. His **Chromatic Orb deals thunder damage to the alpha bat**, then [Stu](../Codex/Characters/Stu.md) in bear form finishes it off. The alpha is defeated; remaining bats and overall encounter completion are unrecorded. Orb damage, casting level and resource source remain to verify.
+- Previous combat: Dain is badly beaten and reduced to **3 HP**. His **Chromatic Orb deals thunder damage to the alpha bat**, then [Stu](../Codex/Characters/Stu.md) in bear form finishes it off. The alpha is defeated; remaining bats and overall encounter completion are unrecorded. Orb damage, casting level and resource source remain to verify.
 - Earlier combat: Thunderclap hurt three bat groups for 8 damage. [Ollyander](../Codex/Characters/Ollyander.md) fought one swarm at the far end and fell from the cave roof; fall consequences remain unrecorded. The entrance mouth triggered earlier; its stop time remains unrecorded. Four Magic Mouth scrolls provisionally remain under the original casting-source assumption.
 - Latest conversation: Stu casts Speak with Animals and asks a bat about treasure; its reported answer is no treasure. Stu's identity, expenditure and whether Dain hears a translation are unrecorded.
 - Earlier this session: Dain listened to and wrote down [Oleander's Law of the Maw account](../Codex/Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) with interest.

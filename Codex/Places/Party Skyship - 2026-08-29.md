@@ -10,6 +10,7 @@ Earlier scene illustration (predates the tracker clarification of armament):
 The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: an enormous hot-air-balloon-like vessel whose current tracker shows a forward ballista, folding wings, a helm and a stocked hold.
 
 ## Status
+- [Party] [Confirmed travel update on 2026-09-12] The party travels toward an unidentified tower, then stops to pack down the transport before forecast heavy winds overnight. [Inferred identification] The transport is read as this established balloon ship; exact packing method and completion are unrecorded. [Session](../../Adventures/2026-09-12.md)
 - [Party] [Confirmed on 2026-08-29] The party has boarded this skyship, departed [Ola Dung Lot](./Ola%20Dung%20Lot.md) and is travelling south. Two [crymeria](../Characters/Crymeria%20Attackers%20-%202026-08-29.md) attacked after takeoff and were destroyed by the party. Whether `crymeria` means standard chimeras is [To verify].
 - [Party] [Confirmed] Its overall design is more like a very large hot-air balloon than a conventional sailing ship.
 - [Party] [Confirmed on 2026-09-12] The current tracker identifies the armament as a ballista and lists `20` bolts. Earlier narration called the weapon a cannon; whether that was shorthand, a replacement or an additional weapon remains [To verify]. Use the ballista as the current documented weapon without inventing an extra cannon.

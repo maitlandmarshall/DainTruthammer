@@ -47,6 +47,8 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 - A bat flies in and triggers the [entrance mouth](../Items/Cave%20Alarm%20Ball%20Bearing.md), which begins screaming. The bats start swarming the party in response.
 - Subsequent combat: Dain's Thunderclap hurts three bat groups for 8 damage, Stu turns into a bear, and Ollyander fights one swarm at the far end. Ollyander is confirmed to have fallen from the cave roof; fall consequences remain unrecorded. Later, Dain is reduced to 3 HP; his thunder Chromatic Orb damages the alpha bat and Stu finishes it in bear form. The alpha is defeated; remaining bats and overall encounter completion remain unrecorded.
 
+- [Confirmed later travel] The party is subsequently travelling toward a tower and stops to pack down its transport for forecast heavy winds overnight. Departure is established by the travel update; remaining bats, guano collection and alarm-bearing retrieval remain unrecorded. [Session](../../Adventures/2026-09-12.md)
+
 ## Open Questions
 - How does the party respond to the swarming bats and screaming alarm, and what lies beyond the revealed cavern?
 - Is guano accessible for collection, and does anyone choose to gather it?

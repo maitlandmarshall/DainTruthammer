@@ -1,5 +1,7 @@
 # Open Threads
 
+- [Party] **Current priority: overnight storm stop en route to the tower.** The party stops and packs down the transport for forecast heavy winds. Dain's last confirmed HP is **3**. Record shelter, transport security and actual rest/recovery; identify which tower is meant. No spell casting or completed long rest is established. [Session](../../Adventures/2026-09-12.md)
+
 ## Current Live Focus - 2026-09-12
 
 - [Party] Latest combat beat: **Dain is at 3 HP**. His thunder Chromatic Orb damages the alpha bat; [Stu](../Characters/Stu.md) in bear form finishes it off. Record recovery, Orb damage/expenditure and remaining bats. [Ollyander](../Characters/Ollyander.md)'s fall consequences remain unknown.
