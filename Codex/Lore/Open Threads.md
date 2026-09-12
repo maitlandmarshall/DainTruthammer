@@ -82,11 +82,12 @@
 ## Open
 
 ### Investigate The Guano-Scented Crevasse
+- Latest player action: Dain encourages [Olly](../Characters/Ollyander.md) to explore farther and see what else is in the cave. Her answer, movement and findings are unreported.
 - Latest development: After seeing the enormous guano piles, the party spots **20 giant bats, CR 1/4 each**. Their reaction and any combat remain unreported. Dain set the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md) beforehand; activation and retrieval remain unreported.
 - Status: Open; discovered on 2026-09-12.
 - Knowledge boundary: [Party]. Dain spots a walk-in crevasse with Investigation `30` (natural `20`); bat-dropping odor is noticed while hovering above it.
 - Why it matters: The party recognizes potential usefulness in the material. Bat guano is also a standard Fireball component when paired with sulfur [rules reference, not a new learned spell].
-- Next possible actions: Establish the giant bats' behavior and the party's response; decide whether to inspect further or collect material. No harvesting has been reported.
+- Next possible actions: Record Olly's response to Dain's encouragement and any exploration; establish the giant bats' behavior and decide whether to collect material. No harvesting has been reported.
 - Unresolved: Exact location, earlier hovering subject/platform, bat behavior and any additional inhabitants, access to the observed deposits and measured quantities. Preserve the roll total as reported; modifiers are not established.
 - Sources: [Crevasse record](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), [session](../../Adventures/2026-09-12.md).
 

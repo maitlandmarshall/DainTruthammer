@@ -10,6 +10,8 @@
 
 ## Active Session - 2026-09-12
 
+- Latest action: Dain encourages [Olly](../Codex/Characters/Ollyander.md) to explore farther into the cave and see what else is there. Her response and movement are not yet reported; no resource or encounter-state change is established.
+
 - Latest scene: in the [guano cavern](../Codex/Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), the party spots [20 giant bats](../Codex/Characters/Giant%20Bats%20-%20Guano%20Cavern.md), reported table-side as CR `1/4` each. Their behavior and awareness are unrecorded; no initiative, damage or other resource change is reported. The entrance alarm remains deployed with no activation reported; scroll balance remains four provisionally under the earlier casting-source assumption.
 - Earlier this session: Dain listened to and wrote down [Oleander's Law of the Maw account](../Codex/Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) with interest.
 - Active log: [Session 2026-09-12](../Adventures/2026-09-12.md), prepared from the final events of 2026-08-29. No new in-world events, elapsed time or resource recovery are recorded at startup.

@@ -77,6 +77,8 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 
 - 2026-09-12: Oleander learns her rat's name, [Goarsqueek](./Goarsqueek.md). Method of discovery is unrecorded. [Session](../../Adventures/2026-09-12.md)
 
+- 2026-09-12: Dain encourages Olly to explore the cave farther to see what else is inside. Her response, movement and any findings are not yet reported. [Session](../../Adventures/2026-09-12.md)
+
 ## Related Entries
 - [Goarsqueek](./Goarsqueek.md)
 - [Pact - Law of the Maw](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md)
