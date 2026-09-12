@@ -45,7 +45,7 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 ## Treasure Question And Alarm Incident
 - Stu casts Speak with Animals and asks a bat whether there is treasure; its reported answer is **no treasure**. This does not establish an exhaustive search of the cave.
 - A bat flies in and triggers the [entrance mouth](../Items/Cave%20Alarm%20Ball%20Bearing.md), which begins screaming. The bats start swarming the party in response.
-- Subsequent combat: Dain's Thunderclap hurts three bat groups for 8 damage, Stu turns into a bear, and Ollyander fights one swarm at the far end. A roof fall is mentioned without a clear subject. No final resolution or party injuries are recorded.
+- Subsequent combat: Dain's Thunderclap hurts three bat groups for 8 damage, Stu turns into a bear, and Ollyander fights one swarm at the far end. Ollyander is confirmed to have fallen from the cave roof; fall consequences remain unrecorded. No final resolution or party injuries are recorded.
 
 ## Open Questions
 - How does the party respond to the swarming bats and screaming alarm, and what lies beyond the revealed cavern?
@@ -74,3 +74,4 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 - [Party Skyship](./Party%20Skyship%20-%202026-08-29.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-09-12](../../Adventures/2026-09-12.md)
+- 2026-09-12: Maitland clarifies that Ollyander was the one who fell from the cave roof. Fall height, cause, damage and resulting conditions remain unrecorded. [Session](../../Adventures/2026-09-12.md)

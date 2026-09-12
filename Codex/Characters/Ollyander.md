@@ -21,7 +21,7 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 
 - [Confirmed on 2026-09-12] Oleander learns the name of her beloved rat: [Goarsqueek](./Goarsqueek.md). This establishes her knowledge; Dain's knowledge of the name is unrecorded. The user now also uses the spelling `Oleander`; the existing page path is retained for continuity.
 
-- [Confirmed latest position on 2026-09-12] Ollyander is at the far end of the guano cave fighting one swarm of bats. A roof fall is mentioned in the same update, but who/what fell and any consequences remain unrecorded.
+- [Confirmed latest position on 2026-09-12] Ollyander is at the far end of the guano cave fighting one swarm of bats. Ollyander is confirmed to have fallen from the cave roof. Fall height, cause, damage and resulting conditions remain unrecorded.
 
 ## What Dain Knows
 - [Party] Ollyander first appears as a small hobbit-like humanoid.
@@ -93,3 +93,4 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Session 2026-05-30](../../Adventures/2026-05-30.md)
 - [Session 2026-07-11](../../Adventures/2026-07-11.md)
+- 2026-09-12: Maitland clarifies that Ollyander was the one who fell from the cave roof. Fall height, cause, damage and resulting conditions remain unrecorded. [Session](../../Adventures/2026-09-12.md)

@@ -2,7 +2,7 @@
 
 ## Current Live Focus - 2026-09-12
 
-- [Party] Latest combat beat: **Thunderclap hurts three bat groups for 8 damage**, [Stu](../Characters/Stu.md) turns into a bear, and [Ollyander](../Characters/Ollyander.md) fights one swarm at the far end. Clarify the roof-fall subject and actual outcome behind "chaos, chaos managed"; no final casualties or party injuries are recorded.
+- [Party] Latest combat beat: **Thunderclap hurts three bat groups for 8 damage**, [Stu](../Characters/Stu.md) turns into a bear, and [Ollyander](../Characters/Ollyander.md) fights one swarm at the far end. Ollyander fell from the cave roof; clarify fall consequences and the actual outcome behind "chaos, chaos managed"; no final casualties or party injuries are recorded.
 
 - [Party] Earlier trigger: a bat triggers the [entrance mouth](../Items/Cave%20Alarm%20Ball%20Bearing.md), it screams, and the [giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md) begin swarming the party. Later Thunderclap damage is recorded below. Stu previously used Speak with Animals and received a bat's answer that there is no treasure.
 
@@ -86,13 +86,13 @@
 ## Open
 
 ### Investigate The Guano-Scented Crevasse
-- Latest combat update: Dain's Thunderclap hurts three groups for 8 damage; Stu turns into a bear; Ollyander fights one swarm at the cave's far end. "Fell from the roof" has no clear subject. "Chaos managed" is the user's assessment, with final outcome still unrecorded.
+- Latest combat update: Dain's Thunderclap hurts three groups for 8 damage; Stu turns into a bear; Ollyander fights one swarm at the cave's far end. Ollyander is confirmed as the one who fell from the cave roof; consequences remain unrecorded. "Chaos managed" is the user's assessment, with final outcome still unrecorded.
 - Latest player action: Dain encourages [Olly](../Characters/Ollyander.md) to explore farther and see what else is in the cave. She is subsequently reported fighting at the far end; her route and findings remain unrecorded.
 - Latest development: Stu casts Speak with Animals and asks a bat about treasure; it reports none. A bat flies in and triggers the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md), which screams. The bats swarm the party in response. Initially 20 giant bats were spotted, CR 1/4 each; no additional count is assumed.
 - Status: Open; discovered on 2026-09-12.
 - Knowledge boundary: [Party]. Dain spots a walk-in crevasse with Investigation `30` (natural `20`); bat-dropping odor is noticed while hovering above it.
 - Why it matters: The party recognizes potential usefulness in the material. Bat guano is also a standard Fireball component when paired with sulfur [rules reference, not a new learned spell].
-- Next possible actions: Record remaining bats/groups, any party injuries, who/what fell, bear-form mechanics, the alarm's duration and whether the encounter is over. No harvesting has been reported.
+- Next possible actions: Record remaining bats/groups, any party injuries, Ollyander's fall height and damage, bear-form mechanics, the alarm's duration and whether the encounter is over. No harvesting has been reported.
 - Unresolved: Exact location, earlier hovering subject/platform, precise bat behavior/positions/current count and any additional inhabitants, access to the observed deposits and measured quantities. Preserve the roll total as reported; modifiers are not established.
 - Sources: [Crevasse record](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), [session](../../Adventures/2026-09-12.md).
 
