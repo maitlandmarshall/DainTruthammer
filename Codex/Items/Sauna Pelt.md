@@ -35,6 +35,10 @@ A completed wet-heat jacket belonging to Brother Taleesh: warm in any cold envir
 - [Party] Taleesh gave Dain a good-quality large pelt and asked for always-warm leather. [To verify who else was listening]
 - [To verify] Whether Taleesh knows the current design may become dangerously hot if uncontrolled.
 
+## Later Supplied Spell Description - 2026-09-12
+- Maitland supplied [Truthhammer’s Yellow Snow Coat](../Powers/Truthhammers%20Yellow%20Snow%20Coat.md), an 8-hour conjuration spell with exact cold protection, odor drawbacks and consumed winter wolf urine components.
+- [To verify] Whether this formalizes the original project or is a related spell. The supplied text does not itself change Taleesh's ownership, establish retrieval of the physical jacket, or retroactively give the existing item an 8-hour duration.
+
 ## What Is Uncertain
 - [To verify] Whether completion added a safety mechanism such as vents, limits, a release flap, command word, or temperature ceiling.
 - [To verify] Exact mechanical meaning of "always warm in any cold environment" and of the persistent wetness.

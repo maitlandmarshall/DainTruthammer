@@ -71,6 +71,12 @@
 
 ## Open
 
+### Place Yellow Snow Coat In Dain's Research History
+- Status: Open.
+- Latest development: Maitland supplied complete mechanics for [Truthhammer’s Yellow Snow Coat](../Powers/Truthhammers%20Yellow%20Snow%20Coat.md) on 2026-09-12. The exact text is recorded with Dain's custom magic.
+- To verify: When Dain learned/created it; whether it formalizes the Sauna Pelt project; compatibility with medium armor, since the text specifies light armor.
+- Keep separate: Taleesh still owns the physical [Sauna Jacket](../Items/Sauna%20Pelt.md) left in town. No new casting, flask consumption or active effect is recorded.
+
 ### Complete Wizard 5 And Acquire Spell Knowledge
 - Status: Active.
 - Knowledge boundary: [Character-only]; table-side level-up decisions.

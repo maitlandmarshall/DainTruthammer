@@ -69,6 +69,10 @@
 - [Party] [Confirmed on 2026-08-29] The party acquires five [`Magic Mouth` spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md). `Magic Mouth` is not yet added to Dain's spells on sheet: ownership, carrier, transcription attempt, materials and outcome remain [To verify].
 - [Character-only] [Confirmed goal on 2026-08-29] Dain intends to acquire `Skywrite` and `Pyrotechnics` later. They are research targets only, not current spells or inventory; confirm Tom permits their source material.
 
+## Custom Spell - Supplied Mechanics
+- [Truthhammer’s Yellow Snow Coat](../Codex/Powers/Truthhammers%20Yellow%20Snow%20Coat.md): 1st-level conjuration (ritual), touch, 1 action, 8 hours; consumes one flask of winter wolf urine per jacket. Protects against extreme cold, resists nonmagical cold damage, and imposes the supplied odor/social drawbacks. Upcasting adds one jacket and flask per slot level above 1st.
+- [Confirmed user-supplied text on 2026-09-12] Full mechanics are preserved on the linked page. Learning/creation date and its relationship to the physical Sauna Pelt are [To verify]. No casting, preparation, active effect or component use is recorded. This does not replace Major Image or Stinking Cloud as the Wizard 5 choices.
+
 ## Experimental Spell Research
 - [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) [Character-only]
   A DM-given spell created by Dain that creates a shelter-like magical structure but worsens the surrounding elements rather than protecting from them. [Confirmed on 2026-04-24]
