@@ -6,12 +6,12 @@
 Five Magic Mouth scrolls originally acquired for Dain's research; Dain now confirms **three in his possession**.
 
 ## Status
-- [Confirmed latest count on 2026-09-12] Maitland reports "I now have 3 scrolls of mouth thing": **3 Magic Mouth scrolls in Dain's possession**. This supersedes the prior provisional four. No additional cast, loss, transfer or transcription is established by the count alone. [Session](../../Adventures/2026-09-12.md)
+- [Confirmed latest count on 2026-09-12] Maitland reports "I now have 3 scrolls of mouth thing": **3 Magic Mouth scrolls in Dain's possession**. This supersedes the prior provisional four. Maitland subsequently explains the reduction: Dain failed to learn Magic Mouth from a scroll, consuming it. **Three remain; the spell is not learned.** [Session](../../Adventures/2026-09-12.md)
 - [Party] [Confirmed on 2026-08-29] The party acquires exactly `5` `Magic Mouth` spell scrolls.
 - [To verify] Whether Ben, the quartermasters or another source provides them; whether they are a gift, issue, loan or charged requisition; their original ownership. Dain now confirms possession of the three remaining scrolls.
 - [Confirmed state boundary] Dain does not automatically know `Magic Mouth` merely because the party possesses its scrolls. Copying one into his spellbook, casting one, consuming one experimentally or distributing them requires a later confirmed action.
 
-- [Confirmed cast on 2026-09-12] Dain casts [Magic Mouth onto a ball bearing](./Cave%20Alarm%20Ball%20Bearing.md) before cave entry. [Inferred, stated bookkeeping assumption] One scroll is consumed, giving an earlier provisional count of `4`, now superseded by the confirmed three; the user did not explicitly specify casting source. No transcription has been established.
+- [Confirmed cast on 2026-09-12] Dain casts [Magic Mouth onto a ball bearing](./Cave%20Alarm%20Ball%20Bearing.md) before cave entry. [Inferred, stated bookkeeping assumption] One scroll is consumed, giving an earlier provisional count of `4`, now superseded by the confirmed three; the user did not explicitly specify casting source. A subsequent clarification confirms one failed transcription consumed a scroll; Magic Mouth remains unlearned.
 
 ## Why Dain Wanted Them
 - `Magic Mouth` is a 2nd-level illusion ritual built around programmable triggers, conditional behaviour and a lasting magical message.
@@ -22,7 +22,7 @@ Five Magic Mouth scrolls originally acquired for Dain's research; Dain now confi
 - [To verify table rules] Under the normal 2014 wizard transcription baseline, copying a 2nd-level wizard spell takes `4 hours` and `100 gp` of inks and materials.
 - [To verify table rules] Copying from a spell scroll normally requires an Intelligence (Arcana) check with `DC 12`; the scroll is destroyed whether the check succeeds or fails.
 - [To verify table rules] Casting directly from a spell scroll consumes that scroll.
-- Dain's current Wizard 5 Arcana modifier is `+11`; no transcription attempt or roll has been recorded.
+- Dain's current Wizard 5 Arcana modifier is `+11`. One transcription attempt is confirmed failed by the user; its roll, applied DC/modifier, time and ink/gold expenditure are unrecorded. Preserve the reported table outcome without inventing a roll or overriding it with the reference rules.
 
 ## Possible Allocation - Historical Proposal Before The Cave Cast
 - This earlier five-scroll proposal was never adopted; it must be reconsidered against the current confirmed remainder of three.
@@ -35,6 +35,8 @@ Five Magic Mouth scrolls originally acquired for Dain's research; Dain now confi
 - 2026-08-29: The party acquires five `Magic Mouth` scrolls while assembling magical equipment and research requests through Ben and the quartermasters. Exact source, carrier and ownership remain [To verify]. [Session 2026-08-29](../../Adventures/2026-08-29.md)
 
 - 2026-09-12: Dain casts the cave alarm. Bookkeeping assumes one scroll used (`5 → 4` provisionally); the actual source remains unconfirmed. [Session](../../Adventures/2026-09-12.md)
+
+- 2026-09-12 clarification: Dain fails to learn Magic Mouth from a scroll, consuming it and explaining the count of **3 remaining** after the earlier cave-alarm accounting. No new casting or successful learning occurs. [Session](../../Adventures/2026-09-12.md)
 
 ## Related Entries
 - [Cave Alarm Ball Bearing](./Cave%20Alarm%20Ball%20Bearing.md)

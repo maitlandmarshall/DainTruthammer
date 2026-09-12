@@ -12,7 +12,7 @@
 
 - [Party] Earlier view: an [open cavern with giant bat-guano heaps](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), more than the party has ever seen. Deposits are now visually confirmed; collection remains unreported; 20 giant bats are subsequently spotted.
 
-- [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Activation is now confirmed; track when the screaming stops and eventual retrieval. Dain now confirms **3 scrolls in his possession**, replacing the earlier provisional four; intervening use/disposition remains unrecorded.
+- [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Activation is now confirmed; track when the screaming stops and eventual retrieval. Dain now confirms **3 scrolls in his possession**, after a failed transcription consumed one scroll; Magic Mouth remains unlearned. Copying costs and roll are unrecorded.
 
 - [Party] Entrance discovery: Dain spots a [walk-in crevasse](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) on Investigation `30` (natural `20`). Hovering above it, bat-dropping odor suggests potentially useful material; no entry or collection is established.
 
@@ -117,7 +117,7 @@
 - Status: Active.
 - Knowledge boundary: [Character-only]; table-side level-up decisions.
 - Latest development: On 2026-09-12 Maitland chose Major Image + Stinking Cloud and requested Glyph of Warding plus recommended spells as acquisition goals. The shortlist also includes Tiny Servant, Nystul's Magic Aura, Blink and Phantom Steed; existing Skywrite and Pyrotechnics goals remain.
-- Next actions: Confirm HP baseline and increase, edition-dependent features and prepared list. Seek spell sources; remaining Magic Mouth scroll allocation is the nearest copying opportunity (four provisionally after the inferred alarm use). Do not count targets as learned or spend unconfirmed gold.
+- Next actions: Confirm HP baseline and increase, edition-dependent features and prepared list. Seek spell sources; remaining Magic Mouth scroll allocation is the nearest copying opportunity (three confirmed after the failed transcription; Magic Mouth remains unlearned). Do not count targets as learned or spend unconfirmed gold.
 - Links: [Wizard 5 update](../../Character/Current%20State.md#wizard-5-update---2026-09-12), [spell acquisition goals](../../Character/Spellbook.md#future-spell-acquisition-goals), [session](../../Adventures/2026-09-12.md).
 
 ### Identify And Test The Flying Broom

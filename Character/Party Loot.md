@@ -115,7 +115,7 @@ From Photo 2. A dash below means a blank source cell, not a zero or a confirmed 
 - A human/townsperson from before is involved in a trade with Ollyander worth `60 gp` in silver. [Party] [To verify direction of trade, current holder, whether this is the human who ran away, and whether it belongs in party loot or Ollyander's personal inventory]
 
 ## Ola Dung Lot Requisition
-- [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md): `5` acquired on 2026-08-29; **3 now confirmed in Dain's possession** on 2026-09-12. This replaces the earlier provisional four after the [alarm cast](../Codex/Items/Cave%20Alarm%20Ball%20Bearing.md). Exact intervening use/disposition and successful transcription are unrecorded.
+- [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md): `5` acquired on 2026-08-29; **3 now confirmed in Dain's possession** on 2026-09-12. This replaces the earlier provisional four after the [alarm cast](../Codex/Items/Cave%20Alarm%20Ball%20Bearing.md). Dain confirms a failed transcription consumed one scroll, explaining the reduction to three. Magic Mouth remains unlearned; no exact copying costs are recorded.
 
 ## Open Questions
 - [To verify] Which party member carries the burdock and ginseng.
@@ -125,7 +125,7 @@ From Photo 2. A dash below means a blank source cell, not a zero or a confirmed 
 - [To verify] Who carries the opened [Goblin Camp Chest](../Codex/Items/Goblin%20Camp%20Chest.md), who carries or splits the `500 gp`, who claims the [Mask of Changed Appearance](../Codex/Items/Mask%20of%20Changed%20Appearance.md), the mask's duration/recharge/attunement, and whether taking it creates future trouble with the goblins.
 - [To verify] Exact artisan equipment order from the dragon remains and whether this creates shared party gear, Dain-specific gear, or town obligations.
 - [To verify] Final dice-table accounting after the 2026-06-20 game: who holds [Dain's Seal](../Codex/Items/Dains%20Seal.md), who holds the `100 gp` worth of silver Dain bet, what Ollyander won, and how the human/townsperson's `60 gp` worth of silver was exchanged.
-- [To verify] Whether the cave alarm used a scroll as assumed, what accounts for the difference from the original five to Dain's confirmed three, and whether he reserves one for transcription. No additional cast or copying is inferred.
+- [To verify] Whether the cave alarm used a scroll as assumed, and whether Dain reserves another for transcription after his confirmed failed attempt. Three remain; copying costs and roll are unrecorded.
 
 ## Related Entries
 - [Burdock](../Codex/Items/Burdock.md)

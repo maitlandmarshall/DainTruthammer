@@ -10,7 +10,7 @@ A ball bearing Dain drops from his bag and enchants with Magic Mouth before ente
 ## Status
 - [Confirmed on 2026-09-12] Dain drops one ball bearing from his bag before entering the [cave](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) and casts Magic Mouth on it.
 - [Confirmed intent] It should scream into the cave and warn the party if something enters behind them.
-- [Inferred bookkeeping assumption, stated to the user] This uses one of the party's five [Magic Mouth scrolls](./Magic%20Mouth%20Scrolls.md), giving an earlier provisional count of four. Dain subsequently confirms three scrolls in his possession; that current count supersedes the estimate without establishing another cast. The cast is confirmed; its source is not explicit. No successful spellbook transcription has been recorded.
+- [Inferred bookkeeping assumption, stated to the user] This uses one of the party's five [Magic Mouth scrolls](./Magic%20Mouth%20Scrolls.md), giving an earlier provisional count of four. Dain subsequently confirms three scrolls in his possession; he clarifies a failed transcription consumed one scroll, explaining the reduction without another cast. The cast is confirmed; its source is not explicit. No successful spellbook transcription has been recorded.
 - Under that scroll assumption, no spell slot or separate material-component expenditure is deducted. Reconcile if the user establishes a different casting source.
 - The bearing is deployed outside the cave before entry, not destroyed. Remaining bearings in Dain's bag are unknown; no standard bag quantity is assumed.
 - [Confirmed subsequent activation] A bat flies into the entrance and triggers the mouth, which begins screaming. The bats then start swarming the party in response. No further spell casting or resource expenditure is reported for this activation.
@@ -24,7 +24,7 @@ A ball bearing Dain drops from his bag and enchants with Magic Mouth before ente
 
 ## Follow-Up
 - Activation is confirmed. Track when the screaming stops, whether the spell ends after this delivery or can trigger again, and whether the party retrieves the bearing. The original repeat setting remains unrecorded.
-- Confirm casting source if scroll accounting needs correction; preserve successful transcription as unconfirmed until established.
+- Confirm casting source if scroll accounting needs correction; the subsequent transcription attempt is confirmed failed and consumed one scroll; the spell remains unlearned.
 
 ## Observed Trigger And Consequence
 - [Party] An entering bat satisfies the actual trigger and makes the mouth scream.
