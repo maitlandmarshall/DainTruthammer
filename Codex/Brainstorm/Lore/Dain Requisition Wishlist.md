@@ -12,7 +12,7 @@ An idea-stage requisition list for scrolls, magical curios and laboratory suppli
 ## Promoted Spell Goals - 2026-09-12
 - The active [spell acquisition shortlist](../../../Character/Spellbook.md#future-spell-acquisition-goals) now records Glyph of Warding, Tiny Servant, Nystul's Magic Aura, Blink and Phantom Steed as goals, alongside the existing Skywrite and Pyrotechnics goals. None of these spells is acquired yet.
 - Major Image and Stinking Cloud are now Dain's confirmed Wizard 5 spellbook choices, not scroll requests.
-- Magic Mouth remains the nearest copying opportunity from the party's five scrolls, subject to allocation and transcription.
+- Magic Mouth remains the nearest copying opportunity: five scrolls acquired, four provisionally remaining after Dain's inferred scroll use for the [cave alarm](../../Items/Cave%20Alarm%20Ball%20Bearing.md). Allocation and transcription remain unconfirmed.
 
 ## Brainstorm Routing
 - Current shelf: [Brainstorm](../README.md).

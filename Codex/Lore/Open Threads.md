@@ -2,6 +2,8 @@
 
 ## Current Live Focus - 2026-09-12
 
+- [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Track activation and retrieval. Scrolls provisionally `5 → 4` under the stated casting-source assumption.
+
 - [Party] Latest discovery: Dain spots a [walk-in crevasse](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) on Investigation `30` (natural `20`). Hovering above it, bat-dropping odor suggests potentially useful material; no entry or collection is established.
 
 - [Character-only] Earlier travel beat: Ollyander speaks her [Law of the Maw account](./Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) to her beloved rat; Dain records it with interest. The next destination is not named.
@@ -14,7 +16,7 @@
 - [Party] [Session 2026-09-12](../../Adventures/2026-09-12.md) is prepared from the southbound skyship fight's aftermath. Both attackers are destroyed; no new in-world action or rest is recorded at startup.
 - [Party] [To verify] Establish Taleesh's return aboard, party injuries/resources, ship condition and next destination; continue the captive-recovery and southwestern-warning missions and confirm the introduction letter.
 - [Character-only] [Open] Confirm the [Flying Broom](../Items/Flying%20Broom.md)'s rules and the [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md)'s equipped state; carry forward the accepted [azer connection](./Azer%20Spark%20and%20Truthhammer%20Fire%20Portal.md) without inventing mechanics.
-- [Party] [Open] Assign the five [Magic Mouth scrolls](../Items/Magic%20Mouth%20Scrolls.md), ask Harry about the puppet, and preserve the later [Sauna Jacket](../Items/Sauna%20Pelt.md) retrieval errand.
+- [Party] [Open] Assign the remaining [Magic Mouth scrolls](../Items/Magic%20Mouth%20Scrolls.md), ask Harry about the puppet, and preserve the later [Sauna Jacket](../Items/Sauna%20Pelt.md) retrieval errand.
 
 ## Prior Live Focus - 2026-08-29
 - [Party] The [current session](../../Adventures/2026-08-29.md) opens in [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), a city in the [Samryn Torsten](./Samryn%20Torsten.md) area, after Agland's sealed letter is delivered.
@@ -76,6 +78,7 @@
 ## Open
 
 ### Investigate The Guano-Scented Crevasse
+- Latest development: Dain casts the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md) before entry; no alarm activation or entry is yet reported. Record the eventual trigger and retrieval outcome.
 - Status: Open; discovered on 2026-09-12.
 - Knowledge boundary: [Party]. Dain spots a walk-in crevasse with Investigation `30` (natural `20`); bat-dropping odor is noticed while hovering above it.
 - Why it matters: The party recognizes potential usefulness in the material. Bat guano is also a standard Fireball component when paired with sulfur [rules reference, not a new learned spell].
@@ -102,7 +105,7 @@
 - Status: Active.
 - Knowledge boundary: [Character-only]; table-side level-up decisions.
 - Latest development: On 2026-09-12 Maitland chose Major Image + Stinking Cloud and requested Glyph of Warding plus recommended spells as acquisition goals. The shortlist also includes Tiny Servant, Nystul's Magic Aura, Blink and Phantom Steed; existing Skywrite and Pyrotechnics goals remain.
-- Next actions: Confirm HP baseline and increase, edition-dependent features and prepared list. Seek spell sources; party Magic Mouth scroll allocation is the nearest copying opportunity. Do not count targets as learned or spend unconfirmed gold.
+- Next actions: Confirm HP baseline and increase, edition-dependent features and prepared list. Seek spell sources; remaining Magic Mouth scroll allocation is the nearest copying opportunity (four provisionally after the inferred alarm use). Do not count targets as learned or spend unconfirmed gold.
 - Links: [Wizard 5 update](../../Character/Current%20State.md#wizard-5-update---2026-09-12), [spell acquisition goals](../../Character/Spellbook.md#future-spell-acquisition-goals), [session](../../Adventures/2026-09-12.md).
 
 ### Identify And Test The Flying Broom

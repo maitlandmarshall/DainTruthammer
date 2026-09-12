@@ -12,7 +12,7 @@ A crevasse large enough to walk into, spotted by Dain during travel after a natu
 - [Confirmed] The opening is big enough to walk into.
 - [Party] While hovering over it, the smell of bat droppings is noticed, and the party recognizes that this could be useful.
 - [To verify] Who or what is hovering, exact location, dimensions and depth, interior, inhabitants and access conditions. The narration does not specify whether this is the skyship or Dain using his broom.
-- [Confirmed state boundary] No entry, descent, visible bat, harvested guano, sample quantity, expenditure or resource recovery has been reported.
+- [Confirmed latest action] Before entering, Dain drops a bearing from his bag and casts [Magic Mouth on it as an alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md). One scroll use is inferred for bookkeeping, not explicitly stated. No entry, alarm activation, visible bat, harvested guano or recovery is reported.
 - Roll preserved as reported: natural 20 / total 30. The modifiers or situational bonuses behind that total are unrecorded; do not replace Dain's recorded base Investigation modifier from this roll alone.
 
 ## What Dain And The Party Know
@@ -32,7 +32,10 @@ A crevasse large enough to walk into, spotted by Dain during travel after a natu
 ## Notable Events
 - 2026-09-12: Dain spots the crevasse on Investigation `30` (natural `20`). Bat-dropping odor is noticed while hovering over it, and the party recognizes potential usefulness. [Session](../../Adventures/2026-09-12.md)
 
+- 2026-09-12: Dain places the [Magic Mouth bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before entering, to warn if something enters behind the party. [Session](../../Adventures/2026-09-12.md)
+
 ## Related Entries
+- [Cave Alarm Ball Bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md)
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 - [Current State](../../Character/Current%20State.md)
 - [Party Skyship](./Party%20Skyship%20-%202026-08-29.md)
