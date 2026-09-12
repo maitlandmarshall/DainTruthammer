@@ -5,7 +5,7 @@
 - Spellcasting Ability: INT
 - Spell Save DC: 16
 - Spell Attack Bonus: +8
-- Maximum slots: 1st-level `4`, 2nd-level `3`, 3rd-level `2`. Current remaining slots are [To verify]; the level-up records no rest or resource refresh.
+- Maximum slots: 1st-level `4`, 2nd-level `3`, 3rd-level `2`. Current remaining slots are [To verify]; one 3rd-level slot is confirmed spent on Leaky Tent on 2026-09-12. No completed rest or resource refresh is recorded.
 - Prepared spells: [To verify table rules and chosen list] `10` under 2014 Wizard rules with INT 20; `9` under 2024 Wizard rules. The two new spellbook entries below do not by themselves establish the prepared list.
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
 - [To verify] `Prestidigitation` is repeatedly recorded in prior play use, but it is not currently listed under **Cantrips On Sheet**. Confirm whether this is an omitted cantrip, a table allowance, sheet drift, or an earlier record error before relying on it in live play.
@@ -79,6 +79,7 @@
   Research progress: complete. [Formal in-world creation recorded on 2026-05-03]
   Current notes: Inspired during mountain travel after Dain conjured a shelter and lit a camp fire within it; extended with another 2 hours of work at the creek-fork camp. On 2026-04-24, the DM gave/approved the completed mechanics under the working title `Truthammer's Leaky Shelter`. On 2026-05-03, Dain pushed his normal tent into a flowing river, experimented with somatic components, and formally created the spell as `Truthammer's Leaky Tent`.
   Confirmed mechanics: 1-minute cast time; either ritual or 1st-level spell [To verify final casting format]; 8-hour duration; immobile 10-foot-square hut; AC 10; HP 5; always leaks water inside regardless of outside weather.
+  Confirmed upcast on 2026-09-12: a 3rd-level casting creates a **30-foot tent**. Exact dimensions, other-level scaling and durability changes are unspecified.
   Confirmed Wet effect: anything inside immediately becomes Wet, gaining vulnerability to lightning and cold damage and resistance to fire damage until dried for 10 minutes or until it takes fire, cold, or lightning damage. [To verify exact condition wording]
 - [Always-Cold Robes](../Codex/Items/Always-Cold%20Robes.md) [Character-only] [In progress]
   A prototype magical garment concept begun after Dain abandoned a more conventional attempt to make robes that were always warm for Brother Taleesh. [Confirmed on 2026-05-03]
@@ -115,3 +116,4 @@
 - 2026-09-12: Dain casts **Thunderclap**, hurting **three groups of bats for 8 damage** in the guano cavern. Cantrip: no spell slot spent. Exact saving throws, individual damage allocation and casualties are unrecorded. [Session](../Adventures/2026-09-12.md)
 - 2026-09-12: Dain casts **Chromatic Orb**, dealing **thunder damage** to the alpha bat before Stu finishes it in bear form. Damage roll, casting level and resource source are unrecorded; no exact remaining slot total is inferred. [Session](../Adventures/2026-09-12.md)
 - 2026-09-12 clarification: Dain fails to learn **Magic Mouth** from a scroll. One scroll consumed; **3 remain**. The spell is not added to learned spells. Roll, time and gold/material cost are unrecorded. [Session](../Adventures/2026-09-12.md)
+- 2026-09-12: Dain casts [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at **3rd level**, producing a **30-foot tent** at the storm stop. One 3rd-level slot spent; remaining total unknown. [Session](../Adventures/2026-09-12.md)

@@ -1,5 +1,8 @@
 # Inventory
 
+## Current Camp Shelter - 2026-09-12
+- [Party] [Confirmed] Nobody in the party has a tent available at the storm stop. Dain supplies a summoned **30-foot Leaky Tent** using a 3rd-level slot; this is a temporary spell effect, not acquired mundane equipment. [Session](../Adventures/2026-09-12.md)
+
 ## Source
 - [Confirmed] Imported from [Dicfuc_164465751.pdf](../Dicfuc_164465751.pdf) on 2026-04-18.
 - [To verify] The sheet does not distinguish clearly between equipped, worn, and stowed items, so this file preserves what is listed.

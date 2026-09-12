@@ -1,6 +1,6 @@
 # Open Threads
 
-- [Party] **Current priority: overnight storm stop en route to the tower.** The party stops and packs down the transport for forecast heavy winds. Dain's last confirmed HP is **3**. Record shelter, transport security and actual rest/recovery; identify which tower is meant. No spell casting or completed long rest is established. [Session](../../Adventures/2026-09-12.md)
+- [Party] **Current priority: overnight storm stop en route to the tower.** The party stops and packs down the transport for forecast heavy winds. Dain's last confirmed HP is **3**. Dain has now summoned a **30-foot Leaky Tent at 3rd level**, spending one slot because the party has no tents. Record occupants/Wet effects, transport security, shelter performance and actual rest/recovery; identify which tower is meant. No completed long rest is established. [Session](../../Adventures/2026-09-12.md)
 
 ## Current Live Focus - 2026-09-12
 

@@ -10,7 +10,7 @@
 
 ## Active Session - 2026-09-12
 
-- Latest scene: Travelling toward **the tower**, the party stops and packs down the transport to weather the storm at night, with heavy winds forecast. Tower identity, stop location and pack-down details remain unrecorded. Dain's last confirmed HP is **3**; no healing, completed rest or new spell use is reported.
+- Latest scene: At the storm stop en route to **the tower**, Dain casts [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at **3rd level**, conjuring a massive **30-foot tent** because nobody in the party has a tent. **One 3rd-level slot spent**; exact remaining slots unknown. Active tent lasts 8 hours under recorded mechanics. Dain remains at **3 HP**; no healing or completed rest is reported. Party entry/Wet application and effectiveness against the forecast heavy winds remain unrecorded. Transport pack-down is the preceding activity.
 
 - Earlier action: Dain encouraged [Olly](../Codex/Characters/Ollyander.md) to explore farther; she is now reported at the cave's far end fighting one swarm. Her route and exploration findings remain unrecorded.
 
