@@ -12,7 +12,8 @@
 
 - Earlier action: Dain encouraged [Olly](../Codex/Characters/Ollyander.md) to explore farther; she is now reported at the cave's far end fighting one swarm. Her route and exploration findings remain unrecorded.
 
-- Latest scene: Dain casts Thunderclap, hurting **three bat groups for 8 damage**; [Stu](../Codex/Characters/Stu.md) turns into a bear; [Ollyander](../Codex/Characters/Ollyander.md) fights one swarm at the far end of the cave. Ollyander is confirmed to have fallen from the cave roof; fall damage and resulting conditions remain unrecorded. The user describes "chaos, chaos managed"; casualties, injuries and final outcome remain unrecorded. Thunderclap spends no spell slot. The entrance mouth triggered earlier; when it stops screaming is unrecorded. Scroll balance remains four provisionally under the original casting-source assumption.
+- Latest scene: Dain is badly beaten and reduced to **3 HP**. His **Chromatic Orb deals thunder damage to the alpha bat**, then [Stu](../Codex/Characters/Stu.md) in bear form finishes it off. The alpha is defeated; remaining bats and overall encounter completion are unrecorded. Orb damage, casting level and resource source remain to verify.
+- Earlier combat: Thunderclap hurt three bat groups for 8 damage. [Ollyander](../Codex/Characters/Ollyander.md) fought one swarm at the far end and fell from the cave roof; fall consequences remain unrecorded. The entrance mouth triggered earlier; its stop time remains unrecorded. Four Magic Mouth scrolls provisionally remain under the original casting-source assumption.
 - Latest conversation: Stu casts Speak with Animals and asks a bat about treasure; its reported answer is no treasure. Stu's identity, expenditure and whether Dain hears a translation are unrecorded.
 - Earlier this session: Dain listened to and wrote down [Oleander's Law of the Maw account](../Codex/Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) with interest.
 - Active log: [Session 2026-09-12](../Adventures/2026-09-12.md), prepared from the final events of 2026-08-29. No new in-world events, elapsed time or resource recovery are recorded at startup.
@@ -60,7 +61,7 @@
 
 ## Core Numbers
 - Max HP: [To verify] Level-4 baseline likely `29`, plus the pending Wizard 5 HP increase; `35` only if baseline 29 and fixed +6 are confirmed.
-- Current HP: [To verify] Last recorded restoration was the 2026-07-11 long rest; subsequent combat and the level-up have not established current HP.
+- Current HP: **3** [Confirmed on 2026-09-12 during the guano-cavern fight]. No subsequent healing is reported.
 - Temp HP: [To verify] the Temp HP field shows `--`
 - AC: `14` from the last confirmed equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11] Dain now owns [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md) described as `+2 AC`; if this is standard magical `+2` half plate and he equips it, his AC would be `17`. Equipped state and exact table wording remain [To verify].
 - Initiative: +0

@@ -17,7 +17,9 @@ Twenty giant bats initially spotted in the guano cavern (CR 1/4 each); they subs
 - [Confirmed table detail] **CR 1/4 each**.
 - [Confirmed latest behavior] The bats begin swarming the party in response to the Magic Mouth alarm screaming after a bat flies in and triggers it.
 - [To verify] Precise positions, intentions, initiative, current count, and stats beyond the reported CR. The incoming bat may or may not be additional to the original 20.
-- [Confirmed subsequent combat] Dain casts Thunderclap, hurting three bat groups for reported 8 damage. Ollyander fights one swarm at the far end of the cave. Individual bat HP, saving throws, casualties, defeats and rewards are unrecorded. Groups/swarms follow the user's encounter description; no replacement stat block is assumed.
+- [Confirmed subsequent combat] Dain casts Thunderclap, hurting three bat groups for reported 8 damage. Ollyander fights one swarm at the far end of the cave. Individual bat HP, saving throws and rewards are unrecorded; the alpha is subsequently defeated as recorded below. Groups/swarms follow the user's encounter description; no replacement stat block is assumed.
+
+- [Confirmed latest outcome] Dain falls to 3 HP, damages the **alpha bat** with thunder Chromatic Orb, and Stu in bear form finishes it off. Alpha stats, relationship to the initial count and remaining bats are unrecorded; the reported CR 1/4 is not automatically assigned to a distinct alpha stat block. [Session](../../Adventures/2026-09-12.md)
 
 ## Treasure Answer
 - [Confirmed] Stu casts Speak with Animals and asks a bat about treasure. The bat reports **no treasure**.

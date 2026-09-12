@@ -17,9 +17,11 @@ A participant in the guano-cavern encounter who speaks with a bat using magic an
 - 2026-09-12: Stu casts Speak with Animals and asks a bat about treasure. The reported answer is no treasure. [Session](../../Adventures/2026-09-12.md)
 - 2026-09-12: During the subsequent bat encounter, Stu turns into a bear. [Session](../../Adventures/2026-09-12.md)
 
+- 2026-09-12: In bear form, Stu finishes off the alpha bat after Dain hits it with thunder damage from Chromatic Orb. Exact attack and damage are unrecorded. [Session](../../Adventures/2026-09-12.md)
+
 ## Current State
 - [Confirmed] Bear form at the latest reported beat.
-- [To verify] Bear type, transformation method, duration, uses or slots spent, HP, actions and other mechanics. Do not assume Wild Shape, a druid class, a particular bear stat block or a completed attack.
+- [To verify] Bear type, transformation method, duration, uses or slots spent, HP, actions and other mechanics. Do not assume Wild Shape, a druid class, a particular bear stat block or an exact attack mechanic.
 - Ordinary appearance and identity remain unrecorded.
 
 ## Related Entries

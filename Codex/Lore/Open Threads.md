@@ -2,7 +2,7 @@
 
 ## Current Live Focus - 2026-09-12
 
-- [Party] Latest combat beat: **Thunderclap hurts three bat groups for 8 damage**, [Stu](../Characters/Stu.md) turns into a bear, and [Ollyander](../Characters/Ollyander.md) fights one swarm at the far end. Ollyander fell from the cave roof; clarify fall consequences and the actual outcome behind "chaos, chaos managed"; no final casualties or party injuries are recorded.
+- [Party] Latest combat beat: **Dain is at 3 HP**. His thunder Chromatic Orb damages the alpha bat; [Stu](../Characters/Stu.md) in bear form finishes it off. Record recovery, Orb damage/expenditure and remaining bats. [Ollyander](../Characters/Ollyander.md)'s fall consequences remain unknown.
 
 - [Party] Earlier trigger: a bat triggers the [entrance mouth](../Items/Cave%20Alarm%20Ball%20Bearing.md), it screams, and the [giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md) begin swarming the party. Later Thunderclap damage is recorded below. Stu previously used Speak with Animals and received a bat's answer that there is no treasure.
 
@@ -86,7 +86,7 @@
 ## Open
 
 ### Investigate The Guano-Scented Crevasse
-- Latest combat update: Dain's Thunderclap hurts three groups for 8 damage; Stu turns into a bear; Ollyander fights one swarm at the cave's far end. Ollyander is confirmed as the one who fell from the cave roof; consequences remain unrecorded. "Chaos managed" is the user's assessment, with final outcome still unrecorded.
+- Latest combat update: Dain is reduced to **3 HP**, hits the alpha with thunder Chromatic Orb, then Stu in bear form finishes it off. Alpha defeat is confirmed; remaining bats and overall encounter completion are unrecorded.
 - Latest player action: Dain encourages [Olly](../Characters/Ollyander.md) to explore farther and see what else is in the cave. She is subsequently reported fighting at the far end; her route and findings remain unrecorded.
 - Latest development: Stu casts Speak with Animals and asks a bat about treasure; it reports none. A bat flies in and triggers the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md), which screams. The bats swarm the party in response. Initially 20 giant bats were spotted, CR 1/4 each; no additional count is assumed.
 - Status: Open; discovered on 2026-09-12.
