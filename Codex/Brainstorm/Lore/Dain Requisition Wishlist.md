@@ -5,9 +5,14 @@ An idea-stage requisition list for scrolls, magical curios and laboratory suppli
 
 ## Status
 - [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls or items that support his long-term ambition to create odd and useless spells.
-- [Character-only] [Idea-stage except where promoted] The candidates below remain recommendations unless a line explicitly records acquisition. `Magic Mouth` has now been promoted into canon through the party's acquisition of [five scrolls](../../Items/Magic%20Mouth%20Scrolls.md).
+- [Character-only] [Idea-stage except where promoted] The candidates below remain recommendations unless a line explicitly records an approved goal or acquisition. `Magic Mouth` has now been promoted into canon through the party's acquisition of [five scrolls](../../Items/Magic%20Mouth%20Scrolls.md).
 - [Character-only] [Confirmed goal on 2026-08-29] `Skywrite` and `Pyrotechnics` are now explicit future acquisition goals, but neither spell nor scroll is currently owned.
 - [To verify] Ben's authority and stock, the quartermasters' budget, Tom's allowed sourcebooks, copying rules and whether the party must choose between personal research supplies and airship mission equipment.
+
+## Promoted Spell Goals - 2026-09-12
+- The active [spell acquisition shortlist](../../../Character/Spellbook.md#future-spell-acquisition-goals) now records Glyph of Warding, Tiny Servant, Nystul's Magic Aura, Blink and Phantom Steed as goals, alongside the existing Skywrite and Pyrotechnics goals. None of these spells is acquired yet.
+- Major Image and Stinking Cloud are now Dain's confirmed Wizard 5 spellbook choices, not scroll requests.
+- Magic Mouth remains the nearest copying opportunity from the party's five scrolls, subject to allocation and transcription.
 
 ## Brainstorm Routing
 - Current shelf: [Brainstorm](../README.md).
@@ -37,7 +42,7 @@ Build a balanced requisition rather than asking only for curios:
 
 ## Best Scroll Requests From Ben
 
-These avoid spells already recorded in Dain's book, including `Silent Image` and `Rope Trick`. Dain can normally copy only wizard spells of a level he can prepare, so 1st- and 2nd-level wizard scrolls are the cleanest requests at Wizard 4.
+These avoid spells already recorded in Dain's book, including `Silent Image` and `Rope Trick`. Dain can normally copy only wizard spells of a level he can prepare, so 1st- through 3rd-level wizard scrolls are now eligible research targets at Wizard 5.
 
 ### First Priority: Spellmaking Principles
 1. **Magic Mouth** (`2nd`, ritual) — **[Acquired: 5 spell scrolls on 2026-08-29]**: programmable triggers, conditional behaviour and a permanent magical effect; perhaps the single best foundation for spells that do one ridiculous thing under extremely specific circumstances. Ownership, carrier and final allocation remain [To verify].
@@ -61,11 +66,11 @@ These avoid spells already recorded in Dain's book, including `Silent Image` and
 
 ### Airship-Crew And Summoning Candidates
 
-These are idea-stage possibilities only. Dain has not yet chosen to pursue them, and sourcebook availability remains subject to Tom.
+These remain idea-stage possibilities except Tiny Servant, promoted to an acquisition goal on 2026-09-12. Sourcebook availability remains subject to Tom.
 
 1. **Unseen Servant** (`1st`, ritual): an invisible, non-attacking force with `Strength 2` that performs simple tasks for an hour within `60 feet`; useful for fetching tools, cleaning, mending, carrying light lines and handling simple deck objects.
 2. **Flock of Familiars** (`2nd`, concentration, up to 1 hour): temporarily provides three familiars in total, accounting for any familiar Dain already has. Flying forms could inspect the envelope, rigging and hull, carry light messages and scout up to the spell's extended telepathic range. [To verify whether the *Lost Laboratory of Kwalish* spell is allowed]
-3. **Tiny Servant** (`3rd`, 8 hours, no concentration): animates a Tiny object into a weak but persistent helper. This is the best near-future magical deckhand candidate for repetitive light work, tools, lookout stations and message-running; Dain becomes able to prepare 3rd-level wizard spells at Wizard 5.
+3. **Tiny Servant** (`3rd`, 8 hours, no concentration): animates a Tiny object into a weak but persistent helper. [Confirmed acquisition goal on 2026-09-12; not learned] This is the leading magical deckhand candidate for repetitive light work, tools, lookout stations and message-running; Dain now has access to 3rd-level wizard spells at Wizard 5, but must still acquire this spell.
 4. **Summon Elemental — Air** (`4th`, concentration, up to 1 hour): creates a flying elemental spirit that obeys Dain's commands and is physically strong enough for more demanding aerial assistance, subject to Tom's ruling on ropes, sails and object interaction. Requires the reusable `400 gp` focus described by the spell. Available from Wizard 7 if its source is allowed.
 5. **Conjure Minor Elementals** (`4th`, concentration, up to 1 hour): may provide several flying minor elementals, but the exact creatures are not reliable enough to treat as guaranteed crew. Available from Wizard 7 under 2014 rules.
 6. **Conjure Elemental — Air Elemental** (`5th`, concentration, up to 1 hour): a true air elemental can fly and obey commands, but becomes uncontrolled and hostile if Dain loses concentration before the spell ends. It is powerful help and a catastrophic thing to mishandle aboard a balloon. Available from Wizard 9.

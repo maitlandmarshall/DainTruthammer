@@ -12,7 +12,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 - [Confirmed] Baseline imported from [Dicfuc_164465751.pdf](../../Dicfuc_164465751.pdf) on 2026-04-18.
-- [Confirmed] Mechanically a level 4 dwarf wizard with Sage background and School of Conjuration subclass.
+- [Confirmed] Mechanically a level 5 dwarf wizard with Sage background and School of Conjuration subclass.
 - [Confirmed] Alignment confirmed by user as `Chaotic Good` on 2026-04-18.
 - [Confirmed] [Garl Glittergold](../Lore/Garl%20Glittergold.md) was chosen as Dain's deity on 2026-04-18.
 - [Confirmed] Current location established on 2026-04-18 as the coastline near the Iron Shore Tribes.
@@ -163,6 +163,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "That is a long story, and some of the witnesses are still cross."
 
 ## Near-Term Motivations
+- [Character-only] [Confirmed goals on 2026-09-12] Seek Glyph of Warding and the [spell research shortlist](../../Character/Spellbook.md#future-spell-acquisition-goals); these targets are not yet learned.
 - [Character-only] Help Kagrenac reach the mountain road near Samryn Torsten safely.
 - [Character-only] Deliver Commander Agland's sealed letter to the actual general.
 - [Character-only] Quietly discover the fuller truth behind the party's mission.
@@ -182,7 +183,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Prove that strange edge-case spells can hold wonder, elegance, and real value even when no one else sees the point.
 
 ## Mechanical Snapshot
-- Current HP restored to maximum by the 2026-07-11 long rest [likely `29`, To verify Tom's ruling]; current AC `14` from the equipped and attuned [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md); Speed 30 ft.; spell save DC 15; spell attack bonus +7; CON save +4; medium armor training confirmed; `1 / 3` confirmed attunement slots occupied.
+- Wizard 5 selected on 2026-09-12, adding **Major Image + Stinking Cloud**. Current and maximum HP remain [To verify]; see [Current State](../../Character/Current%20State.md#wizard-5-update---2026-09-12). Last recorded armor baseline: current AC `14` from the equipped and attuned [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md); Speed 30 ft.; spell save DC 16; spell attack bonus +8; CON save +5; medium armor training confirmed; `1 / 3` confirmed attunement slots occupied.
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 

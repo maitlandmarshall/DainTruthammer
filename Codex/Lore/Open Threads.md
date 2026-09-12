@@ -2,6 +2,8 @@
 
 ## Current Live Focus - 2026-09-12
 
+- [Character-only] Wizard 5 choices locked: **Major Image + Stinking Cloud**. Finish HP and prepared-list details and pursue the [spell research shortlist](../../Character/Spellbook.md#future-spell-acquisition-goals), led by Glyph of Warding.
+
 - [Party] [Confirmed tracker import] Current [party holdings and allocations](../../Character/Party%20Loot.md#current-party-tracker---imported-2026-09-12), [ship stats/deck](../Places/Party%20Skyship%20-%202026-08-29.md#current-ship-tracker---imported-2026-09-12) and [sending stones](../Items/Party%20Sending%20Stones.md) are sourced from [four supplied screenshots](../../Adventures/2026-09-12-party-tracker.md). No new acquisition date or payout is inferred.
 - [Party] [Open] Reconcile the eight-way GP/EP/SP split versus nine-way CP split, fractional payouts, `Dane`/`Talesh` aliases and Biggus/Havana/Feral identities. Check duplicate 100-foot spiked-chain rows, the `710` silk-rope entry plus `Extra 250` note and beer/generic barrel overlap.
 - [Party] [Open] Identify the unknown partner of Kagrenac's spy-linked sending stone; establish whether its recovered Bag of Holding and Yuan-Ti spies are connected to the earlier traders/bag. Confirm the Dwarf General's identity, stone-use status, and Rogue Trader Warrant authority without assuming it is the introduction letter.
@@ -68,6 +70,13 @@
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
+
+### Complete Wizard 5 And Acquire Spell Knowledge
+- Status: Active.
+- Knowledge boundary: [Character-only]; table-side level-up decisions.
+- Latest development: On 2026-09-12 Maitland chose Major Image + Stinking Cloud and requested Glyph of Warding plus recommended spells as acquisition goals. The shortlist also includes Tiny Servant, Nystul's Magic Aura, Blink and Phantom Steed; existing Skywrite and Pyrotechnics goals remain.
+- Next actions: Confirm HP baseline and increase, edition-dependent features and prepared list. Seek spell sources; party Magic Mouth scroll allocation is the nearest copying opportunity. Do not count targets as learned or spend unconfirmed gold.
+- Links: [Wizard 5 update](../../Character/Current%20State.md#wizard-5-update---2026-09-12), [spell acquisition goals](../../Character/Spellbook.md#future-spell-acquisition-goals), [session](../../Adventures/2026-09-12.md).
 
 ### Identify And Test The Flying Broom
 - Status: Open
@@ -235,6 +244,7 @@
 - Linked entries: [Sauna Pelt](../Items/Sauna%20Pelt.md), [Brother Taleesh](../Characters/Brother%20Taleesh.md), [Always-Cold Robes](../Items/Always-Cold%20Robes.md), [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), [Inventory](../../Character/Inventory.md), [Spellbook](../../Character/Spellbook.md), [Session 2026-05-30](../../Adventures/2026-05-30.md), [Session 2026-06-20](../../Adventures/2026-06-20.md), [Session 2026-07-11](../../Adventures/2026-07-11.md)
 
 ### Confirm Level 4 Derived Values
+- 2026-09-12 update: The historical HP baseline remains unresolved and now feeds into the pending Wizard 5 maximum; see [Wizard 5 update](../../Character/Current%20State.md#wizard-5-update---2026-09-12).
 - Status: Open
 - Tags: [Character-only] [To verify]
 - Why it matters: Dain's Wizard 4 choices are known, but max HP and current remaining resources after the winter wolf fight need table confirmation.

@@ -1,11 +1,12 @@
 # Spellbook
 
 ## Spellcasting Summary
-- Class: Wizard
+- Class: Wizard 5 / School of Conjuration [Level-up choice confirmed on 2026-09-12]
 - Spellcasting Ability: INT
-- Spell Save DC: 15
-- Spell Attack Bonus: +7
-- Slots: `1st 4/4`, `2nd 3/3` after the completed 2026-07-11 long rest.
+- Spell Save DC: 16
+- Spell Attack Bonus: +8
+- Maximum slots: 1st-level `4`, 2nd-level `3`, 3rd-level `2`. Current remaining slots are [To verify]; the level-up records no rest or resource refresh.
+- Prepared spells: [To verify table rules and chosen list] `10` under 2014 Wizard rules with INT 20; `9` under 2024 Wizard rules. The two new spellbook entries below do not by themselves establish the prepared list.
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
 - [To verify] `Prestidigitation` is repeatedly recorded in prior play use, but it is not currently listed under **Cantrips On Sheet**. Confirm whether this is an omitted cantrip, a table allowance, sheet drift, or an earlier record error before relying on it in live play.
 
@@ -35,6 +36,29 @@
 - Mirror Image
 - Web [Confirmed from 2026-05-30 level-up handover]
 - Rope Trick [Confirmed from 2026-05-30 level-up handover]
+
+## 3rd-Level Spells - Wizard 5 Choices
+- **Major Image** [Confirmed level-up selection on 2026-09-12]: sensory illusion for elaborate misdirection; concentration, up to 10 minutes.
+- **Stinking Cloud** [Confirmed level-up selection on 2026-09-12]: heavily obscured, 20-foot-radius cloud; concentration, up to 1 minute. No damage. Confirm Tom's spell version: the 2014 failed save spends the creature's action retching; the 2024 failed save applies Poisoned and prevents actions and Bonus Actions until the end of that turn.
+- These are Dain's two free Wizard 5 spellbook additions. No scroll purchase or copying expenditure is recorded. Preparing and casting them still follows the table's rules.
+- Both require concentration, so Dain cannot sustain both at once.
+
+## Future Spell Acquisition Goals
+
+[Character-only] [Confirmed research direction on 2026-09-12] Maitland locked in Stinking Cloud and asked to pursue Glyph of Warding plus spells recommended for Dain. The shortlist below records acquisition goals, not knowledge, owned scrolls, or completed research. Seek a teacher, spellbook or scroll; confirm source availability and copying requirements with Tom.
+
+| Priority | Spell | Why Dain wants it |
+| --- | --- | --- |
+| 1 | **Glyph of Warding** (3rd) | Conditional triggers and stored magic: the foundation for elaborate magical surprises. An hour to cast and at least 200 gp in consumed material per casting; moving the inscribed object more than 10 feet breaks the glyph. Ship-relative movement needs Tom's ruling before using it aboard the skyship. |
+| 2 | **Tiny Servant** (3rd, Xanathar's) | Animate a Tiny mundane object into a helper: ideal inspiration for a spoon apprentice or absurdly specialised assistant. Sourcebook permission remains to verify. |
+| 3 | **Nystul's Magic Aura** (2nd) | Study misleading magical signatures and concealment: deception applied to magical investigation itself. |
+| 4 | **Blink** (3rd) | Intermittent Ethereal disappearances without concentration; a useful complement to sustained illusion or cloud magic. |
+| 5 | **Phantom Steed** (3rd, ritual) | A temporary horse-like mount whose appearance Dain chooses; excellent potential for theatrical travel. |
+
+- **Nearest opportunity: Magic Mouth** (2nd, ritual). The party already owns [five scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md); allocate one to Dain and arrange copying. No allocation or successful transcription is yet confirmed.
+- **Existing goals retained:** Skywrite (2nd, ritual) and Pyrotechnics (2nd), chosen on 2026-08-29. Neither is known or owned.
+- Wider unselected candidates remain in [Dain's Requisition Wishlist](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md).
+- Rules references: [2014 spell descriptions](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/spells), [2024 spell descriptions](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions), [Blink](https://www.dndbeyond.com/spells/2618939-blink), [Phantom Steed](https://www.dndbeyond.com/spells/2203-phantom-steed); Tiny Servant is in *Xanathar's Guide to Everything*, p. 168. Exact edition and table rulings take precedence.
 
 ## Spell Style Notes
 - [Confirmed] Dain's sheeted subclass is School of Conjuration.

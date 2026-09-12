@@ -14,6 +14,14 @@
 - Current party context: [tracker screenshots supplied 2026-09-12](../Adventures/2026-09-12-party-tracker.md) establish ship/hold resources and coin allocations in [Party Loot](./Party%20Loot.md). The [skyship](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) has a documented ballista with 20 bolts and 50-ft tactical speed; [sending stones](../Codex/Items/Party%20Sending%20Stones.md) connect Kagrenac to the Dwarf General and an unknown spy-linked partner. These do not establish Dain's personal payout or resource recovery.
 - Resume after the southbound skyship victory; confirm Taleesh's return aboard, post-combat HP/slots, ship condition, armour equipped and flying-broom rules. The snapshot below preserves the last recorded state; older full-HP and resource entries are not a verified post-combat total.
 
+## Wizard 5 Update - 2026-09-12
+- [Confirmed player choice] Continue Wizard to level 5 and add **Major Image + Stinking Cloud** to the spellbook. No multiclass is selected.
+- [Derived] Proficiency becomes `+3`, spell save DC `16`, spell attack `+8`, and CON save `+5`; maximum slots are `4 / 3 / 2` and Hit Dice `5d6`.
+- [To verify] HP increase is `1d6 + 2`, or fixed `6` if the table permits; the earlier level-4 maximum of `29` still needs confirmation. `35` is only the conditional new maximum if both 29 and fixed HP are accepted.
+- [To verify] Prepared list and edition: 2014 allows `10` prepared wizard spells with INT 20; 2024 allows `9` and grants Memorize Spell at Wizard 5. No ASI, feat or extra class cantrip is gained at this level.
+- [Character-only] Pursue the [spell acquisition goals](./Spellbook.md#future-spell-acquisition-goals), led by Glyph of Warding. The wishlist spells are not yet learned.
+- No rest, healing, replenishment or in-world spell use is established by this update.
+
 ## Prior Live Snapshot - 2026-08-29
 - Current live session: [Session 2026-08-29](../Adventures/2026-08-29.md), continuing directly from [Session 2026-07-11](../Adventures/2026-07-11.md).
 - Location/status: Airborne aboard the party's [balloon-like skyship](../Codex/Places/Party%20Skyship%20-%202026-08-29.md), travelling south from [Ola Dung Lot](../Codex/Places/Ola%20Dung%20Lot.md) on the captive-recovery and southwestern-warning mission. The party has destroyed the two [crymeria attackers](../Codex/Characters/Crymeria%20Attackers%20-%202026-08-29.md).
@@ -34,7 +42,7 @@
 ## Identity
 - Name: Dain Truthammer
 - Species: Dwarf
-- Class/Subclass: Wizard 4 / School of Conjuration
+- Class/Subclass: Wizard 5 / School of Conjuration
 - Background: Sage
 - Age: 107
 - Gender: Male
@@ -46,17 +54,17 @@
 - Homeland standing: [DM-private] [Character-only] [Confirmed] considered an outcast from Truthammer mountain because of his faith in [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md).
 
 ## Core Numbers
-- Max HP: likely 29 [To verify Tom's HP ruling after Resilient: Constitution and level 4]
-- Current HP: restored to maximum by the 2026-07-11 long rest; exact maximum is likely `29` but remains [To verify Tom's ruling].
+- Max HP: [To verify] Level-4 baseline likely `29`, plus the pending Wizard 5 HP increase; `35` only if baseline 29 and fixed +6 are confirmed.
+- Current HP: [To verify] Last recorded restoration was the 2026-07-11 long rest; subsequent combat and the level-up have not established current HP.
 - Temp HP: [To verify] the Temp HP field shows `--`
 - AC: `14` from the last confirmed equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11] Dain now owns [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md) described as `+2 AC`; if this is standard magical `+2` half plate and he equips it, his AC would be `17`. Equipped state and exact table wording remain [To verify].
 - Initiative: +0
 - Speed: 30 ft. (walking)
-- Hit Dice: 4d6
-- Proficiency Bonus: +2
+- Hit Dice: 5d6 maximum; current remaining [To verify]
+- Proficiency Bonus: +3
 - Spellcasting Ability: INT
-- Spell Save DC: 15
-- Spell Attack Bonus: +7
+- Spell Save DC: 16
+- Spell Attack Bonus: +8
 
 ## Ability Scores
 - Strength 15 (+2)
@@ -76,15 +84,15 @@
 - Armor Training: Medium armor. [Confirmed by user on 2026-07-11]
 
 ## Skills And Saves
-- Saving Throws: Strength +2, Dexterity +0, Constitution +4, Intelligence +7, Wisdom +3, Charisma +2
-- Strongest skills: Arcana +9 [Expertise], History +7, Religion +7, Investigation +5, Nature +5
-- Other noted skills: Athletics +2, Deception +2, Insight +1, Medicine +3, Perception +1, Survival +1
+- Saving Throws: Strength +2, Dexterity +0, Constitution +5, Intelligence +8, Wisdom +4, Charisma +2
+- Strongest skills: Arcana +11 [Expertise], History +8, Religion +8, Investigation +5, Nature +5
+- Other noted skills: Athletics +2, Deception +2, Insight +1, Medicine +4, Perception +1, Survival +1
 
 ## Resources
-- Spell Slots: restored during the later 2026-07-11 long rest before airship travel; current slots after the three-red-wyrmling battle are [To verify]. Maximum remains `1st 4/4`, `2nd 3/3`.
+- Spell Slots: maximum 1st-level `4`, 2nd-level `3`, 3rd-level `2`. Current remaining after subsequent battles and the level-up is [To verify]; no refresh assumed.
 - Attunement: `1 / 3` confirmed slots occupied by the [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Ghostly Form Tattoo](../Codex/Items/Ghostly%20Form%20Tattoo.md)'s attunement requirement and applied state remain [To verify].
-- Arcane Recovery: 1 / Long Rest
-- Stonecunning (Tremorsense): 2 / Long Rest
+- Arcane Recovery: recover up to `3` total spell levels during a short rest; remaining use [To verify]. Once per long rest in 2024 / once per day in 2014.
+- Stonecunning (Tremorsense): prior sheet `2 / Long Rest`; `3 / Long Rest` if using the 2024 proficiency-based feature [To verify table version and remaining uses].
 - Chromatic Orb: Cast at the [Werebear at Smoky Cave](../Codex/Characters/Werebear%20at%20Smoky%20Cave.md) for `11` acid damage on 2026-05-03. [To verify] Whether this spent a 1st-level spell slot, the refreshed Magic Initiate `1 / Long Rest` use, or another table-specific resource.
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Breastplate of Balance: [Character-only] [Confirmed by user on 2026-07-11] Dain received this rare medium armor when the party killed the harpies on 2026-04-18, is proficient/trained in medium armor, and has now equipped and attuned to it. With Dain's current `DEX +0`, it provides `AC 14` and does not prevent his spellcasting. Current charges are [To verify].
@@ -103,10 +111,10 @@
 - Latest 2026-06-20 location/status: Dain began the session in an [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md) during the session titled `Glittergold Road`. The town has six dragon corpses/remains and artisans who have struck an equipment-for-material deal with Dain / Truthhammer. Dain donated gold to local gnomes who worship Glittergold, received the [Half-Pound Sack From Glittergold Gnomes](../Codex/Items/Half-Pound%20Sack%20From%20Glittergold%20Gnomes.md) to take to a church, bought drinks in a tavern, entered a dice game with [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), used `Suggestion`: "Complete the game," provided [Dain's Seal](../Codex/Items/Dains%20Seal.md) for `100 gp` worth of silver, lost the later betting round, and opened the town rat-and-poverty thread. After a next-morning prayer to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md) and the falling-rat spell seed, the party travelled east, considered whether local tunnels could save time versus a Truthhammer Mountain detour, reached a grand tunnel door, found a hidden passage and spiral stair apparently unknown to the Truthhammers, and then triggered or reached a floor collapse over the Underdark with a possible roper below. Dain has begun stepping back after sensing danger. [To verify exact town, church identity, final coin balance, final dice-game accounting, spell slot expenditure, seal status, human/townsperson identity, spell approval, exact route, tunnel ownership/history, and current encounter state]
 
 ## Combat Snapshot
-- Dagger: `+4`, `1d4+2` piercing
-- Quarterstaff: `+4`, `1d6+2` bludgeoning
-- Ray of Frost: `+7`, `1d8` cold
-- Unarmed Strike: `+4`, `3` bludgeoning
+- Dagger: `+5`, `1d4+2` piercing
+- Quarterstaff: `+5`, `1d6+2` bludgeoning
+- Ray of Frost: `+8`, `2d8` cold
+- Unarmed Strike: `+5`, `3` bludgeoning
 
 ## Character Priorities
 - [Character-only] Protect the innocent, expose wickedness, and push events toward the right outcome.
@@ -122,6 +130,7 @@
 - [Character-only] Keep control over how much of his outcast status and faith-related exile he reveals.
 
 ## Short-Term Character Goals
+- [Character-only] Acquire **Glyph of Warding**, **Tiny Servant**, **Nystul's Magic Aura**, **Blink** and **Phantom Steed**; see the [prioritized spell research list](./Spellbook.md#future-spell-acquisition-goals). [Confirmed goals on 2026-09-12; not yet learned]
 - [Character-only] Get a letter of introduction from the dwarven commander in Ola Dung Lot for the southwestern humans.
 - [Character-only] Board the selected [balloon-like skyship](../Codex/Places/Party%20Skyship%20-%202026-08-29.md), confirm its crew, route, cannon and remaining magical and mundane provisions, then depart. Dain specifically wants [scrolls, curios and laboratory supplies](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md) whose principles can help him invent odd and apparently useless spells.
 - [Character-only] Decide how to allocate the party's five [`Magic Mouth` scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md), including whether Dain reserves one for an attempted spellbook transcription.
