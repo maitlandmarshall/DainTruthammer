@@ -2,7 +2,9 @@
 
 ## Current Live Focus - 2026-09-12
 
-- [Character-only] Latest travel beat: Ollyander speaks her [Law of the Maw account](./Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) to her beloved rat; Dain records it with interest. The next destination is not named.
+- [Party] Latest discovery: Dain spots a [walk-in crevasse](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) on Investigation `30` (natural `20`). Hovering above it, bat-dropping odor suggests potentially useful material; no entry or collection is established.
+
+- [Character-only] Earlier travel beat: Ollyander speaks her [Law of the Maw account](./Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) to her beloved rat; Dain records it with interest. The next destination is not named.
 
 - [Character-only] Wizard 5 choices locked: **Major Image + Stinking Cloud**. Finish HP and prepared-list details and pursue the [spell research shortlist](../../Character/Spellbook.md#future-spell-acquisition-goals), led by Glyph of Warding.
 
@@ -72,6 +74,14 @@
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
+
+### Investigate The Guano-Scented Crevasse
+- Status: Open; discovered on 2026-09-12.
+- Knowledge boundary: [Party]. Dain spots a walk-in crevasse with Investigation `30` (natural `20`); bat-dropping odor is noticed while hovering above it.
+- Why it matters: The party recognizes potential usefulness in the material. Bat guano is also a standard Fireball component when paired with sulfur [rules reference, not a new learned spell].
+- Next possible actions: Inspect the entrance and interior; decide whether to approach or collect any accessible material. No entry or harvesting has been reported.
+- Unresolved: Exact location, hovering subject/platform, inhabitants, accessible deposits and quantities. Preserve the roll total as reported; modifiers are not established.
+- Sources: [Crevasse record](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), [session](../../Adventures/2026-09-12.md).
 
 ### Understand Ollyander's Law Of The Maw
 - Status: Open; established during travel on 2026-09-12.
