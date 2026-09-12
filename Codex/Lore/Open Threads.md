@@ -2,6 +2,8 @@
 
 ## Current Live Focus - 2026-09-12
 
+- [Character-only] Latest travel beat: Ollyander speaks her [Law of the Maw account](./Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) to her beloved rat; Dain records it with interest. The next destination is not named.
+
 - [Character-only] Wizard 5 choices locked: **Major Image + Stinking Cloud**. Finish HP and prepared-list details and pursue the [spell research shortlist](../../Character/Spellbook.md#future-spell-acquisition-goals), led by Glyph of Warding.
 
 - [Party] [Confirmed tracker import] Current [party holdings and allocations](../../Character/Party%20Loot.md#current-party-tracker---imported-2026-09-12), [ship stats/deck](../Places/Party%20Skyship%20-%202026-08-29.md#current-ship-tracker---imported-2026-09-12) and [sending stones](../Items/Party%20Sending%20Stones.md) are sourced from [four supplied screenshots](../../Adventures/2026-09-12-party-tracker.md). No new acquisition date or payout is inferred.
@@ -70,6 +72,14 @@
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
+
+### Understand Ollyander's Law Of The Maw
+- Status: Open; established during travel on 2026-09-12.
+- Knowledge boundary: [Character-only] Dain hears and records Ollyander's account; other listeners are unconfirmed.
+- Why it matters: The account describes an imposed Yeenoghu pact expressed as hunting, consuming and retaliatory instincts, with failure threatening return to a `Muddy Room`.
+- Unresolved: What the Muddy Room means; whether the instincts can be resisted; the rat's identity and understanding; what the Hunters Iron refers to. Do not infer class, mechanics or hostile intent from the account alone.
+- Possible follow-up, not an action taken: Ask Ollyander what she means by the Muddy Room and whether these laws are commands she wants to follow.
+- Sources: [Pact transcription and screenshot](./Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md), [session](../../Adventures/2026-09-12.md).
 
 ### Place Yellow Snow Coat In Dain's Research History
 - Status: Open.

@@ -43,7 +43,8 @@
 - Relationship beat: [Party] During the 2026-06-20 tavern dice game, Dain gives Ollyander `1 gp` after winning a round, and Ollyander wins as well.
 - Relationship beat: [Party] Dain later goes all in and values Ollyander's `3 rats` as `9 gp`. [To verify whether "rats" is the correct reading and what they are]
 - Relationship beat: [Party] After Dain fails to influence the dice and loses a later betting round, Ollyander ends up winning; a human/townsperson from before is involved in a `60 gp` worth-of-silver trade with Ollyander. [To verify exact trade direction and current holder]
-- Missing details: [To verify] Exact ancestry/species, class, pronouns, why Ollyander arrived, what happened to Lachlan's previous character, and whether Ollyander knows anything about the gargantuan vulture-type creature.
+- Relationship beat: [Character-only] On 2026-09-12, Dain finds Ollyander's [pact account to her beloved rat](../Codex/Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) interesting and writes it down. This establishes interest, not a changed trust/respect score or belief that every claim is true. The user confirms she/her usage.
+- Missing details: [To verify] Exact ancestry/species, class, why Ollyander arrived, what happened to Lachlan's previous character, and whether Ollyander knows anything about the gargantuan vulture-type creature.
 
 - [Rat-House Human - 2026-06-20](../Codex/Characters/Rat-House%20Human%20-%202026-06-20.md)
 - Current standing: [Party] [To verify] Unnamed human/townsperson tied to the 2026-06-20 tavern dice/silver aftermath, the [unnamed town](../Codex/Places/Unnamed%20Town%20-%202026-06-20.md)'s rat-and-poverty problem, and Dain's last `5 gp` gift.

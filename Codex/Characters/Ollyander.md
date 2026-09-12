@@ -13,13 +13,16 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 ## Status
 - [Party] [Confirmed] Arrived at camp during the 2026-05-30 session.
 - [Party] [Confirmed] Lachlan's new character after his previous character was reported captured by a gargantuan vulture-type creature.
-- [To verify] Exact ancestry/species, class, pronouns, name spelling, and relationship to Lachlan's previous character.
+- [To verify] Exact ancestry/species, class, name spelling, and relationship to Lachlan's previous character.
 - [To verify] Whether Lachlan's previous character is [Yuckie the Goblin](./Yuckie%20the%20Goblin.md), and whether the captor is a vulture, manticore, roc-like creature, or another flying monster.
+
+- [Confirmed on 2026-09-12] The user refers to Ollyander with she/her. The supplied pact text uses `Oleander`; exact name spelling remains open.
+- [Confirmed on 2026-09-12] She speaks to a rat she loves while travelling; Dain writes down her [Law of the Maw account](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md).
 
 ## What Dain Knows
 - [Party] Ollyander first appears as a small hobbit-like humanoid.
 - [Party] Ollyander has pale skin, straight fawn-brown hair, a pointy nose, and a shell-shocked look.
-- [Party] [Confirmed by user on 2026-07-11] Ollyander wears an enormous spotted reptilian or dinosaur-like hide as a hood and mantle. The preserved animal head rests above his own, with a long snout, visible teeth, a side eye, and rounded bumps; the dark spotted hide hangs down his back and over one shoulder.
+- [Party] [Confirmed by user on 2026-07-11] Ollyander wears an enormous spotted reptilian or dinosaur-like hide as a hood and mantle. The preserved animal head rests above her own, with a long snout, visible teeth, a side eye, and rounded bumps; the dark spotted hide hangs down her back and over one shoulder.
 - [To verify] The creature species, how Ollyander obtained the hide, and whether the headpiece has any mundane or magical properties.
 - [Party] Ollyander rarely blinks and carries a large knife.
 - [Party] Ollyander is not visibly hostile on approach.
@@ -28,6 +31,8 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - [Party] During the 2026-06-20 tavern dice game, Dain gives Ollyander `1 gp`, and Ollyander wins as well.
 - [Party] Dain later goes all in and values Ollyander's `3 rats` as `9 gp`. [To verify whether "rats" is correct and whether they are literal animals, game pieces, or something else]
 - [Party] In the later dice-game accounting, Dain loses a betting round while Ollyander ends up winning; a human/townsperson from before is involved in a `60 gp` worth-of-silver trade with Ollyander. [To verify direction, holder, and whether this is connected to the town rat problem]
+
+- [Character-only] On 2026-09-12 Dain hears and records her account of Yeenoghu, an imposed pact of predatory instincts, and six laws culminating in a threatened return to the `Muddy Room`. Dain finds it interesting. The account is recorded as heard, not independently verified.
 
 ## What The Party Knows
 - [Party] Ollyander approached camp after Lachlan's previous character was captured.
@@ -48,7 +53,7 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - Shell-shocked expression.
 - Rarely blinks.
 - Wears a huge spotted reptilian or dinosaur-like head and hide as a hooded mantle.
-- The animal's snout and teeth project over Ollyander's visible humanoid face, while the long spotted pelt trails down his back.
+- The animal's snout and teeth project over Ollyander's visible humanoid face, while the long spotted pelt trails down her back.
 - Carries a large knife.
 
 ## Appearance Reference
@@ -66,7 +71,10 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 - 2026-07-11: A huge, bumpy brown-and-green [giant lake frog](./Giant%20Lake%20Frog%20-%202026-07-11.md) emerges from an unnamed lake and clamps its jaws around Ollyander. Taleesh slashes it, and Dain freezes water around its mouth with `Shape Water` to stop it clamping down further. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify Ollyander's damage and condition]
 - 2026-07-11: The user supplies a definitive appearance sketch showing Ollyander in a huge spotted reptilian or dinosaur-like head-and-hide hood, with the toothed snout above his visible face and the pelt hanging down his back. This supersedes conflicting details in the earlier generated portrait. [Character appearance reference]
 
+- 2026-09-12: During onward travel, Ollyander speaks the [Law of the Maw](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) to her beloved rat. Dain listens with interest and records it. [Session](../../Adventures/2026-09-12.md)
+
 ## Related Entries
+- [Pact - Law of the Maw](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)
 - [Table Roster](../Lore/Table%20Roster.md)
