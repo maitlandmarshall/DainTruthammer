@@ -2,7 +2,9 @@
 
 ## Current Live Focus - 2026-09-12
 
-- [Party] Latest view: an [open cavern with giant bat-guano heaps](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), more than the party has ever seen. Deposits are now visually confirmed; collection and inhabitants remain unreported.
+- [Party] Latest discovery: **20 [giant bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md)** in the guano cavern, **CR 1/4 each** as table information. Awareness, behavior and any combat remain unreported.
+
+- [Party] Earlier view: an [open cavern with giant bat-guano heaps](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), more than the party has ever seen. Deposits are now visually confirmed; collection remains unreported; 20 giant bats are subsequently spotted.
 
 - [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Track activation and retrieval. Scrolls provisionally `5 → 4` under the stated casting-source assumption.
 
@@ -80,12 +82,12 @@
 ## Open
 
 ### Investigate The Guano-Scented Crevasse
-- Latest development: The party now sees an open cavern with enormous bat-guano piles, more than they have ever seen. Dain set the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md) beforehand; activation and retrieval remain unreported.
+- Latest development: After seeing the enormous guano piles, the party spots **20 giant bats, CR 1/4 each**. Their reaction and any combat remain unreported. Dain set the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md) beforehand; activation and retrieval remain unreported.
 - Status: Open; discovered on 2026-09-12.
 - Knowledge boundary: [Party]. Dain spots a walk-in crevasse with Investigation `30` (natural `20`); bat-dropping odor is noticed while hovering above it.
 - Why it matters: The party recognizes potential usefulness in the material. Bat guano is also a standard Fireball component when paired with sulfur [rules reference, not a new learned spell].
-- Next possible actions: Inspect the revealed cavern and surroundings; decide whether to collect material. No harvesting has been reported.
-- Unresolved: Exact location, earlier hovering subject/platform, inhabitants, access to the observed deposits and measured quantities. Preserve the roll total as reported; modifiers are not established.
+- Next possible actions: Establish the giant bats' behavior and the party's response; decide whether to inspect further or collect material. No harvesting has been reported.
+- Unresolved: Exact location, earlier hovering subject/platform, bat behavior and any additional inhabitants, access to the observed deposits and measured quantities. Preserve the roll total as reported; modifiers are not established.
 - Sources: [Crevasse record](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), [session](../../Adventures/2026-09-12.md).
 
 ### Understand Ollyander's Law Of The Maw
