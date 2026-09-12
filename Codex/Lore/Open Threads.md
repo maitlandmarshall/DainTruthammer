@@ -2,9 +2,11 @@
 
 ## Current Live Focus - 2026-09-12
 
+- [Party] Latest view: an [open cavern with giant bat-guano heaps](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), more than the party has ever seen. Deposits are now visually confirmed; collection and inhabitants remain unreported.
+
 - [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Track activation and retrieval. Scrolls provisionally `5 → 4` under the stated casting-source assumption.
 
-- [Party] Latest discovery: Dain spots a [walk-in crevasse](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) on Investigation `30` (natural `20`). Hovering above it, bat-dropping odor suggests potentially useful material; no entry or collection is established.
+- [Party] Entrance discovery: Dain spots a [walk-in crevasse](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) on Investigation `30` (natural `20`). Hovering above it, bat-dropping odor suggests potentially useful material; no entry or collection is established.
 
 - [Character-only] Earlier travel beat: Ollyander speaks her [Law of the Maw account](./Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) to her beloved rat; Dain records it with interest. The next destination is not named.
 
@@ -78,12 +80,12 @@
 ## Open
 
 ### Investigate The Guano-Scented Crevasse
-- Latest development: Dain casts the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md) before entry; no alarm activation or entry is yet reported. Record the eventual trigger and retrieval outcome.
+- Latest development: The party now sees an open cavern with enormous bat-guano piles, more than they have ever seen. Dain set the [ball-bearing alarm](../Items/Cave%20Alarm%20Ball%20Bearing.md) beforehand; activation and retrieval remain unreported.
 - Status: Open; discovered on 2026-09-12.
 - Knowledge boundary: [Party]. Dain spots a walk-in crevasse with Investigation `30` (natural `20`); bat-dropping odor is noticed while hovering above it.
 - Why it matters: The party recognizes potential usefulness in the material. Bat guano is also a standard Fireball component when paired with sulfur [rules reference, not a new learned spell].
-- Next possible actions: Inspect the entrance and interior; decide whether to approach or collect any accessible material. No entry or harvesting has been reported.
-- Unresolved: Exact location, hovering subject/platform, inhabitants, accessible deposits and quantities. Preserve the roll total as reported; modifiers are not established.
+- Next possible actions: Inspect the revealed cavern and surroundings; decide whether to collect material. No harvesting has been reported.
+- Unresolved: Exact location, earlier hovering subject/platform, inhabitants, access to the observed deposits and measured quantities. Preserve the roll total as reported; modifiers are not established.
 - Sources: [Crevasse record](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), [session](../../Adventures/2026-09-12.md).
 
 ### Understand Ollyander's Law Of The Maw
