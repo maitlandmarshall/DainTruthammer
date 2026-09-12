@@ -55,7 +55,7 @@
 | 4 | **Blink** (3rd) | Intermittent Ethereal disappearances without concentration; a useful complement to sustained illusion or cloud magic. |
 | 5 | **Phantom Steed** (3rd, ritual) | A temporary horse-like mount whose appearance Dain chooses; excellent potential for theatrical travel. |
 
-- **Nearest opportunity: Magic Mouth** (2nd, ritual). Five [scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) were acquired; four provisionally remain after the inferred scroll use for the cave alarm. Successful copying is still unconfirmed.
+- **Nearest opportunity: Magic Mouth** (2nd, ritual). Five [scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) were acquired; **three are now confirmed in Dain's possession**, superseding the provisional four after the cave alarm. Successful copying is still unconfirmed.
 - **Existing goals retained:** Skywrite (2nd, ritual) and Pyrotechnics (2nd), chosen on 2026-08-29. Neither is known or owned.
 - Wider unselected candidates remain in [Dain's Requisition Wishlist](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md).
 - Rules references: [2014 spell descriptions](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/spells), [2024 spell descriptions](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions), [Blink](https://www.dndbeyond.com/spells/2618939-blink), [Phantom Steed](https://www.dndbeyond.com/spells/2203-phantom-steed); Tiny Servant is in *Xanathar's Guide to Everything*, p. 168. Exact edition and table rulings take precedence.
@@ -66,7 +66,7 @@
 - [Inferred] The current list strongly supports misdirection, concealment, and socially disruptive magic even though his formal school is conjuration.
 - [Character-only] Dain's long-term magical ambition is to invent uniquely strange, marginal, and apparently useless spells no one else would bother to create.
 - [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls, magical curios and scribing supplies that expose useful spellmaking principles. Candidate priorities are staged in [Dain's Requisition Wishlist](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md); most remain ideas, while `Magic Mouth` has now been promoted through confirmed scroll acquisition.
-- [Party] [Confirmed on 2026-08-29] The party acquires five [`Magic Mouth` spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md). `Magic Mouth` is not yet added to Dain's spells on sheet: ownership, carrier, transcription attempt, materials and outcome remain [To verify].
+- [Party] [Confirmed on 2026-08-29] The party acquires five [`Magic Mouth` spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md). `Magic Mouth` is not yet added to Dain's spells on sheet: Dain later confirms holding three remaining scrolls on 2026-09-12; transcription attempt, materials and outcome remain [To verify].
 - [Character-only] [Confirmed goal on 2026-08-29] Dain intends to acquire `Skywrite` and `Pyrotechnics` later. They are research targets only, not current spells or inventory; confirm Tom permits their source material.
 
 ## Custom Spell - Supplied Mechanics

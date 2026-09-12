@@ -3,14 +3,15 @@
 ![Five Magic Mouth scrolls](./Magic_Mouth_Scrolls_ref.png)
 
 ## One-Line Summary
-Five Magic Mouth scrolls acquired for Dain's spell research; four provisionally remain after one inferred use for the cave alarm.
+Five Magic Mouth scrolls originally acquired for Dain's research; Dain now confirms **three in his possession**.
 
 ## Status
+- [Confirmed latest count on 2026-09-12] Maitland reports "I now have 3 scrolls of mouth thing": **3 Magic Mouth scrolls in Dain's possession**. This supersedes the prior provisional four. No additional cast, loss, transfer or transcription is established by the count alone. [Session](../../Adventures/2026-09-12.md)
 - [Party] [Confirmed on 2026-08-29] The party acquires exactly `5` `Magic Mouth` spell scrolls.
-- [To verify] Whether Ben, the quartermasters or another source provides them; whether they are a gift, issue, loan or charged requisition; who owns them; and who physically carries them.
+- [To verify] Whether Ben, the quartermasters or another source provides them; whether they are a gift, issue, loan or charged requisition; their original ownership. Dain now confirms possession of the three remaining scrolls.
 - [Confirmed state boundary] Dain does not automatically know `Magic Mouth` merely because the party possesses its scrolls. Copying one into his spellbook, casting one, consuming one experimentally or distributing them requires a later confirmed action.
 
-- [Confirmed cast on 2026-09-12] Dain casts [Magic Mouth onto a ball bearing](./Cave%20Alarm%20Ball%20Bearing.md) before cave entry. [Inferred, stated bookkeeping assumption] One scroll is consumed, leaving `4`; the user did not explicitly specify casting source. No transcription has been established.
+- [Confirmed cast on 2026-09-12] Dain casts [Magic Mouth onto a ball bearing](./Cave%20Alarm%20Ball%20Bearing.md) before cave entry. [Inferred, stated bookkeeping assumption] One scroll is consumed, giving an earlier provisional count of `4`, now superseded by the confirmed three; the user did not explicitly specify casting source. No transcription has been established.
 
 ## Why Dain Wanted Them
 - `Magic Mouth` is a 2nd-level illusion ritual built around programmable triggers, conditional behaviour and a lasting magical message.
@@ -24,7 +25,7 @@ Five Magic Mouth scrolls acquired for Dain's spell research; four provisionally 
 - Dain's current Wizard 5 Arcana modifier is `+11`; no transcription attempt or roll has been recorded.
 
 ## Possible Allocation - Historical Proposal Before The Cave Cast
-- This earlier five-scroll proposal was never adopted; it must be reconsidered against the current provisional remainder.
+- This earlier five-scroll proposal was never adopted; it must be reconsidered against the current confirmed remainder of three.
 - Up to `2` scrolls reserved for transcription: attempt the first, then use the second only if the first attempt fails and is destroyed. With Dain's recorded `Arcana +9` against the standard `DC 12`, each attempt would have a 90% success chance.
 - `1` scroll reserved as an untouched reference specimen.
 - `2` scrolls immediately available for field use, research comparisons, another eligible wizard or later decisions; if the first transcription succeeds, the unused backup becomes a third available scroll.

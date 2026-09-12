@@ -18,6 +18,7 @@
 - Quarterstaff x2
 
 ## Arcane And Scholarly Gear
+- [Magic Mouth spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) x**3** [Confirmed in Dain's possession on 2026-09-12]. Latest user count supersedes the prior provisional four; intervening use or disposition is unrecorded.
 - Spellbook x1
 - Calligrapher's Supplies x1
 - Book x2

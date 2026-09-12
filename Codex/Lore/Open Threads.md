@@ -12,7 +12,7 @@
 
 - [Party] Earlier view: an [open cavern with giant bat-guano heaps](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md), more than the party has ever seen. Deposits are now visually confirmed; collection remains unreported; 20 giant bats are subsequently spotted.
 
-- [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Activation is now confirmed; track when the screaming stops and eventual retrieval. Scrolls provisionally `5 → 4` under the stated casting-source assumption.
+- [Party] Dain has cast [Magic Mouth on a dropped bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md) before cave entry, intending to warn of anything entering behind the party. Activation is now confirmed; track when the screaming stops and eventual retrieval. Dain now confirms **3 scrolls in his possession**, replacing the earlier provisional four; intervening use/disposition remains unrecorded.
 
 - [Party] Entrance discovery: Dain spots a [walk-in crevasse](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) on Investigation `30` (natural `20`). Hovering above it, bat-dropping odor suggests potentially useful material; no entry or collection is established.
 
@@ -165,7 +165,7 @@
 - Tags: [Party] [Confirmed] [To verify]
 - Why it matters: The party has selected a skyship for the new mission, and its reach, armament, lift system and loadout now directly determine mission survivability.
 - Latest development: The party has departed south and defeated the two attackers. The [current ship tracker](../Places/Party%20Skyship%20-%202026-08-29.md#current-ship-tracker---imported-2026-09-12), imported on 2026-09-12, records a ballista, 20 bolts, 50-ft tactical speed, 3 hexes/day, magic-user thrust, bonus-action piloting, hold supplies and deck layout. Earlier cannon terminology remains unresolved; do not invent a second weapon.
-- Next possible actions: Confirm pilot/crew, destination, ballista range/loading/firing, post-fight ship condition, map scale, load/rescue capacity, exact navigation-item and warrant functions; reconcile chain/rope/barrel entries; assign the five `Magic Mouth` scrolls. Their absence from these screenshots does not establish consumption.
+- Next possible actions: Confirm pilot/crew, destination, ballista range/loading/firing, post-fight ship condition, map scale, load/rescue capacity, exact navigation-item and warrant functions; reconcile chain/rope/barrel entries; record intended use of Dain's three confirmed remaining `Magic Mouth` scrolls. Their absence from these screenshots does not establish consumption.
 - Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [Samryn Torsten](./Samryn%20Torsten.md), [Dain's Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md)
 
 ### Prevent A Truthammer Sigil Investigation

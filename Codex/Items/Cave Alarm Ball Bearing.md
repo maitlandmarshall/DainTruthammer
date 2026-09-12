@@ -10,7 +10,7 @@ A ball bearing Dain drops from his bag and enchants with Magic Mouth before ente
 ## Status
 - [Confirmed on 2026-09-12] Dain drops one ball bearing from his bag before entering the [cave](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md) and casts Magic Mouth on it.
 - [Confirmed intent] It should scream into the cave and warn the party if something enters behind them.
-- [Inferred bookkeeping assumption, stated to the user] This uses one of the party's five [Magic Mouth scrolls](./Magic%20Mouth%20Scrolls.md), leaving four provisionally. The cast is confirmed; its source is not explicit. No successful spellbook transcription has been recorded.
+- [Inferred bookkeeping assumption, stated to the user] This uses one of the party's five [Magic Mouth scrolls](./Magic%20Mouth%20Scrolls.md), giving an earlier provisional count of four. Dain subsequently confirms three scrolls in his possession; that current count supersedes the estimate without establishing another cast. The cast is confirmed; its source is not explicit. No successful spellbook transcription has been recorded.
 - Under that scroll assumption, no spell slot or separate material-component expenditure is deducted. Reconcile if the user establishes a different casting source.
 - The bearing is deployed outside the cave before entry, not destroyed. Remaining bearings in Dain's bag are unknown; no standard bag quantity is assumed.
 - [Confirmed subsequent activation] A bat flies into the entrance and triggers the mouth, which begins screaming. The bats then start swarming the party in response. No further spell casting or resource expenditure is reported for this activation.
