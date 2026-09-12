@@ -34,3 +34,6 @@
 - Preserve player aliases and character aliases when provided.
 - Use `[To verify]` for spelling, class, pronouns, or control details that are uncertain.
 - Treat DM-controlled people as NPCs unless a player is explicitly attached.
+
+## Unresolved Encounter Identity - 2026-09-12
+- [Stu](../Characters/Stu.md): user-supplied name for the person who casts Speak with Animals and later turns into a bear in the guano cavern. Player/character-name mapping, class and control are unconfirmed; do not identify Stu with an existing roster member without evidence.

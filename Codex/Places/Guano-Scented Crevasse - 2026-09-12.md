@@ -45,7 +45,7 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 ## Treasure Question And Alarm Incident
 - Stu casts Speak with Animals and asks a bat whether there is treasure; its reported answer is **no treasure**. This does not establish an exhaustive search of the cave.
 - A bat flies in and triggers the [entrance mouth](../Items/Cave%20Alarm%20Ball%20Bearing.md), which begins screaming. The bats start swarming the party in response.
-- No attacks, damage, condition or combat resolution are reported.
+- Subsequent combat: Dain's Thunderclap hurts three bat groups for 8 damage, Stu turns into a bear, and Ollyander fights one swarm at the far end. A roof fall is mentioned without a clear subject. No final resolution or party injuries are recorded.
 
 ## Open Questions
 - How does the party respond to the swarming bats and screaming alarm, and what lies beyond the revealed cavern?
@@ -63,7 +63,10 @@ A walk-in crevasse leading to an open cavern with enormous bat-guano heaps and 2
 
 - 2026-09-12: A bat tells Stu there is no treasure after Speak with Animals. Another reported bat-entry event triggers the mouth and its scream; bats begin swarming the party. Whether the entering bat is a different individual or additional to the original count is unrecorded. [Session](../../Adventures/2026-09-12.md)
 
+- 2026-09-12: Dain uses Thunderclap (three bat groups, 8 damage), Stu turns into a bear, and Ollyander fights one swarm at the far end. A roof fall remains ambiguous; the user describes "chaos, chaos managed". [Session](../../Adventures/2026-09-12.md)
+
 ## Related Entries
+- [Stu](../Characters/Stu.md)
 - [Giant Bats](../Characters/Giant%20Bats%20-%20Guano%20Cavern.md)
 - [Cave Alarm Ball Bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md)
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)

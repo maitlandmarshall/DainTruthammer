@@ -17,7 +17,7 @@ Twenty giant bats initially spotted in the guano cavern (CR 1/4 each); they subs
 - [Confirmed table detail] **CR 1/4 each**.
 - [Confirmed latest behavior] The bats begin swarming the party in response to the Magic Mouth alarm screaming after a bat flies in and triggers it.
 - [To verify] Precise positions, intentions, initiative, current count, and stats beyond the reported CR. The incoming bat may or may not be additional to the original 20.
-- Swarming is confirmed; no specific attack, hit, damage, condition, defeat, capture or XP award is reported. This remains the reported giant-bat group, not a newly assumed Swarm stat block.
+- [Confirmed subsequent combat] Dain casts Thunderclap, hurting three bat groups for reported 8 damage. Ollyander fights one swarm at the far end of the cave. Individual bat HP, saving throws, casualties, defeats and rewards are unrecorded. Groups/swarms follow the user's encounter description; no replacement stat block is assumed.
 
 ## Treasure Answer
 - [Confirmed] Stu casts Speak with Animals and asks a bat about treasure. The bat reports **no treasure**.
@@ -40,7 +40,11 @@ Twenty giant bats initially spotted in the guano cavern (CR 1/4 each); they subs
 
 *Illustrative staging; no mechanical outcome is inferred. [Prompt and provenance](../../Adventures/2026-09-12/bat-swarm-image-notes.md).*
 
+- 2026-09-12: Dain's Thunderclap hurts three bat groups for 8 damage. Stu turns into a bear and Ollyander fights a swarm at the far end. A roof fall is reported ambiguously; "chaos, chaos managed" does not establish casualties or final outcome. [Session](../../Adventures/2026-09-12.md)
+
 ## Related Entries
+- [Stu](./Stu.md)
+- [Ollyander](./Ollyander.md)
 - [Guano-Scented Crevasse And Cavern](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md)
 - [Cave Alarm Ball Bearing](../Items/Cave%20Alarm%20Ball%20Bearing.md)
 - [Current State](../../Character/Current%20State.md)
