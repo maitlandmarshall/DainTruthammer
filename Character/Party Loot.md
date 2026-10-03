@@ -11,6 +11,7 @@
 - [Party] [Confirmed] The party defeats the displacer beasts at the storm stop and immediately **begins harvesting hides and other unspecified parts/materials**. [Session](../Adventures/2026-10-03.md)
 - [In progress] Successful yields, item names beyond hides, quantities, condition, values, holders and storage remain unreported. No completed hide or other material is added to the holdings below yet.
 - [To verify] Record the actual harvest results and who carries them. Do not assume storage in the Chest of Preserving or ownership by Kagrenac or Dain.
+- [Latest storage follow-up] The party later begins burying its **metal airship** at night. Whether any harvested material is stored aboard, and how existing cargo will remain accessible, are unreported. [Ship burial](../Codex/Places/Party%20Skyship%20-%202026-08-29.md#night-burial---2026-10-03)
 
 ## Current Party Tracker - Imported 2026-09-12
 

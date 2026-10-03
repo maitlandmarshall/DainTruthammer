@@ -1,7 +1,9 @@
 # Inventory
 
-## Current Camp Shelter - 2026-09-12
-- [Party] [Confirmed] Nobody in the party has a tent available at the storm stop. Dain supplies a summoned **30-foot Leaky Tent** using a 3rd-level slot; this is a temporary spell effect, not acquired mundane equipment. [Session](../Adventures/2026-09-12.md)
+## Current Camp Shelter - 2026-10-03
+- [Party] [Confirmed] The summoned tent was **dismissed by Dain's finger-click**. The party is now at night with no rain, but wind, thunder and lightning remain; it begins burying the **metal airship**. No replacement shelter, completed burial or cargo transfer is reported. [Current session](../Adventures/2026-10-03.md)
+- [To verify] Ship cargo access and the location of any newly harvested materials during burial. See [Party Loot](./Party%20Loot.md#displacer-beast-harvest---2026-10-03).
+- [Prior shelter] [Party] [Confirmed on 2026-09-12] Nobody had a tent available at the storm stop, so Dain supplied a summoned **30-foot Leaky Tent** using a 3rd-level slot. This was a temporary spell effect, not acquired mundane equipment; its later dismissal is recorded above. [Session](../Adventures/2026-09-12.md)
 
 ## Source
 - [Confirmed] Imported from [Dicfuc_164465751.pdf](../Dicfuc_164465751.pdf) on 2026-04-18.
