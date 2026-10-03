@@ -7,7 +7,7 @@ Displacer beasts defeated by the party at the storm stop en route to an unidenti
 
 ## Status
 - Table role: DM-controlled / NPC creatures.
-- [Latest follow-up intention] At night, after the reported victory, the party wants to track **where these creatures have gone**. The preceding creatures were displacer beasts, but the exact referent and whether any creatures escaped remain unreported. No successful tracking, route or lair is established, and the earlier defeat is retained. [Session](../../Adventures/2026-10-03.md)
+- [Latest tracking follow-up] After the reported victory and night-camp preparation, the party finds the [cave where the creatures tracked to](../Places/Creature-Trail%20Cave%20-%202026-10-03.md) and **precious gems worth 5,000 gp in total**. The preceding creatures were displacer beasts; no surviving creature count or occupied lair is established. The earlier defeat remains recorded. [Session](../../Adventures/2026-10-03.md)
 - [Latest confirmed outcome] **The party defeats the creatures**, resolving the encounter, and immediately begins harvesting hides and other unspecified parts/materials. Completed yields, quantities, condition, holders and storage remain unreported. [Table-side] **750 XP awarded**, with per-character versus shared scope unreported.
 - [Earlier confirmed response] The beast that entered Dain's tent **runs away because of the smell** after Stinking Cloud fills the shelter. Destination, exact movement, save result and individual actions remain unreported; the subsequent victory resolves the encounter.
 - [Table-side] [Confirmed on 2026-10-03] The party is being attacked by displacer beasts; multiple attackers are reported, without an exact count.
@@ -30,6 +30,7 @@ Displacer beasts defeated by the party at the storm stop en route to an unidenti
 - 2026-10-03: The beast runs away because the gas smells so bad. No destination, save result, new damage or overall encounter outcome is reported. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: The party defeats the displacer beasts and immediately begins harvesting hides and other unspecified parts/materials. **750 XP** awarded; allocation scope and actual harvest results remain unreported. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: The party survives into a windy night with thunder/lightning but no rain, begins burying its metal airship, and wants to track where the creatures have gone. Exact tracking target, signs and results remain unreported; no surviving escapees are established. [Session](../../Adventures/2026-10-03.md)
+- 2026-10-03: The tracking destination is found: an unnamed cave containing **precious gems worth 5,000 gp in total**. The tracker, roll, route details, cave occupants and treasure collection/distribution remain unreported. [Cave](../Places/Creature-Trail%20Cave%20-%202026-10-03.md); [Session](../../Adventures/2026-10-03.md)
 
 ![The party begins hide work on a defeated displacer beast](../../Adventures/2026-10-03/displacer-beast-harvest.png)
 

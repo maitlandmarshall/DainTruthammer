@@ -1,7 +1,7 @@
 # Inventory
 
 ## Current Camp Shelter - 2026-10-03
-- [Party] [Confirmed] The summoned tent was **dismissed by Dain's finger-click**. The party is now at night with no rain, but wind, thunder and lightning remain; it begins burying the **metal airship**. No replacement shelter, completed burial or cargo transfer is reported. [Current session](../Adventures/2026-10-03.md)
+- [Party] [Confirmed] The summoned tent was **dismissed by Dain's finger-click**. At the last camp update, the party reached night with rain stopped and wind/thunder/lightning remaining, and began burying the **metal airship**. It later finds the creature-trail cave. No replacement shelter, completed burial or cargo transfer is reported. [Current session](../Adventures/2026-10-03.md)
 - [To verify] Ship cargo access and the location of any newly harvested materials during burial. See [Party Loot](./Party%20Loot.md#displacer-beast-harvest---2026-10-03).
 - [Prior shelter] [Party] [Confirmed on 2026-09-12] Nobody had a tent available at the storm stop, so Dain supplied a summoned **30-foot Leaky Tent** using a 3rd-level slot. This was a temporary spell effect, not acquired mundane equipment; its later dismissal is recorded above. [Session](../Adventures/2026-09-12.md)
 
@@ -10,6 +10,7 @@
 - [To verify] The sheet does not distinguish clearly between equipped, worn, and stowed items, so this file preserves what is listed.
 
 ## Currency
+- [Party treasure discovery] **Precious gems worth 5,000 gp in total** found in the creature-trail cave. Collection, carrier and distribution remain unreported; no personal share is assigned. [Gem find](./Party%20Loot.md#precious-gems---creature-trail-cave---2026-10-03)
 - [Party] [To verify] The [current party shares tracker](./Party%20Loot.md#coin-pot-and-shares), imported 2026-09-12, lists `Dane` with an allocation of `143 gp`, `92.5 ep`, `262.375 sp` and displayed `155.5555556 cp`. `Dane = Dain` is [Inferred]; actual distribution is unconfirmed. These values do not overwrite the personal purse below.
 - Standing gold practice: [Character-only] [Confirmed by user on 2026-07-11] Dain treats all personal gold as committed to future kindness or goodwill rather than savings. When gnomes are available, part is given as `Glittergold's Share`; generosity is not limited to gnomes. He may carry gold temporarily until he finds an appropriate recipient.
 - CP: 0

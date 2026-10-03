@@ -6,6 +6,12 @@
 - Shared party inventory and payments that are not Dain's personal gear.
 - [To verify] Confirm which party member physically carries each item when it matters for weight, access, theft risk, or use in combat.
 
+## Precious Gems - Creature-Trail Cave - 2026-10-03
+
+- [Party] [Confirmed] The party finds **precious gems worth 5,000 gp in total** in the [cave reached by the creatures' trail](../Codex/Places/Creature-Trail%20Cave%20-%202026-10-03.md). [Session](../Adventures/2026-10-03.md)
+- Status: **discovered**. Gem types, count, individual values, weight, collection, carrier, storage and distribution remain unreported.
+- The stated **5,000 gp** is the gems' total value. No sale, coin payout or personal share is reported; the existing coin-pot snapshot below is not increased by this find.
+
 ## Displacer-Beast Harvest - 2026-10-03
 
 - [Party] [Confirmed] The party defeats the displacer beasts at the storm stop and immediately **begins harvesting hides and other unspecified parts/materials**. [Session](../Adventures/2026-10-03.md)
