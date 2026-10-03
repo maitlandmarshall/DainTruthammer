@@ -12,6 +12,12 @@
 - Status: **discovered**. Gem types, count, individual values, weight, collection, carrier, storage and distribution remain unreported.
 - The stated **5,000 gp** is the gems' total value. No sale, coin payout or personal share is reported; the existing coin-pot snapshot below is not increased by this find.
 
+## Special Gem Found By Harry - 2026-10-03
+
+- [Confirmed table discovery; roster attribution] Norhan's [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) finds **one special gem commonly associated with spell storing**. [Item record](../Codex/Items/Special%20Gem%20Found%20by%20Harry.md); [Session](../Adventures/2026-10-03.md)
+- Finder: **Harry**. Retention, ownership and storage remain unreported; exact item identity, functional abilities and any stored spells are unconfirmed.
+- Value is unreported. Whether it is included in the preceding **5,000 gp** gem find or is additional remains unknown; no extra value or personal share is assigned.
+
 ## Displacer-Beast Harvest - 2026-10-03
 
 - [Party] [Confirmed] The party defeats the displacer beasts at the storm stop and immediately **begins harvesting hides and other unspecified parts/materials**. [Session](../Adventures/2026-10-03.md)

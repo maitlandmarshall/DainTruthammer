@@ -18,7 +18,8 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] Player: Norhan.
 - [Confirmed] Character name: Hammerton Harry Drizddon.
 - [Confirmed, 2026-10-03] Maitland confirms Norhan is still playing this character. Current tent narration uses she/her; historical source wording is retained.
-- [Confirmed current scene] Inside [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), immediately arguing with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). [Derived] Harry and the hammer are Wet under the recorded spell. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed latest discovery; roster attribution] Norhan / Harry finds a [special gem commonly associated with spell storing](../Items/Special%20Gem%20Found%20by%20Harry.md), following the cave's precious-gem discovery. Exact item identity, powers, retention/ownership and value remain unreported. [Session](../../Adventures/2026-10-03.md)
+- [Earlier scene] Sought shelter inside [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and immediately argued with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). [Derived] Harry and the hammer became Wet. The tent was subsequently dismissed; no Wet-ending event for Harry or the hammer is reported. [Session](../../Adventures/2026-10-03.md)
 - [Confirmed] Ancestry/species: Mountain Dwarf.
 - [Confirmed] Class/level: Fighter 3.
 - [Confirmed] Sheet spellcasting class: `Eldritch Fighter`.
@@ -126,6 +127,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - Explorer's Pack contents: backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, and 50 ft. rope.
 
 ## Treasure And Oddities
+- [Confirmed discovery on 2026-10-03] One [special gem commonly associated with spell storing](../Items/Special%20Gem%20Found%20by%20Harry.md). Harry is the finder; actual powers, value, retention/ownership and inclusion in the preceding 5,000 gp gem total remain unreported.
 - Bomb, 60 ft.; `1d12`, Dexterity save for half damage; sheet value 150 gp.
 - Snake head - Youati enemy head. [To verify spelling and context]
 - Bunny ears shaped weathered rock, jade, about 50 gp or more to the right person.
@@ -160,8 +162,14 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-07-11: Dain overhears his father tell the gnomes that he is disappointed a sigil was used for gold by someone identified table-side as Norhan and that another use will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md) [Inferred Hammerton connection; To verify]
 
 - 2026-10-03: Seeks shelter inside Dain's Leaky Tent and immediately starts arguing with her talking hammer. Words, cause and outcome are unreported. Maitland confirms Norhan is still playing Harry; this is not a newly introduced character. [Session](../../Adventures/2026-10-03.md)
+- 2026-10-03: Finds a special gem described as commonly associated with spell storing. The narration names Norhan; the established roster places the find with Harry. Identity, confirmed powers, value and retention remain unreported. [Gem](../Items/Special%20Gem%20Found%20by%20Harry.md); [Session](../../Adventures/2026-10-03.md)
+
+![Harry's special gem discovery in the current cave scene](../../Adventures/2026-10-03/harry-special-gem-find.png)
+
+*Portrait and cave continuity are preserved. Gem appearance, pose and handling illustrate the find without establishing active magic, a stored spell, identification or ownership. [Prompt and references](../../Adventures/2026-10-03/harry-special-gem-image-notes.md).*
 
 ## Related Entries
+- [Special Gem Found by Harry](../Items/Special%20Gem%20Found%20by%20Harry.md)
 - [Harry's Talking Hammer](../Items/Harrys%20Talking%20Hammer.md)
 - [Table Roster](../Lore/Table%20Roster.md)
 - [Open Threads](../Lore/Open%20Threads.md)
