@@ -2,11 +2,22 @@
 
 Maitland authorised adventure-log captions and generated campaign images to be posted as play progresses on 2026-10-03. The destination is [THe](https://discord.com/channels/958554312185884723/1497086827365142530), a thread in **#when-dnd** in **Goblin Time 69!**.
 
-## Current route: the Discord desktop app
+## Current route: the verified webhook
 
-The signed-in desktop account can use the thread composer. Its server settings do not expose Integrations or Webhooks, and the parent channel's context menu does not expose Edit Channel. Webhook creation was therefore unavailable in the inspected UI. No user account token is used.
+Maitland supplied a webhook on 2026-10-03. It is saved only in the ignored local `.env` as `DISCORD_ADVENTURE_WEBHOOK_URL`. The live verification authenticated successfully and matched the authorised server and **#when-dnd** parent channel. Do not copy the credential into the archive or print it.
 
-During active campaign turns, the agent sends each finished beat through the native app using the installed computer-use skill. This saves Maitland from copying captions and uploading images. It depends on the signed-in app being available during the turn; it is not an unattended background service.
+1. Finish each event and its scene images, then write a concise party-facing caption in a new `.agents/discord/outbox/<date>-<sequence>-<scene>.json` entry.
+2. Commit the caption, event and images together. The configured local post-commit hook sends pending committed entries to **THe** automatically.
+3. Confirm the publisher reports a successful send and readback. It checks the exact caption, thread, webhook, attachment filenames and sizes.
+4. Run `python -B .agents/discord/publish.py archive-receipts`, then commit `.agents/discord/delivered.json` with the session's delivery note. Delivery history prevents earlier desktop posts or webhook posts from being replayed.
+
+Posting runs when this checkout creates a commit. It does not watch arbitrary file edits or require the Discord desktop app to remain open. The credential and hook configuration are local to this checkout.
+
+## Desktop fallback
+
+Before the supplied webhook, the signed-in desktop account's inspected settings did not expose webhook creation. Its thread composer successfully posted captions and images. No user account token is used.
+
+If the webhook is unavailable, inspect pending receipts before using the native app through the installed computer-use skill. Preserve an existing user draft and do not repeat an uncertain send.
 
 1. Archive the event and finish its scene image. Write a short, party-facing caption in a new `.agents/discord/outbox/<date>-<sequence>-<scene>.json` file. Use a unique ID and committed image paths under `Adventures/`.
 2. Commit the caption, event and images together. Run `python -B .agents/discord/publish.py preview` to see undelivered committed posts.
@@ -21,7 +32,7 @@ During active campaign turns, the agent sends each finished beat through the nat
 
 The Dain and Harry images already posted by Maitland are not queued again. The initial queue entry adds a caption beneath those images.
 
-Live verification: [the opening recap](https://discord.com/channels/958554312185884723/1497086827365142530/1555768895921717391) was posted and read back through the native app on 2026-10-03. The next [displacer-beast encounter post](https://discord.com/channels/958554312185884723/1497086827365142530/1555770997817217128) verified a caption and a new scene-image upload together. The webhook route remains covered by offline tests only.
+Live desktop verification: [the opening recap](https://discord.com/channels/958554312185884723/1497086827365142530/1555768895921717391) was posted and read back through the native app on 2026-10-03. The next [displacer-beast encounter post](https://discord.com/channels/958554312185884723/1497086827365142530/1555770997817217128) verified a caption and a new scene-image upload together. Webhook authentication and destination verification have passed; its first live send remains to verify.
 
 Native upload detail: the Windows Open picker appeared as an owned dialogue in the Discord window's `get_window_state`, without a separate `list_windows` entry. Set the observed **File name** edit to the committed image's absolute path, refresh to verify its value and focus, then press Return to accept the file. Wait for its attachment preview before adding the caption. Refresh after sending until a numeric message ID and the rendered image appear; an upload progress bar is not confirmed delivery. Do not reuse Open-button indexes or coordinates that belong to a different window.
 
@@ -37,9 +48,9 @@ Native upload detail: the Windows Open picker appeared as an owned dialogue in t
 
 Keep captions below 2,000 characters and avoid mentions. Do not publish credentials, raw prompts, technical setup notes, DM-private material or unsupported character knowledge. Corrections use a new ID; do not alter a delivered entry. Do not backfill old sessions unless requested.
 
-## Optional webhook route
+## Webhook commands
 
-A server administrator can create a webhook in **#when-dnd**, parent channel `1017211804184743997`. Store its URL only in the ignored `.env` file as `DISCORD_ADVENTURE_WEBHOOK_URL`. Never print or commit that value.
+The configured webhook belongs to **#when-dnd**, parent channel `1017211804184743997`. Its URL stays only in the ignored `.env` file. Never print or commit that value.
 
 ```powershell
 python -B .agents/discord/publish.py verify
@@ -55,7 +66,7 @@ The local hook is enabled with `git config --local core.hooksPath .agents/hooks`
 
 Campaign commits still succeed if Discord delivery fails. Report pending delivery plainly. Receipts and the publisher lock live in the ignored `.agents/discord/state/` directory. A send with no readable response remains uncertain and will not be retried automatically: inspect the target thread before recording the observed message or clearing a rejected send. A message ID saved before a failed readback lets the next run verify that message without sending another copy.
 
-If a process exits unexpectedly and leaves a lock, confirm that no publisher is running before removing that exact lock file. Never clear receipts merely to make a test pass. Native-app posting remains the current route until a webhook is actually configured and verified.
+If a process exits unexpectedly and leaves a lock, confirm that no publisher is running before removing that exact lock file. Never clear receipts merely to make a test pass. Native-app posting is a fallback after the webhook's receipt state has been checked.
 
 ## Validation
 
