@@ -1,10 +1,10 @@
 # Open Threads
 
-- [Confirmed] **Current priority: Dain sits down and meditates in his Stinking Cloud on his turn.** Record any applicable turn-start save and the mechanical action ruling, then the other beasts' actions. HP remains **28**, concentration and Wet remain recorded; no rest benefit, overall encounter outcome or save result is supplied. The active spell uses confirmed **2014** rules. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed report; actor to verify] **Current priority: the tent meditation continues; d100 39 at the DM's request and Constitution save 18, passed.** The latest prompt names **Voltaire**, whereas the preceding scene names Dain. Clarify attribution, the d100 ruling and save purpose, then record the action ruling and the other beasts' actions. Dain remains last confirmed at **28 HP**, with concentration and Wet recorded; no rest benefit or overall encounter outcome is supplied. The active spell uses confirmed **2014** rules. [Session](../../Adventures/2026-10-03.md)
 
 ## Current Live Focus - 2026-10-03
 
-- [Confirmed] Dain is now seated and meditating inside the gas-filled Leaky Tent. [Open] Any turn-start cloud save, action ruling and subsequent events remain unreported. No healing, resource recovery, damage or concentration ending is established. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] Dain remains last explicitly named seated and meditating inside the gas-filled Leaky Tent. A later meditation report supplies a **passed Constitution save of 18** and **d100 39**, but names Voltaire. [Open] Confirm the character, save purpose, d100 outcome and action ruling. [Character-only] The meditator reflects on the tent/gas combination and a father's disappointment; no new paternal judgment, spell, vision, healing, recovery, damage or concentration ending is established. [Session](../../Adventures/2026-10-03.md)
 
 - [Confirmed cast and 2014 clarification] [Stinking Cloud](../Powers/Stinking%20Cloud.md) fills the tent. [Derived standard casting] Action used and one 3rd-level slot spent; remaining slots unknown. [Open] Record **DC 16 Constitution saves against poison** for creatures completely inside at turn start, including allies unless an exception applies. Failure spends the action retching; movement, Bonus Actions and reactions remain available. No failed save, retching, damage or wind dispersal is reported. [Session](../../Adventures/2026-10-03.md)
 
