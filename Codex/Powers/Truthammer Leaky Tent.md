@@ -21,6 +21,7 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - [Party] Dain summons the 30-foot tent with a 3rd-level slot at the overnight storm stop en route to a tower because nobody in the party has a tent.
 - [Confirmed opening update on 2026-10-03] Dain is **inside the tent**, unaware as battle begins. [Derived from custom mechanics] Wet applies to him: fire resistance and cold/lightning vulnerability. The long rest was interrupted, and Dain healed to 28 HP. [Session](../../Adventures/2026-10-03.md)
 - [Confirmed later updates on 2026-10-03] Harry shelters inside with her talking hammer; one displacer beast subsequently enters and misses Dain twice. [Derived] Harry, the hammer and the beast become Wet, and the direct attack alerts Dain. HP remains **28**. Remaining duration, other occupants and wind protection remain unrecorded. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed latest update on 2026-10-03] Dain casts [Stinking Cloud](./Stinking%20Cloud.md), filling the tent with horrid gas. The published cloud heavily obscures its area and requires concentration up to 1 minute; it deals no damage, so Wet is not ended by this cast. Occupant saves and indoor wind dispersal remain unreported. [Session](../../Adventures/2026-10-03.md)
 
 ## Creation Moment
 - 2026-05-03: During the forest long rest, Dain held his normal tent in a flowing river and experimented with random somatic components as water ran through it.
@@ -62,6 +63,7 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - 2026-10-03: Dain is inside Leaky Tent, unaware battle is beginning. His confirmed location triggers the recorded Wet effect. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) seeks shelter inside and immediately argues with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). Both become Wet under the recorded spell; the argument does not establish Dain's battle awareness. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: One [displacer beast](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) enters the tent and misses Dain twice. Entry immediately makes the beast Wet under the custom spell. [Derived awareness] The direct attack alerts Dain; HP remains **28**. [Session](../../Adventures/2026-10-03.md)
+- 2026-10-03: On his turn, Dain casts Stinking Cloud and fills the tent with horrid gas. Saves, occupant reactions and any wind dispersal remain unreported. [Session](../../Adventures/2026-10-03.md)
 
 ## Related Entries
 - [Spellbook](../../Character/Spellbook.md)

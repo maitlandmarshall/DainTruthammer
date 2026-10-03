@@ -12,18 +12,19 @@
 
 ## Active Session - 2026-10-03
 
-- Latest encounter beat: **one [displacer beast](../Codex/Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) enters Leaky Tent and attacks Dain twice; both rolls are below his AC and miss**. HP remains **28**, with no reported action, reaction or resource use. [Derived awareness] Dain now knows of the immediate threat. [Derived custom effect] The entering beast is **Wet**, with fire resistance and cold/lightning vulnerability.
+- Latest encounter beat: **Dain casts [Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md) on his turn, filling Leaky Tent with horrid gas**. [Derived published mechanics] Action used; **concentration active, up to 1 minute**, and one 3rd-level slot spent under standard casting. Current remaining slots are unknown. HP remains **28**; no saving throws, Poisoned condition, retching or new damage are reported.
+- Previous beat: one [displacer beast](../Codex/Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) enters and misses Dain twice, alerting him to the immediate threat [Derived awareness]. The entering beast is **Wet** under the tent's custom mechanics: fire resistance and cold/lightning vulnerability.
 
 - Earlier party beat: [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md), confirmed as Norhan's current character, joins the Leaky Tent and immediately argues with her [talking hammer](../Codex/Items/Harrys%20Talking%20Hammer.md). Harry and the hammer are Wet under the recorded custom mechanics. Dialogue and Dain's awareness of that exchange remain unreported; their reactions to the later beast entry are also unreported.
 
 - Equipped armour: **Dwarven Half Plate** [Confirmed clarification on 2026-10-03]. Exact AC remains to verify against the item wording or current sheet.
 
-- Latest scene: **Dain is inside Leaky Tent with one beast that has just missed him twice**. [Derived awareness] The direct attack alerts him; his earlier unawareness applies to battle onset. Total beast count, other positions, creature-name recognition, initiative and any surprise ruling remain unreported.
-- Active custom effect: **Wet**, derived from being inside [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), grants fire resistance and cold/lightning vulnerability under the recorded spell. HP remains **28**; no new damage, drying, casting or expenditure is reported.
+- Latest scene: **Leaky Tent is filled with Dain's Stinking Cloud**. Dain, Harry and one beast were last confirmed inside. [Derived published mechanics] The cloud heavily obscures its area; **DC 16 Constitution saves** occur at affected creatures' turn starts and can affect allies too. Tom's edition, saves, reactions, movement and indoor wind effects remain unreported. No immediate save outcome is assigned.
+- Active custom effect: **Wet**, derived from being inside [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), grants fire resistance and cold/lightning vulnerability under the recorded spell. Stinking Cloud deals no damage and does not end Wet. HP remains **28**; no new damage or drying is reported.
 
 - Active log: [Session 2026-10-03](../Adventures/2026-10-03.md), resuming from the final confirmed [2026-09-12 scene](../Adventures/2026-09-12.md).
 - Resume point: Storm stop on the route to an unidentified tower, with transport being packed down and a **30-foot Leaky Tent** just summoned using one **3rd-level slot**.
-- Current resources: **28 HP** [Confirmed on 2026-10-03], up from the prior recorded 3 HP; **3 Magic Mouth scrolls**, spell still unlearned after one failed transcription. Wizard 5 choices are **Major Image + Stinking Cloud**. Exact remaining slots, maximum HP and prepared list remain to verify.
+- Current resources: **28 HP** [Confirmed on 2026-10-03], up from the prior recorded 3 HP; **3 Magic Mouth scrolls**, spell still unlearned after one failed transcription. Wizard 5 choices are **Major Image + Stinking Cloud**; Stinking Cloud has now been cast in play. One 3rd-level slot is derived spent on this cast in addition to the earlier tent expenditure. Exact remaining slots, maximum HP and full prepared list remain to verify; no rest refresh is assumed.
 - Earlier update: The long rest was **interrupted**, but Dain healed to **28 HP**. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. Tent expiry, weather outcome and arrival are not established.
 
 ## Prior Session - 2026-09-12

@@ -1,14 +1,16 @@
 # Open Threads
 
-- [Confirmed] **Current priority: one displacer beast is inside Leaky Tent and has missed Dain twice.** HP remains **28**. [Derived awareness] The direct attack alerts Dain to the immediate threat; [Derived custom effect] both Dain and the entering beast are Wet. Record subsequent actions, initiative, any surprise ruling, total beast count and party positions. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] **Current priority: Dain casts Stinking Cloud, filling Leaky Tent with horrid gas.** [Derived] Concentration is active up to 1 minute and the cloud heavily obscures its area. Dain, Harry and one beast were last confirmed inside; Wet persists and HP remains **28**. Record DC 16 Constitution saves, Tom's edition, movement, concentration and any actual wind dispersal. [Session](../../Adventures/2026-10-03.md)
 
 ## Current Live Focus - 2026-10-03
+
+- [Confirmed cast] [Stinking Cloud](../Powers/Stinking%20Cloud.md) fills the tent. [Derived standard casting] Action used and one 3rd-level slot spent; remaining slots unknown. [Open] Record **DC 16 Constitution saves** at affected turn starts, including allies where applicable. No failed save, Poisoned condition, retching, damage or wind dispersal is reported. [Session](../../Adventures/2026-10-03.md)
 
 - [Confirmed] [Displacer beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) are attacking; one enters the tent and misses Dain twice. [Derived custom effect] The entering beast is Wet. [Open] Establish total count, other positions/actions and creature mechanics. Dain's recognition of their identity and any link to the interrupted rest remain unconfirmed. [Session](../../Adventures/2026-10-03.md)
 
 - [Confirmed event] [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) joins Dain inside Leaky Tent and immediately argues with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). Wet applies to Harry and the hammer. [Open] Record dialogue, hammer identity/abilities, whether Dain hears the exchange and their reactions to the later beast entry. The argument itself did not establish Dain's battle awareness. [Session](../../Adventures/2026-10-03.md)
 
-- [Derived awareness] The beast's direct attack inside the tent now alerts Dain to the immediate threat, resolving his earlier unawareness of battle onset. His knowledge of the wider fight, creature identity and other attackers remains unreported; no action or reaction is assigned. [Session](../../Adventures/2026-10-03.md)
+- [Derived awareness] The beast's direct attack inside the tent alerts Dain to the immediate threat, resolving his earlier unawareness of battle onset. His subsequent Stinking Cloud cast is confirmed; knowledge of the wider fight, creature identity and other attackers remains unreported. [Session](../../Adventures/2026-10-03.md)
 
 - [Character-only] [Confirmed] The long rest was **interrupted**, but Dain healed to **28 HP**. Three Magic Mouth scrolls remain recorded; one 3rd-level slot was previously spent on Leaky Tent. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. [Session 2026-10-03](../../Adventures/2026-10-03.md)
 
