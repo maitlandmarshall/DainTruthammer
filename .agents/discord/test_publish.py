@@ -12,6 +12,40 @@ from unittest.mock import patch
 import publish
 
 
+class WebhookSettingsTests(unittest.TestCase):
+    def setUp(self):
+        self.url = "https://discord.com/api/webhooks/123/test-token"
+        self.environment = patch.dict(publish.os.environ, {publish.WEBHOOK_SETTING: ""})
+        self.environment.start()
+        self.addCleanup(self.environment.stop)
+
+    def test_stored_credential_is_used_without_checkout_settings(self):
+        with patch.object(publish.credential_store, "read_webhook", return_value=self.url):
+            self.assertEqual(publish.webhook_url(), self.url)
+
+    def test_repository_env_does_not_supply_a_webhook(self):
+        state = Path(__file__).resolve().parent / "state"
+        state.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=state) as directory:
+            (Path(directory) / ".env").write_text(
+                publish.WEBHOOK_SETTING + "=" + self.url, encoding="utf-8"
+            )
+            with contextlib.chdir(directory):
+                with patch.object(publish.credential_store, "read_webhook", return_value=None):
+                    self.assertIsNone(publish.webhook_url())
+
+    def test_environment_override_skips_credential_store(self):
+        with patch.dict(publish.os.environ, {publish.WEBHOOK_SETTING: self.url}):
+            with patch.object(publish.credential_store, "read_webhook") as stored:
+                self.assertEqual(publish.webhook_url(), self.url)
+                stored.assert_not_called()
+
+    def test_invalid_stored_url_is_rejected(self):
+        with patch.object(publish.credential_store, "read_webhook", return_value="https://example.invalid/webhook"):
+            with self.assertRaises(publish.DeliveryError):
+                publish.webhook_url()
+
+
 class PublisherTests(unittest.TestCase):
     def setUp(self):
         state = Path(__file__).resolve().parent / "state"

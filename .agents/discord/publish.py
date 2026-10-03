@@ -14,6 +14,8 @@ import urllib.parse
 import urllib.request
 import uuid
 
+import credential_store
+
 
 GUILD_ID = "958554312185884723"
 PARENT_CHANNEL_ID = "1017211804184743997"
@@ -49,15 +51,10 @@ def git_bytes(root, *args):
         raise DeliveryError("A queued post or image is missing from the committed archive.") from None
 
 
-def webhook_url(root):
+def webhook_url():
     value = os.environ.get(WEBHOOK_SETTING, "").strip()
-    env_file = root / ".env"
-    if not value and env_file.exists():
-        for line in env_file.read_text(encoding="utf-8").splitlines():
-            key, separator, candidate = line.partition("=")
-            if separator and key.strip() == WEBHOOK_SETTING:
-                value = candidate.strip().strip("\"'")
-                break
+    if not value:
+        value = (credential_store.read_webhook() or "").strip()
     if not value:
         return None
 
@@ -308,13 +305,13 @@ def main():
                 print(json.dumps({"id": post["id"], "content": post["content"],
                                   "images": [name for name, _ in post["images"]]}, ensure_ascii=False, indent=2))
             return 0
-        url = webhook_url(ROOT)
+        url = webhook_url()
         if not url:
             if args.if_configured:
                 count = len(pending_posts(ROOT))
                 print(f"Discord desktop: {count} committed post(s) awaiting delivery.")
                 return 0
-            raise DeliveryError("Save the channel webhook URL in the ignored local .env file first.")
+            raise DeliveryError("Save the webhook in Windows Credential Manager or supply DISCORD_ADVENTURE_WEBHOOK_URL in the process environment; keep it outside the repository.")
         if args.action == "verify":
             verify_destination(url)
             print(f"Discord webhook verified for #when-dnd; posts will target thread {THREAD_ID}.")

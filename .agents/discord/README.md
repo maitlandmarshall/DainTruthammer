@@ -4,14 +4,22 @@ Maitland authorised adventure-log captions and generated campaign images to be p
 
 ## Current route: the verified webhook
 
-Maitland supplied a webhook on 2026-10-03. It is saved only in the ignored local `.env` as `DISCORD_ADVENTURE_WEBHOOK_URL`. The live verification authenticated successfully and matched the authorised server and **#when-dnd** parent channel. Do not copy the credential into the archive or print it.
+Maitland supplied a webhook on 2026-10-03 and requested that it be remembered outside the repository. It is saved in Windows Credential Manager for the current Windows user. The live verification authenticated successfully and matched the authorised server and **#when-dnd** parent channel. Do not copy the credential into repository files, memory notes or logs, or print it.
 
 1. Finish each event and its scene images, then write a concise party-facing caption in a new `.agents/discord/outbox/<date>-<sequence>-<scene>.json` entry.
 2. Commit the caption, event and images together. The configured local post-commit hook sends pending committed entries to **THe** automatically.
 3. Confirm the publisher reports a successful send and readback. It checks the exact caption, thread, webhook, attachment filenames and sizes.
 4. Run `python -B .agents/discord/publish.py archive-receipts`, then commit `.agents/discord/delivered.json` with the session's delivery note. Delivery history prevents earlier desktop posts or webhook posts from being replayed.
 
-Posting runs when this checkout creates a commit. It does not watch arbitrary file edits or require the Discord desktop app to remain open. The credential and hook configuration are local to this checkout.
+Posting runs when this checkout creates a commit. It does not watch arbitrary file edits or require the Discord desktop app to remain open. The hook configuration is local to this checkout; the saved credential remains available across sessions and checkouts for the same Windows user on this computer.
+
+## Credential storage
+
+The nonsecret Windows Credential Manager target is `Truthammer/Discord/958554312185884723/1497086827365142530`. [credential_store.py](credential_store.py) reads this generic credential, using persistence across logons on the same computer as described by [Microsoft](https://learn.microsoft.com/en-us/windows/win32/api/wincred/ns-wincred-credentialw). This does not make the credential available on a different computer.
+
+The publisher first accepts an explicit process environment setting, `DISCORD_ADVENTURE_WEBHOOK_URL`, then reads Credential Manager. It never reads the webhook from the repository's `.env`. Keep the URL outside the repository, including ignored files. Future agents can use `verify` without requesting the URL again on this computer.
+
+Migration verified on 2026-10-03: the saved credential matched its readback, the repository `.env` setting was removed, and a fresh publisher process authenticated successfully through Credential Manager. All twelve offline tests passed after the change.
 
 ## Desktop fallback
 
@@ -52,7 +60,7 @@ Keep captions below 2,000 characters and avoid mentions. Do not publish credenti
 
 ## Webhook commands
 
-The configured webhook belongs to **#when-dnd**, parent channel `1017211804184743997`. Its URL stays only in the ignored `.env` file. Never print or commit that value.
+The configured webhook belongs to **#when-dnd**, parent channel `1017211804184743997`. Its URL stays in Windows Credential Manager outside the repository. Never print or commit that value.
 
 ```powershell
 python -B .agents/discord/publish.py verify
@@ -76,4 +84,4 @@ If a process exits unexpectedly and leaves a lock, confirm that no publisher is 
 python -B -m unittest discover -s .agents/discord -p 'test_*.py'
 ```
 
-Tests use temporary local repositories and a fake Discord API. They verify committed uploads, thread routing, destination rejection, duplicate prevention, uncertain sends, readback recovery and archived desktop receipts. No test posts to Discord.
+Tests use temporary local repositories, mocked credential reads and a fake Discord API. They verify external credential lookup, exclusion of repository `.env` credentials, committed uploads, thread routing, destination rejection, duplicate prevention, uncertain sends, readback recovery and archived desktop receipts. No test posts to Discord or accesses the real saved credential.
