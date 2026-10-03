@@ -872,6 +872,14 @@ A bad update:
 
 ## Git and File Safety
 
+### Discord adventure feed
+
+Maitland authorised posting new adventure-log captions and generated campaign images to [THe](https://discord.com/channels/958554312185884723/1497086827365142530) on 2026-10-03. Follow [.agents/discord/README.md](.agents/discord/README.md) after each finished in-world beat; no repeated approval is needed within that destination and scope.
+
+The current route uses the signed-in native Discord app through the installed computer-use skill during active turns. The inspected account does not expose webhook creation. Queue and commit captions and images together, send them through the app, verify the message and attachments, then record and commit delivery history. A local post-commit hook reports pending desktop posts; it only sends unattended when a channel webhook is actually configured.
+
+Keep posts party-facing and preserve character knowledge boundaries. Do not publish technical discussion, credentials, raw prompts or DM-private material. Do not repeat images already manually posted. If a send is uncertain, inspect the thread before retrying; if delivery fails, report the pending post without claiming success.
+
 * Do not perform destructive cleanup unless the user asks.
 * Do not delete large amounts of material just to tidy the repo.
 * Do not remove ambiguity markers without evidence.

@@ -1,0 +1,7 @@
+#!/bin/sh
+# Publish only after the caption and its image are safely in the campaign archive.
+repo_root=$(git rev-parse --show-toplevel) || exit 0
+python -B "$repo_root/.agents/discord/publish.py" publish --if-configured || {
+  echo 'Discord delivery needs attention; the campaign commit is still saved.' >&2
+}
+exit 0
