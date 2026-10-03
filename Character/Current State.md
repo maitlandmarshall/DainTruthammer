@@ -12,13 +12,13 @@
 
 ## Active Session - 2026-10-03
 
-- Latest encounter clarification: **[displacer beasts](../Codex/Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) are attacking the party**. Exact count, positions, attacks, damage and mechanics are unreported. This is table-side information; Dain's last confirmed state is still **inside Leaky Tent, unaware battle has begun, at 28 HP**. No awareness trigger, resource use or new damage is established.
+- Latest encounter beat: **one [displacer beast](../Codex/Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) enters Leaky Tent and attacks Dain twice; both rolls are below his AC and miss**. HP remains **28**, with no reported action, reaction or resource use. [Derived awareness] Dain now knows of the immediate threat. [Derived custom effect] The entering beast is **Wet**, with fire resistance and cold/lightning vulnerability.
 
-- Earlier party beat: [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md), confirmed as Norhan's current character, joins the Leaky Tent and immediately argues with her [talking hammer](../Codex/Items/Harrys%20Talking%20Hammer.md). Harry and the hammer are Wet under the recorded custom mechanics. Dialogue and Dain's awareness of the exchange are unreported; his battle awareness remains unchanged from the last confirmed update.
+- Earlier party beat: [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md), confirmed as Norhan's current character, joins the Leaky Tent and immediately argues with her [talking hammer](../Codex/Items/Harrys%20Talking%20Hammer.md). Harry and the hammer are Wet under the recorded custom mechanics. Dialogue and Dain's awareness of that exchange remain unreported; their reactions to the later beast entry are also unreported.
 
 - Equipped armour: **Dwarven Half Plate** [Confirmed clarification on 2026-10-03]. Exact AC remains to verify against the item wording or current sheet.
 
-- Latest scene: **Dain is inside the Leaky Tent and unaware battle has begun**. Encounter onset and displacer-beast attackers are confirmed table-side; Dain's awareness, knowledge of the attackers, positions and initiative remain separate. No surprise ruling or new action is reported.
+- Latest scene: **Dain is inside Leaky Tent with one beast that has just missed him twice**. [Derived awareness] The direct attack alerts him; his earlier unawareness applies to battle onset. Total beast count, other positions, creature-name recognition, initiative and any surprise ruling remain unreported.
 - Active custom effect: **Wet**, derived from being inside [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), grants fire resistance and cold/lightning vulnerability under the recorded spell. HP remains **28**; no new damage, drying, casting or expenditure is reported.
 
 - Active log: [Session 2026-10-03](../Adventures/2026-10-03.md), resuming from the final confirmed [2026-09-12 scene](../Adventures/2026-09-12.md).
