@@ -1,8 +1,10 @@
 # Open Threads
 
-- [Confirmed] **Current priority: battle begins at the storm camp while Dain is inside the Leaky Tent and unaware.** Record how Dain learns of the encounter, initiative and any surprise ruling, opponents and party positions. Last confirmed HP is **28**; Wet applies under the tent's recorded custom mechanics. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] **Current priority: displacer beasts attack the party at the storm camp while Dain is inside Leaky Tent and last confirmed unaware.** Record how Dain learns of the encounter, initiative and any surprise ruling, beast count and party positions. Last confirmed HP is **28**; Wet applies under the tent's recorded custom mechanics. [Session](../../Adventures/2026-10-03.md)
 
 ## Current Live Focus - 2026-10-03
+
+- [Table-side] [Confirmed] [Displacer beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) are the attackers. [Open] Establish their count, positions, target selection, attacks/damage and table mechanics. Dain's knowledge of their identity and any link to the interrupted rest remain unconfirmed. [Session](../../Adventures/2026-10-03.md)
 
 - [Confirmed event] [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) joins Dain inside Leaky Tent and immediately argues with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). Wet applies to Harry and the hammer. [Open] Record dialogue, hammer identity/abilities and whether Dain hears the exchange; no battle awareness or Dain reaction is established. [Session](../../Adventures/2026-10-03.md)
 
