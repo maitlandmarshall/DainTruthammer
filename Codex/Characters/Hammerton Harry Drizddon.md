@@ -17,6 +17,8 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 ## Status
 - [Confirmed] Player: Norhan.
 - [Confirmed] Character name: Hammerton Harry Drizddon.
+- [Confirmed, 2026-10-03] Maitland confirms Norhan is still playing this character. Current tent narration uses she/her; historical source wording is retained.
+- [Confirmed current scene] Inside [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md), immediately arguing with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). [Derived] Harry and the hammer are Wet under the recorded spell. [Session](../../Adventures/2026-10-03.md)
 - [Confirmed] Ancestry/species: Mountain Dwarf.
 - [Confirmed] Class/level: Fighter 3.
 - [Confirmed] Sheet spellcasting class: `Eldritch Fighter`.
@@ -157,7 +159,10 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-06-20: Harry / Hammerton asks Truthammer for [Dain's Seal](../Items/Dains%20Seal.md); Dain provides it in exchange for `100 gp` worth of silver, then bets that silver in the tavern dice game. [Session 2026-06-20](../../Adventures/2026-06-20.md) [To verify exact object and current holder]
 - 2026-07-11: Dain overhears his father tell the gnomes that he is disappointed a sigil was used for gold by someone identified table-side as Norhan and that another use will require investigation. [Session 2026-07-11](../../Adventures/2026-07-11.md) [Inferred Hammerton connection; To verify]
 
+- 2026-10-03: Seeks shelter inside Dain's Leaky Tent and immediately starts arguing with her talking hammer. Words, cause and outcome are unreported. Maitland confirms Norhan is still playing Harry; this is not a newly introduced character. [Session](../../Adventures/2026-10-03.md)
+
 ## Related Entries
+- [Harry's Talking Hammer](../Items/Harrys%20Talking%20Hammer.md)
 - [Table Roster](../Lore/Table%20Roster.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Relationships](../../Character/Relationships.md)

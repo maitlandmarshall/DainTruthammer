@@ -12,6 +12,8 @@
 
 ## Active Session - 2026-10-03
 
+- Latest party beat: [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md), confirmed as Norhan's current character, joins the Leaky Tent and immediately argues with her [talking hammer](../Codex/Items/Harrys%20Talking%20Hammer.md). Harry and the hammer are Wet under the recorded custom mechanics. Dialogue and Dain's awareness of the exchange are unreported; his battle awareness remains unchanged from the last confirmed update.
+
 - Equipped armour: **Dwarven Half Plate** [Confirmed clarification on 2026-10-03]. Exact AC remains to verify against the item wording or current sheet.
 
 - Latest scene: **Dain is inside the Leaky Tent and unaware battle has begun**. Encounter onset is confirmed table-side; Dain's awareness, opponents, positions and initiative remain separate. No surprise ruling or new action is reported.

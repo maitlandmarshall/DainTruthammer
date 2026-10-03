@@ -22,6 +22,7 @@
 
 - Player: Norhan
   - Character: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md)
+  - Current identity confirmed by Maitland on 2026-10-03. The tent narration uses she/her for Harry; no character replacement is reported.
   - Role: Player Character
   - Sheet source: [Hammerton Harry Drizddon.pdf](../../Assets/Hammerton%20Harry%20Drizddon.pdf)
   - Class note: Mountain Dwarf Fighter 3 / eldritch martial archetype. Sheet fields use both `Eldrich` and `Eldritch Fighter`, so exact subclass wording remains [To verify].

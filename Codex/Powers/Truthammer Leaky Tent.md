@@ -59,6 +59,7 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - 2026-09-12: Dain upcasts Leaky Tent at 3rd level to a massive 30-foot size at the storm stop. One 3rd-level slot spent. [Session](../../Adventures/2026-09-12.md)
 
 - 2026-10-03: Dain is inside Leaky Tent, unaware battle is beginning. His confirmed location triggers the recorded Wet effect. [Session](../../Adventures/2026-10-03.md)
+- 2026-10-03: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) seeks shelter inside and immediately argues with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). Both become Wet under the recorded spell; the argument does not establish Dain's battle awareness. [Session](../../Adventures/2026-10-03.md)
 
 ## Related Entries
 - [Spellbook](../../Character/Spellbook.md)

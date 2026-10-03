@@ -4,6 +4,8 @@
 
 ## Current Live Focus - 2026-10-03
 
+- [Confirmed event] [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) joins Dain inside Leaky Tent and immediately argues with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). Wet applies to Harry and the hammer. [Open] Record dialogue, hammer identity/abilities and whether Dain hears the exchange; no battle awareness or Dain reaction is established. [Session](../../Adventures/2026-10-03.md)
+
 - [Confirmed knowledge boundary] Battle has begun, but **Dain does not know this yet**. He is inside the tent; do not assign him unreported observations, reactions or tactical knowledge. [Session](../../Adventures/2026-10-03.md)
 
 - [Character-only] [Confirmed] The long rest was **interrupted**, but Dain healed to **28 HP**. Three Magic Mouth scrolls remain recorded; one 3rd-level slot was previously spent on Leaky Tent. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. [Session 2026-10-03](../../Adventures/2026-10-03.md)
