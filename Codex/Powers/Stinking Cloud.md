@@ -7,6 +7,7 @@
 - [Confirmed] Dain selected this as one of his Wizard 5 spellbook additions on 2026-09-12.
 - [Confirmed on 2026-10-03] Dain casts it on his turn, filling Leaky Tent with horrid gas. HP stays last recorded at **28**; no occupant saves or reactions are reported.
 - [Confirmed later response on 2026-10-03] The beast runs away because of the smell. No saving throw, retching, Frightened condition or extra damage is reported; this is its narrated response, not an automatic flight effect of the spell.
+- [Confirmed subsequent turn on 2026-10-03] Dain sits down in his gas cloud and meditates. The mechanical action ruling and any applicable turn-start save are unreported. HP stays **28**; no healing, new expenditure or concentration ending is reported.
 - [Derived standard casting] Action used, concentration active and one 3rd-level slot spent. No different casting source is reported; exact remaining slots and full prepared list remain to verify.
 
 ## Published Rules - 2014
@@ -23,7 +24,11 @@
 - The camp's forecast does not establish wind strength or exposure inside the tent. No dispersal is recorded.
 
 ## Current Scene
-- Dain and Harry were last confirmed inside Leaky Tent. The entering beast now runs away because of the stench; its route, distance, final position relative to the cloud and Dain's perception of the retreat remain unreported.
+- Dain is seated and meditating inside his Stinking Cloud in Leaky Tent. Harry was last confirmed inside. The entering beast previously ran away because of the stench; its route, distance, final position relative to the cloud and Dain's perception of the retreat remain unreported.
 - Exact cloud centre/boundaries, turns, saves, other occupant effects and concentration changes remain unreported. Do not assign retching, lost actions, damage, immunity or a Frightened condition. Poisoned is not an effect of the 2014 spell.
 - [Session](../../Adventures/2026-10-03.md), [Spellbook](../../Character/Spellbook.md), [Leaky Tent](./Truthammer%20Leaky%20Tent.md), [Displacer Beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md).
 - Image poses, gas shape, sparks, silhouettes and layout are illustrative. [Prompt and references](../../Adventures/2026-10-03/stinking-cloud-image-notes.md).
+
+![Dain meditates in his own Stinking Cloud](../../Adventures/2026-10-03/dain-meditates-in-stinking-cloud.png)
+
+*Seated meditation is confirmed; exact pose and expression are illustrative, with no immunity, successful save, rest benefit or new spell implied. [Prompt and references](../../Adventures/2026-10-03/dain-meditation-image-notes.md).*
