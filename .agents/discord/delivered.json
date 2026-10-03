@@ -34,5 +34,10 @@
     "status": "confirmed",
     "message_id": "1555782313822912573",
     "route": "desktop"
+  },
+  "2026-10-03-007-webhook-recap": {
+    "fingerprint": "4e122d1e82677b48f7586f79fc5504af14e05170c097581c89f2092c69c0195e",
+    "status": "confirmed",
+    "message_id": "1555796612998234236"
   }
 }
