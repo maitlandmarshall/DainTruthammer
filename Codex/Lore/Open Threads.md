@@ -1,12 +1,12 @@
 # Open Threads
 
-- [Confirmed] **Current priority: Dain casts Stinking Cloud, filling Leaky Tent with horrid gas; 2014 rules are confirmed.** [Derived] Concentration is active up to 1 minute and the cloud heavily obscures its area. Dain, Harry and one beast were last confirmed inside; Wet persists and HP remains **28**. Record DC 16 Constitution saves, retching/action expenditure on failure, movement, concentration and any actual wind dispersal. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] **Current priority: the beast flees because Dain's Stinking Cloud smells so bad.** Record its destination, whether Dain notices through the gas and the other beasts' actions. HP remains **28**, concentration and Wet remain recorded; no overall encounter outcome or save result is supplied. The active spell uses confirmed **2014** rules. [Session](../../Adventures/2026-10-03.md)
 
 ## Current Live Focus - 2026-10-03
 
 - [Confirmed cast and 2014 clarification] [Stinking Cloud](../Powers/Stinking%20Cloud.md) fills the tent. [Derived standard casting] Action used and one 3rd-level slot spent; remaining slots unknown. [Open] Record **DC 16 Constitution saves against poison** for creatures completely inside at turn start, including allies unless an exception applies. Failure spends the action retching; movement, Bonus Actions and reactions remain available. No failed save, retching, damage or wind dispersal is reported. [Session](../../Adventures/2026-10-03.md)
 
-- [Confirmed] [Displacer beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) are attacking; one enters the tent and misses Dain twice. [Derived custom effect] The entering beast is Wet. [Open] Establish total count, other positions/actions and creature mechanics. Dain's recognition of their identity and any link to the interrupted rest remain unconfirmed. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] The [displacer beast](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) that entered and missed Dain twice **runs away because of the stench**. [Derived custom effect] Its Wet effect remains recorded without an ending event. [Open] Establish its final position, Dain's perception of the retreat, total count and other beasts' actions. No Frightened condition, failed save, defeat or overall encounter completion is established. [Session](../../Adventures/2026-10-03.md)
 
 - [Confirmed event] [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) joins Dain inside Leaky Tent and immediately argues with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). Wet applies to Harry and the hammer. [Open] Record dialogue, hammer identity/abilities, whether Dain hears the exchange and their reactions to the later beast entry. The argument itself did not establish Dain's battle awareness. [Session](../../Adventures/2026-10-03.md)
 

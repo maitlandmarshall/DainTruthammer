@@ -6,6 +6,7 @@
 - [Confirmed clarification on 2026-10-03] Maitland confirms **2014 rules** for the active spell; the 2024 failed-save effect does not apply.
 - [Confirmed] Dain selected this as one of his Wizard 5 spellbook additions on 2026-09-12.
 - [Confirmed on 2026-10-03] Dain casts it on his turn, filling Leaky Tent with horrid gas. HP stays last recorded at **28**; no occupant saves or reactions are reported.
+- [Confirmed later response on 2026-10-03] The beast runs away because of the smell. No saving throw, retching, Frightened condition or extra damage is reported; this is its narrated response, not an automatic flight effect of the spell.
 - [Derived standard casting] Action used, concentration active and one 3rd-level slot spent. No different casting source is reported; exact remaining slots and full prepared list remain to verify.
 
 ## Published Rules - 2014
@@ -22,7 +23,7 @@
 - The camp's forecast does not establish wind strength or exposure inside the tent. No dispersal is recorded.
 
 ## Current Scene
-- Dain, Harry and one displacer beast were last confirmed inside Leaky Tent before the cast. Exact cloud centre, boundaries, turns, movement, saves, effects and concentration changes remain unreported.
-- Do not assign retching, lost actions, damage, immunity or a successful escape without a table result. Poisoned is not an effect of the 2014 spell.
+- Dain and Harry were last confirmed inside Leaky Tent. The entering beast now runs away because of the stench; its route, distance, final position relative to the cloud and Dain's perception of the retreat remain unreported.
+- Exact cloud centre/boundaries, turns, saves, other occupant effects and concentration changes remain unreported. Do not assign retching, lost actions, damage, immunity or a Frightened condition. Poisoned is not an effect of the 2014 spell.
 - [Session](../../Adventures/2026-10-03.md), [Spellbook](../../Character/Spellbook.md), [Leaky Tent](./Truthammer%20Leaky%20Tent.md), [Displacer Beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md).
 - Image poses, gas shape, sparks, silhouettes and layout are illustrative. [Prompt and references](../../Adventures/2026-10-03/stinking-cloud-image-notes.md).

@@ -3,14 +3,15 @@
 ![Displacer-beast threat at the Leaky Tent storm stop](../../Adventures/2026-10-03/displacer-beasts-at-leaky-tent.png)
 
 ## One-Line Summary
-Displacer beasts attacking the party during the active encounter at the storm stop on the route to an unidentified tower.
+Displacer beasts in the storm-stop encounter en route to an unidentified tower; the one that entered Dain's tent now flees the stench of Stinking Cloud.
 
 ## Status
 - Table role: DM-controlled / NPC creatures.
+- [Latest confirmed response] The beast that entered Dain's tent **runs away because of the smell** after Stinking Cloud fills the shelter. Destination, exact movement, save result and the other beasts' actions remain unreported; this does not resolve the whole encounter.
 - [Table-side] [Confirmed on 2026-10-03] The party is being attacked by displacer beasts; multiple attackers are reported, without an exact count.
 - [Confirmed subsequent event] One beast enters Dain's Leaky Tent and attacks him twice. Both rolls are below his AC and miss; Dain remains at **28 HP**.
 - [Derived custom effect] The entering beast becomes **Wet**, granting fire resistance and cold/lightning vulnerability until 10 minutes of drying or taking one of those damage types. The missed attacks do not end Wet.
-- [Confirmed subsequent cast; 2014 rules clarified] Dain fills Leaky Tent with [Stinking Cloud](../Powers/Stinking%20Cloud.md). The beast was last confirmed inside. Its save, reaction, movement and any retching/action expenditure are unreported; the non-damaging cast does not end Wet or impose Poisoned.
+- [Confirmed preceding cast; 2014 rules clarified] Dain fills Leaky Tent with [Stinking Cloud](../Powers/Stinking%20Cloud.md) while the beast is inside. It subsequently retreats because of the smell; no save, retching/action expenditure, Frightened condition or ending event for Wet is reported.
 - [To verify] Total count, other positions/targets/actions, exact attack totals, encounter outcome, motives, stat block and table-specific creature mechanics.
 - [To verify] Whether their attack caused the long-rest interruption. The user has not explicitly connected these events.
 - [Illustrative visual only] The scene uses a panther-like beast with six legs, shoulder tentacles and offset outlines. Its exterior position, pose and appearance interpret the creature name; they are not additional observed facts or a mechanical ruling.
@@ -18,12 +19,17 @@ Displacer beasts attacking the party during the active encounter at the storm st
 ## What Dain Knows
 - [Derived awareness] A beast enters the tent and directly attacks Dain twice, alerting him to the immediate threat. He was unaware at battle onset.
 - Recognition of the creature's name and knowledge of other attackers or the wider fight remain unreported.
-- Both attacks miss. Dain subsequently casts Stinking Cloud on his turn; HP remains **28**. The gas heavily obscures its area under standard rules; no subsequent creature save or movement is known.
+- Both attacks miss. Dain subsequently casts Stinking Cloud on his turn; HP remains **28**. The beast's later retreat is confirmed table-side, but Dain's perception of it through the heavily obscured gas is unreported. No save result or final position is known.
 
 ## Notable Events
 - 2026-10-03: The user identifies displacer beasts as the party's attackers after the tent scene with Harry and her talking hammer. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: One beast enters Leaky Tent and misses Dain twice. [Derived] The attacks alert Dain, and entry makes the beast Wet. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: Dain casts Stinking Cloud and fills the tent with horrid gas. The beast's saving throw and response are unreported. [Session](../../Adventures/2026-10-03.md)
+- 2026-10-03: The beast runs away because the gas smells so bad. No destination, save result, new damage or overall encounter outcome is reported. [Session](../../Adventures/2026-10-03.md)
+
+![The displacer beast flees the stench from Leaky Tent](../../Adventures/2026-10-03/displacer-beast-flees-the-stench.png)
+
+*Escape framing, distance, pose and gas at the entrance are illustrative; no exact destination, failed save, fear condition or Dain observation is established. [Prompt and references](../../Adventures/2026-10-03/displacer-beast-retreat-image-notes.md).*
 
 ![A displacer beast's two attacks miss Dain inside Leaky Tent](../../Adventures/2026-10-03/displacer-beast-misses-dain.png)
 
