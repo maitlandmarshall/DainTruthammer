@@ -98,6 +98,7 @@
 - Missing details: [To verify] role in the party, how long Dain has known him, and whether the trust is mutual
 
 - [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md)
+- Latest assistance, 2026-10-03: [Confirmed; established roster attribution] Matt / Kagrenac loads **Cure Wounds into one of Dain's two spell-storing stones**. Dain defers his other spell choice. No numerical respect/trust change or actual healing is reported. [Stone contents](../Codex/Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings).
 - Current standing: [Party] Reconciled after the accusation. Biggus and Kagrenac explain the Berronar-marked armor's origin at dinner, and Kagrenac apologizes to Dain.
 - Dain's known belief: [Character-only] Kagrenac is bold enough to try firing Yuckie from a ballista and has earned a little more of Dain's respect than before. Dain's suggestion that the "young elf" may be interested in goji leaves is a public nudge, not confirmed evidence of Kagrenac's actual interest.
 - Respect marker: [Character-only] Dain previously recorded `+4` respect toward Kagrenac; the 2026-07-11 notebook records another `+13` respect connected to Kagrenac. [To verify direction, trigger, and resulting total]

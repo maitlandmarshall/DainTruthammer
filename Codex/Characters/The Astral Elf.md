@@ -13,6 +13,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - DM: Tom.
 
 ## Status
+- [Confirmed, 2026-10-03; established roster attribution] Matt / Kagrenac loads **Cure Wounds into one of Dain's two spell-storing stones**. Dain will choose the other spell later. Exact loading method, action cost and spell-slot expenditure are unreported. [Stone contents](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings); [Session](../../Adventures/2026-10-03.md).
 - [Party] [Confirmed] Name: Kagrenac. User confirmation recorded 2026-05-03.
 - [Party] [Confirmed] Player: Matt. User confirmation recorded 2026-05-03.
 - [Party] [Confirmed] Kagrenac is an Astral Elf traveling with the party.
@@ -79,7 +80,10 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-07-11: Kagrenac declares he no longer trusts Dain and accuses him of murdering a dwarf connected to the hidden tunnel history. [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md)
 - 2026-07-11: After another one or two hours of walking, the moon elf notices airships near the Truthhammer gates and makes reaching the mountains to deliver armor to Dain's father the immediate priority ahead of the sealed letter. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify whether this is Kagrenac]
 
+- 2026-10-03: Matt puts Cure Wounds into one of Dain's spell-storing stones. The established roster attributes the action to Kagrenac; no release or healing is reported. [Session](../../Adventures/2026-10-03.md).
+
 ## Related Entries
+- [Spell-Storing Crystals / Stones](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)
 - [Brother Taleesh](./Brother%20Taleesh.md)
