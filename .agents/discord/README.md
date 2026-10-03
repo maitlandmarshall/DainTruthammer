@@ -21,6 +21,8 @@ During active campaign turns, the agent sends each finished beat through the nat
 
 The Dain and Harry images already posted by Maitland are not queued again. The initial queue entry adds a caption beneath those images.
 
+Live verification: [the opening recap](https://discord.com/channels/958554312185884723/1497086827365142530/1555768895921717391) was posted and read back through the native app on 2026-10-03. No duplicate image was sent. A fresh desktop image upload remains to be verified with the next scene; the webhook image upload is covered by offline tests only.
+
 ## Post format
 
 ```json

@@ -288,6 +288,8 @@ def publish(root, url):
 
 
 def main():
+    # Windows shell output must preserve the same punctuation as the queued caption.
+    sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("action", choices=["preview", "verify", "publish", "record-ui", "archive-receipts"])
     parser.add_argument("post_id", nargs="?")
