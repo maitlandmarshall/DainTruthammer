@@ -45,6 +45,11 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - The Wet effect lasts until the affected creature or item dries itself, taking 10 minutes, or until it takes any one of fire, cold, or lightning damage.
 - [Confirmed table use on 2026-09-12] A **3rd-level casting produces a 30-foot tent**. Exact footprint/height, general size progression and any upcast AC/HP changes remain unspecified. [Session](../../Adventures/2026-09-12.md)
 
+## Dismissal Wording
+- [Recorded wording] The mechanics summary lists **Duration: 8 hours**. It does not list concentration or a dismissal clause, so the saved record establishes neither a free dismissal nor a dismissal action cost. [Question raised on 2026-10-03](../../Adventures/2026-10-03.md).
+- [2014 rules reference] A caster can end concentration at any time, with no action required, under the [2014 spellcasting rules](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/spellcasting#Duration). That permits ending Dain's Stinking Cloud, but the tent's recorded duration does not provide the same concentration-based option.
+- [To verify with Tom] Obtain a dismissal ruling or fuller custom spell wording. If free dismissal is intended, a proposed clause is: **"You can dismiss the tent at any time (no action required)."** This sentence is a proposal, not an adopted mechanic. No tent dismissal is recorded from the question.
+
 ## Design Notes
 - This is the named completion of Dain's earlier anti-shelter research.
 - The spell is honest in the most Truthhammer way: it promises a leaky shelter and delivers every drop.
