@@ -183,7 +183,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Prove that strange edge-case spells can hold wonder, elegance, and real value even when no one else sees the point.
 
 ## Mechanical Snapshot
-- Wizard 5 selected on 2026-09-12, adding **Major Image + Stinking Cloud**. Current and maximum HP remain [To verify]; see [Current State](../../Character/Current%20State.md#wizard-5-update---2026-09-12). Last recorded armor baseline: current AC `14` from the equipped and attuned [Breastplate of Balance](../Items/Breastplate%20of%20Balance.md); Speed 30 ft.; spell save DC 16; spell attack bonus +8; CON save +5; medium armor training confirmed; `1 / 3` confirmed attunement slots occupied.
+- Wizard 5 selected on 2026-09-12, adding **Major Image + Stinking Cloud**. Current HP **28**, confirmed 2026-10-03 after interrupted rest; maximum HP remains to verify. **Dwarven Half Plate is equipped**, clarified 2026-10-03; exact AC is unresolved, with AC 17 conditional on the recorded standard magical +2 interpretation. Speed 30 ft.; spell save DC 16; spell attack +8; CON save +5; medium armour training confirmed. Breastplate attunement was last confirmed 2026-07-11; no change is reported. See [Current State](../../Character/Current%20State.md).
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 

@@ -10,7 +10,7 @@ A rare copper-and-clockwork breastplate that spends magical charges to flatten a
 - [Confirmed] Published magic item from *The Book of Many Things*, page 34.
 - [Confirmed] Medium armor (breastplate), rare, requires attunement, `20 lb.`
 - [Character-only] [Confirmed by user on 2026-07-11] Dain received it when the party killed the harpies on 2026-04-18.
-- [Character-only] [Confirmed by user on 2026-07-11] Dain currently carries, wears, and is attuned to the breastplate.
+- [Character-only] [Historical confirmation on 2026-07-11] Dain carried, wore and attuned to the breastplate. [Confirmed equipment clarification on 2026-10-03] He is currently wearing [Dwarven Half Plate](./Dwarven%20Half%20Plate.md) instead; breastplate storage and any attunement change are unrecorded. [Session](../../Adventures/2026-10-03.md)
 - [To verify] Current charges remaining.
 - [Character-only] [Confirmed by user on 2026-07-11] Dain is proficient/trained in medium armor.
 

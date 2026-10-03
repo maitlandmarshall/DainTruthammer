@@ -10,6 +10,8 @@
 
 ## Active Session - 2026-10-03
 
+- Equipped armour: **Dwarven Half Plate** [Confirmed clarification on 2026-10-03]. Exact AC remains to verify against the item wording or current sheet.
+
 - Latest scene: **Dain is inside the Leaky Tent and unaware battle has begun**. Encounter onset is confirmed table-side; Dain's awareness, opponents, positions and initiative remain separate. No surprise ruling or new action is reported.
 - Active custom effect: **Wet**, derived from being inside [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), grants fire resistance and cold/lightning vulnerability under the recorded spell. HP remains **28**; no new damage, drying, casting or expenditure is reported.
 
@@ -75,7 +77,7 @@
 - Max HP: [To verify] Level-4 baseline likely `29`, plus the pending Wizard 5 HP increase; `35` only if baseline 29 and fixed +6 are confirmed.
 - Current HP: **28** [Confirmed on 2026-10-03]. Previously recorded at 3 HP after the guano-cavern fight; healed to 28 during an interrupted long rest. Healing source and other rest benefits remain unrecorded.
 - Temp HP: [To verify] the Temp HP field shows `--`
-- AC: `14` from the last confirmed equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11] Dain now owns [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md) described as `+2 AC`; if this is standard magical `+2` half plate and he equips it, his AC would be `17`. Equipped state and exact table wording remain [To verify].
+- AC: [To verify exact total] **Dwarven Half Plate equipped**, confirmed 2026-10-03. With DEX +0, the prior standard magical `+2` interpretation gives **17**; the earlier `+2 AC` wording remains unclarified. The Breastplate of Balance's AC 14 is a historical baseline, not the current equipped armour.
 - Initiative: +0
 - Speed: 30 ft. (walking)
 - Hit Dice: 5d6 maximum; current remaining [To verify]
@@ -113,8 +115,8 @@
 - Stonecunning (Tremorsense): prior sheet `2 / Long Rest`; `3 / Long Rest` if using the 2024 proficiency-based feature [To verify table version and remaining uses].
 - Chromatic Orb: Cast at the [Werebear at Smoky Cave](../Codex/Characters/Werebear%20at%20Smoky%20Cave.md) for `11` acid damage on 2026-05-03. [To verify] Whether this spent a 1st-level spell slot, the refreshed Magic Initiate `1 / Long Rest` use, or another table-specific resource.
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
-- Breastplate of Balance: [Character-only] [Confirmed by user on 2026-07-11] Dain received this rare medium armor when the party killed the harpies on 2026-04-18, is proficient/trained in medium armor, and has now equipped and attuned to it. With Dain's current `DEX +0`, it provides `AC 14` and does not prevent his spellcasting. Current charges are [To verify].
-- Dwarven Half Plate: [Character-only] [Confirmed by user on 2026-08-29] Dain has acquired [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md) described as `+2 AC`. If this is standard magical `+2` half plate, it provides `AC 17` with Dain's `DEX +0`; if the user meant a flat two-point increase over his current armour, the intended total would be `AC 16`. Source, exact wording, equipped state, Stealth effect and attunement are [To verify].
+- Breastplate of Balance: Dain owns this rare medium armour and last confirmed attunement on 2026-07-11. He is now wearing Dwarven Half Plate instead. Current storage, charges and any attunement change remain unrecorded.
+- Dwarven Half Plate: [Confirmed] Acquired 2026-08-29 and **currently worn**, clarified 2026-10-03. Earlier description: `+2 AC`. Standard magical `+2` interpretation gives AC 17 at DEX +0; exact bonus, Stealth effect and attunement remain to verify.
 - Original spell created: [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md). [Character-only] [Confirmed on 2026-05-03]
 - Newly learned spell: `Find Familiar`, taught by Kagrenac during the 2026-07-11 long rest. [Confirmed from user-supplied summary; To verify transcription cost, components, and preparation]
 - Conjured warm cloak: Dain used `Prestidigitation` and `Minor Conjuration` together to give [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) a warm cloak for the remainder of the night; the night has passed, so any continued cloak effect is [To verify]. [Party] [Character-only] [Confirmed]
@@ -171,7 +173,7 @@
 - [Character-only] Preserve the hidden tunnel as an unresolved clan-security thread: confirm the roper, one-mile stair, Berronar-marked armor, missing friend, later searcher, and what Dain's father knows.
 - [Character-only] Ask what Dain knows from his father's fire-spirit and mountain-spirit stories before assuming the hidden passage is ordinary stonework.
 - [Character-only] Use the [current session record](../Adventures/2026-08-29.md) for table questions, objectives, and ready lines in Ola Dung Lot.
-- [Character-only] Confirm the [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md)'s exact `+2 AC` wording and whether Dain equips it in place of the Breastplate of Balance; standard magical-half-plate interpretation would set AC to `17` with `DEX +0`.
+- [Character-only] Confirm [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md)'s exact `+2 AC` wording, AC total, Stealth effect and attunement. **Equipped state is now confirmed**; D&D Beyond sheet access may resolve the remaining numbers.
 - [Character-only] Investigate why the newcomers glow with magic, why the [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) can apparently block or resist `Identify`, why it bit Dain when he began praying to [Garl Glittergold](../Codex/Lore/Garl%20Glittergold.md), and what [Kurtlemack](../Codex/Lore/Kurtlemack.md)'s hatred means.
 - [Character-only] Decide whether the party deserves the short truth, long truth, or useful truth about why home became complicated.
 - [Character-only] Test stern authority figures with small needling questions or sideways humor to learn whether they are honorable.
