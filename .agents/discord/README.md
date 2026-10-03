@@ -21,7 +21,9 @@ During active campaign turns, the agent sends each finished beat through the nat
 
 The Dain and Harry images already posted by Maitland are not queued again. The initial queue entry adds a caption beneath those images.
 
-Live verification: [the opening recap](https://discord.com/channels/958554312185884723/1497086827365142530/1555768895921717391) was posted and read back through the native app on 2026-10-03. No duplicate image was sent. A fresh desktop image upload remains to be verified with the next scene; the webhook image upload is covered by offline tests only.
+Live verification: [the opening recap](https://discord.com/channels/958554312185884723/1497086827365142530/1555768895921717391) was posted and read back through the native app on 2026-10-03. The next [displacer-beast encounter post](https://discord.com/channels/958554312185884723/1497086827365142530/1555770997817217128) verified a caption and a new scene-image upload together. The webhook route remains covered by offline tests only.
+
+Native upload detail: the Windows Open picker appeared as an owned dialogue in the Discord window's `get_window_state`, without a separate `list_windows` entry. Set the observed **File name** edit to the committed image's absolute path, refresh to verify its value and focus, then press Return to accept the file. Wait for its attachment preview before adding the caption. Refresh after sending until a numeric message ID and the rendered image appear; an upload progress bar is not confirmed delivery. Do not reuse Open-button indexes or coordinates that belong to a different window.
 
 ## Post format
 
