@@ -142,7 +142,7 @@ From Photo 2. A dash below means a blank source cell, not a zero or a confirmed 
 - A human/townsperson from before is involved in a trade with Ollyander worth `60 gp` in silver. [Party] [To verify direction of trade, current holder, whether this is the human who ran away, and whether it belongs in party loot or Ollyander's personal inventory]
 
 ## Ola Dung Lot Requisition
-- [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md): `5` acquired on 2026-08-29; **3 now confirmed in Dain's possession** on 2026-09-12. This replaces the earlier provisional four after the [alarm cast](../Codex/Items/Cave%20Alarm%20Ball%20Bearing.md). Dain confirms a failed transcription consumed one scroll, explaining the reduction to three. Magic Mouth remains unlearned; no exact copying costs are recorded.
+- [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md): `5` acquired on 2026-08-29; **0 remaining** after the latest 2026-10-03 update. Three remained after the [alarm-cast](../Codex/Items/Cave%20Alarm%20Ball%20Bearing.md) accounting and confirmed failed transcription on 2026-09-12. Dain now **learns Magic Mouth while travelling in the airship**, using up all remaining scrolls. Attempt order, rolls and exact copying costs remain unreported.
 
 ## Open Questions
 - [To verify] Which party member carries the burdock and ginseng.

@@ -24,7 +24,7 @@
 - Quarterstaff x2
 
 ## Arcane And Scholarly Gear
-- [Magic Mouth spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) x**3** [Confirmed in Dain's possession on 2026-09-12]. One failed attempt to learn the spell consumed a scroll, explaining the reduction from the prior four. Magic Mouth remains unlearned.
+- [Magic Mouth spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) x**0** [Confirmed on 2026-10-03]. Dain learns Magic Mouth from the scrolls while travelling in the airship; **all three remaining copies are used up**. Earlier failed transcription is preserved in the scroll history. Attempt order, copying costs and prepared status are unreported. [Learned spell](./Spellbook.md#2nd-level-spells-learned-in-play).
 - Spellbook x1
 - Calligrapher's Supplies x1
 - Book x2
@@ -70,7 +70,7 @@
 - [Confirmed] On 2026-05-03, the [Southern Human Traders](../Codex/Factions/Southern%20Human%20Traders.md) paid the upfront half of their arrangement as [Burdock](../Codex/Items/Burdock.md) x10 oz and [Ginseng](../Codex/Items/Ginseng.md) x2 oz into [Party Loot](./Party%20Loot.md). Current carrier is [To verify].
 - [Party] A Bag of Holding survives the traders' destruction by holy fire at Ola Dung Lot's gates and is acquired by the party. [To verify whether this is the bag Dain promised Harry, who owns/carries it, contents, and whether it was issued earlier by the Truthammer quartermaster]
 - [Party] The [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) survives the same holy fire and is currently tied in rat form to Harry's belt.
-- [Party] [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md): **3 remaining with Dain**, originally 5 acquired on 2026-08-29. Earlier accounting assumes one used for the cave alarm; one failed transcription is now confirmed to have consumed a scroll. Magic Mouth is not learned.
+- [Party] [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md): **0 remaining**, originally 5 acquired on 2026-08-29. After the cave-alarm accounting and one confirmed failed transcription, three remained. Dain learns the spell during airship travel on 2026-10-03 and uses up all remaining copies.
 
 ## Carry Load
 - Weight Carried: [To verify] The earlier `73 lb.` estimate included a `53 lb.` baseline and the `20 lb.` Breastplate of Balance. Dwarven Half Plate is now worn; its weight, the breastplate's storage and the later rope/inventory changes are not reconciled into a current total.

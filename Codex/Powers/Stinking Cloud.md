@@ -3,6 +3,7 @@
 ![Dain casts Stinking Cloud inside Leaky Tent](../../Adventures/2026-10-03/stinking-cloud-in-leaky-tent.png)
 
 ## Status
+- [Confirmed latest use on 2026-10-03] Dain uses Stinking Cloud while **continuing Leaky Tent research during airship travel**. Exact cast count/source, expenditure, location/coverage, exposure, saves and current duration are unreported. This is later use; the battle cloud cannot have survived the intervening ten-hour mining break. No new spell effect or immunity is established. [Research](./Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03)
 - [Confirmed clarification on 2026-10-03] Maitland confirms **2014 rules** for the active spell; the 2024 failed-save effect does not apply.
 - [Confirmed] Dain selected this as one of his Wizard 5 spellbook additions on 2026-09-12.
 - [Confirmed on 2026-10-03] Dain casts it on his turn, filling Leaky Tent with horrid gas. HP stays last recorded at **28**; no occupant saves or reactions are reported.
@@ -24,7 +25,11 @@
 - Winds of at least 10 mph disperse it after four rounds, or at least 20 mph after one round.
 - The camp's forecast does not establish wind strength or exposure inside the tent. No dispersal is recorded.
 
-## Current Scene
+## Current Scene - Airship Research
+- Dain is travelling in the airship, having learned Magic Mouth and used up his remaining scrolls, and continues refining Leaky Tent while using Stinking Cloud. No new tent casting, damage, healing or rest recovery is reported; HP remains last confirmed **28**. [Session](../../Adventures/2026-10-03.md)
+- The earlier battle cloud cannot persist through the mining break. Latest use does not establish a continuously active cloud for the entire journey or a specific further slot deduction.
+
+## Earlier Scene - Storm Camp
 - **Leaky Tent has been dismissed**, and Dain returns into Stinking Cloud after briefly exposing his head to cast Infestation at an enemy in response to Jack's call for Olly. Harry was last confirmed in the tent's area; her position after dismissal is unreported. The entering beast previously fled the stench; its final position and identity as the Infestation target are unreported.
 - Exact cloud centre/boundaries, turns, saves, other occupant effects and concentration changes remain unreported. Do not assign retching, lost actions, damage, immunity or a Frightened condition. Poisoned is not an effect of the 2014 spell.
 - [Session](../../Adventures/2026-10-03.md), [Spellbook](../../Character/Spellbook.md), [Leaky Tent](./Truthammer%20Leaky%20Tent.md), [Displacer Beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md).

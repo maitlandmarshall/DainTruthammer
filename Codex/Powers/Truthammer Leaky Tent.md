@@ -25,6 +25,17 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - [Confirmed subsequent response on 2026-10-03] The entering beast runs away because of the smell. Its final position and the wider encounter are unresolved; no ending event for Wet, concentration loss or new damage is reported. [Session](../../Adventures/2026-10-03.md)
 - [Confirmed latest table use on 2026-10-03] After hearing Jack call that Ollyander needs help, **Dain dismisses the tent with a finger-click**, casts Infestation from Stinking Cloud's edge and returns into the gas. **This tent is no longer active**. Exact dismissal action cost is unreported. The cloud remains on his return; Wet does not end merely because the tent is gone. [Session](../../Adventures/2026-10-03.md)
 
+## Ongoing Refinement - 2026-10-03
+
+- [Confirmed] During airship travel, Dain continues refining the existing Leaky Tent spell **while using Stinking Cloud**. This follows the earlier tent-and-gas meditation at the storm camp. [Session](../../Adventures/2026-10-03.md)
+- [Character-only] Dain continues thinking about **his father's disappointment** as part of that reflection. No new words, encounter or reaction from his father are reported; this stays out of the party-facing Discord caption.
+- [Research boundary] The original spell remains completed. No revised wording, approved variant, progress percentage, new tent casting or changed mechanics are reported. The recorded tent is immobile; researching aboard the moving airship does not establish a mobile tent.
+- [To verify] Exact Stinking Cloud cast count/source, expenditure, exposure and saves, elapsed study time and any later DM-approved revision.
+
+![Dain studies Magic Mouth and sketches Leaky Tent research aboard the metal airship](../../Adventures/2026-10-03/magic-mouth-airship-research.png)
+
+*Study pose, spent parchment, diagram and vapour are illustrative; no new spell formula, active tent, immunity or mechanics are established. [Prompt and references](../../Adventures/2026-10-03/magic-mouth-airship-research-image-notes.md).*
+
 ## Creation Moment
 - 2026-05-03: During the forest long rest, Dain held his normal tent in a flowing river and experimented with random somatic components as water ran through it.
 - A flash of inspiration revealed the missing element, and he formally created `Truthammer's Leaky Tent`.
@@ -72,6 +83,8 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - 2026-10-03: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md) seeks shelter inside and immediately argues with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). Both become Wet under the recorded spell; the argument does not establish Dain's battle awareness. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: One [displacer beast](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) enters the tent and misses Dain twice. Entry immediately makes the beast Wet under the custom spell. [Derived awareness] The direct attack alerts Dain; HP remains **28**. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: On his turn, Dain casts Stinking Cloud and fills the tent with horrid gas. Saves, occupant reactions and any wind dispersal remain unreported. [Session](../../Adventures/2026-10-03.md)
+
+- 2026-10-03: During later airship travel, Dain continues refining Leaky Tent while using Stinking Cloud. [Character-only] He reflects on his father's disappointment. No revised spell text, new tent casting or changed mechanics are reported. [Research notes](#ongoing-refinement---2026-10-03); [Session](../../Adventures/2026-10-03.md)
 
 ## Related Entries
 - [Spellbook](../../Character/Spellbook.md)

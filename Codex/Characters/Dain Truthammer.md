@@ -11,6 +11,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - DM: Tom.
 
 ## Status
+- [Confirmed latest update on 2026-10-03] Dain is travelling aboard the airship and **learns Magic Mouth from scrolls**, using up all three remaining copies. He continues Leaky Tent refinement while using Stinking Cloud. [Character-only] His father's disappointment remains a focus of reflection. No revised spell, HP change or rest recovery is reported. [Spellbook](../../Character/Spellbook.md#2nd-level-spells-learned-in-play); [Session](../../Adventures/2026-10-03.md).
 - [Confirmed] Baseline imported from [Dicfuc_164465751.pdf](../../Dicfuc_164465751.pdf) on 2026-04-18.
 - [Confirmed] Mechanically a level 5 dwarf wizard with Sage background and School of Conjuration subclass.
 - [Confirmed] Alignment confirmed by user as `Chaotic Good` on 2026-04-18.

@@ -1,8 +1,12 @@
 # Open Threads
 
-- [Confirmed] **Current priority: Dain's two spell-storing stones.** One contains **Cure Wounds**, loaded by Matt / Kagrenac; Dain will choose the other spell later. Each can store one 1st-level spell. Release rules and the second stone's source remain open. Mining first yield/combined total, remaining gem allocation/value, ship burial, harvest yields, **750 XP** allocation and rest recovery remain unreported. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] **Current focus: Dain's airship spell research. Magic Mouth is learned; all scrolls are consumed.** Leaky Tent refinement using Stinking Cloud continues, with no revised mechanics reported. His two spell-storing stones remain one with Cure Wounds and one spell choice pending. Spell resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields, **750 XP** allocation and rest recovery remain open. [Session](../../Adventures/2026-10-03.md)
 
 ## Current Live Focus - 2026-10-03
+
+- [Resolved learning] Dain **learns Magic Mouth from the scrolls while travelling in the airship**; **all three remaining copies are used up, leaving zero**. Retry/allocation is no longer pending. [Open] Attempt order, rolls, copying time/cost and prepared status remain unreported. [Spellbook](../../Character/Spellbook.md#2nd-level-spells-learned-in-play).
+- [Confirmed research; Character-only reflection] Dain continues refining **Leaky Tent while using Stinking Cloud**, and thinking about his father's disappointment. [Open] Record any approved revised wording or result when reported. No new tent casting, mobile-tent permission or new mechanics are established. Exact cloud cast count/source, expenditure, exposure and saves remain unreported. Keep the paternal reflection out of party-facing posts. [Research](../Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03).
+- [Party; Confirmed travel] Dain is aboard the airship travelling again. [Open] Current route/destination, tower arrival, weather and intervening burial/retrieval details remain unreported; no rest recovery is assumed.
 
 - [Confirmed current contents] Dain now has [**two stones**](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings): **one with Cure Wounds**, loaded by Matt / [Kagrenac](../Characters/The%20Astral%20Elf.md); **the other spell choice deferred to Dain**. [Open] Exact loading/release method, use costs, reuse, attunement and the second stone's source. No spell choice is made for Dain.
 - [Confirmed yield; derived time] During **another five-hour stay**, Jiminy mines **six more gems**. The two stretches total **ten hours**. [Open] First-batch count, combined total, remaining gem holders/allocation/value and any sleep or rest recovery. The subsequent second stone is not explicitly attributed to this batch. [Mining ledger](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#mining-ledger).
@@ -10,7 +14,7 @@
 - [Party; Confirmed discovery] The party finds an [unnamed cave where the creatures tracked to](../Places/Creature-Trail%20Cave%20-%202026-10-03.md) and **precious gems worth 5,000 gp in total**. [Open] Gem types/count, individual values, weight, collection, carrier, storage and distribution or sale. No personal share or coin payout is reported. [Party Loot](../../Character/Party%20Loot.md#precious-gems---creature-trail-cave---2026-10-03)
 - [Party; Confirmed] The party survives **into night**. **Rain has stopped; wind, thunder and lightning remain.** They begin burying the [metal airship](../Places/Party%20Skyship%20-%202026-08-29.md). [Open] Burial method, extent/completion, ship/cargo condition, access and retrieval plan. No completed overnight rest or lightning damage is established. [Session](../../Adventures/2026-10-03.md)
 - [Resolved tracking destination] The party finds the **cave where the creatures tracked to**, resolving the preceding intention to locate their destination. [Open] Cave identity, route/roll details, further contents and occupants. No surviving creature count or occupied lair is established. [Displacer-beast context](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md)
-- [Condition follow-up] Drying conditions or a Wet-ending event during the five-hour mining break remain unreported. [Derived duration] The earlier Stinking Cloud lasts at most one minute and cannot persist through the break; no recast is reported. The break establishes no reported rest recovery.
+- [Condition follow-up] Drying conditions or a Wet-ending event during the mining breaks or renewed travel remain unreported. [Derived duration] The earlier Stinking Cloud cannot persist through the break; later use is now reported during airship research, with exact casting/expenditure unknown. No rest recovery is established.
 - [Resolved encounter; open harvest] The party **defeats the displacer beasts** and immediately begins extracting hides and other unspecified parts/materials. [Open] Record successful yields, counts, condition, holders, storage and values in [Party Loot](../../Character/Party%20Loot.md#displacer-beast-harvest---2026-10-03); no completed inventory is established. [Session](../../Adventures/2026-10-03.md)
 - [Table-side; Confirmed] **750 XP awarded**. [Open] Confirm whether it is per character or a party total to split; Dain's cumulative XP remains unknown.
 - [Confirmed earlier response] Dain hears Jack call that Ollyander needs help, dismisses the tent, casts Infestation from the cloud's edge and returns into the gas. The party later wins. [Open] Record the spell's target result, Olly's post-fight condition and whether Dain's response helped her. Preserve Jack as the narrated caller; the exact in-world speaker wording is unreported. [Session](../../Adventures/2026-10-03.md)
@@ -25,7 +29,7 @@
 
 - [Derived awareness] The beast's direct attack inside the tent alerts Dain to the immediate threat, resolving his earlier unawareness of battle onset. His subsequent Stinking Cloud cast is confirmed; knowledge of the wider fight, creature identity and other attackers remains unreported. [Session](../../Adventures/2026-10-03.md)
 
-- [Character-only] [Confirmed] The long rest was **interrupted**, but Dain healed to **28 HP**. Three Magic Mouth scrolls remain recorded; one 3rd-level slot was previously spent on Leaky Tent. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. [Session 2026-10-03](../../Adventures/2026-10-03.md)
+- [Character-only] [Confirmed] The long rest was **interrupted**, but Dain healed to **28 HP**. Magic Mouth is now learned and **zero scrolls remain**; one 3rd-level slot was previously spent on Leaky Tent. Interruption cause/duration, healing source, exact current slots and any Hit Dice or other rest recovery remain unrecorded. [Session 2026-10-03](../../Adventures/2026-10-03.md)
 
 ## Prior Session Focus - 2026-09-12
 
@@ -51,7 +55,7 @@
 - [Party] [Session 2026-09-12](../../Adventures/2026-09-12.md) is prepared from the southbound skyship fight's aftermath. Both attackers are destroyed; no new in-world action or rest is recorded at startup.
 - [Party] [To verify] Establish Taleesh's return aboard, party injuries/resources, ship condition and next destination; continue the captive-recovery and southwestern-warning missions and confirm the introduction letter.
 - [Character-only] [Open] Confirm the [Flying Broom](../Items/Flying%20Broom.md)'s rules and the [Dwarven Half Plate](../Items/Dwarven%20Half%20Plate.md)'s equipped state; carry forward the accepted [azer connection](./Azer%20Spark%20and%20Truthhammer%20Fire%20Portal.md) without inventing mechanics.
-- [Party] [Open] Assign the remaining [Magic Mouth scrolls](../Items/Magic%20Mouth%20Scrolls.md), ask Harry about the puppet, and preserve the later [Sauna Jacket](../Items/Sauna%20Pelt.md) retrieval errand.
+- [Party] [Historical open point; scrolls resolved on 2026-10-03] The remaining [Magic Mouth scrolls](../Items/Magic%20Mouth%20Scrolls.md) have all been used up and Dain has learned the spell. Asking Harry about the puppet and the [Sauna Jacket](../Items/Sauna%20Pelt.md) retrieval errand remain open.
 
 ## Prior Live Focus - 2026-08-29
 - [Party] The [current session](../../Adventures/2026-08-29.md) opens in [Ola Dung Lot](../Places/Ola%20Dung%20Lot.md), a city in the [Samryn Torsten](./Samryn%20Torsten.md) area, after Agland's sealed letter is delivered.
@@ -142,7 +146,8 @@
 - Status: Active.
 - Knowledge boundary: [Character-only]; table-side level-up decisions.
 - Latest development: On 2026-09-12 Maitland chose Major Image + Stinking Cloud and requested Glyph of Warding plus recommended spells as acquisition goals. The shortlist also includes Tiny Servant, Nystul's Magic Aura, Blink and Phantom Steed; existing Skywrite and Pyrotechnics goals remain.
-- Next actions: Confirm HP baseline and increase, edition-dependent features and prepared list. Seek spell sources; remaining Magic Mouth scroll allocation is the nearest copying opportunity (three confirmed after the failed transcription; Magic Mouth remains unlearned). Do not count targets as learned or spend unconfirmed gold.
+- Latest learning: On 2026-10-03 Dain learns **Magic Mouth** during airship travel and consumes all three remaining scrolls. Copying attempt order, rolls, time/cost and preparation remain unreported; this goal is acquired.
+- Next actions: Confirm HP baseline/increase, current resources and the prepared list under the confirmed **2014 rules**. Seek sources for the remaining spell goals, led by Glyph of Warding. Do not count targets as learned or spend unconfirmed gold.
 - Links: [Wizard 5 update](../../Character/Current%20State.md#wizard-5-update---2026-09-12), [spell acquisition goals](../../Character/Spellbook.md#future-spell-acquisition-goals), [session](../../Adventures/2026-09-12.md).
 
 ### Identify And Test The Flying Broom

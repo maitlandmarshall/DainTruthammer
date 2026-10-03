@@ -6,7 +6,7 @@
 - Spellcasting Ability: INT
 - Spell Save DC: 16
 - Spell Attack Bonus: +8
-- Maximum slots: 1st-level `4`, 2nd-level `3`, 3rd-level `2`. Current remaining slots are [To verify]; one 3rd-level slot is confirmed spent on Leaky Tent on 2026-09-12, and one is derived spent on the 2026-10-03 Stinking Cloud cast under standard casting. No completed rest or resource refresh is recorded; do not infer an exact current total.
+- Maximum slots: 1st-level `4`, 2nd-level `3`, 3rd-level `2`. Current remaining slots are [To verify]; one 3rd-level slot is confirmed spent on Leaky Tent on 2026-09-12, and one is derived spent on the 2026-10-03 battle Stinking Cloud cast under standard casting. Later Stinking Cloud use during airship research is confirmed, but cast count/source and further expenditure are unreported. No completed rest or resource refresh is recorded; do not infer an exact current total.
 - Prepared capacity: [Derived 2014 Wizard rules] **10** with Wizard 5 and INT 20. The actual chosen list remains [To verify]; the two new spellbook entries below do not by themselves establish it.
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
 - [To verify] `Prestidigitation` is repeatedly recorded in prior play use, but it is not currently listed under **Cantrips On Sheet**. Confirm whether this is an omitted cantrip, a table allowance, sheet drift, or an earlier record error before relying on it in live play.
@@ -38,9 +38,12 @@
 - Web [Confirmed from 2026-05-30 level-up handover]
 - Rope Trick [Confirmed from 2026-05-30 level-up handover]
 
+## 2nd-Level Spells Learned In Play
+- **Magic Mouth** — 2nd-level illusion (ritual). [Confirmed on 2026-10-03] Dain learns it from scrolls while travelling in the airship; **all three remaining scrolls are consumed, leaving zero**. Learning is recorded in the spellbook, but preparation, attempt order, rolls, copying time and gold/material expenditure remain unreported. [Scroll history](../Codex/Items/Magic%20Mouth%20Scrolls.md); [Session](../Adventures/2026-10-03.md).
+
 ## 3rd-Level Spells - Wizard 5 Choices
 - **Major Image** [Confirmed level-up selection on 2026-09-12]: sensory illusion for elaborate misdirection; concentration, up to 10 minutes.
-- **[Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md)** [Confirmed level-up selection on 2026-09-12; cast and 2014 version confirmed on 2026-10-03]: heavily obscured, 20-foot-radius cloud; concentration, up to 1 minute. No damage. A creature completely inside at turn start makes a Constitution save against poison (Dain's DC **16**); failure spends its action retching. Movement, Bonus Actions and reactions remain available; no Poisoned condition is imposed. Creatures immune to poison or needing no breath automatically succeed. The current tent cast is active; saves and effects are pending.
+- **[Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md)** [Confirmed level-up selection on 2026-09-12; cast and 2014 version confirmed on 2026-10-03]: heavily obscured, 20-foot-radius cloud; concentration, up to 1 minute. No damage. A creature completely inside at turn start makes a Constitution save against poison (Dain's DC **16**); failure spends its action retching. Movement, Bonus Actions and reactions remain available; no Poisoned condition is imposed. Creatures immune to poison or needing no breath automatically succeed. The earlier battle cloud cannot persist through the ten-hour mining break. Latest use is during Leaky Tent research aboard the airship; exact casts, expenditure, exposure and saves remain unreported.
 - These are Dain's two free Wizard 5 spellbook additions. No scroll purchase or copying expenditure is recorded. Preparing and casting them still follows the table's rules.
 - Both require concentration, so Dain cannot sustain both at once.
 
@@ -56,7 +59,7 @@
 | 4 | **Blink** (3rd) | Intermittent Ethereal disappearances without concentration; a useful complement to sustained illusion or cloud magic. |
 | 5 | **Phantom Steed** (3rd, ritual) | A temporary horse-like mount whose appearance Dain chooses; excellent potential for theatrical travel. |
 
-- **Nearest opportunity: Magic Mouth** (2nd, ritual). Five [scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) were acquired; **three are now confirmed in Dain's possession**, superseding the provisional four after the cave alarm. **One failed transcription consumed a scroll; Magic Mouth is not learned.** Copying time, roll and gold/material expenditure are unrecorded.
+- **Acquired: Magic Mouth** (2nd, ritual). Dain successfully learns it during airship travel on 2026-10-03; **all remaining [scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md) are used up**. The earlier failed transcription remains part of its history. Copying time, rolls and gold/material expenditure are unrecorded.
 - **Existing goals retained:** Skywrite (2nd, ritual) and Pyrotechnics (2nd), chosen on 2026-08-29. Neither is known or owned.
 - Wider unselected candidates remain in [Dain's Requisition Wishlist](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md).
 - Rules references: [2014 spell descriptions](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/spells), [2024 spell descriptions](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions), [Blink](https://www.dndbeyond.com/spells/2618939-blink), [Phantom Steed](https://www.dndbeyond.com/spells/2203-phantom-steed); Tiny Servant is in *Xanathar's Guide to Everything*, p. 168. Exact edition and table rulings take precedence.
@@ -67,7 +70,7 @@
 - [Inferred] The current list strongly supports misdirection, concealment, and socially disruptive magic even though his formal school is conjuration.
 - [Character-only] Dain's long-term magical ambition is to invent uniquely strange, marginal, and apparently useless spells no one else would bother to create.
 - [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls, magical curios and scribing supplies that expose useful spellmaking principles. Candidate priorities are staged in [Dain's Requisition Wishlist](../Codex/Brainstorm/Lore/Dain%20Requisition%20Wishlist.md); most remain ideas, while `Magic Mouth` has now been promoted through confirmed scroll acquisition.
-- [Party] [Confirmed on 2026-08-29] The party acquires five [`Magic Mouth` spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md). `Magic Mouth` is not yet added to Dain's spells on sheet: Dain later confirms holding three remaining scrolls on 2026-09-12; one failed transcription is now confirmed; the spell remains unlearned, and copying materials, time and roll remain [To verify].
+- [Party] [Confirmed on 2026-08-29] The party acquires five [`Magic Mouth` spell scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md). Three remained after the cave-alarm accounting and failed transcription on 2026-09-12. On 2026-10-03 Dain learns Magic Mouth during airship travel and uses up all remaining scrolls. Copying materials, time, rolls and prepared status remain [To verify].
 - [Character-only] [Confirmed goal on 2026-08-29] Dain intends to acquire `Skywrite` and `Pyrotechnics` later. They are research targets only, not current spells or inventory; confirm Tom permits their source material.
 
 ## Custom Spell - Supplied Mechanics
@@ -78,6 +81,7 @@
 - [Truthammer's Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) [Character-only]
   A DM-given spell created by Dain that creates a shelter-like magical structure but worsens the surrounding elements rather than protecting from them. [Confirmed on 2026-04-24]
   Research progress: complete. [Formal in-world creation recorded on 2026-05-03]
+  Ongoing refinement: [Confirmed on 2026-10-03] Dain continues refining Leaky Tent while using Stinking Cloud aboard the travelling airship. [Character-only] He also reflects on his father's disappointment. No revised spell text, new variant, progress figure, new tent casting or additional mechanics are established; the original completed spell remains unchanged. [Research notes](../Codex/Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03).
   Current notes: Inspired during mountain travel after Dain conjured a shelter and lit a camp fire within it; extended with another 2 hours of work at the creek-fork camp. On 2026-04-24, the DM gave/approved the completed mechanics under the working title `Truthammer's Leaky Shelter`. On 2026-05-03, Dain pushed his normal tent into a flowing river, experimented with somatic components, and formally created the spell as `Truthammer's Leaky Tent`.
   Confirmed mechanics: 1-minute cast time; either ritual or 1st-level spell [To verify final casting format]; 8-hour duration; immobile 10-foot-square hut; AC 10; HP 5; always leaks water inside regardless of outside weather.
   Confirmed upcast on 2026-09-12: a 3rd-level casting creates a **30-foot tent**. Exact dimensions, other-level scaling and durability changes are unspecified.

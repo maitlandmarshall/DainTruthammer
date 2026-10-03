@@ -5,14 +5,14 @@ An idea-stage requisition list for scrolls, magical curios and laboratory suppli
 
 ## Status
 - [Character-only] [Confirmed on 2026-08-29] Dain intends to ask Ben and the quartermasters for scrolls or items that support his long-term ambition to create odd and useless spells.
-- [Character-only] [Idea-stage except where promoted] The candidates below remain recommendations unless a line explicitly records an approved goal or acquisition. `Magic Mouth` has now been promoted into canon through the party's acquisition of [five scrolls](../../Items/Magic%20Mouth%20Scrolls.md).
+- [Character-only] [Idea-stage except where promoted] The candidates below remain recommendations unless a line explicitly records an approved goal or acquisition. `Magic Mouth` is now **learned**: the party originally acquired [five scrolls](../../Items/Magic%20Mouth%20Scrolls.md), and Dain used up the remaining three while learning it during airship travel on 2026-10-03.
 - [Character-only] [Confirmed goal on 2026-08-29] `Skywrite` and `Pyrotechnics` are now explicit future acquisition goals, but neither spell nor scroll is currently owned.
 - [To verify] Ben's authority and stock, the quartermasters' budget, Tom's allowed sourcebooks, copying rules and whether the party must choose between personal research supplies and airship mission equipment.
 
 ## Promoted Spell Goals - 2026-09-12
 - The active [spell acquisition shortlist](../../../Character/Spellbook.md#future-spell-acquisition-goals) now records Glyph of Warding, Tiny Servant, Nystul's Magic Aura, Blink and Phantom Steed as goals, alongside the existing Skywrite and Pyrotechnics goals. None of these spells is acquired yet.
 - Major Image and Stinking Cloud are now Dain's confirmed Wizard 5 spellbook choices, not scroll requests.
-- Magic Mouth remains the nearest copying opportunity: five scrolls acquired, four provisionally remaining after Dain's inferred scroll use for the [cave alarm](../../Items/Cave%20Alarm%20Ball%20Bearing.md). Allocation and transcription remain unconfirmed.
+- Magic Mouth's copying goal is **resolved**: Dain learns it during airship travel on 2026-10-03, and **zero scrolls remain**. The earlier cave-alarm accounting and failed transcription remain historical; exact latest copying time, rolls/costs and preparation are unreported. [Spellbook](../../../Character/Spellbook.md#2nd-level-spells-learned-in-play).
 
 ## Brainstorm Routing
 - Current shelf: [Brainstorm](../README.md).
@@ -45,7 +45,7 @@ Build a balanced requisition rather than asking only for curios:
 These avoid spells already recorded in Dain's book, including `Silent Image` and `Rope Trick`. Dain can normally copy only wizard spells of a level he can prepare, so 1st- through 3rd-level wizard scrolls are now eligible research targets at Wizard 5.
 
 ### First Priority: Spellmaking Principles
-1. **Magic Mouth** (`2nd`, ritual) — **[Acquired: 5 spell scrolls on 2026-08-29]**: programmable triggers, conditional behaviour and a permanent magical effect; perhaps the single best foundation for spells that do one ridiculous thing under extremely specific circumstances. Ownership, carrier and final allocation remain [To verify].
+1. **Magic Mouth** (`2nd`, ritual) — **[Learned on 2026-10-03; all scrolls consumed]**: programmable triggers, conditional behaviour and a permanent magical effect; a foundation for spells that do one ridiculous thing under extremely specific circumstances. Original scroll provenance and latest copying costs remain [To verify]; this is no longer an unlearned acquisition target.
 2. **Nystul's Magic Aura** (`2nd`): teaches Dain how magical detection, false signatures and classification can be manipulated—the proper science of making one spell pretend to be another sort of nonsense.
 3. **Identify** (`1st`, ritual): less useless, but indispensable laboratory equipment in spell form; it gives Dain a repeatable way to inspect strange items and compare finished experiments. Request the reusable `100 gp` pearl as well.
 4. **Illusory Script** (`1st`, ritual): selective readers, deceptive writing and calligrapher synergy; an excellent basis for spells involving absurd footnotes, private instructions or messages that only reveal themselves to the wrong person.

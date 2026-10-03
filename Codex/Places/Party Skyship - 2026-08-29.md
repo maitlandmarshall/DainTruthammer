@@ -7,9 +7,10 @@ Earlier scene illustration (predates the tracker clarification of armament and t
 ![Dain prepares to board the balloon-like skyship](../../Adventures/2026-08-29/2026-08-29_boarding-balloon-skyship.png)
 
 ## One-Line Summary
-The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. The party has now begun burying it at the night storm stop.
+The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. **Airship travel has resumed**, with Dain studying aboard.
 
 ## Status
+- [Party] [Confirmed latest update on 2026-10-03] Dain is **travelling in the airship**, learning Magic Mouth from scrolls and continuing Leaky Tent research while using Stinking Cloud. [Derived continuity] Operation/travel has resumed after the mining breaks; burial completion, retrieval method, departure time, current route/weather and tower arrival remain unreported. No new tent casting or cargo transfer is established. [Session](../../Adventures/2026-10-03.md)
 - [Party] [Confirmed on 2026-10-03] The party describes the transport as a **metal airship** and begins burying it after surviving into night. Rain has stopped; wind, thunder and lightning remain. [Inferred identification] This is the established skyship being packed down at the same storm stop. Exact method, extent/completion, cargo access, damage and retrieval plan remain unreported. [Session](../../Adventures/2026-10-03.md)
 - [Material clarification] The latest **metal** wording overrides wooden-hull depictions in older artwork. No new refit or change to the recorded balloon-like design, folding wings or ballista is reported.
 - [Party] [Confirmed travel update on 2026-09-12] The party travels toward an unidentified tower, then stops to pack down the transport before forecast heavy winds overnight. [Inferred identification] The transport is read as this established balloon ship; exact packing method and completion are unrecorded. [Session](../../Adventures/2026-09-12.md)
@@ -22,7 +23,7 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 ## What Dain Knows
 - The vessel is large enough to read visually as a gigantic hot-air balloon carrying a ship-like structure beneath it.
 - The current tracker records a ballista with `20` bolts; the original cannon description is preserved as unresolved terminology.
-- Earlier travel was airborne and southbound; it later stopped on the tower-bound route, and the party now begins burying the metal airship at night. No completed burial or departure on foot is established.
+- Earlier travel was airborne and southbound, then stopped on the tower-bound route. Burial began at night; **Dain is now travelling aboard the airship again**. The intervening burial/recovery details and current destination remain unreported.
 - Two airborne `crymeria` attacked it and were destroyed. The current hold records chimera material, but its provenance is not explicitly linked to that encounter; exact creature identity, approach and ship damage remain unresolved.
 
 ## Night Burial - 2026-10-03
@@ -31,6 +32,13 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 
 - [Party] [Confirmed] Burial begins at night after rain stops, with wind, thunder and lightning remaining. Completion, depth, protection achieved, damage and cargo accessibility remain unreported.
 - [Illustrative] Cropped hands, tools, hull fittings, bundled gear, trench arrangement and lightning placement do not establish a named digger, specific packing method or successful protection. [Prompt and reference](../../Adventures/2026-10-03/metal-airship-burial-image-notes.md)
+
+## Resumed Travel And Research - 2026-10-03
+
+![Dain studies and refines his odd spells aboard the metal airship](../../Adventures/2026-10-03/magic-mouth-airship-research.png)
+
+- Dain learns Magic Mouth and uses up his remaining scrolls while travelling aboard. He continues Leaky Tent refinement using Stinking Cloud; no revised mechanics or new tent casting is reported.
+- Deck framing, study furniture, diagrams, sky colours and gas shape are illustrative. They establish no time of day, weather, specific route, casting count or moving tent. [Prompt and references](../../Adventures/2026-10-03/magic-mouth-airship-research-image-notes.md)
 
 ## Current Ship Tracker - Imported 2026-09-12
 
@@ -85,12 +93,12 @@ Source: Photos 2 and 4 of the [current party tracker](../../Adventures/2026-09-1
 - [To verify] Whether the two beer barrels are separate from the two generic barrels; whether the two chain rows in the inventory represent this one depicted 100-foot chain.
 
 ## Immediate Questions
-- How is the metal airship being buried, how far does the work progress, and how will the party access its cargo and retrieve it?
+- Travel has resumed: how did burial/packing and recovery proceed, and is the ship or cargo affected? Those intervening details remain unreported.
 - Who commands and pilots it?
 - Where exactly is it taking the party first?
 - What keeps the balloon aloft, and what happens if the envelope is damaged?
 - What are the ballista's range, attack bonus, loading and firing requirements, and who operates it?
-- Where are Dain's **three remaining [`Magic Mouth` scrolls](../Items/Magic%20Mouth%20Scrolls.md)**, the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) and the party's Bag of Holding secured as the ship is buried? The three scrolls are last confirmed with Dain; no transfer into the ship is assumed.
+- Where are the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md) and the party's Bag of Holding secured during renewed travel? Dain's [`Magic Mouth` scrolls](../Items/Magic%20Mouth%20Scrolls.md) are now all consumed after learning the spell; their storage question is resolved.
 - Does the ship already have magical fittings from Ben, or are further installations still possible?
 
 ## Notable Events
@@ -100,6 +108,8 @@ Source: Photos 2 and 4 of the [current party tracker](../../Adventures/2026-09-1
 
 - 2026-09-12: Maitland supplies current ship stats, inventory and deck layout. The tracker establishes a ballista, 20 bolts, movement figures and ship gear; the import does not establish acquisition or refit dates. [Tracker sources](../../Adventures/2026-09-12-party-tracker.md)
 - 2026-10-03: The party survives into night and begins burying the **metal airship**. Rain has stopped, but wind, thunder and lightning remain; no completed burial, damage, rest or subsequent departure is reported. [Session](../../Adventures/2026-10-03.md)
+
+- 2026-10-03: Dain is travelling aboard the airship again, learns Magic Mouth from scrolls, uses up all remaining copies and continues Leaky Tent refinement while using Stinking Cloud. Burial/retrieval details, current route/weather and any rest recovery remain unreported. [Session](../../Adventures/2026-10-03.md)
 
 ## Related Entries
 - [Ola Dung Lot](./Ola%20Dung%20Lot.md)
