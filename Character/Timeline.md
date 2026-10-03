@@ -89,3 +89,4 @@
 - 2026-09-12: Dain confirms **3 Magic Mouth scrolls in his possession**, superseding the provisional four. Exact intervening use/disposition is unrecorded. [Session](../Adventures/2026-09-12.md)
 - 2026-09-12 clarification: Dain failed to learn Magic Mouth from a scroll, consuming it and explaining the prior count of **3 remaining**. The spell remains unlearned. Exact attempt timing, roll and copying costs are unrecorded. [Session](../Adventures/2026-09-12.md)
 - 2026-09-12: With nobody in the party carrying a tent, Dain spends one 3rd-level slot to summon a massive **30-foot Leaky Tent** at the storm stop. No completed rest or healing is reported. [Session](../Adventures/2026-09-12.md)
+- 2026-10-03: The long rest is interrupted, but Dain heals to **28 HP**, up from the prior recorded 3 HP. Interruption cause/duration, healing source and other rest recovery remain unrecorded. [Session](../Adventures/2026-10-03.md)

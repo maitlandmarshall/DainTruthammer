@@ -12,8 +12,8 @@
 
 - Active log: [Session 2026-10-03](../Adventures/2026-10-03.md), resuming from the final confirmed [2026-09-12 scene](../Adventures/2026-09-12.md).
 - Resume point: Storm stop on the route to an unidentified tower, with transport being packed down and a **30-foot Leaky Tent** just summoned using one **3rd-level slot**.
-- Last confirmed resources: **3 HP**, **3 Magic Mouth scrolls**, spell still unlearned after one failed transcription. Wizard 5 choices are **Major Image + Stinking Cloud**. Exact remaining slots, maximum HP and prepared list remain to verify.
-- Opening checkpoint: Establish the storm's outcome and actual rest/healing before updating resources. No elapsed in-world time, recovery, tent expiry, arrival or new party action is assumed from starting this session.
+- Current resources: **28 HP** [Confirmed on 2026-10-03], up from the prior recorded 3 HP; **3 Magic Mouth scrolls**, spell still unlearned after one failed transcription. Wizard 5 choices are **Major Image + Stinking Cloud**. Exact remaining slots, maximum HP and prepared list remain to verify.
+- Latest update: The long rest was **interrupted**, but Dain healed to **28 HP**. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. Tent expiry, weather outcome and arrival are not established.
 
 ## Prior Session - 2026-09-12
 
@@ -70,7 +70,7 @@
 
 ## Core Numbers
 - Max HP: [To verify] Level-4 baseline likely `29`, plus the pending Wizard 5 HP increase; `35` only if baseline 29 and fixed +6 are confirmed.
-- Current HP: **3** [Confirmed on 2026-09-12 during the guano-cavern fight]. No subsequent healing is reported.
+- Current HP: **28** [Confirmed on 2026-10-03]. Previously recorded at 3 HP after the guano-cavern fight; healed to 28 during an interrupted long rest. Healing source and other rest benefits remain unrecorded.
 - Temp HP: [To verify] the Temp HP field shows `--`
 - AC: `14` from the last confirmed equipped [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md) with Dain's current `DEX +0`. [Confirmed on 2026-07-11] Dain now owns [Dwarven Half Plate](../Codex/Items/Dwarven%20Half%20Plate.md) described as `+2 AC`; if this is standard magical `+2` half plate and he equips it, his AC would be `17`. Equipped state and exact table wording remain [To verify].
 - Initiative: +0

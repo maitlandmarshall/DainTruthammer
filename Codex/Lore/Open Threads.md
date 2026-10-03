@@ -1,10 +1,10 @@
 # Open Threads
 
-- [Party] **Current priority: overnight storm stop en route to the tower.** The party stops and packs down the transport for forecast heavy winds. Dain's last confirmed HP is **3**. Dain has now summoned a **30-foot Leaky Tent at 3rd level**, spending one slot because the party has no tents. Record occupants/Wet effects, transport security, shelter performance and actual rest/recovery; identify which tower is meant. No completed long rest is established. [Session](../../Adventures/2026-09-12.md)
+- [Party] **Current priority: interrupted rest at the storm stop en route to the tower.** Dain healed to **28 HP** despite the interruption. The previously summoned 30-foot Leaky Tent cost one 3rd-level slot. Record interruption cause/duration, any remaining rest benefits, weather outcome, tent occupants and transport security; identify the tower. [Session](../../Adventures/2026-10-03.md)
 
 ## Current Live Focus - 2026-10-03
 
-- [Table-side] [Session 2026-10-03](../../Adventures/2026-10-03.md) starts from the prior storm stop. Confirm actual rest/healing and weather outcome, then resume tower-bound travel. Dain remains last recorded at **3 HP** with **3 Magic Mouth scrolls**; one 3rd-level slot was spent on the 30-foot Leaky Tent. No new in-world time or resource recovery is established.
+- [Character-only] [Confirmed] The long rest was **interrupted**, but Dain healed to **28 HP**. Three Magic Mouth scrolls remain recorded; one 3rd-level slot was previously spent on Leaky Tent. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. [Session 2026-10-03](../../Adventures/2026-10-03.md)
 
 ## Prior Session Focus - 2026-09-12
 
