@@ -12,6 +12,12 @@
 - Status: **discovered**. Gem types, count, individual values, weight, collection, carrier, storage and distribution remain unreported.
 - The stated **5,000 gp** is the gems' total value. No sale, coin payout or personal share is reported; the existing coin-pot snapshot below is not increased by this find.
 
+## Mined Spell-Storing Crystals - 2026-10-03
+
+- [Confirmed] Norhan's Harry leashes [Jiminy](../Codex/Characters/Jiminy.md), who mines very proficiently during a **five-hour break** and finds [crystals that each can store one 1st-level spell](../Codex/Items/Spell-Storing%20Crystals%20-%202026-10-03.md).
+- [Confirmed distribution] Harry gives **one crystal to Dain**, now recorded in his [Inventory](./Inventory.md#magic-items). Total mined yield and holders of the remainder are unreported.
+- No spell is reported stored, loaded or cast from a crystal. Value and inclusion in the earlier **5,000 gp** find are unreported; no extra treasure value or coin payout is assigned. [Session](../Adventures/2026-10-03.md)
+
 ## Special Gem Found By Harry - 2026-10-03
 
 - [Confirmed table discovery; roster attribution] Norhan's [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) finds **one special gem commonly associated with spell storing**. [Item record](../Codex/Items/Special%20Gem%20Found%20by%20Harry.md); [Session](../Adventures/2026-10-03.md)

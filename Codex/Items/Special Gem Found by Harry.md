@@ -22,6 +22,10 @@ One special gem found by Norhan's Hammerton Harry Drizddon, described as commonl
 - Any storage capacity, stored spells, charges, attunement requirements or activation rules.
 - Whether the gem is part of the earlier **5,000 gp** precious-gem find or additional to it; no extra value is assigned. [Party Loot](../../Character/Party%20Loot.md#special-gem-found-by-harry---2026-10-03)
 
+## Subsequent Mining Follow-Up
+- [Confirmed] Jiminy subsequently finds [spell-storing crystals](./Spell-Storing%20Crystals%20-%202026-10-03.md) during a five-hour break. Each can store **one 1st-level spell**, and Harry gives **one to Dain**.
+- The mined crystals now have a confirmed capacity and a confirmed Dain acquisition. Whether the initially found special gem is one of these crystals or the same type remains to verify; no official item name is assigned.
+
 ## Notable Events
 - 2026-10-03: Norhan / Harry finds the gem following the cave treasure discovery. [Session](../../Adventures/2026-10-03.md)
 

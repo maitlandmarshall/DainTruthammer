@@ -18,7 +18,8 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] Player: Norhan.
 - [Confirmed] Character name: Hammerton Harry Drizddon.
 - [Confirmed, 2026-10-03] Maitland confirms Norhan is still playing this character. Current tent narration uses she/her; historical source wording is retained.
-- [Confirmed latest discovery; roster attribution] Norhan / Harry finds a [special gem commonly associated with spell storing](../Items/Special%20Gem%20Found%20by%20Harry.md), following the cave's precious-gem discovery. Exact item identity, powers, retention/ownership and value remain unreported. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed latest action] Harry puts a leash on [Jiminy](./Jiminy.md), who mines very proficiently during a **five-hour break**. The [crystals he finds](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md) each can store **one 1st-level spell**; Harry gives **one to Dain**. Remaining yield, holders and use rules are unreported. [Session](../../Adventures/2026-10-03.md)
+- [Earlier discovery] Harry finds a [special gem commonly associated with spell storing](../Items/Special%20Gem%20Found%20by%20Harry.md). Its relationship to the subsequently mined crystals remains to verify.
 - [Earlier scene] Sought shelter inside [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and immediately argued with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). [Derived] Harry and the hammer became Wet. The tent was subsequently dismissed; no Wet-ending event for Harry or the hammer is reported. [Session](../../Adventures/2026-10-03.md)
 - [Confirmed] Ancestry/species: Mountain Dwarf.
 - [Confirmed] Class/level: Fighter 3.
@@ -127,6 +128,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - Explorer's Pack contents: backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, and 50 ft. rope.
 
 ## Treasure And Oddities
+- [Confirmed on 2026-10-03] Jiminy's mined spell-storing crystals each can store **one 1st-level spell**; Harry gives **one to Dain**. The number Harry retains is unreported. [Crystal record](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md).
 - [Confirmed discovery on 2026-10-03] One [special gem commonly associated with spell storing](../Items/Special%20Gem%20Found%20by%20Harry.md). Harry is the finder; actual powers, value, retention/ownership and inclusion in the preceding 5,000 gp gem total remain unreported.
 - Bomb, 60 ft.; `1d12`, Dexterity save for half damage; sheet value 150 gp.
 - Snake head - Youati enemy head. [To verify spelling and context]
@@ -164,11 +166,19 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-10-03: Seeks shelter inside Dain's Leaky Tent and immediately starts arguing with her talking hammer. Words, cause and outcome are unreported. Maitland confirms Norhan is still playing Harry; this is not a newly introduced character. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: Finds a special gem described as commonly associated with spell storing. The narration names Norhan; the established roster places the find with Harry. Identity, confirmed powers, value and retention remain unreported. [Gem](../Items/Special%20Gem%20Found%20by%20Harry.md); [Session](../../Adventures/2026-10-03.md)
 
+- 2026-10-03: Puts a leash on Jiminy for proficient mining during a five-hour break and gives Dain one of the resulting crystals. Each can store one 1st-level spell. [Jiminy](./Jiminy.md); [Crystals](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md); [Session](../../Adventures/2026-10-03.md).
+
+![Harry gives Dain a mined spell-storing crystal](../../Adventures/2026-10-03/dain-spell-storing-crystal-gift.png)
+
+*The gift is confirmed; visual details do not establish a loaded spell or use rules. [Prompt and references](../../Adventures/2026-10-03/spell-storing-crystal-image-notes.md).*
+
 ![Harry's special gem discovery in the current cave scene](../../Adventures/2026-10-03/harry-special-gem-find.png)
 
 *Portrait and cave continuity are preserved. Gem appearance, pose and handling illustrate the find without establishing active magic, a stored spell, identification or ownership. [Prompt and references](../../Adventures/2026-10-03/harry-special-gem-image-notes.md).*
 
 ## Related Entries
+- [Jiminy](./Jiminy.md)
+- [Spell-Storing Crystals](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md)
 - [Special Gem Found by Harry](../Items/Special%20Gem%20Found%20by%20Harry.md)
 - [Harry's Talking Hammer](../Items/Harrys%20Talking%20Hammer.md)
 - [Table Roster](../Lore/Table%20Roster.md)
