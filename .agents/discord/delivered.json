@@ -49,5 +49,10 @@
     "fingerprint": "7a91dfc68a171541323292b4d2e00bb67b7941712d13e2b2ee70cfdee272e61b",
     "status": "confirmed",
     "message_id": "1555806539216986173"
+  },
+  "2026-10-03-010-infestation-from-stink": {
+    "fingerprint": "6c9e2efa11d93ff21d6d7c886c60cb2b710e47758c1ab4eddfe4111c73e19c3e",
+    "status": "confirmed",
+    "message_id": "1555808077825966080"
   }
 }
