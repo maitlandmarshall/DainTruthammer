@@ -8,7 +8,14 @@
 - [Confirmed] 2026-06-20 live session notes imported from user notebook photos in [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md).
 - [Confirmed] Later 2026-07-11 events imported on 2026-08-29 from the user-supplied PDF `Session Summary 2026.7.11` and reconciled into [Session 2026-07-11](../Adventures/2026-07-11.md).
 
-## Active Session - 2026-09-12
+## Active Session - 2026-10-03
+
+- Active log: [Session 2026-10-03](../Adventures/2026-10-03.md), resuming from the final confirmed [2026-09-12 scene](../Adventures/2026-09-12.md).
+- Resume point: Storm stop on the route to an unidentified tower, with transport being packed down and a **30-foot Leaky Tent** just summoned using one **3rd-level slot**.
+- Last confirmed resources: **3 HP**, **3 Magic Mouth scrolls**, spell still unlearned after one failed transcription. Wizard 5 choices are **Major Image + Stinking Cloud**. Exact remaining slots, maximum HP and prepared list remain to verify.
+- Opening checkpoint: Establish the storm's outcome and actual rest/healing before updating resources. No elapsed in-world time, recovery, tent expiry, arrival or new party action is assumed from starting this session.
+
+## Prior Session - 2026-09-12
 
 - Latest scene: At the storm stop en route to **the tower**, Dain casts [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at **3rd level**, conjuring a massive **30-foot tent** because nobody in the party has a tent. **One 3rd-level slot spent**; exact remaining slots unknown. Active tent lasts 8 hours under recorded mechanics. Dain remains at **3 HP**; no healing or completed rest is reported. Party entry/Wet application and effectiveness against the forecast heavy winds remain unrecorded. Transport pack-down is the preceding activity.
 
@@ -18,7 +25,7 @@
 - Earlier combat: Thunderclap hurt three bat groups for 8 damage. [Ollyander](../Codex/Characters/Ollyander.md) fought one swarm at the far end and fell from the cave roof; fall consequences remain unrecorded. The entrance mouth triggered earlier; its stop time remains unrecorded. **3 Magic Mouth scrolls are now confirmed in Dain's possession**, after a **failed transcription consumed one scroll**. Magic Mouth remains unlearned; copying time, roll and gold/material costs are unrecorded.
 - Latest conversation: Stu casts Speak with Animals and asks a bat about treasure; its reported answer is no treasure. Stu's identity, expenditure and whether Dain hears a translation are unrecorded.
 - Earlier this session: Dain listened to and wrote down [Oleander's Law of the Maw account](../Codex/Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md) with interest.
-- Active log: [Session 2026-09-12](../Adventures/2026-09-12.md), prepared from the final events of 2026-08-29. No new in-world events, elapsed time or resource recovery are recorded at startup.
+- Prior log: [Session 2026-09-12](../Adventures/2026-09-12.md), prepared from the final events of 2026-08-29. No new in-world events, elapsed time or resource recovery are recorded at startup.
 - Current party context: [tracker screenshots supplied 2026-09-12](../Adventures/2026-09-12-party-tracker.md) establish ship/hold resources and coin allocations in [Party Loot](./Party%20Loot.md). The [skyship](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) has a documented ballista with 20 bolts and 50-ft tactical speed; [sending stones](../Codex/Items/Party%20Sending%20Stones.md) connect Kagrenac to the Dwarf General and an unknown spy-linked partner. These do not establish Dain's personal payout or resource recovery.
 - Resume after the southbound skyship victory; confirm Taleesh's return aboard, post-combat HP/slots, ship condition, armour equipped and flying-broom rules. The snapshot below preserves the last recorded state; older full-HP and resource entries are not a verified post-combat total.
 
