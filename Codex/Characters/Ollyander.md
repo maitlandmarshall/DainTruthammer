@@ -83,6 +83,8 @@ Lachlan Pratt's new small hobbit-like player character, shell-shocked and knife-
 
 - 2026-09-12: Ollyander fights one bat swarm at the end of the cave while Dain uses Thunderclap and Stu turns into a bear. The ambiguous roof-fall phrase is preserved without assigning an injury. [Session](../../Adventures/2026-09-12.md)
 
+- 2026-10-03: [Heard call; Dain's response confirmed] Jack calls out that Ollyander needs help. Dain hears, dismisses Leaky Tent with a finger-click, casts Infestation at an enemy from Stinking Cloud's edge and returns into the gas. Her precise condition, position and rescue outcome remain unreported. [Session](../../Adventures/2026-10-03.md)
+
 ## Related Entries
 - [Goarsqueek](./Goarsqueek.md)
 - [Pact - Law of the Maw](../Lore/Ollyanders%20Pact%20-%20Law%20of%20the%20Maw.md)

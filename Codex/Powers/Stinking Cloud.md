@@ -8,6 +8,7 @@
 - [Confirmed on 2026-10-03] Dain casts it on his turn, filling Leaky Tent with horrid gas. HP stays last recorded at **28**; no occupant saves or reactions are reported.
 - [Confirmed later response on 2026-10-03] The beast runs away because of the smell. No saving throw, retching, Frightened condition or extra damage is reported; this is its narrated response, not an automatic flight effect of the spell.
 - [Confirmed subsequent turn on 2026-10-03] Dain sits down in his gas cloud and meditates. The mechanical action ruling and any applicable turn-start save are unreported. HP stays **28**; no healing, new expenditure or concentration ending is reported.
+- [Confirmed later action on 2026-10-03] Jack calls that Ollyander needs help; Dain hears, dismisses Leaky Tent, briefly puts his head outside the cloud to cast **Infestation** at an enemy, then returns into the gas. The cloud is present on his return; no concentration ending or wind dispersal is reported. Infestation's result remains unreported.
 - [Derived standard casting] Action used, concentration active and one 3rd-level slot spent. No different casting source is reported; exact remaining slots and full prepared list remain to verify.
 
 ## Published Rules - 2014
@@ -24,7 +25,7 @@
 - The camp's forecast does not establish wind strength or exposure inside the tent. No dispersal is recorded.
 
 ## Current Scene
-- Dain is seated and meditating inside his Stinking Cloud in Leaky Tent. Harry was last confirmed inside. The entering beast previously ran away because of the stench; its route, distance, final position relative to the cloud and Dain's perception of the retreat remain unreported.
+- **Leaky Tent has been dismissed**, and Dain returns into Stinking Cloud after briefly exposing his head to cast Infestation at an enemy in response to Jack's call for Olly. Harry was last confirmed in the tent's area; her position after dismissal is unreported. The entering beast previously fled the stench; its final position and identity as the Infestation target are unreported.
 - Exact cloud centre/boundaries, turns, saves, other occupant effects and concentration changes remain unreported. Do not assign retching, lost actions, damage, immunity or a Frightened condition. Poisoned is not an effect of the 2014 spell.
 - [Session](../../Adventures/2026-10-03.md), [Spellbook](../../Character/Spellbook.md), [Leaky Tent](./Truthammer%20Leaky%20Tent.md), [Displacer Beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md).
 - Image poses, gas shape, sparks, silhouettes and layout are illustrative. [Prompt and references](../../Adventures/2026-10-03/stinking-cloud-image-notes.md).
