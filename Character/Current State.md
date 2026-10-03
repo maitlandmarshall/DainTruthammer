@@ -10,10 +10,13 @@
 
 ## Active Session - 2026-10-03
 
+- Latest scene: **Dain is inside the Leaky Tent and unaware battle has begun**. Encounter onset is confirmed table-side; Dain's awareness, opponents, positions and initiative remain separate. No surprise ruling or new action is reported.
+- Active custom effect: **Wet**, derived from being inside [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), grants fire resistance and cold/lightning vulnerability under the recorded spell. HP remains **28**; no new damage, drying, casting or expenditure is reported.
+
 - Active log: [Session 2026-10-03](../Adventures/2026-10-03.md), resuming from the final confirmed [2026-09-12 scene](../Adventures/2026-09-12.md).
 - Resume point: Storm stop on the route to an unidentified tower, with transport being packed down and a **30-foot Leaky Tent** just summoned using one **3rd-level slot**.
 - Current resources: **28 HP** [Confirmed on 2026-10-03], up from the prior recorded 3 HP; **3 Magic Mouth scrolls**, spell still unlearned after one failed transcription. Wizard 5 choices are **Major Image + Stinking Cloud**. Exact remaining slots, maximum HP and prepared list remain to verify.
-- Latest update: The long rest was **interrupted**, but Dain healed to **28 HP**. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. Tent expiry, weather outcome and arrival are not established.
+- Earlier update: The long rest was **interrupted**, but Dain healed to **28 HP**. Interruption cause/duration, healing source and any spell-slot, Hit Dice or other rest recovery remain unrecorded. Tent expiry, weather outcome and arrival are not established.
 
 ## Prior Session - 2026-09-12
 

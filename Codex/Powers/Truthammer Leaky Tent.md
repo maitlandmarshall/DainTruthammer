@@ -19,7 +19,7 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 *Illustrative proportions and layout. [Prompt and provenance](../../Adventures/2026-09-12/leaky-tent-image-notes.md).*
 
 - [Party] Dain summons the 30-foot tent with a 3rd-level slot at the overnight storm stop en route to a tower because nobody in the party has a tent.
-- Active duration follows the recorded 8 hours; occupants, actual Wet application and protection from heavy winds are not reported. No completed rest is established.
+- [Confirmed update on 2026-10-03] Dain is **inside the tent**, unaware as battle begins. [Derived from custom mechanics] Wet applies to him: fire resistance and cold/lightning vulnerability. Remaining duration, other occupants and wind protection remain unrecorded. The long rest was interrupted, and Dain healed to 28 HP. [Session](../../Adventures/2026-10-03.md)
 
 ## Creation Moment
 - 2026-05-03: During the forest long rest, Dain held his normal tent in a flowing river and experimented with random somatic components as water ran through it.
@@ -57,6 +57,8 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - 2026-05-03: Dain formally created `Truthammer's Leaky Tent` during the forest long rest. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 
 - 2026-09-12: Dain upcasts Leaky Tent at 3rd level to a massive 30-foot size at the storm stop. One 3rd-level slot spent. [Session](../../Adventures/2026-09-12.md)
+
+- 2026-10-03: Dain is inside Leaky Tent, unaware battle is beginning. His confirmed location triggers the recorded Wet effect. [Session](../../Adventures/2026-10-03.md)
 
 ## Related Entries
 - [Spellbook](../../Character/Spellbook.md)
