@@ -69,5 +69,10 @@
     "fingerprint": "8407b36ca33525a6d80ac3cb8eff8a51d4d2323751a0f64cc47b05be02932ed2",
     "status": "confirmed",
     "message_id": "1555820054740860938"
+  },
+  "2026-10-03-014-harry-special-gem": {
+    "fingerprint": "9272eb474a91cb032aea469df5cd5513400852ffc1bdedbe40f3c85af08e7849",
+    "status": "confirmed",
+    "message_id": "1555821905477636106"
   }
 }
