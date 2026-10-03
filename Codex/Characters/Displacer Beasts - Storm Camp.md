@@ -3,16 +3,17 @@
 ![Displacer-beast threat at the Leaky Tent storm stop](../../Adventures/2026-10-03/displacer-beasts-at-leaky-tent.png)
 
 ## One-Line Summary
-Displacer beasts in the storm-stop encounter en route to an unidentified tower; the one that entered Dain's tent now flees the stench of Stinking Cloud.
+Displacer beasts defeated by the party at the storm stop en route to an unidentified tower; harvesting of hides and other materials has begun.
 
 ## Status
 - Table role: DM-controlled / NPC creatures.
-- [Latest confirmed response] The beast that entered Dain's tent **runs away because of the smell** after Stinking Cloud fills the shelter. Destination, exact movement, save result and the other beasts' actions remain unreported; this does not resolve the whole encounter.
+- [Latest confirmed outcome] **The party defeats the creatures**, resolving the encounter, and immediately begins harvesting hides and other unspecified parts/materials. Completed yields, quantities, condition, holders and storage remain unreported. [Table-side] **750 XP awarded**, with per-character versus shared scope unreported.
+- [Earlier confirmed response] The beast that entered Dain's tent **runs away because of the smell** after Stinking Cloud fills the shelter. Destination, exact movement, save result and individual actions remain unreported; the subsequent victory resolves the encounter.
 - [Table-side] [Confirmed on 2026-10-03] The party is being attacked by displacer beasts; multiple attackers are reported, without an exact count.
 - [Confirmed subsequent event] One beast enters Dain's Leaky Tent and attacks him twice. Both rolls are below his AC and miss; Dain remains at **28 HP**.
 - [Derived custom effect] The entering beast becomes **Wet**, granting fire resistance and cold/lightning vulnerability until 10 minutes of drying or taking one of those damage types. The missed attacks do not end Wet.
 - [Confirmed preceding cast; 2014 rules clarified] Dain fills Leaky Tent with [Stinking Cloud](../Powers/Stinking%20Cloud.md) while the beast is inside. It subsequently retreats because of the smell; no save, retching/action expenditure, Frightened condition or ending event for Wet is reported.
-- [To verify] Total count, other positions/targets/actions, exact attack totals, encounter outcome, motives, stat block and table-specific creature mechanics.
+- [To verify] Total count, final blows, other positions/targets/actions, exact attack totals, motives, stat block and table-specific creature mechanics.
 - [To verify] Whether their attack caused the long-rest interruption. The user has not explicitly connected these events.
 - [Illustrative visual only] The scene uses a panther-like beast with six legs, shoulder tentacles and offset outlines. Its exterior position, pose and appearance interpret the creature name; they are not additional observed facts or a mechanical ruling.
 
@@ -26,6 +27,11 @@ Displacer beasts in the storm-stop encounter en route to an unidentified tower; 
 - 2026-10-03: One beast enters Leaky Tent and misses Dain twice. [Derived] The attacks alert Dain, and entry makes the beast Wet. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: Dain casts Stinking Cloud and fills the tent with horrid gas. The beast's saving throw and response are unreported. [Session](../../Adventures/2026-10-03.md)
 - 2026-10-03: The beast runs away because the gas smells so bad. No destination, save result, new damage or overall encounter outcome is reported. [Session](../../Adventures/2026-10-03.md)
+- 2026-10-03: The party defeats the displacer beasts and immediately begins harvesting hides and other unspecified parts/materials. **750 XP** awarded; allocation scope and actual harvest results remain unreported. [Session](../../Adventures/2026-10-03.md)
+
+![The party begins hide work on a defeated displacer beast](../../Adventures/2026-10-03/displacer-beast-harvest.png)
+
+*One representative body and unnamed hands illustrate the beginning of harvesting, without establishing a kill count, named harvester, completed yield or quantity. [Prompt and reference](../../Adventures/2026-10-03/displacer-beast-harvest-image-notes.md).*
 
 ![The displacer beast flees the stench from Leaky Tent](../../Adventures/2026-10-03/displacer-beast-flees-the-stench.png)
 
@@ -36,6 +42,7 @@ Displacer beasts in the storm-stop encounter en route to an unidentified tower; 
 *Strike depiction, poses and framing are illustrative; no Dain reaction, spell, injury or tent damage is established. [Prompt and references](../../Adventures/2026-10-03/displacer-beast-misses-image-notes.md).*
 
 ## Related Entries
+- [Party Loot: harvest in progress](../../Character/Party%20Loot.md#displacer-beast-harvest---2026-10-03)
 - [Truthammer's Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md)

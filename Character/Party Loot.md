@@ -6,6 +6,12 @@
 - Shared party inventory and payments that are not Dain's personal gear.
 - [To verify] Confirm which party member physically carries each item when it matters for weight, access, theft risk, or use in combat.
 
+## Displacer-Beast Harvest - 2026-10-03
+
+- [Party] [Confirmed] The party defeats the displacer beasts at the storm stop and immediately **begins harvesting hides and other unspecified parts/materials**. [Session](../Adventures/2026-10-03.md)
+- [In progress] Successful yields, item names beyond hides, quantities, condition, values, holders and storage remain unreported. No completed hide or other material is added to the holdings below yet.
+- [To verify] Record the actual harvest results and who carries them. Do not assume storage in the Chest of Preserving or ownership by Kagrenac or Dain.
+
 ## Current Party Tracker - Imported 2026-09-12
 
 - [Party] [Confirmed] Current tracker supplied by Maitland; [original screenshots](../Adventures/2026-09-12-party-tracker.md). These are current recorded holdings and allocations, not newly narrated acquisitions or proof of distribution.
