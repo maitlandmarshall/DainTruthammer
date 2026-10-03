@@ -16,6 +16,7 @@
 
 - [Confirmed] Norhan's Harry leashes [Jiminy](../Codex/Characters/Jiminy.md), who mines very proficiently during a **five-hour break** and finds [crystals that each can store one 1st-level spell](../Codex/Items/Spell-Storing%20Crystals%20-%202026-10-03.md).
 - [Confirmed distribution] Harry gives **one crystal to Dain**, now recorded in his [Inventory](./Inventory.md#magic-items). Total mined yield and holders of the remainder are unreported.
+- [Confirmed second batch] The party stays **another five hours**, and Jiminy mines **six additional gems**. The two stretches total **ten hours** [Derived]. Initial yield and combined total remain unreported; the new six have no reported holder or allocation. They are tracked with the same mining operation by continuity, without assigning an individual gem type or extra value.
 - No spell is reported stored, loaded or cast from a crystal. Value and inclusion in the earlier **5,000 gp** find are unreported; no extra treasure value or coin payout is assigned. [Session](../Adventures/2026-10-03.md)
 
 ## Special Gem Found By Harry - 2026-10-03

@@ -15,6 +15,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Retcon] The sheet confirms the character spelling as `Hammerton Harry Drizddon`; earlier repo notes used `Dresdon`.
 
 ## Status
+- [Latest party yield] The party stays another five hours and Jiminy mines **six more gems**. The two breaks total ten hours. No new gem allocation to Harry or Dain is reported. [Mining ledger](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#mining-ledger).
 - [Confirmed] Player: Norhan.
 - [Confirmed] Character name: Hammerton Harry Drizddon.
 - [Confirmed, 2026-10-03] Maitland confirms Norhan is still playing this character. Current tent narration uses she/her; historical source wording is retained.

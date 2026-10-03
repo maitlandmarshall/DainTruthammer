@@ -6,6 +6,7 @@
 An unnamed cave reached through the party's creature-tracking follow-up, containing precious gems with a stated total value of **5,000 gp**.
 
 ## Status
+- [Latest mining; scene continuity] The party stays another five hours, and Jiminy mines **six additional gems**. The two reported breaks total ten hours; distribution and value of the new six remain unreported.
 - [Party] [Confirmed on 2026-10-03] The party finds the cave where the creatures tracked to, then finds **5,000 gp worth of precious gems**.
 - [Latest table discovery; scene continuity] Norhan's Harry subsequently finds a [special gem commonly associated with spell storing](../Items/Special%20Gem%20Found%20by%20Harry.md). Its exact properties and inclusion in the 5,000 gp treasure value remain unreported.
 - The preceding encounter involved [displacer beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md). The tracking destination is established; no living occupants, surviving creature count or occupied lair is reported.
@@ -29,6 +30,8 @@ An unnamed cave reached through the party's creature-tracking follow-up, contain
 - 2026-10-03: Norhan / Harry finds a special gem commonly associated with spell storing. The current cave provides scene context; no location change or gem activation is reported. [Item](../Items/Special%20Gem%20Found%20by%20Harry.md); [Session](../../Adventures/2026-10-03.md)
 
 - 2026-10-03: [Later scene continuity] During a five-hour break, Harry leashes Jiminy for proficient mining. He finds crystals that each can store one 1st-level spell; Harry gives one to Dain. Total yield and value remain unreported. [Crystals](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md); [Session](../../Adventures/2026-10-03.md).
+
+- 2026-10-03: The party extends its stay by five hours; Jiminy mines six more gems. [Mining ledger](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#mining-ledger); [Session](../../Adventures/2026-10-03.md).
 
 ## Image Boundary
 The cave layout, rock surface, gem colors/cuts/grouping, light and cropped adventurer gesture are illustrative. They establish no exact gem types or count, collection, named finder, magical properties, additional treasure or cave occupants. [Built-in imagegen prompt](../../Adventures/2026-10-03/creature-trail-cave-gems-image-notes.md)
