@@ -1,10 +1,10 @@
 # Open Threads
 
-- [Confirmed] **Current priority: Dain casts Stinking Cloud, filling Leaky Tent with horrid gas.** [Derived] Concentration is active up to 1 minute and the cloud heavily obscures its area. Dain, Harry and one beast were last confirmed inside; Wet persists and HP remains **28**. Record DC 16 Constitution saves, Tom's edition, movement, concentration and any actual wind dispersal. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] **Current priority: Dain casts Stinking Cloud, filling Leaky Tent with horrid gas; 2014 rules are confirmed.** [Derived] Concentration is active up to 1 minute and the cloud heavily obscures its area. Dain, Harry and one beast were last confirmed inside; Wet persists and HP remains **28**. Record DC 16 Constitution saves, retching/action expenditure on failure, movement, concentration and any actual wind dispersal. [Session](../../Adventures/2026-10-03.md)
 
 ## Current Live Focus - 2026-10-03
 
-- [Confirmed cast] [Stinking Cloud](../Powers/Stinking%20Cloud.md) fills the tent. [Derived standard casting] Action used and one 3rd-level slot spent; remaining slots unknown. [Open] Record **DC 16 Constitution saves** at affected turn starts, including allies where applicable. No failed save, Poisoned condition, retching, damage or wind dispersal is reported. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed cast and 2014 clarification] [Stinking Cloud](../Powers/Stinking%20Cloud.md) fills the tent. [Derived standard casting] Action used and one 3rd-level slot spent; remaining slots unknown. [Open] Record **DC 16 Constitution saves against poison** for creatures completely inside at turn start, including allies unless an exception applies. Failure spends the action retching; movement, Bonus Actions and reactions remain available. No failed save, retching, damage or wind dispersal is reported. [Session](../../Adventures/2026-10-03.md)
 
 - [Confirmed] [Displacer beasts](../Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) are attacking; one enters the tent and misses Dain twice. [Derived custom effect] The entering beast is Wet. [Open] Establish total count, other positions/actions and creature mechanics. Dain's recognition of their identity and any link to the interrupted rest remain unconfirmed. [Session](../../Adventures/2026-10-03.md)
 

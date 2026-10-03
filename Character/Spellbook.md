@@ -1,12 +1,13 @@
 # Spellbook
 
 ## Spellcasting Summary
+- Rules version: **2014** [Confirmed clarification on 2026-10-03]. Stinking Cloud follows its legacy spell text.
 - Class: Wizard 5 / School of Conjuration [Level-up choice confirmed on 2026-09-12]
 - Spellcasting Ability: INT
 - Spell Save DC: 16
 - Spell Attack Bonus: +8
 - Maximum slots: 1st-level `4`, 2nd-level `3`, 3rd-level `2`. Current remaining slots are [To verify]; one 3rd-level slot is confirmed spent on Leaky Tent on 2026-09-12, and one is derived spent on the 2026-10-03 Stinking Cloud cast under standard casting. No completed rest or resource refresh is recorded; do not infer an exact current total.
-- Prepared spells: [To verify table rules and chosen list] `10` under 2014 Wizard rules with INT 20; `9` under 2024 Wizard rules. The two new spellbook entries below do not by themselves establish the prepared list.
+- Prepared capacity: [Derived 2014 Wizard rules] **10** with Wizard 5 and INT 20. The actual chosen list remains [To verify]; the two new spellbook entries below do not by themselves establish it.
 - [To verify] The PDF export does not clearly distinguish prepared wizard spells from the full spellbook list, so this file records the spells visible on the sheet.
 - [To verify] `Prestidigitation` is repeatedly recorded in prior play use, but it is not currently listed under **Cantrips On Sheet**. Confirm whether this is an omitted cantrip, a table allowance, sheet drift, or an earlier record error before relying on it in live play.
 
@@ -39,7 +40,7 @@
 
 ## 3rd-Level Spells - Wizard 5 Choices
 - **Major Image** [Confirmed level-up selection on 2026-09-12]: sensory illusion for elaborate misdirection; concentration, up to 10 minutes.
-- **[Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md)** [Confirmed level-up selection on 2026-09-12; cast on 2026-10-03]: heavily obscured, 20-foot-radius cloud; concentration, up to 1 minute. No damage. Confirm Tom's spell version: the 2014 failed save spends the creature's action retching; the 2024 failed save applies Poisoned and prevents actions and Bonus Actions until the end of that turn. The current tent cast is active; saves and effects are pending.
+- **[Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md)** [Confirmed level-up selection on 2026-09-12; cast and 2014 version confirmed on 2026-10-03]: heavily obscured, 20-foot-radius cloud; concentration, up to 1 minute. No damage. A creature completely inside at turn start makes a Constitution save against poison (Dain's DC **16**); failure spends its action retching. Movement, Bonus Actions and reactions remain available; no Poisoned condition is imposed. Creatures immune to poison or needing no breath automatically succeed. The current tent cast is active; saves and effects are pending.
 - These are Dain's two free Wizard 5 spellbook additions. No scroll purchase or copying expenditure is recorded. Preparing and casting them still follows the table's rules.
 - Both require concentration, so Dain cannot sustain both at once.
 
@@ -118,3 +119,4 @@
 - 2026-09-12 clarification: Dain fails to learn **Magic Mouth** from a scroll. One scroll consumed; **3 remain**. The spell is not added to learned spells. Roll, time and gold/material cost are unrecorded. [Session](../Adventures/2026-09-12.md)
 - 2026-09-12: Dain casts [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at **3rd level**, producing a **30-foot tent** at the storm stop. One 3rd-level slot spent; remaining total unknown. [Session](../Adventures/2026-09-12.md)
 - 2026-10-03: Dain casts [Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md) on his turn, filling Leaky Tent with horrid gas. [Derived standard casting] Action used, concentration up to 1 minute and one 3rd-level slot spent. No save outcome or new damage is reported; HP stays 28. [Session](../Adventures/2026-10-03.md)
+- 2026-10-03 rules clarification: Maitland confirms **2014**. The active Stinking Cloud uses the turn-start save and retching/action expenditure; the 2024 Poisoned effect and Bonus Action restriction do not apply. No additional cast or result occurs. [Session](../Adventures/2026-10-03.md)

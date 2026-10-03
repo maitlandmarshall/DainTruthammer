@@ -12,14 +12,16 @@
 
 ## Active Session - 2026-10-03
 
-- Latest encounter beat: **Dain casts [Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md) on his turn, filling Leaky Tent with horrid gas**. [Derived published mechanics] Action used; **concentration active, up to 1 minute**, and one 3rd-level slot spent under standard casting. Current remaining slots are unknown. HP remains **28**; no saving throws, Poisoned condition, retching or new damage are reported.
+- Rules clarification: **2014** [Confirmed by Maitland on 2026-10-03]. Stinking Cloud uses the legacy turn-start save and retching effect; it does not apply the 2024 Poisoned condition or Bonus Action restriction.
+
+- Latest encounter beat: **Dain casts [Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md) on his turn, filling Leaky Tent with horrid gas**. [Derived published mechanics] Action used; **concentration active, up to 1 minute**, and one 3rd-level slot spent under standard casting. Current remaining slots are unknown. HP remains **28**; no saving throws, retching or new damage are reported.
 - Previous beat: one [displacer beast](../Codex/Characters/Displacer%20Beasts%20-%20Storm%20Camp.md) enters and misses Dain twice, alerting him to the immediate threat [Derived awareness]. The entering beast is **Wet** under the tent's custom mechanics: fire resistance and cold/lightning vulnerability.
 
 - Earlier party beat: [Hammerton Harry Drizddon](../Codex/Characters/Hammerton%20Harry%20Drizddon.md), confirmed as Norhan's current character, joins the Leaky Tent and immediately argues with her [talking hammer](../Codex/Items/Harrys%20Talking%20Hammer.md). Harry and the hammer are Wet under the recorded custom mechanics. Dialogue and Dain's awareness of that exchange remain unreported; their reactions to the later beast entry are also unreported.
 
 - Equipped armour: **Dwarven Half Plate** [Confirmed clarification on 2026-10-03]. Exact AC remains to verify against the item wording or current sheet.
 
-- Latest scene: **Leaky Tent is filled with Dain's Stinking Cloud**. Dain, Harry and one beast were last confirmed inside. [Derived published mechanics] The cloud heavily obscures its area; **DC 16 Constitution saves** occur at affected creatures' turn starts and can affect allies too. Tom's edition, saves, reactions, movement and indoor wind effects remain unreported. No immediate save outcome is assigned.
+- Latest scene: **Leaky Tent is filled with Dain's Stinking Cloud**. Dain, Harry and one beast were last confirmed inside. [Derived 2014 mechanics] The cloud heavily obscures its area; creatures completely inside at turn start make **DC 16 Constitution saves against poison**, unless automatically successful under the spell's exceptions. Failure spends the action retching, leaving movement, Bonus Actions and reactions available. Allies can be affected too. Saves, reactions, movement and indoor wind effects remain unreported; no outcome is assigned.
 - Active custom effect: **Wet**, derived from being inside [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md), grants fire resistance and cold/lightning vulnerability under the recorded spell. Stinking Cloud deals no damage and does not end Wet. HP remains **28**; no new damage or drying is reported.
 
 - Active log: [Session 2026-10-03](../Adventures/2026-10-03.md), resuming from the final confirmed [2026-09-12 scene](../Adventures/2026-09-12.md).

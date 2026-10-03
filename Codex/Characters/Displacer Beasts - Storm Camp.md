@@ -10,7 +10,7 @@ Displacer beasts attacking the party during the active encounter at the storm st
 - [Table-side] [Confirmed on 2026-10-03] The party is being attacked by displacer beasts; multiple attackers are reported, without an exact count.
 - [Confirmed subsequent event] One beast enters Dain's Leaky Tent and attacks him twice. Both rolls are below his AC and miss; Dain remains at **28 HP**.
 - [Derived custom effect] The entering beast becomes **Wet**, granting fire resistance and cold/lightning vulnerability until 10 minutes of drying or taking one of those damage types. The missed attacks do not end Wet.
-- [Confirmed subsequent cast] Dain fills Leaky Tent with [Stinking Cloud](../Powers/Stinking%20Cloud.md). The beast was last confirmed inside. Its save, reaction, movement and any Poisoned condition or lost action are unreported; the non-damaging cast does not end Wet.
+- [Confirmed subsequent cast; 2014 rules clarified] Dain fills Leaky Tent with [Stinking Cloud](../Powers/Stinking%20Cloud.md). The beast was last confirmed inside. Its save, reaction, movement and any retching/action expenditure are unreported; the non-damaging cast does not end Wet or impose Poisoned.
 - [To verify] Total count, other positions/targets/actions, exact attack totals, encounter outcome, motives, stat block and table-specific creature mechanics.
 - [To verify] Whether their attack caused the long-rest interruption. The user has not explicitly connected these events.
 - [Illustrative visual only] The scene uses a panther-like beast with six legs, shoulder tentacles and offset outlines. Its exterior position, pose and appearance interpret the creature name; they are not additional observed facts or a mechanical ruling.
