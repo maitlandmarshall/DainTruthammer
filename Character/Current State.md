@@ -2,6 +2,8 @@
 
 ## Source
 - [Confirmed] Baseline imported from [Dicfuc_164465751.pdf](../Dicfuc_164465751.pdf) on 2026-04-18.
+- [Confirmed] Maitland supplied [Dain's D&D Beyond sheet](https://www.dndbeyond.com/characters/164465751) on 2026-10-03; character ID `164465751` matches the baseline PDF filename.
+- [To verify] Live sheet data has not been imported. On 2026-10-03 the public page returned a JavaScript shell, and an anonymous request to its character-service v5 endpoint returned HTTP 403 with `Unauthorized Access Attempt.` This does not establish sheet privacy or an authenticated connection; current stats below remain grounded in campaign records and user updates.
 - [Confirmed] Personality and moral framing below also use the user's character blurb from 2026-04-18.
 - [Confirmed] Level 4 choices and 2026-05-30 session state imported from the shared ChatGPT conversation at https://chatgpt.com/share/6a360b0e-3758-83ec-99cf-7042d1dd01e5.
 - [To verify] 2026-05-30 is an approximate session date. On 2026-06-20, the user clarified the shared chat was from roughly three weeks earlier, not from 2026-06-20.
