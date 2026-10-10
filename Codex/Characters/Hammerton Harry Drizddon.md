@@ -15,7 +15,8 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Retcon] The sheet confirms the character spelling as `Hammerton Harry Drizddon`; earlier repo notes used `Dresdon`.
 
 ## Status
-- [Latest broader party action; Dain asleep] [Confirmed, 2026-10-10] **Harry runs up to the cuffed [goblins](./Goblin%20Intruders%20-%202026-10-10.md) and smashes their fingers.** Their shared hand-and-foot bindings remain last confirmed. Exact implement, attack/damage rolls, damage, injury extent, waking and reaction afterward are unreported. The prisoners were last asleep before this strike; no continued sleep, resource expenditure, chest recovery or Dain awareness change is assigned. [Session](../../Adventures/2026-10-10.md).
+- [Latest broader party dialogue; Dain asleep] [Confirmed, 2026-10-10] **Harry says: “they shall be punished for their sins. They trying to feed their family? Punished.”** The words and speaker are confirmed; the [goblins'](./Goblin%20Intruders%20-%202026-10-10.md) actual motive or family circumstances are not. No prisoner response or additional punishment is supplied. Dain remains innocent, separately asleep and unaware. [Session](../../Adventures/2026-10-10.md).
+- [Preceding broader party action; Dain asleep] [Confirmed, 2026-10-10] **Harry runs up to the cuffed [goblins](./Goblin%20Intruders%20-%202026-10-10.md) and smashes their fingers.** Their shared hand-and-foot bindings remain last confirmed. Exact implement, attack/damage rolls, damage, injury extent, waking and reaction afterward are unreported. The prisoners were last asleep before this strike; no continued sleep, resource expenditure, chest recovery or Dain awareness change is assigned. [Session](../../Adventures/2026-10-10.md).
 - [Broader party encounter; Dain unaware] [Confirmed, 2026-10-10] Harry dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at one [goblin](./Goblin%20Intruders%20-%202026-10-10.md). **The goblin is pushed out of the darkness; another patch of darkness disappears.** Damage, saves, push distance, casting level/source and remaining resources are unreported. The reported movement and cast do not establish Action Surge use or complete turn order. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed, 2026-10-10] At the [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md), Harry asks Dain for a gold-sifting tool. Dain conjures [one for her](../Items/Conjured%20Gold%20Sifter%20-%202026-10-10.md) with a flick while frolicking; Harry begins searching for gold, then strikes the water and rocks with her hammer **to no effect**. Sifting yield and the hammer's exact identity are unreported. [Session](../../Adventures/2026-10-10.md).
 - [Latest party yield] The party stays another five hours and Jiminy mines **six more gems**. The two breaks total ten hours. No new gem allocation to Harry or Dain is reported. [Mining ledger](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#mining-ledger).
@@ -36,6 +37,12 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
 
 ## Latest Encounter Scene - 2026-10-10
+
+![Harry speaks at the moonlit riverbank](../../Adventures/2026-10-10/harry-punished-for-their-sins.png)
+
+- Harry's punishment statement is recorded above. Gesture, expression, pose and camp staging are illustrative; the image supplies no further attack, prisoner response, confirmed family motive, divine approval or Dain involvement. [Prompt and references](../../Adventures/2026-10-10/harry-punishment-statement-image-notes.md).
+
+## Earlier Finger-Strike Scene - 2026-10-10
 
 ![Harry strikes the cuffed goblins' fingers with the actual impact hidden](../../Adventures/2026-10-10/harry-strikes-cuffed-goblin-fingers.png)
 

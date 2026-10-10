@@ -13,6 +13,7 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+- [Latest broader party dialogue; Dain asleep] **[Harry](./Hammerton%20Harry%20Drizddon.md) says: “they shall be punished for their sins. They trying to feed their family? Punished.”** Her statement does not confirm their motive, family circumstances or a confession. Whether they hear or respond is unreported; no additional punishment follows from the dialogue alone. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party action; Dain asleep] **[Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) runs up to the cuffed goblins and smashes their fingers.** Exact implement, attack/damage rolls, damage and injury extent remain unreported. They were last asleep before this strike; waking and reaction afterward are unreported. No release or chest recovery is supplied. Dain's separate sleep and lack of enemy awareness are unchanged. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed binding clarification; Dain asleep] **Both prisoners are cuffed together on both hands and feet, conjoined through their restraints.** Fine chain/cuff construction, source/count, keys and escape mechanics remain unreported. No named actor is newly assigned to arranging these bindings. This remains their last confirmed configuration after Harry's action. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding party scene; Dain asleep] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) finishes running up; the party surrounds both sleeping, manacled intruders and waits for them to wake.** The supplied quote is **“Nightmare nightmare nightmare”**, without an assigned individual speaker or mechanical effect. That scene supplies no waking, prisoner response, damage or chest recovery. Dain sleeps separately and remains unaware. [Session](../../Adventures/2026-10-10.md).
@@ -44,6 +45,7 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - Harry then runs up and smashes their fingers. They were last asleep before her strike; damage, injury extent, waking and reaction afterward are unreported.
 
 ## What Is Uncertain
+- Whether the goblins were trying to feed a family, any family circumstances, and whether they hear or respond to Harry's words. Her question and judgment do not establish a motive or confession.
 - The finger strike's exact implement, attack/damage rolls, numeric damage, injury extent, waking and prisoner reaction afterward. Continued sleep is not assumed; no named sleep spell or automatic ending is assigned.
 - Individual speaker of the “Nightmare nightmare nightmare” quote, actual waking time, prisoner dialogue/reaction and the outcome of this waiting scene. Yuckie is a distinct player character, not one of these intruders; any relationship between them is unreported.
 - Names, affiliation, appearance, weapons, armor, stat blocks, HP and exact positions.
