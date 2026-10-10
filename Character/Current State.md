@@ -12,6 +12,10 @@
 
 ## Active Session - 2026-10-10
 
+- [Latest outcome] **The party wins the goblin-camp encounter; 675 XP is reported.** Per-character versus shared-party scope is [To verify]; cumulative XP and any new level remain unreported. [XP award](#latest-xp-award---2026-10-10).
+- [Latest personal discovery; Character-only] **Dain searches the [lizard-man corpse](../Codex/Characters/Lizard-Man%20Corpse%20-%202026-10-10.md) and finds [kill-order papers](../Codex/Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md) with photorealistic pictures of the party and people he does not recognise. No provenance information is found.** Exact body identity, paper custody and sharing are unreported. [Investigation](../Codex/Lore/Open%20Threads.md#kill-orders-and-unfamiliar-portraits).
+- [Current limits] The encounter is won, but no rest/healing, Wet ending, resource refresh, later concentration ending, blimp landing, captive release or complete enemy death tally is supplied. Personal HP remains unknown after the earlier grenade damage; Expeditious Retreat remains the last confirmed concentration.
+
 - [Latest allied hammer hit] **[Harry](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) hits the [goblin](../Codex/Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md) with a hammer, and it dies.** Contextually the preceding Thunderclap recipient. Roll, hammer damage, final HP and loot are unreported; Harry's current HP remains open after her prior 6 damage. No new Dain action/resource or concentration outcome is supplied. [Session](../Adventures/2026-10-10.md).
 
 - [Latest personal action] **Dain runs toward the bottleneck and casts [Thunderclap](../Codex/Powers/Thunderclap.md), removing the reported darkness and dealing 6 damage each to [Harry](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) and the [unidentified goblin](../Codex/Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md).** Movement distance/Dash/arrival, damage type/saves and remaining recipient HP are unreported. Expeditious Retreat remains the last confirmed concentration; no new own damage, Wet ending, slot/resource change or round is supplied. [Session](../Adventures/2026-10-10.md).
@@ -113,6 +117,11 @@
 - Character/equipment: **Wizard 5 / School of Conjuration**, INT 20, DC **16**, spell attack **+8**; **Dwarven Half Plate worn**, exact AC [To verify]. **2014 rules** confirmed on 2026-10-03. Maximum spell slots are **4 / 3 / 2**, not verified remaining slots.
 - Conditions and rest: Dain's sleep is interrupted by Taleesh waking him and bringing him into battle. Tent entry applies **Wet**, including to Taleesh on his latest entry; no drying or other ending event is reported. Completion and numerical recovery from the narrated riverside long rest remain unreported. No HP/slot/Hit Dice reset, stone release, new Stinking Cloud or revised tent mechanics is assigned.
 - Opening follow-up: choose the second stone's spell, confirm item use/resources and the destination tower, then reconcile gem allocation, harvest yields, Olly's condition and **750 XP** scope. See [Open Threads](../Codex/Lore/Open%20Threads.md#current-live-focus---2026-10-10).
+
+## Latest XP Award - 2026-10-10
+
+- [Table-side; Confirmed] **675 XP awarded/reported after the goblin-camp victory.** [To verify] Whether this is per character or a shared party total; no personal increment, cumulative total or level-up is assigned yet.
+- This is separate from the preceding **750 XP** award recorded under the 2026-10-03 prior session. That earlier scope and Dain's cumulative XP remain unknown. [Session](../Adventures/2026-10-10.md).
 
 ## Prior Session - 2026-10-03
 

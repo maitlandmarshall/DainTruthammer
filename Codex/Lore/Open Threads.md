@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest victory and mystery] **The party wins; 675 XP is reported. Dain searches a lizard-man corpse and finds kill orders with photorealistic pictures of the party and unfamiliar people. No provenance information.** XP scope/cumulative total, body identity, custody/sharing and the unknown faces remain open. [Portrait investigation](#kill-orders-and-unfamiliar-portraits); [camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest hammer kill] **Harry hits the contextual Thunderclap goblin with a hammer, and it dies.** Attack roll, numerical hammer damage and body/loot handling remain unreported; no new HP/resource outcome for Harry or Dain is supplied. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest bottleneck Thunderclap] **Dain runs toward the bottleneck and casts Thunderclap, removing the reported darkness and dealing 6 damage each to Harry and an unidentified goblin.** Recipient current HP and removal mechanism remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -144,7 +146,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Harry hits the contextual Thunderclap goblin with a hammer, and it dies.** The earlier 6 damage to Harry and that goblin and darkness removal remain recorded. Roll, hammer damage, numeric goblin HP and body/loot handling are unreported; Harry's current HP remains open. Dain's last confirmed concentration and other actor/ship states receive no new outcome.
+- Status: **Encounter won; 675 XP reported. Dain finds kill-order papers with photorealistic party and unfamiliar portraits on a lizard-man corpse, with no provenance information.** The battle's victory is resolved; XP scope/cumulative total, body identity, custody/sharing and source/other faces remain open. The reason the snake people organise goblins is still unanswered. [New investigation](#kill-orders-and-unfamiliar-portraits).
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Centre arrival beside the fire and current 75-foot aerial height are now confirmed after Kagrenac's 25-foot descent. Record any next ship movement/action, supplied bearing/gap and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -186,6 +188,9 @@
 - Thunderclap follow-up: Record recipient current HP and goblin identity, supplied type/saves/radius, actual movement/arrival and darkness source/removal mechanism. Keep the reported 6 damage to each and local darkness removal without inferring a general dispelling rule, all-cloud removal, forced movement, kill or new resource/concentration outcome. [Spell record](../Powers/Thunderclap.md).
 
 - Goblin death follow-up: The contextual Thunderclap recipient is now dead after Harry's hammer hit. Preserve the earlier 6 damage and this lethal follow-up separately; record actual next actions, individual identity and supplied body/loot or numeric attack details when given. [Goblin record](../Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md#harrys-hammer-hit-and-death---2026-10-10).
+
+- Victory follow-up: The party wins; this encounter's outcome is now resolved. The 675 XP award is separate from the earlier 750 XP; allocation and cumulative XP need confirmation. No complete enemy death tally, captured-goblin release/fate, rest recovery, ship landing or later spell ending is implied.
+- Corpse/papers follow-up: Dain searches the body described as a “lizard man” and finds the kill orders. Its link to the main-tent yuan-ti remains [To verify]; no precise death sequence or organiser identity is supplied. [Corpse](../Characters/Lizard-Man%20Corpse%20-%202026-10-10.md); [papers](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md).
 
 ### Goblins In The Balloon Carriage
 
@@ -346,6 +351,14 @@
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
+
+### Kill Orders And Unfamiliar Portraits
+
+- Status: **Open after the goblin-camp victory, 2026-10-10.** Dain searches a lizard-man corpse and finds papers with the party's faces and orders to kill, plus photorealistic pictures of people he does not recognise. The pictures look very good; **no provenance information is found**.
+- Knowledge: [Character-only; Confirmed observation] Dain discovers the papers. Whether he shares them with the party, keeps them or leaves them on the body is unreported.
+- Follow-up: identify the issuer/creator/origin, how the likenesses were obtained, the unfamiliar people's identities and how they relate to the orders; record any actual custody, investigation or new clue. Do not infer a faction, surveillance technology/magic, bounty, author or precise wording from illustration detail.
+- Body identity: the “lizard man” is confirmed dead as a corpse, but its relation to the main-tent yuan-ti and cause/killing blow are [To verify]. No new creature count is created by the indexing page.
+- Linked records: [Papers](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md); [corpse](../Characters/Lizard-Man%20Corpse%20-%202026-10-10.md); [camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#victory-and-kill-order-discovery---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 ### Visit The Northern Dark Forest
 - Status: Open; reminder requested on 2026-10-10.

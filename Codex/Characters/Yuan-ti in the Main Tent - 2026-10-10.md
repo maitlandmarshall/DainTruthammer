@@ -30,6 +30,11 @@ The unidentified yuan-ti Taleesh encounters at the damaged main tent, contextual
 
 - One missed attack per panel; weapons/types and rolls are unreported. Appearance, poses, motion arcs and canvas/light are illustrative, without assigning defensive actions or new damage. [Image notes](../../Adventures/2026-10-10/yuan-ti-two-misses-image-notes.md).
 
+## Later Lizard-Man Corpse Reference - 2026-10-10
+
+- After the party wins, Dain searches a body described as a **“lizard man”** and finds kill-order papers. [To verify] Whether that [corpse](./Lizard-Man%20Corpse%20-%202026-10-10.md) is this yuan-ti. The wording alone does not establish an individual identity or a lizardfolk/yuan-ti subtype.
+- This page's last confirmed individual actions remain the two missed attacks at Taleesh. No exact death sequence, killing blow, numeric HP, new faction/commander identity or corpse ownership of the papers is assigned here unless the body link is confirmed. [Papers](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+
 ## Knowledge Boundary
 
 - [Confirmed; Taleesh observes] Taleesh directly encounters the yuan-ti.

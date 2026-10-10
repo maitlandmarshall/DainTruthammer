@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where Harry hits the contextual Thunderclap goblin with a hammer and it dies, following Dain's bottleneck cast and darkness removal.
+The organised goblin camp where the party wins, 675 XP is reported, and Dain searches a lizard-man corpse to find kill-order papers with photorealistic party and unfamiliar portraits; provenance is unknown.
 
 ## Confirmed Discovery
 
@@ -109,6 +109,16 @@ The organised goblin camp where Harry hits the contextual Thunderclap goblin wit
 ![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Victory And Kill-Order Discovery - 2026-10-10
+
+- [Party; Confirmed] **The party wins.** [Table-side; Confirmed] **675 XP reported**, per-character/shared scope and cumulative personal XP [To verify].
+- [Character-only; Confirmed] **Dain searches a [lizard-man corpse](../Characters/Lizard-Man%20Corpse%20-%202026-10-10.md) and finds [kill-order papers](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md) bearing the party's faces and pictures of people he does not recognise.** The pictures are photorealistic and look very good. **No information on provenance.**
+- The body's link to the encountered yuan-ti and the death sequence remain unreported. Victory supplies no full enemy tally, captive fate/release, recovery, new concentration ending, ship landing or explanation of why the snake people organise goblins. Paper retention/sharing and unfamiliar identities are unconfirmed. [Session](../../Adventures/2026-10-10.md).
+
+![Dain discovers photorealistic party and unfamiliar faces on kill-order papers](../../Adventures/2026-10-10/dain-corpse-search-photorealistic-kill-orders.png)
+
+- The supplied discovery is confirmed; pictured-face selection/count, corpse details, paper design and camp staging are illustrative. [Exact prompt and image notes](../../Adventures/2026-10-10/corpse-search-kill-orders-image-notes.md).
 
 ## Harry's Hammer Hit Kills The Goblin - 2026-10-10
 
@@ -283,6 +293,8 @@ The organised goblin camp where Harry hits the contextual Thunderclap goblin wit
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest victory and papers: XP allocation/cumulative total, searched corpse identity/death sequence, issuer/origin, means of creating or obtaining the photorealistic portraits, unfamiliar faces' identities/roles, paper custody/sharing and any next camp/party action. The win and discovery are confirmed; provenance information is absent.
 
 - Latest hammer hit: goblin individual identity, attack roll, numeric damage/HP, precise weapon/impact, body/loot handling and next actions. The contextual Thunderclap goblin's death is now confirmed; Harry's current HP remains unreported after her earlier 6 damage.
 

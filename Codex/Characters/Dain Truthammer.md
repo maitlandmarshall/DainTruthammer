@@ -52,6 +52,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
+- [Latest confirmed victory and personal discovery, 2026-10-10] **The party wins; 675 XP is reported. Dain searches a [lizard-man corpse](./Lizard-Man%20Corpse%20-%202026-10-10.md) and finds [papers](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md) with the party's faces and kill orders, alongside unrecognised faces.** Pictures are photorealistic and look very good; provenance is unknown. XP scope/cumulative total, body identity, paper retention and sharing remain [To verify]. No recovery, new level or later effect ending is supplied. [Session](../../Adventures/2026-10-10.md).
+
 - [Latest personal cast, 2026-10-10] **Dain runs toward the bottleneck, casts [Thunderclap](../Powers/Thunderclap.md), removes the reported darkness and deals 6 damage each to [Harry](./Hammerton%20Harry%20Drizddon.md) and an [unidentified goblin](./Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md).** Distance/Dash/arrival, damage type/saves, recipient current HP and removal mechanism are unreported. Expeditious Retreat remains last confirmed concentration; no new own damage, condition or numeric resource change is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding personal movement/discovery, 2026-10-10] **Dain runs back toward the bottleneck on the party's approach route and realises goblins emerging from a wall crack have tricked and are flanking the gang.** His current movement is running; the transition off Stu, distance, formal Dash and arrival/escape remain unreported. Expeditious Retreat is the last confirmed concentration and Suggestion is ended; no new HP/resource change or attack is supplied. Count/identities and any warning to the others remain open. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
@@ -107,6 +109,16 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Confirmed by user from DM] Dain and/or the Truthhammers have a half-Azer connection; exact scope and implications are [To verify].
 - [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
 
+## Victory And Kill-Order Discovery - 2026-10-10
+
+- **The party wins the encounter; 675 XP is reported.** Scope and cumulative personal XP remain unreported; the earlier 750 XP is a separate award.
+- **Dain searches the lizard-man corpse and finds papers bearing the party's faces and orders to kill.** More pictures show people he does not recognise. The pictures are photorealistic and look very good.
+- **No information on provenance.** Issuer, author, picture-making method, origin and other pictured identities are unknown. The corpse's link to the main-tent yuan-ti, exact death sequence and later paper custody/sharing are unconfirmed. [Papers](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md); [body](./Lizard-Man%20Corpse%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+
+![Dain discovers photorealistic party and unfamiliar faces on kill-order papers](../../Adventures/2026-10-10/dain-corpse-search-photorealistic-kill-orders.png)
+
+- The supplied discovery is confirmed; pictured-face selection/count, corpse details, paper design and camp staging are illustrative. [Exact prompt and image notes](../../Adventures/2026-10-10/corpse-search-kill-orders-image-notes.md).
+
 ## Thunderclap At The Bottleneck - 2026-10-10
 
 - **Runs toward the bottleneck and casts [Thunderclap](../Powers/Thunderclap.md), removing the reported darkness. Harry and the unidentified goblin each take 6 damage.**
@@ -118,6 +130,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - Two panels illustrate the supplied movement and table-reported spell outcome. Positions, poses, pulse/terrain/light are illustrative; no measured radius, push, extra damage or general darkness-dispelling property is established. [Image notes](../../Adventures/2026-10-10/bottleneck-thunderclap-image-notes.md).
 
 ## What The Character Knows
+
+- [Character-only; Confirmed personal observation, 2026-10-10] **The papers found on the lizard-man corpse show the party's faces and carry orders to kill, plus photorealistic pictures of people Dain does not recognise.** They look very good; no provenance information is found. Dain has no supplied identification of the issuer, other faces or picture-making method. Party-wide briefing is unreported. [Papers](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 
 - [Confirmed personal observation, 2026-10-10] **Goblins emerge from a crack in a wall to flank the gang; Dain realises the goblins have tricked the group as he runs back toward the approach-route bottleneck.** Count, identities, detailed plan, what lies beyond the crack and whether Dain shares this discovery are unreported. The wall is not identified with the earlier gorge/cliffs. [Camp discovery](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
@@ -202,6 +216,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] Kagrenac openly accuses Dain of murder and states that he no longer trusts him.
 
 ## What Is Uncertain
+
+- Latest victory/discovery: 675 XP scope and cumulative personal XP, lizard-man corpse identity/link to the yuan-ti and death sequence, paper custody/sharing, issuer/origin and how the photorealistic likenesses were obtained, other pictured people's identities and relation to the orders. The party's win and Dain's discovery are confirmed; no source is supplied.
 
 - Latest Thunderclap: recipient current HP and goblin identity, type/saves/rolls/radius, exact movement/arrival and darkness source/extent/removal mechanism. Reported outcome is darkness removal and 6 damage to Harry and the goblin.
 
@@ -380,6 +396,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: Runs back toward the approach-route bottleneck and spots goblins emerging from a wall crack to flank the gang, realising they have tricked the group. Count/identities, warning to others, movement total/formal Dash and arrival are unreported. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Runs toward the bottleneck and casts Thunderclap, removing the reported darkness; Harry and one unidentified goblin each take **6 damage**. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Wins the goblin-camp encounter with the party; 675 XP reported**, allocation unknown. Searches a lizard-man corpse and finds **[kill orders with photorealistic party and unfamiliar portraits](../Items/Kill%20Orders%20With%20Photorealistic%20Portraits%20-%202026-10-10.md)**, with no provenance information. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 
