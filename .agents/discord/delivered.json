@@ -154,5 +154,10 @@
     "fingerprint": "30ec4ac1c37fcf294a3e28ae4d0171e4efa463fe5769f77bd8ccd28af536a945",
     "status": "confirmed",
     "message_id": "1558348485894340608"
+  },
+  "2026-10-10-013-conjoined-goblin-restraints": {
+    "fingerprint": "120fdc39b062271198199fa6320b126ec833f0e63bc47776d9a4c2d647181253",
+    "status": "confirmed",
+    "message_id": "1558351420888064031"
   }
 }
