@@ -14,10 +14,15 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 
 ## Current Riverside Casting - 2026-10-10
 
+![Dain dismisses the riverside Leaky Tent in a plume of steam before failing to lift Taleesh and running](../../Adventures/2026-10-10/truthammer-steam-entrance-failed-lift-run.png)
+
+- [Latest confirmed use] **Dain clicks his fingers and the tent disappears in a plume of steam. He emerges yelling, cannot pick up Taleesh, then runs 25 feet and does nothing further. This riverside deployment is now dismissed.** Dismissal cost, elapsed duration and exact movement endpoint are unreported. The healing-pod comparison establishes no healing, transformation, new casting or revised wording. Steam supplies no drying, elemental damage or Wet ending for Dain or Taleesh. [Session](../../Adventures/2026-10-10.md).
+- Latest image: three consecutive beats, with no intact tent after dismissal. Steam shape, poses, grip, running trail and camp staging are illustrative. No action-cost ruling, named follow-up action or recovery is established. [Prompt and references](../../Adventures/2026-10-10/truthammer-steam-entrance-image-notes.md).
+
 ![Brother Taleesh wakes Dain and shares the hand-grasp meme inside the Leaky Tent](../../Adventures/2026-10-10/taleesh-wakes-truthammer-hand-grasp.png)
 
-- [Latest confirmed use] Taleesh runs into the already erected tent, wakes Dain, shares the hand-grasp meme and brings him into battle. Dain is now awake and participating. [Derived] Tent entry applies **Wet** to Taleesh: fire resistance and cold/lightning vulnerability; no recorded ending event is supplied. No new casting, dismissal, spell revision or numerical recovery is reported. [Session](../../Adventures/2026-10-10.md).
-- Latest image: the clasp after waking; pose, expressions, sleeve arrangement, drips and tent framing are illustrative. No Help action, advantage, strength increase, astral arms, attack or spell is established. [Prompt and references](../../Adventures/2026-10-10/taleesh-wakeup-hand-grasp-image-notes.md).
+- [Preceding wake-up] Taleesh runs into the already erected tent, wakes Dain, shares the hand-grasp meme and brings him into battle. Dain is now awake and participating. [Derived] Tent entry applies **Wet** to Taleesh: fire resistance and cold/lightning vulnerability; no recorded Wet ending event is supplied. No new casting, dismissal, spell revision or numerical recovery was reported by that wake-up; the later click now dismisses the tent. [Session](../../Adventures/2026-10-10.md).
+- Preceding image: the clasp after waking; pose, expressions, sleeve arrangement, drips and tent framing are illustrative. No Help action, advantage, strength increase, astral arms, attack or spell is established. [Prompt and references](../../Adventures/2026-10-10/taleesh-wakeup-hand-grasp-image-notes.md).
 
 ![Dain returns to the already erected Leaky Tent to sleep after a night-time noise](../../Adventures/2026-10-10/dain-returns-to-leaky-tent.png)
 
@@ -27,7 +32,7 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 
 - [Party] [Confirmed] Dain puts up Leaky Tent while the party camps near a river, then spends the narrated long rest going between tent and river, frolicking and enjoying himself. [Session](../../Adventures/2026-10-10.md); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
 - [Confirmed earlier return] Startled by the night-time sound while "sleep drowning" at the riverbank, Dain was unaware of enemies and returned to **this already erected tent** to sleep. Taleesh's latest wake-up supersedes that sleep; it supplies no new casting or completed rest recovery. The recorded Wet rules still apply, with no ending event supplied. [Session](../../Adventures/2026-10-10.md).
-- This is a new deployment after the earlier storm-stop casting was dismissed. Casting level, ritual/slot use, expenditure, exact size, elapsed duration and any ending event are unreported.
+- This was a new deployment after the earlier storm-stop casting was dismissed, and now ends with the latest finger-click and plume of steam. Casting level, ritual/slot use, expenditure, exact size, elapsed duration and dismissal cost remain unreported.
 - The existing Wet rules apply on entry. No new spell wording or revised mechanics are reported; the art does not establish the older 30-foot upcast.
 - Tent appearance, camp equipment, pose, terrain and sunset light are illustrative. [Prompt and references](../../Adventures/2026-10-10/riverside-frolicking-image-notes.md).
 
@@ -82,6 +87,8 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - [To verify with Tom] Obtain a dismissal ruling or fuller custom spell wording. If free dismissal is intended, a proposed clause is: **"You can dismiss the tent at any time (no action required)."** This sentence is a proposal, not an adopted mechanic. No tent dismissal is recorded from the question.
 - [Confirmed subsequent table use] The later narration explicitly establishes **finger-click dismissal of the active tent**, followed by Infestation and a return to the gas. Dismissal is available in this played scene; its separate action cost and a universal clause are not reported. The earlier question's lack of wording does not override this later confirmed event.
 
+- [Confirmed table use, 2026-10-10] The riverside tent is likewise dismissed by a finger-click, disappearing in a plume of steam. This confirms the played event, without adopting a universal free-dismissal clause or action cost. No Wet ending is supplied by the steam. [Session](../../Adventures/2026-10-10.md).
+
 ## Design Notes
 - This is the named completion of Dain's earlier anti-shelter research.
 - The spell is honest in the most Truthhammer way: it promises a leaky shelter and delivers every drop.
@@ -104,6 +111,8 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - 2026-10-03: On his turn, Dain casts Stinking Cloud and fills the tent with horrid gas. Saves, occupant reactions and any wind dispersal remain unreported. [Session](../../Adventures/2026-10-03.md)
 
 - 2026-10-03: During later airship travel, Dain continues refining Leaky Tent while using Stinking Cloud. [Character-only] He reflects on his father's disappointment. No revised spell text, new tent casting or changed mechanics are reported. [Research notes](#ongoing-refinement---2026-10-03); [Session](../../Adventures/2026-10-03.md)
+
+- 2026-10-10: Dain dismisses the riverside tent with a finger-click in a plume of steam, emerges yelling, unsuccessfully tries to pick up Taleesh, runs **25 feet** and does nothing further. No revised spell wording, cost ruling, drying, damage or recovery is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Spellbook](../../Character/Spellbook.md)
