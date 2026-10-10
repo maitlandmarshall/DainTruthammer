@@ -2,6 +2,10 @@
 
 ![Yuckie the Goblin portrait](./Yuckie_the_Goblin_portrait.png)
 
+![Dain riding Stu, with Harry and Yuckie, makes a peaceful camp entrance backed by Tina in giant-eagle form](../../Adventures/2026-10-10/bear-eagle-peaceful-camp-entrance.png)
+
+- Kagrenac's Polymorph makes Tina the giant eagle; Dain casts Minor Illusion and delivers the booming call for discussion, guaranteeing no violence. Camp response remains unreported. Poses, sound rings, plumage, camp shelters/banners/decorative devices, lights and aerial spacing are illustrative; no discovered faction emblem, tactical layout, accepted guarantee, resource ruling or attack is established. [Image notes](../../Adventures/2026-10-10/bear-eagle-camp-entrance-image-notes.md).
+
 ## One-Line Summary
 Emily's goblin player character, previously played by Lachlan Pratt, who tells Dain absurd but useful stories. After his preceding prisoner haul, both captives are now awake at the balloon; no new individual Yuckie action is reported.
 
@@ -17,7 +21,9 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 
 ## Status
 
-- [Latest confirmed personal travel, 2026-10-10] **Yuckie goes on foot with Harry, Dain and Stu; Dain rides Stu in bear form. The others go by blimp.** Yuckie remains the separate, uncuffed party goblin. No new prisoner-hauling assignment, release, boarding, destination/arrival or individual spell/action is supplied for Yuckie. The older hauling and waiting entries below are chronological history. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed camp entry, 2026-10-10] **Yuckie enters the goblin camp on foot with Harry, beside Dain riding bear-form Stu, backed by Tina as a giant eagle after Kagrenac's Polymorph.** Dain casts Minor Illusion and booms a call for discussion with a no-violence guarantee. Yuckie remains a separate, uncuffed party goblin; no new hauling assignment, individual dialogue, attack, roll/resource use or captive arrival is supplied. The older travel/hauling entries below describe preceding beats. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed personal travel, 2026-10-10] **Yuckie goes on foot with Harry, Dain and Stu; Dain rides Stu in bear form. The others go by blimp.** Yuckie remains the separate, uncuffed party goblin. No new prisoner-hauling assignment, release, boarding, destination/arrival or individual spell/action is supplied for Yuckie. The older hauling and waiting entries below are chronological history. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding broader transport outcome, 2026-10-10] The two [captives](./Goblin%20Intruders%20-%202026-10-10.md) are now **awake at the balloon**, woken by the party, after Yuckie's preceding haul. Dain asks them about organisation in rhyme. No new individual movement, waking action or dialogue is assigned to Yuckie; exact boarding/handling and the prisoners' reply remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Latest confirmed continued action, 2026-10-10] **Yuckie continues pulling the same two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** Their shared hand-and-foot cuffs remain last confirmed. No distance, check, arrival/boarding, waking/reaction, further injury or release is supplied. Dain is now awake and in battle; his specific observations/actions remain unreported. [Session](../../Adventures/2026-10-10.md).
@@ -76,6 +82,8 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 - 2026-10-10: Yuckie continues pulling both linked goblin prisoners toward the balloon. Arrival/boarding and their waking/reaction remain open; Dain is now awake and in battle. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Joins the ground group with Harry, Dain and bear-form Stu; Dain is riding Stu. The others travel by blimp. No captive transport arrangement or camp arrival is reported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Enters the goblin camp with Harry and Dain riding bear-form Stu, backed by giant-eagle Tina. Dain makes the public call for peaceful discussion; Yuckie's separate actions and the camp's response remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)

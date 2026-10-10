@@ -12,6 +12,10 @@
 
 - Ground-group travel, Dain's bear ride and successful Suggestion follow the supplied beat. Harry's warning is reported; her roll/outcome and captive response remain open. Magic geometry, poses, fine cuffs, terrain, blimp height/design and lighting are illustrative. The staged captive placement establishes no transport arrangement, camp arrival, confession, unlimited-obedience mechanic or new damage/recovery. [Image notes](../../Adventures/2026-10-10/ground-route-suggestion-image-notes.md).
 
+![Dain riding Stu, with Harry and Yuckie, makes a peaceful camp entrance backed by Tina in giant-eagle form](../../Adventures/2026-10-10/bear-eagle-peaceful-camp-entrance.png)
+
+- Kagrenac's Polymorph makes Tina the giant eagle; Dain casts Minor Illusion and delivers the booming call for discussion, guaranteeing no violence. Camp response remains unreported. Poses, sound rings, plumage, camp shelters/banners/decorative devices, lights and aerial spacing are illustrative; no discovered faction emblem, tactical layout, accepted guarantee, resource ruling or attack is established. [Image notes](../../Adventures/2026-10-10/bear-eagle-camp-entrance-image-notes.md).
+
 ## One-Line Summary
 A party participant in brown-bear form, now running back toward the captured goblins and the snakes near them; Tina fires another arrow at the snakes afterward. Bear arrival and shot outcome are unreported; the three snakes previously beside Stu remain down.
 
@@ -34,9 +38,13 @@ A party participant in brown-bear form, now running back toward the captured gob
 
 - 2026-10-10: Joins the ground group in bear form and carries Dain as a rider while the others travel by blimp. Dain's Suggestion on the smarter captive succeeds. No new bear attack, damage/healing, transformation or numerical resource update is supplied. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Carries Dain in bear form as the ground group enters the goblin camp, backed by Tina in giant-eagle form. Dain announces the peaceful discussion terms; no Stu attack, new damage or numerical recovery is reported. [Session](../../Adventures/2026-10-10.md).
+
 ## Current State
 
-- [Latest confirmed travel, 2026-10-10] **Stu remains in bear form and carries [Dain](./Dain%20Truthammer.md) as a rider with the ground group: Yuckie, Harry, Dain and Stu. The others go by blimp.** Dain casts Suggestion successfully on the smarter captive. No new transformation, saddle, mount ruling, speed, HP/resource change or healing is supplied. Stu's approximate **23** cumulative reported damage remains a ledger, not current HP. Route, arrival, exact load/carry mechanics and cloak completion remain unreported. The entries below describe preceding actions. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed camp entry, 2026-10-10] **Stu carries Dain in bear form into the goblin camp, with Harry and Yuckie on foot and Tina as a giant eagle backing the ground group after Kagrenac's Polymorph.** Dain casts Minor Illusion and delivers a booming call for peaceful discussion. No new bear attack, transformation, healing, numerical resource change, carry/mount ruling or cloak completion is supplied. About **23** remains the prior cumulative damage ledger, not current HP. Exact position, route and eagle manoeuvres remain unreported. Earlier entries below are preceding beats. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed travel, 2026-10-10] **Stu remains in bear form and carries [Dain](./Dain%20Truthammer.md) as a rider with the ground group: Yuckie, Harry, Dain and Stu. The others go by blimp.** Dain casts Suggestion successfully on the smarter captive. No new transformation, saddle, mount ruling, speed, HP/resource change or healing is supplied. Stu's approximate **23** cumulative reported damage remains a ledger, not current HP. Route, arrival, exact load/carry mechanics and cloak completion remain unreported. The entries below describe preceding actions. [Session](../../Adventures/2026-10-10.md).
 
 - [Confirmed preceding movement, 2026-10-10] **Stu runs back toward the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) and the [snakes](./Flying%20Snakes%20-%202026-10-10.md), which are now near the captives. Tina then shoots another arrow at the snakes.** The established brown bear resolves the supplied “bear” reference. No arrival, contact, attack, Dash, new damage/healing, form ending or resource cost is reported. Tina's identity/link to Christina and the shot outcome are unreported. About 23 remains the approximate cumulative damage ledger, not current HP. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding local clearance, 2026-10-10] **[Christina](./Christina.md) fires an arrow, reported result 17, destroying the one remaining snake beside Stu** as it bursts/rips apart and is pierced to the ground. [Derived] Two earlier deaths plus this destruction leave **all three local snakes down**. The three airborne snakes remain unresolved. No new Stu damage, healing, HP, condition, form ending, XP or loot is supplied. [Session](../../Adventures/2026-10-10.md).

@@ -22,6 +22,10 @@
 
 - Ground-group travel, Dain's bear ride and successful Suggestion follow the supplied beat. Harry's warning is reported; her roll/outcome and captive response remain open. Magic geometry, poses, fine cuffs, terrain, blimp height/design and lighting are illustrative. The staged captive placement establishes no transport arrangement, camp arrival, confession, unlimited-obedience mechanic or new damage/recovery. [Image notes](../../Adventures/2026-10-10/ground-route-suggestion-image-notes.md).
 
+![Dain riding Stu, with Harry and Yuckie, makes a peaceful camp entrance backed by Tina in giant-eagle form](../../Adventures/2026-10-10/bear-eagle-peaceful-camp-entrance.png)
+
+- Kagrenac's Polymorph makes Tina the giant eagle; Dain casts Minor Illusion and delivers the booming call for discussion, guaranteeing no violence. Camp response remains unreported. Poses, sound rings, plumage, camp shelters/banners/decorative devices, lights and aerial spacing are illustrative; no discovered faction emblem, tactical layout, accepted guarantee, resource ruling or attack is established. [Image notes](../../Adventures/2026-10-10/bear-eagle-camp-entrance-image-notes.md).
+
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
 
@@ -32,7 +36,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
-- [Latest confirmed action and travel, 2026-10-10] **Dain rides [Stu](./Stu.md) in bear form with the ground group (Yuckie, Harry, Dain and Stu); the others go by blimp. He casts [Suggestion](../Powers/Suggestion.md) on the “smart” [goblin captive](./Goblin%20Intruders%20-%202026-10-10.md) and says, “you must do as I say and be silent”. Success is reported.** Casting level/source/expenditure, duration, concentration state, ending and subsequent instruction/response are unreported. Harry's separate intimidation of the other captive has no supplied roll/outcome. Exact route, arrival, mount mechanics and captive transport remain open. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed camp action, 2026-10-10] **Dain enters the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) riding bear-form [Stu](./Stu.md), with Harry and Yuckie on foot and [Tina](./Tina.md) as giant-eagle support after Kagrenac's [Polymorph](../Powers/Polymorph.md). Dain casts [Minor Illusion](../Powers/Minor%20Illusion.md) and makes a booming announcement, calling the camp's goblins out to discuss matters and guaranteeing no violence. “The truth needs liberation.”** Camp response, acceptance and discussion outcome remain unreported. The guarantee is Dain's stated term, with no automatic party/NPC agreement or cancelled guano proposal. The entries below describe preceding actions; no numerical recovery, Wet ending, later captive response or ended Suggestion is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed action and travel, 2026-10-10] **Dain rides [Stu](./Stu.md) in bear form with the ground group (Yuckie, Harry, Dain and Stu); the others go by blimp. He casts [Suggestion](../Powers/Suggestion.md) on the “smart” [goblin captive](./Goblin%20Intruders%20-%202026-10-10.md) and says, “you must do as I say and be silent”. Success is reported.** Casting level/source/expenditure, duration, concentration state, ending and subsequent instruction/response are unreported. Harry's separate intimidation of the other captive has no supplied roll/outcome. Exact route, arrival, mount mechanics and captive transport remain open. [Session](../../Adventures/2026-10-10.md).
 - [Chronology] The entries below describe preceding beats. Suggestion now supersedes the rhyme as Dain's latest executed dialogue/action; no explanation of the organisers, numerical recovery, Wet ending or relationship-score change is supplied.
 
 - [Preceding confirmed intention, 2026-10-10] **Dain wants the two captives as leverage to learn why the [snake people](../Factions/Snake%20People.md) organise goblins—the main mission.** Leverage method, person to pressure, new dialogue, bargain/threat, social roll and execution are unreported. [Kagrenac](./The%20Astral%20Elf.md) separately wants a blimp/guano attack; no party choice, argument or relationship-score change is supplied. Dain's preceding rhyme remains his latest executed dialogue, with no captive answer. [Session](../../Adventures/2026-10-10.md).
@@ -69,6 +75,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
 
 ## What The Character Knows
+
+- [Latest personal interaction, 2026-10-10] Dain publicly announces the ground group's camp entry with Minor Illusion and a booming voice, asks the goblins to come out for discussion and guarantees no violence: **“The truth needs liberation.”** No reply, revealed motive, confirmed captive affiliation or accepted negotiation is supplied. The ground group is backed by Tina in giant-eagle form, transformed by Kagrenac. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed personal interaction, 2026-10-10] Dain casts Suggestion successfully on the captive described as “smart” and gives the supplied obedience-and-silence instruction. The second captive is addressed by Harry; her intimidation outcome is unreported. The descriptors add no names, scores or kinship, and no new confession, camp affiliation or answer about the snake people's purpose is supplied. [Suggestion record](../Powers/Suggestion.md); [session](../../Adventures/2026-10-10.md).
 
@@ -304,6 +312,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: Dain wants captive leverage to learn why the snake people organise goblins, described as the main mission. Kagrenac separately proposes flying the blimp and using stored guano to “blow them up”. No executed tactic, attack target, agreement or new answer is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Travels with the ground group while riding bear-form Stu, then successfully casts Suggestion on the smarter captive: **“you must do as I say and be silent”**. Resource expenditure, duration/concentration/ending and later response remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Enters the goblin camp riding Stu with Harry and Yuckie, backed by giant-eagle Tina. Casts Minor Illusion and delivers a booming, peaceful call for discussion with a no-violence guarantee: **“The truth needs liberation.”** No camp response or organisers' explanation is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 

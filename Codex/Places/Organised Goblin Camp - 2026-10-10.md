@@ -4,11 +4,17 @@
 
 - Camp layout and scene staging are illustrative. The two locations are shown in separate panels, without a route or confirmed adjacency. The captives are awake; their answer and camp affiliation remain unreported. No exact boarding, injury recovery or owl information relay is established. [Image notes](../../Adventures/2026-10-10/owl-camp-and-rhyming-question-image-notes.md).
 
+![Dain riding Stu, with Harry and Yuckie, makes a peaceful camp entrance backed by Tina in giant-eagle form](../../Adventures/2026-10-10/bear-eagle-peaceful-camp-entrance.png)
+
+- Kagrenac's Polymorph makes Tina the giant eagle; Dain casts Minor Illusion and delivers the booming call for discussion, guaranteeing no violence. Camp response remains unreported. Poses, sound rings, plumage, camp shelters/banners/decorative devices, lights and aerial spacing are illustrative; no discovered faction emblem, tactical layout, accepted guarantee, resource ruling or attack is established. [Image notes](../../Adventures/2026-10-10/bear-eagle-camp-entrance-image-notes.md).
+
 ## One-Line Summary
 
-An organised goblin camp first found by [Kagrenac's owl](../Characters/Kagrenacs%20Owl.md); [Brother Taleesh](../Characters/Brother%20Taleesh.md) now stumbles upon it as the next tabletop map comes into play. Its map key, exact geography, occupants, organisers' purpose and captive affiliation remain unreported.
+An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh, now entered by Dain riding bear-form Stu with Harry and Yuckie, backed by giant-eagle Tina; Dain calls for peaceful discussion and the camp's response is unreported.
 
 ## Confirmed Discovery
+
+- [Latest confirmed ground entry, 2026-10-10] **Dain riding bear-form Stu, Harry and Yuckie now enter the camp, backed by Tina as a giant eagle following Kagrenac's Polymorph. Dain casts Minor Illusion and makes a booming announcement calling the goblins out for discussion and guaranteeing no violence. “The truth needs liberation.”** Exact entry/positions, aerial movements, camp inhabitants' response and negotiations remain unreported. The entries below record earlier discoveries and their then-unresolved arrival details. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed discovery, 2026-10-10] **Brother Taleesh stumbles upon the goblin camp, the next map.** The [supplied table photo](../../Adventures/2026-10-10/goblin-camp-next-map-table-photo.jpg) is saved unchanged. Route, precise position/entry, actual observations, detection and communication to the party remain unreported. No whole-party arrival, raid or explanation from the organisers is supplied. [Session](../../Adventures/2026-10-10.md).
 
@@ -31,6 +37,16 @@ An organised goblin camp first found by [Kagrenac's owl](../Characters/Kagrenacs
 
 - Taleesh's discovery is confirmed; posture, gaze, vegetation, lighting and obscured shelter glimpses are illustrative. No map key, creature count, tactical layout, arrow-source clue, stealth/check result or further action is established. [Image notes](../../Adventures/2026-10-10/taleesh-goblin-camp-image-notes.md).
 
+## Ground Entrance And Peaceful Declaration - 2026-10-10
+
+- Ground group: **Dain riding Stu in bear form, Harry and Yuckie**. Their entrance is now reported; exact route, entry point, positions and movement distances remain unreported.
+- Air support: **Tina as a giant eagle**, transformed by **Kagrenac's Polymorph**. The caster's precise location and eagle mechanics/path, plus the blimp group's camp arrival or flight manoeuvres, remain unreported.
+- Dain casts **Minor Illusion** and uses a **booming voice**, announcing entry, calling the camp's goblins out and requesting discussion. He **guarantees no violence**.
+- Exact supplied line: **“The truth needs liberation.”** The rest is paraphrased narration, with no invented extended speech.
+- The “epic America firepower” comparison supplies cinematic emphasis, not modern weapons, a literal nation, faction/national insignia, attack or explosion.
+- No goblin emergence, audience response, accepted peaceful agreement, negotiation outcome, organiser's explanation or new harm is reported. Dain's guarantee establishes his stated terms; party acceptance and whether the terms are kept remain to be recorded.
+- The two earlier captives' transport/camp arrival and the guano proposal's target/execution remain open. This section supersedes earlier no-ground-arrival statements without moving all characters or cargo here. [Minor Illusion](../Powers/Minor%20Illusion.md); [Polymorph](../Powers/Polymorph.md); [Tina](../Characters/Tina.md); [session](../../Adventures/2026-10-10.md).
+
 ## Ground And Blimp Travel And Captive Commands - 2026-10-10
 
 - After Taleesh's discovery, Yuckie, Harry, Dain and Stu take the ground route, with Dain riding bear-form Stu; the others travel by blimp. This report supplies no exact route/destination, whole-party camp arrival, named flight roster/pilot, map key or additional camp observations.
@@ -38,6 +54,9 @@ An organised goblin camp first found by [Kagrenac's owl](../Characters/Kagrenacs
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest entrance: camp occupants' emergence/reaction, acceptance of Dain's no-violence terms, actual dialogue/negotiations and whether his guarantee is kept. Ground entry is confirmed; exact ground/eagle/blimp positions, captive transport, Polymorph resources/duration/ending and the organisers' explanation remain open.
+
 - Camp name, precise location, distance, direction, route, size, structures, numbers, defences, individual leader, proper faction identity, supplies and reason for its organisation. “Snake people” is now the user-supplied organising-group label for the mission; the exact camp/captive chain of command remains unreported.
 - Owl scouting roll/action, observation detail, communication method and whether the owl returns. No familiar, telepathy or new summoning is inferred.
 - Captive affiliation, motives, answers, and connections to the gorge, cliffs, unknown archer, flying snakes, northern dark forest or older goblin/hobgoblin camps.

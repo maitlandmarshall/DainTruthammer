@@ -16,7 +16,7 @@
 - Thunderclap
 - Infestation
 - Mage Hand [Confirmed] via Magic Initiate (Wizard)
-- Minor Illusion [Confirmed] via Magic Initiate (Wizard)
+- [Minor Illusion](../Codex/Powers/Minor%20Illusion.md) [Confirmed] via Magic Initiate (Wizard)
 - Shape Water [Confirmed from 2026-05-30 level-up handover]
 
 ## 1st-Level Spells On Sheet
@@ -126,3 +126,5 @@
 - 2026-10-03 rules clarification: Maitland confirms **2014**. The active Stinking Cloud uses the turn-start save and retching/action expenditure; the 2024 Poisoned effect and Bonus Action restriction do not apply. No additional cast or result occurs. [Session](../Adventures/2026-10-03.md)
 
 - 2026-10-10: **Dain casts [Suggestion](../Codex/Powers/Suggestion.md) on the “smart” captive while riding Stu in bear form and says, “you must do as I say and be silent”. Success is explicitly reported.** No save roll, casting level/source/expenditure, duration, concentration state, ending or subsequent instruction/compliance is supplied. Current numerical remaining slots are unknown; no recovery is assumed. [Session](../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Dain casts [Minor Illusion](../Codex/Powers/Minor%20Illusion.md) and uses a booming voice on entering the goblin camp riding Stu, calling the goblins out for discussion and guaranteeing no violence: “The truth needs liberation.”** The spell and delivery are supplied; exact source/volume/duration of the booming effect, any separate named spell, rolls, resource use and NPC response are unreported. No new spell learning, ended Suggestion or numerical recovery is inferred. Kagrenac separately Polymorphs Tina into a giant eagle; this is not added to Dain's learned spells. [Session](../Adventures/2026-10-10.md).

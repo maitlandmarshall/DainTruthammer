@@ -14,7 +14,9 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 
 ## Status
 
-- [Confirmed latest intention, 2026-10-10] **Kagrenac wants to fly the blimp and “blow them up” with [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Matt resolves through the roster to Kagrenac. Target, piloting, takeoff, guano handling, ignition, explosion and outcomes are unreported. Dain separately wants captive leverage to learn why the snake people organise goblins; no choice or relationship change is supplied. Guano storage is confirmed, with amount/source/bag identity unknown. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed casting, 2026-10-10] **Kagrenac, the moon elf, casts [Polymorph](../Powers/Polymorph.md) on [Tina](./Tina.md), turning her into a giant eagle backing the ground group's goblin-camp entrance.** Casting level/source/expenditure, rolls, duration/concentration/ending and the caster's exact position remain unreported. The transformation is confirmed; the eagle is Tina, distinct from his owl. Dain's peaceful announcement establishes no new Kagrenac speech/agreement, piloting, attack or cancellation of his earlier guano proposal. The previous travel split reports the others by blimp without a named pilot. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed intention, 2026-10-10] **Kagrenac wants to fly the blimp and “blow them up” with [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Matt resolves through the roster to Kagrenac. Target, piloting, takeoff, guano handling, ignition, explosion and outcomes are unreported. Dain separately wants captive leverage to learn why the snake people organise goblins; no choice or relationship change is supplied. Guano storage is confirmed, with amount/source/bag identity unknown. [Session](../../Adventures/2026-10-10.md).
 
 - [Broader party discovery; Confirmed, 2026-10-10] **[Kagrenac's owl](./Kagrenacs%20Owl.md) finds [an organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md).** Matt resolves through the roster to Kagrenac. No camp location, population, leader, prisoner affiliation, scouting roll, communication/return, new Kagrenac spell/action or resource cost is supplied. Effects on the earlier snake pursuit remain open. [Session](../../Adventures/2026-10-10.md).
 - [Broader encounter] [Confirmed latest spell attempt, 2026-10-10] **Kagrenac casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the snakes in the distance and fails.** No attack roll, exact failure cause, particular individual target, hit, damage, spell source/class or resource cost is supplied. The owl's response to his earlier direction remains open. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
@@ -30,6 +32,14 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
 - [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
+
+## Tina Becomes A Giant Eagle - 2026-10-10
+
+- Kagrenac uses **Polymorph** to turn Tina into a **giant eagle** backing the ground group as it enters the goblin camp.
+- The ground group is Dain riding bear-form Stu, Harry and Yuckie. Dain casts Minor Illusion and delivers the booming, peaceful call for discussion.
+- No spell level/source/cost, saving throw, duration/concentration/ending, giant-eagle stat block/HP or precise aerial position/action is supplied.
+- The eagle is Tina transformed, not a new summoning, his owl or a learned spell granted to Dain. Tina's character/player identity and Christina alias remain unconfirmed.
+- The earlier guano proposal below remains historical intent. No bombing, guano handling or new attack is reported. [Polymorph](../Powers/Polymorph.md); [Tina](./Tina.md); [session](../../Adventures/2026-10-10.md).
 
 ## Proposed Blimp And Guano Attack - 2026-10-10
 
@@ -132,7 +142,14 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 
 - 2026-10-10: Kagrenac wants to fly the blimp and use guano from the Bag of Holding to “blow them up”, while Dain wants captive leverage to learn why the snake people organise goblins. Target, party choice and execution are unreported. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: **Polymorphs Tina into a giant eagle** to back the ground group's goblin-camp entrance. Transformation is supplied; resources, duration/concentration/ending, exact position and later attacks remain unreported. [Session](../../Adventures/2026-10-10.md).
+
 ## Related Entries
+
+- [Tina](./Tina.md)
+- [Polymorph](../Powers/Polymorph.md)
+- [Minor Illusion entrance](../Powers/Minor%20Illusion.md)
+
 - [Fire Bolt](../Powers/Fire%20Bolt.md)
 - [Kagrenac's Owl](./Kagrenacs%20Owl.md)
 - [Flying Snakes - 2026-10-10](./Flying%20Snakes%20-%202026-10-10.md)
