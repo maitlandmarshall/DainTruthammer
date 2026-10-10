@@ -92,7 +92,8 @@ From Photo 2. A dash below means a blank source cell, not a zero or a confirmed 
 
 ### Chest Of Preserving
 
-- [Latest reported chest event, 2026-10-10] Maitland calls it the **[Chest of Preservation](../Codex/Items/Chest%20of%20Preservation.md)**: it is dropped over the balloon carriage's side in the middle of the night, making the loud sound that alerts the party to two goblins already inside. Identification with this tracker chest is likely [Inferred]; landing, condition, contents and recovery remain unreported. The table below preserves the previous recorded contents, not a new confirmation that everything survived or was lost. [Session](../Adventures/2026-10-10.md).
+- [Latest possession, 2026-10-10] After [Taleesh's](../Codex/Characters/Brother%20Taleesh.md) failed grapple, **the two goblins keep running into the distance with the [Chest of Preservation](../Codex/Items/Chest%20of%20Preservation.md)**. It is currently in their possession, with recovery pending. Identification with this tracker chest remains likely [Inferred]; no current contents or damage are reported. The table is retained as the previous ledger, not current party-accessible stock; quantities are not zeroed or declared destroyed. [Session](../Adventures/2026-10-10.md).
+- [Earlier chest event, 2026-10-10] The chest drops over the balloon carriage's side, making the sound that alerts the broader party. Dropper, initial landing and the goblins' pickup sequence remain unreported.
 
 | Item as shown | Count | Character | Notes |
 | --- | ---: | --- | --- |

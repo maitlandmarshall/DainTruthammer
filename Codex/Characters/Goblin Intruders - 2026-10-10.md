@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![Harry runs to a black cloud and pushes one goblin out with Thunderwave](../../Adventures/2026-10-10/harry-thunderwave-goblin-out-of-darkness.png)
+![Taleesh's grapple fails and the two goblins run away with the chest](../../Adventures/2026-10-10/taleesh-misses-grapple-goblins-flee-with-chest.png)
 
-- Goblin appearance, cloud shape/spacing, exact positions, metal-deck staging, spell visuals and push pose are illustrative. The scene establishes no damage/save, measured distance, darkness-disappearance cause, injury, resource cost or Dain awareness change. [Image notes](../../Adventures/2026-10-10/harry-thunderwave-image-notes.md).
+- Appearance, poses, carrying grips, distance, terrain, background masonry and lighting are illustrative. The scene establishes no new roll, injury, restraint, later pursuit, completed escape, cargo damage or Dain awareness. [Image notes](../../Adventures/2026-10-10/taleesh-grapple-and-flight-image-notes.md).
 
 ## One-Line Summary
-Two unnamed goblins who trigger a night encounter in the balloon carriage and disappear into darkness; Harry later pushes one out with Thunderwave, while another patch of darkness disappears.
+Two unnamed goblins who trigger a night encounter in the balloon carriage, disappear into darkness, and keep running into the distance with the chest after Taleesh fails to grapple them.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,7 +13,8 @@ Two unnamed goblins who trigger a night encounter in the balloon carriage and di
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
-- [Broader party encounter; Dain unaware] [Confirmed latest outcome] [Harry](./Hammerton%20Harry%20Drizddon.md) dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at a goblin. **That goblin is pushed out of darkness. Another patch of darkness disappears.** Damage, saves, exact push distance, disappearance cause, cloud arrangement and the other goblin's current position are unreported. [Session](../../Adventures/2026-10-10.md).
+- [Broader party encounter; Dain unaware] [Confirmed latest action] [Brother Taleesh](./Brother%20Taleesh.md) tries to grapple the goblins but fails to catch them. **Both goblins keep running into the distance with the [chest](../Items/Chest%20of%20Preservation.md).** Their route/destination, distance, later pursuit and completed escape remain unreported; no new roll or damage is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Broader party encounter; Dain unaware] [Confirmed earlier outcome] [Harry](./Hammerton%20Harry%20Drizddon.md) dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at a goblin. **That goblin is pushed out of darkness. Another patch of darkness disappears.** Damage, saves, exact push distance, disappearance cause, cloud arrangement and the other goblin's position at that point are unreported. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed earlier action] The goblins jump off the carriage; two clouds of darkness appear, and the goblins disappear into them. No named spell, caster or complete escape is established.
 - [Party] [Confirmed response] [Brother Taleesh](./Brother%20Taleesh.md) jumps down into the farther cloud and swings blindly. **Natural 1: he just misses, with nothing else happening to him**, explicitly confirmed by Maitland.
 - [Party] [Confirmed, 2026-10-10] Exactly two goblins creep up on the party and are already in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md).
@@ -27,6 +28,7 @@ Two unnamed goblins who trigger a night encounter in the balloon carriage and di
 - The chest drop caused the sound that alerted the party.
 - The goblins then jump off and disappear into the two darkness clouds; Taleesh enters the farther cloud and misses his blind swing.
 - Harry then casts Thunderwave at one goblin, pushing it out of darkness; another patch disappears. This supplies no updated Dain awareness.
+- Taleesh fails to grapple them, and both keep running into the distance with the chest. The chest is in their possession, with party recovery pending; this still supplies no new Dain awareness.
 
 ## What Is Uncertain
 - Names, affiliation, appearance, weapons, armor, stat blocks, HP and exact positions.
@@ -34,6 +36,13 @@ Two unnamed goblins who trigger a night encounter in the balloon carriage and di
 - Goblin/other party initiative, complete order, surprise rulings and later outcome.
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 - Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
+- Exact grapple attempt/roll, route/destination, current distance, later pursuit, sight loss, completed escape, chest pickup sequence and cargo condition/contents. Both goblins' continued flight with the chest is established.
+
+## Earlier Thunderwave
+
+![Harry runs to a black cloud and pushes one goblin out with Thunderwave](../../Adventures/2026-10-10/harry-thunderwave-goblin-out-of-darkness.png)
+
+- Spell visuals, cloud arrangement and deck staging are illustrative. The push and another patch's disappearance are recorded without assigning a damage/save result or disappearance cause. [Image notes](../../Adventures/2026-10-10/harry-thunderwave-image-notes.md).
 
 ## Earlier Darkness Pursuit
 

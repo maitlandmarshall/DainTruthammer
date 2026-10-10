@@ -11,7 +11,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - DM: Tom.
 
 ## Status
-- [Party] [Confirmed latest action, 2026-10-10] The goblins jump off the balloon carriage and disappear into two clouds of darkness. Brother Taleesh jumps down into the farther cloud and swings blindly, rolling a **natural 1**. Maitland explicitly confirms **he just misses; nothing else happens to him**. Attack form/weapon, exact target, position and cloud mechanics remain unreported. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
+- [Broader party encounter; Dain unaware] [Confirmed latest action, 2026-10-10] Taleesh tries to grapple the [goblins](./Goblin%20Intruders%20-%202026-10-10.md) but **fails to catch them**. They keep running into the distance with the [chest](../Items/Chest%20of%20Preservation.md). No roll, number of attempts, injury or extra consequence is supplied; later pursuit and final outcome are unreported. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
+- [Party] [Confirmed earlier action, 2026-10-10] The goblins jump off the balloon carriage and disappear into two clouds of darkness. Brother Taleesh jumps down into the farther cloud and swings blindly, rolling a **natural 1**. Maitland explicitly confirms **he just misses; nothing else happens to him**. Attack form/weapon, exact target, position and cloud mechanics remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed] Onboarded from user-provided backstory and sheet images on 2026-05-03.
 - Source images: [charsheet1](../../Assets/Brother%20Taleesh/charsheet1.png), [charsheet2](../../Assets/Brother%20Taleesh/charsheet2.png).
 - [Confirmed] Player: Jackson.
@@ -26,6 +27,12 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Failed Grapple And Goblin Flight - 2026-10-10
+
+![Taleesh reaches unsuccessfully for the two goblins as they run away carrying the chest](../../Adventures/2026-10-10/taleesh-misses-grapple-goblins-flee-with-chest.png)
+
+- The grapple fails; no roll or additional consequence is reported. Two ordinary arms are shown without astral-arm activation. Poses, carrying grips, distance, terrain and background masonry are illustrative, with no new location, completed escape or Dain awareness established. [Image notes](../../Adventures/2026-10-10/taleesh-grapple-and-flight-image-notes.md).
 
 ## Blind Swing In The Farther Darkness Cloud - 2026-10-10
 
