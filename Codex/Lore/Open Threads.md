@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest Stu form/reaction] **Stu is in human form and reacts against the smarter captive Dain previously Suggested.** [Interpreted wording; to confirm] “mist” is read as “missed,” recording a miss. Suggestion stays ended; reaction details, human HP and positions remain open. [Captive follow-up](#goblins-in-the-balloon-carriage).
+
 - [Latest direct encounter] **Taleesh lifts the main tent Dain blasted through and comes face to face with the [yuan-ti](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** Presence is confirmed; identity/subtype, camp role, response and communication to others remain open. The organisers' purpose is still unanswered. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest Taleesh attack] **Taleesh slips under a tent's edge, stabs a goblin twice with daggers and “jellyfies” it. Reported goblin HP/result: −19.** Target/tent identities, attack damage/rolls, exact physical outcome and further response are unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -161,7 +163,11 @@
 
 - Yuan-ti follow-up: Record the encountered yuan-ti's identity, role, words/actions, relation to the snake-people organisers/older captive mission, and any warning from Taleesh. Its main-tent presence now answers a current occupant question, but supplies no organiser confession, leadership, earlier Orb hit or mission resolution. [Encounter](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).
 
+- Latest Stu/captive development: Stu is now in human form and takes a reaction against the smarter captive formerly targeted by Suggestion. [Interpreted wording; to confirm] “mist” is read as a miss. Exact positions, trigger/type/weapon/roll and human HP remain unreported. Suggestion stays ended; no current yuan-ti response, captive release, organiser answer or new damage is supplied.
+
 ### Goblins In The Balloon Carriage
+
+- Latest action against the smarter captive, 2026-10-10: **Human-form Stu takes a reaction against Dain's former Suggestion target.** [Interpreted wording; to confirm] “mist” is read as “missed”: a miss. Suggestion stays ended; no new damage, mist effect, death, captive movement/release or cuff change is supplied. Reaction trigger/type/weapon, roll, exact positions and human HP remain unreported. [Stu](../Characters/Stu.md#human-form-and-reaction-at-the-former-suggestion-target---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 - Latest spell ending, 2026-10-10: **Dain explicitly drops Suggestion concentration on the smarter captive when casting Expeditious Retreat.** Suggestion ends; physical release, escape, speech/reaction or new location is unreported. Shared hand/foot cuffs remain last confirmed. [Suggestion](../Powers/Suggestion.md); [session](../../Adventures/2026-10-10.md).
 

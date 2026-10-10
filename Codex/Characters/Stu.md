@@ -18,7 +18,7 @@
 
 ## One-Line Summary
 
-A party participant in brown-bear form who carried Dain into the organised goblin camp; Dain is now running toward the approach-route bottleneck, while Stu's next action and position are unreported.
+A party participant now in human form, taking a reaction against Dain's formerly Suggested smarter goblin captive; “mist” is interpreted as “missed” pending clarification. Human appearance, current HP, reaction details and exact position are unreported.
 
 ## Table Role
 - Role: Unknown / To verify.
@@ -41,7 +41,12 @@ A party participant in brown-bear form who carried Dain into the organised gobli
 
 - 2026-10-10: Carries Dain in bear form as the ground group enters the goblin camp, backed by Tina in giant-eagle form. Dain announces the peaceful discussion terms; no Stu attack, new damage or numerical recovery is reported. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Now in human form, takes a reaction against the smarter captive Dain previously Suggested. [Interpreted wording; to confirm] “mist” is read as “missed,” recording a miss. Suggestion was already ended; trigger/type/weapon/roll, human HP and exact positions are unreported. [Session](../../Adventures/2026-10-10.md).
+
 ## Current State
+
+- [Latest confirmed form/target, 2026-10-10] **Stu is now in human form and takes a reaction against the smarter [goblin captive](./Goblin%20Intruders%20-%202026-10-10.md) Dain previously Suggested.** [Interpreted wording; to confirm] “mist” is read as “missed,” so the reaction is recorded as a miss. Suggestion was already ended; no renewed spell or new target action is supplied.
+- Human form supersedes the earlier bear form. Appearance, class/ancestry, transformation method/time/cost, current human HP, damage carryover/recovery and exact position are unreported. The earlier approximate **23** damage ledger remains historical, not human HP. Reaction trigger/type, weapon and roll are unreported; no automatic opportunity attack or reaction reset is assigned. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest rider movement, 2026-10-10] **Dain now runs back toward the party's approach-route bottleneck and spots goblins emerging from a wall crack to flank the gang.** This supersedes Dain's preceding riding posture; the transition off Stu is unreported. No new Stu movement, destination, attack, damage, healing, form change or resource use is supplied. The prior approximate **23** damage ledger remains separate from unknown current HP. [Session](../../Adventures/2026-10-10.md).
 
@@ -58,6 +63,18 @@ A party participant in brown-bear form who carried Dain into the organised gobli
 - [Confirmed earlier scene, 2026-10-10] Stu stands in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md) and works on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md), with [Kagrenac](./The%20Astral%20Elf.md) and [Christina](./Christina.md). Christina originally arrived with Stu; the date/place and cloak completion remain unreported.
 - [To verify] Transformation method, duration, uses or slots spent, HP, crafting costs and other mechanics. The brown-bear description does not establish Wild Shape, a druid class or a specific stat block. Whether this form has persisted continuously since the cavern is unreported.
 - Ordinary appearance and identity remain unrecorded.
+
+## Human Form And Reaction At The Former Suggestion Target - 2026-10-10
+
+![Stu in human form takes a reaction against the formerly Suggested smarter captive](../../Adventures/2026-10-10/stu-human-form-reaction-miss.png)
+
+- The miss is a wording interpretation pending clarification. Cropped human appearance, goblin features, pose and positions are illustrative; weapon/trigger and human HP are unreported. [Image notes](../../Adventures/2026-10-10/stu-human-reaction-image-notes.md).
+
+- **Stu is in human form and takes a reaction against the smarter goblin captive Dain previously Suggested.**
+- [Interpreted wording; to confirm] **“mist” is read as “missed”: a miss.** The alternative wording clarification remains optional/pending; no literal mist effect, kill, hit or damage is supplied by this interpretation.
+- Suggestion ended when Dain dropped concentration for Expeditious Retreat. “Previously suggested” identifies the captive without restoring that spell.
+- Reaction trigger/type/weapon, roll, action economy beyond the reported reaction, human appearance/HP, form-change method/cost and exact positions are unreported.
+- Shared captive hand/foot cuffs remain last confirmed; no release, escape, new goblin movement or injury is reported. Dain is already running on his own feet in the preceding beat; this adds no dismount, relocation or new Dain action. [Session](../../Adventures/2026-10-10.md).
 
 ## Ridden Ground Travel - 2026-10-10
 
@@ -123,3 +140,7 @@ A party participant in brown-bear form who carried Dain into the organised gobli
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Table Roster](../Lore/Table%20Roster.md)
 - [Session 2026-09-12](../../Adventures/2026-09-12.md)
+
+- [Former Suggestion target](./Goblin%20Intruders%20-%202026-10-10.md)
+- [Suggestion](../Powers/Suggestion.md)
+- [Captive follow-up](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage)

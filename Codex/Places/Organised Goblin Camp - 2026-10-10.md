@@ -110,6 +110,16 @@ The organised goblin camp where Brother Taleesh goes around to the main tent Dai
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
 
+## Stu's Human-Form Reaction At The Former Captive Target - 2026-10-10
+
+![Stu in human form takes a reaction against the formerly Suggested smarter captive](../../Adventures/2026-10-10/stu-human-form-reaction-miss.png)
+
+- The miss is a wording interpretation pending clarification. Cropped human appearance, goblin features, pose and positions are illustrative; weapon/trigger and human HP are unreported. [Image notes](../../Adventures/2026-10-10/stu-human-reaction-image-notes.md).
+
+- [Confirmed form/target] **Stu is now in human form and takes a reaction against the smarter captive formerly targeted by Dain's Suggestion.**
+- [Interpreted wording; to confirm] **“mist” is read as “missed”: a miss.** Reaction trigger/type/weapon, roll, human appearance/HP and exact Stu/captive positions remain unreported; no main-tent or yuan-ti proximity is supplied.
+- Suggestion had already ended. No new attack beyond the reaction, damage, literal mist transformation, death, captive escape/release, form-change cost/recovery or new round is supplied. [Stu](../Characters/Stu.md); [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+
 ## Taleesh Reveals The Yuan-ti At The Main Tent - 2026-10-10
 
 ![Taleesh lifts the damaged main tent and encounters the yuan-ti](../../Adventures/2026-10-10/taleesh-main-tent-yuan-ti-reveal.png)
@@ -211,6 +221,8 @@ The organised goblin camp where Brother Taleesh goes around to the main tent Dai
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest Stu reaction: whether “mist” means “missed” as currently interpreted, exact reaction type/trigger/weapon/roll, human appearance/current HP, form-change mechanics and Stu/captive positions. Suggestion stays ended; no new captive behaviour, damage or release is supplied.
 
 - Latest main-tent reveal: yuan-ti identity, subtype, appearance, camp role, dialogue/response, connection to the organisers or older captive-recovery mission, earlier Orb exposure and communication to Dain/others. Current presence is confirmed; command responsibility and the reason for goblin organisation remain open.
 

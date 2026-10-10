@@ -22,7 +22,7 @@
 
 ## One-Line Summary
 
-Two unnamed balloon-carriage intruders, last awake and linked at hands and feet. Dain's Suggestion on the smarter captive **now ends by his explicit concentration drop while casting Expeditious Retreat**; their reaction, precise current location and camp affiliation remain unreported.
+Two unnamed balloon-carriage intruders, last awake and linked at hands and feet. Suggestion on the smarter captive is ended; human-form Stu now reacts against that target, with “mist” interpreted as “missed” pending clarification. Captive response, precise location and camp affiliation remain unreported.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -30,6 +30,8 @@ Two unnamed balloon-carriage intruders, last awake and linked at hands and feet.
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+
+- [Latest action against the smarter captive, 2026-10-10] **Stu, now in human form, takes a reaction against the goblin Dain previously Suggested.** This is the established smarter captive. [Interpreted wording; to confirm] “mist” is read as “missed”: the reaction misses. No roll, weapon, exact reaction trigger/type, target movement or new injury is supplied. Suggestion stays ended; shared hand/foot cuffs remain last confirmed. Exact current positions and target response remain unreported. [Stu](./Stu.md); [session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed spell ending, 2026-10-10] **Dain casts [Expeditious Retreat](../Powers/Expeditious%20Retreat.md) and drops concentration on [Suggestion](../Powers/Suggestion.md) on the smarter captive, ending it.** This supplies no physical release, escape, confession, speech, new injury or change to their hand/foot cuffs. Exact current transport/position and subsequent behaviour remain unreported. [Session](../../Adventures/2026-10-10.md).
 
@@ -92,6 +94,17 @@ Two unnamed balloon-carriage intruders, last awake and linked at hands and feet.
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 - Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
 - Sleep method/spell/feature, level, rolls, duration/resources, manacle source/count, fine cuff/chain construction, keys and escape mechanics, later waking/handling, final chest position/control/recovery and cargo condition. Shared bindings at both hands and feet are confirmed. The earlier grapple total, route/destination, distances and pickup sequence remain unreported.
+
+## Stu's Human-Form Reaction - 2026-10-10
+
+![Stu in human form takes a reaction against the formerly Suggested smarter captive](../../Adventures/2026-10-10/stu-human-form-reaction-miss.png)
+
+- The miss is a wording interpretation pending clarification. Cropped human appearance, goblin features, pose and positions are illustrative; weapon/trigger and human HP are unreported. [Image notes](../../Adventures/2026-10-10/stu-human-reaction-image-notes.md).
+
+- **Human-form Stu takes a reaction against the formerly Suggested goblin: the smarter captive.**
+- [Interpreted wording; to confirm] **A miss**, reading “mist” as “missed.” No hit/damage, literal mist effect, death or target action is established by that interpretation.
+- Suggestion remains ended from Dain's preceding concentration drop. Physical cuffs remain last confirmed; no release, escape, movement, changed binding or new captive injury is supplied.
+- Exact positions, reaction trigger/type/weapon, roll and captive response remain unreported. This target is not identified with Yuckie, the camp's jellyfied goblin, grenade/javelin attacker or yuan-ti. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Return Drag Begins
 
@@ -158,3 +171,5 @@ Two unnamed balloon-carriage intruders, last awake and linked at hands and feet.
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Encounter follow-up](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage)
 - [Session 2026-10-10](../../Adventures/2026-10-10.md)
+
+- [Stu's human-form reaction](./Stu.md#human-form-and-reaction-at-the-former-suggestion-target---2026-10-10)
