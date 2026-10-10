@@ -22,6 +22,8 @@ The unnamed goblin reported visible at the organised camp, which suddenly dashes
 
 ## What Is Uncertain
 
+- [Later camp warning, 2026-10-10] Tona lifts a [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the fire pit. Whether that is this previously visible goblin is unreported; its disappearance behind the tent is not silently resolved by the later beat.
+
 - Name, appearance/equipment, individual table control, role/affiliation, HP/stat block and relation to the camp, Yuckie or the two captives.
 - Direction, distance, speed, action cost and exact position, plus any formal Dash, hiding or stealth ruling.
 - Why it moves and whether it later reappears, speaks or communicates with anyone.

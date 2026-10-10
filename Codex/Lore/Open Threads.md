@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest camp warning] **Dain's countdown reaches 0 after his threat of hellfire unless the goblins reveal themselves for negotiations. [Tona](../Characters/Tona.md), in bird form, picks up the [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the goblins' fire pit as a warning.** Tona's identity, damage/condition and camp response are unknown. Dain's earlier no-violence guarantee remains recorded; actual hellfire is unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Visible goblin now out of view] **The visible goblin suddenly dashes behind a tent and disappears from view.** Record its further position/route, identity, reappearance or actual reply when supplied. Its motive and the response to Dain's peaceful offer remain open. [Camp and questioning](#organised-goblin-camp-and-dains-question).
 
 - [Ground entry; peaceful declaration; eagle support] **Dain riding bear-form Stu, Harry and Yuckie enter the goblin camp, backed by Tina as a giant eagle following Kagrenac's Polymorph. Dain's Minor Illusion and booming voice call the goblins out for discussion, guaranteeing no violence: “The truth needs liberation.”** Record camp response/negotiations, whether the guarantee is accepted/kept, and any organisers' explanation when supplied. [Camp and questioning](#organised-goblin-camp-and-dains-question).
@@ -110,7 +112,9 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **The visible goblin suddenly dashes behind a tent and disappears from view.** Its identity, further route/position, motive and observer remain unreported. The preceding ground entrance and Dain's peaceful guarantee are unchanged; no spoken response, negotiated agreement, alarm or attack is supplied.
+- Status: **Dain counts down and threatens hellfire unless the goblins reveal themselves for negotiations. At 0, Tona in bird form picks up a goblin flanking the party and drops it in front of the goblins' fire pit as a warning.** The camp's response, negotiations, goblin condition/damage and organisers' purpose remain unreported. The earlier no-violence guarantee remains in the chronology; no actual hellfire attack is supplied.
+- Latest identity/position boundary: [Tona](../Characters/Tona.md) is the supplied name, with the possible Tina alias [To verify]. The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) is not identified with the earlier visible tent goblin, either captive or Yuckie; no camp population total is inferred. The drop is **in front of** the fire pit, with height, impact, damage, fire contact and later condition unknown.
+- Next record: Capture the actual goblin/camp reply, condition and negotiations, plus how the earlier no-violence guarantee is addressed. A stated warning does not establish fear, compliance or an intimidation result. Preserve table-supplied rolls without generating them.
 - Visibility and next record: A tent is the last reported landmark. Record actual further movement, reappearance, identity or dialogue when supplied, without turning “dashes” into a named action or loss of view into invisibility/teleportation/Hidden. The report supplies one visible goblin, not the camp's total population. [Goblin record](../Characters/Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md).
 
 - Preceding entrance and declaration: **The ground group now enters the camp: Dain riding bear-form Stu, with Harry and Yuckie, backed by Tina as a giant eagle after Kagrenac's Polymorph. Dain casts Minor Illusion and delivers a booming announcement calling the camp's goblins out for discussion and guaranteeing no violence: “The truth needs liberation.”** Camp response, accepted terms, discussion outcome and the organisers' purpose remain unreported.

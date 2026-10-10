@@ -26,6 +26,10 @@
 
 - Kagrenac's Polymorph makes Tina the giant eagle; Dain casts Minor Illusion and delivers the booming call for discussion, guaranteeing no violence. Camp response remains unreported. Poses, sound rings, plumage, camp shelters/banners/decorative devices, lights and aerial spacing are illustrative; no discovered faction emblem, tactical layout, accepted guarantee, resource ruling or attack is established. [Image notes](../../Adventures/2026-10-10/bear-eagle-camp-entrance-image-notes.md).
 
+![Dain counts down while bird-form Tona lifts and releases the flanking goblin in front of the fire pit](../../Adventures/2026-10-10/countdown-bird-form-warning.png)
+
+- Three consecutive panels show Dain's countdown, bird-form Tona lifting the flanking goblin, and release outside the pit before impact. Eagle appearance is an illustrative continuity choice; Tona's possible Tina alias remains unconfirmed. Drop height, poses, goblin expression/clothes, unlit pit, camp arrangement, banners/marks, braziers, light and scenery are illustrative. No damage, injury/death/survival, intimidation outcome, accepted negotiations, actual hellfire or discovered faction emblem is established. [Image notes](../../Adventures/2026-10-10/countdown-bird-form-warning-image-notes.md).
+
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
 
@@ -36,9 +40,12 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
-- [Latest broader camp movement, 2026-10-10] **The visible [camp goblin](./Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** Exact observer, further position/route, identity and motive remain unreported. No new Dain action/reaction is supplied; his preceding Minor Illusion/booming announcement and no-violence guarantee remain his latest personal action and stated terms. The movement establishes no spoken reply, accepted/rejected peace offer, alarm or attack. [Session](../../Adventures/2026-10-10.md).
+- [Latest personal action, 2026-10-10] **Dain begins a countdown and threatens, “if you don’t reveal for negotiations we will rain hellfire down upon you”. The countdown reaches 0.** This follows his earlier no-violence guarantee; the promise and escalation both remain recorded. No actual hellfire spell, guano use or bombing is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Latest broader camp action, 2026-10-10] **[Tona](./Tona.md) in bird form lifts the [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the fire pit as a warning.** Tona's identity, the goblin's condition and the camp's response remain unreported. No attack roll, damage, intimidation outcome, organisers' explanation, Wet ending or numerical resource change is assigned.
 
-- [Latest confirmed camp action, 2026-10-10] **Dain enters the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) riding bear-form [Stu](./Stu.md), with Harry and Yuckie on foot and [Tina](./Tina.md) as giant-eagle support after Kagrenac's [Polymorph](../Powers/Polymorph.md). Dain casts [Minor Illusion](../Powers/Minor%20Illusion.md) and makes a booming announcement, calling the camp's goblins out to discuss matters and guaranteeing no violence. “The truth needs liberation.”** Camp response, acceptance and discussion outcome remain unreported. The guarantee is Dain's stated term, with no automatic party/NPC agreement or cancelled guano proposal. The entries below describe preceding actions; no numerical recovery, Wet ending, later captive response or ended Suggestion is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Preceding camp movement, before the countdown, 2026-10-10] **The visible [camp goblin](./Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** Exact observer, further position/route, identity and motive remain unreported. No new Dain action/reaction is supplied; his preceding Minor Illusion/booming announcement and no-violence guarantee remain his latest personal action and stated terms. The movement establishes no spoken reply, accepted/rejected peace offer, alarm or attack. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed camp announcement, 2026-10-10] **Dain enters the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) riding bear-form [Stu](./Stu.md), with Harry and Yuckie on foot and [Tina](./Tina.md) as giant-eagle support after Kagrenac's [Polymorph](../Powers/Polymorph.md). Dain casts [Minor Illusion](../Powers/Minor%20Illusion.md) and makes a booming announcement, calling the camp's goblins out to discuss matters and guaranteeing no violence. “The truth needs liberation.”** Camp response, acceptance and discussion outcome remain unreported. The guarantee is Dain's stated term, with no automatic party/NPC agreement or cancelled guano proposal. The entries below describe preceding actions; no numerical recovery, Wet ending, later captive response or ended Suggestion is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding confirmed action and travel, 2026-10-10] **Dain rides [Stu](./Stu.md) in bear form with the ground group (Yuckie, Harry, Dain and Stu); the others go by blimp. He casts [Suggestion](../Powers/Suggestion.md) on the “smart” [goblin captive](./Goblin%20Intruders%20-%202026-10-10.md) and says, “you must do as I say and be silent”. Success is reported.** Casting level/source/expenditure, duration, concentration state, ending and subsequent instruction/response are unreported. Harry's separate intimidation of the other captive has no supplied roll/outcome. Exact route, arrival, mount mechanics and captive transport remain open. [Session](../../Adventures/2026-10-10.md).
 - [Chronology] The entries below describe preceding beats. Suggestion now supersedes the rhyme as Dain's latest executed dialogue/action; no explanation of the organisers, numerical recovery, Wet ending or relationship-score change is supplied.
@@ -159,6 +166,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] Kagrenac openly accuses Dain of murder and states that he no longer trusts him.
 
 ## What Is Uncertain
+
+- Latest countdown/warning: starting count/time, camp reply or negotiation outcome, the dropped flanking goblin's condition and identity, Tona's possible Tina alias, and how the earlier no-violence guarantee is handled. “Hellfire” remains a threat with no executed fire attack reported.
+
 - [To verify] What his Temp HP and current active effects are.
 - [To verify] Exact maximum HP after the 2026-07-11 long rest; Dain is restored to maximum, likely `29` under the current level-4 calculation.
 - [To verify] Which wizard spells are prepared right now versus simply present on the export.

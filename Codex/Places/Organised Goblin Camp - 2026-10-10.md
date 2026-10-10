@@ -12,13 +12,19 @@
 
 - Sequential staging supports the reported loss of view behind the tent. Goblin appearance/clothes, motion marks, shelter shapes/count, light and scenery are illustrative, without a stat block, player identity, map layout, stealth result, magical vanishing, motive or later destination established. [Image notes](../../Adventures/2026-10-10/goblin-behind-tent-image-notes.md).
 
+![Dain counts down while bird-form Tona lifts and releases the flanking goblin in front of the fire pit](../../Adventures/2026-10-10/countdown-bird-form-warning.png)
+
+- Three consecutive panels show Dain's countdown, bird-form Tona lifting the flanking goblin, and release outside the pit before impact. Eagle appearance is an illustrative continuity choice; Tona's possible Tina alias remains unconfirmed. Drop height, poses, goblin expression/clothes, unlit pit, camp arrangement, banners/marks, braziers, light and scenery are illustrative. No damage, injury/death/survival, intimidation outcome, accepted negotiations, actual hellfire or discovered faction emblem is established. [Image notes](../../Adventures/2026-10-10/countdown-bird-form-warning-image-notes.md).
+
 ## One-Line Summary
 
 An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh, now entered by Dain riding bear-form Stu with Harry and Yuckie, backed by giant-eagle Tina; Dain calls for peaceful discussion and the camp's response is unreported.
 
 ## Confirmed Discovery
 
-- [Latest confirmed movement, 2026-10-10] **The visible [goblin](../Characters/Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** A goblin and tent landmark are now explicitly reported; exact identity, role, route/destination and motive remain open. No total population, map coordinate, magical disappearance, alarm or spoken reply to Dain is supplied. Older no-response snapshots below record the preceding entrance/discovery context. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed warning, 2026-10-10] **Dain begins a countdown and threatens hellfire unless the goblins reveal themselves for negotiations. It reaches 0; [Tona](../Characters/Tona.md), in bird form, picks up the [goblin flanking the party](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the goblins' fire pit as a warning.** The fire pit is now a supplied landmark. Its fire state/position, drop height, goblin condition, Tona's identity and camp reply remain unreported. This follows Dain's no-violence guarantee without rewriting it. No actual hellfire or guano attack is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding visible-goblin movement, 2026-10-10] **The visible [goblin](../Characters/Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** A goblin and tent landmark are now explicitly reported; exact identity, role, route/destination and motive remain open. No total population, map coordinate, magical disappearance, alarm or spoken reply to Dain is supplied. Older no-response snapshots below record the preceding entrance/discovery context. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed ground entry, 2026-10-10] **Dain riding bear-form Stu, Harry and Yuckie now enter the camp, backed by Tina as a giant eagle following Kagrenac's Polymorph. Dain casts Minor Illusion and makes a booming announcement calling the goblins out for discussion and guaranteeing no violence. “The truth needs liberation.”** Exact entry/positions, aerial movements, camp inhabitants' response and negotiations remain unreported. The entries below record earlier discoveries and their then-unresolved arrival details. [Session](../../Adventures/2026-10-10.md).
 
@@ -42,6 +48,13 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 ![Brother Taleesh discovers the goblin camp](../../Adventures/2026-10-10/taleesh-discovers-goblin-camp.png)
 
 - Taleesh's discovery is confirmed; posture, gaze, vegetation, lighting and obscured shelter glimpses are illustrative. No map key, creature count, tactical layout, arrow-source clue, stealth/check result or further action is established. [Image notes](../../Adventures/2026-10-10/taleesh-goblin-camp-image-notes.md).
+
+## Countdown And Bird-Form Warning - 2026-10-10
+
+- **Dain says, “if you don’t reveal for negotiations we will rain hellfire down upon you”, and his countdown reaches 0.** Starting number, elapsed time and any actual fire spell/bombing are unreported.
+- **Tona in bird form picks up one goblin that was flanking the party, then drops it in front of the goblins' fire pit as a warning.** Both actions are confirmed. The pit is a landmark, not a confirmed damage source; falling into it or touching fire is unreported.
+- Tona's possible link to giant-eagle [Tina](../Characters/Tina.md) remains unconfirmed. The goblin's name, affiliations, connection to the tent goblin/captives, drop height, HP, damage, injury/survival and further action remain unknown. Supplied “flanking” does not assign advantage or a formal combat ruling.
+- Dain's earlier guarantee of no violence remains recorded alongside the later threat and physical warning. The camp's reaction, acceptance of negotiations, intimidation effect and any consequence of that promise remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Goblin Disappears Behind A Tent - 2026-10-10
 
@@ -69,6 +82,8 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 
 ## What Is Uncertain
 
+- Latest countdown and drop: camp reply/negotiations, starting count/time, Tona's possible Tina identity, flanking goblin identity/condition/damage, height/flight path, fire pit exact position/fire state and handling of the earlier no-violence guarantee. No actual hellfire, bombing, fear/compliance or mechanical flanking ruling is supplied.
+
 - Latest goblin movement: identity, role, affiliation, motive, route/exact position after going behind the tent, reappearance and observer-specific visibility. Ordinary loss of view is reported; no invisibility, teleportation, stealth result, alarm or negotiated answer is supplied.
 
 - Latest entrance: camp occupants' emergence/reaction, acceptance of Dain's no-violence terms, actual dialogue/negotiations and whether his guarantee is kept. Ground entry is confirmed; exact ground/eagle/blimp positions, captive transport, Polymorph resources/duration/ending and the organisers' explanation remain open.
@@ -91,3 +106,6 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 - [Guano In The Bag Of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md)
 
 - [Brother Taleesh](../Characters/Brother%20Taleesh.md)
+
+- [Tona's supplied bird-form action](../Characters/Tona.md)
+- [Flanking goblin dropped in front of the fire pit](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md)

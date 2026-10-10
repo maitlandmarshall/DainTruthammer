@@ -28,6 +28,8 @@ The supplied-name archer Tina, now transformed into a giant eagle by Kagrenac's 
 
 ## What Is Uncertain
 
+- [Later supplied name, 2026-10-10] **[Tona](./Tona.md)** in bird form lifts a flanking goblin and drops it in front of the fire pit as a warning. Whether this is Tina remains unconfirmed, so the later action is indexed under Tona without merging identities or asserting an additional party member. Tina's giant-eagle form remains her last confirmed status.
+
 - Player/character mapping, table control, original appearance and relation to [Christina](./Christina.md).
 - Previous arrow outcome and any original equipment/current storage in eagle form.
 - Polymorph mechanics/resources, form HP/stat block, duration/concentration/ending, and later actions.
