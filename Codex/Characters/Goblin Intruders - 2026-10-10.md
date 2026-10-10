@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![Brother Taleesh puts manacles on both sleeping goblins to restrain them](../../Adventures/2026-10-10/taleesh-manacles-sleeping-goblins.png)
+![The party surrounds the sleeping goblin prisoners and waits while Dain sleeps separately](../../Adventures/2026-10-10/party-nightmare-circle-and-truthammer-sleep.png)
 
-- Cuff arrangement, poses, chest placement and scenery are illustrative. The scene establishes no exact equipment withdrawal, formal condition mechanics, waking, injury, chest recovery or Dain awareness. [Image notes](../../Adventures/2026-10-10/manacles-image-notes.md).
+- Individual positions, expressions, quote presentation, sleep pose, cuff arrangement and scenery are illustrative; no waking, spell, intimidation result, chest recovery or Dain awareness is established. [Image notes](../../Adventures/2026-10-10/nightmare-circle-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, put to sleep by Kagrenac during Stu's chase and then manacled by Brother Taleesh while still asleep; chest recovery remains unreported.
+Two unnamed balloon-carriage intruders, asleep and manacled, now surrounded by the party as it waits for them to wake; Yuckie is a separate party goblin and Dain sleeps elsewhere.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,7 +13,8 @@ Two unnamed balloon-carriage intruders, put to sleep by Kagrenac during Stu's ch
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
-- [Broader party encounter; Dain unaware] [Confirmed latest outcome] **[Brother Taleesh](./Brother%20Taleesh.md) runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both goblins while they sleep, restraining them.** No waking, injury or later handling is supplied. Source/count, cuff arrangement, keys and mechanics remain unreported; physical restraint does not establish the formal Restrained condition. Chest control/recovery remains open. [Session](../../Adventures/2026-10-10.md).
+- [Latest broader party scene; Dain asleep] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) finishes running up; the party surrounds both sleeping, manacled intruders and waits for them to wake.** The supplied quote is **“Nightmare nightmare nightmare”**, without an assigned individual speaker or mechanical effect. No waking, prisoner response, damage or chest recovery is supplied. Dain sleeps separately and remains unaware. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed preceding outcome] [Brother Taleesh](./Brother%20Taleesh.md) runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both goblins while they sleep, restraining them. Source/count, cuff arrangement, keys and mechanics remain unreported; physical restraint does not establish the formal Restrained condition.
 - [Confirmed preceding outcome] [Stu](./Stu.md), in brown-bear form, chases the goblins. [Kagrenac](./The%20Astral%20Elf.md) puts both to sleep; they fall dramatically to the ground, with the [chest](../Items/Chest%20of%20Preservation.md) causing a dramatic slide through the dirt. Sleep method/duration and resources remain unreported.
 - [Broader party encounter; Dain unaware] [Confirmed earlier action] [Brother Taleesh](./Brother%20Taleesh.md) fails to grapple them; both keep running into the distance with the chest until the subsequently reported pursuit and sleep outcome.
 - [Broader party encounter; Dain unaware] [Confirmed earlier outcome] [Harry](./Hammerton%20Harry%20Drizddon.md) dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at a goblin. **That goblin is pushed out of darkness. Another patch of darkness disappears.** Damage, saves, exact push distance, disappearance cause, cloud arrangement and the other goblin's position at that point are unreported. [Session](../../Adventures/2026-10-10.md).
@@ -34,13 +35,22 @@ Two unnamed balloon-carriage intruders, put to sleep by Kagrenac during Stu's ch
 - Stu chases them in brown-bear form. Kagrenac puts both to sleep; they fall dramatically to the ground, with the chest causing a dirt slide.
 - Taleesh then runs up and manacles both while they sleep, restraining them. No waking or chest recovery is reported; Dain's awareness remains unchanged.
 
+- Yuckie finishes running up. The party surrounds the sleeping prisoners and waits for them to wake; Dain is separately asleep. The “nightmare” quote establishes no reaction or effect.
+
 ## What Is Uncertain
+- Individual speaker of the “Nightmare nightmare nightmare” quote, actual waking time, prisoner dialogue/reaction and the outcome of this waiting scene. Yuckie is a distinct player character, not one of these intruders; any relationship between them is unreported.
 - Names, affiliation, appearance, weapons, armor, stat blocks, HP and exact positions.
 - How they entered, their purpose, who dropped the chest and any connection to previous goblin encounters.
 - Goblin/other party initiative, complete order, surprise rulings and later outcome.
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 - Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
 - Sleep method/spell/feature, level, rolls, duration/resources, manacle source/count, arrangement, keys and escape mechanics, later waking/handling, final chest position/control/recovery and cargo condition. The earlier grapple total, route/destination, distances and pickup sequence remain unreported.
+
+## Earlier Manacling
+
+![Brother Taleesh manacles both goblins while they sleep](../../Adventures/2026-10-10/taleesh-manacles-sleeping-goblins.png)
+
+- This precedes the surrounding-and-waiting scene. Cuff configuration and poses are illustrative; no exact equipment withdrawal or formal condition mechanics are established. [Image notes](../../Adventures/2026-10-10/manacles-image-notes.md).
 
 ## Earlier Bear Chase, Sleep And Dirt Slide
 

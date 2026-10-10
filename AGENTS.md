@@ -101,7 +101,8 @@ Current confirmed roster:
 * Matt / Matthew plays Kagrenac, formerly tracked as The Astral Elf
 * Maitland / user plays Dain Truthammer
 * Jackson / Jack / Jackbo plays Brother Taleesh
-* Lachlan Pratt now plays Ollyander; Yuckie was the previously tracked Lachlan character and was reported captured by a gargantuan vulture-type creature [To verify exact status]
+* Lachlan Pratt now plays Ollyander; his original goblin character, Yuckie the Goblin, is now played by Emily and is confirmed present on 2026-10-10. The earlier possible vulture-capture report and any intervening return remain unresolved.
+* Emily plays Yuckie the Goblin, previously played by Lachlan Pratt, as confirmed on 2026-10-10.
 * Norhan plays Hammerton Harry Drizddon, a Mountain Dwarf Fighter 3 with eldritch-martial spellcasting [To verify final subclass wording]
 * Tom is the DM
 
@@ -109,7 +110,7 @@ Current confirmed roster:
 
 When Maitland describes an in-world action using a real-world player's name, resolve it through [Table Roster](Codex/Lore/Table%20Roster.md) and use the current character's name in replies, story summaries, image prompts and Discord captions.
 
-* Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jack / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander, not the previously played Yuckie.
+* Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jack / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander; Emily means Yuckie the Goblin.
 * Use a familiar character short name, such as Harry or Dain, after the full name is established.
 * Keep verbatim user prompts unchanged as source evidence. Player names remain appropriate in roster metadata and table-side discussion.
 * If a mapping is unconfirmed, preserve the supplied name and mark the identity `[To verify]` rather than inventing a character.

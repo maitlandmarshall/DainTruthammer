@@ -93,7 +93,8 @@
 - Missing details: [To verify] why Taleesh joins the current mission, what he knows about Agland's letter, whether the warmth bargain continues beyond the night, whether the mushroom lantern is completed, what the herbal remedies do, what the goji leaves actually do, and how he reacts to dwarves and elves after settling into the group.
 
 - [Yuckie the Goblin](../Codex/Characters/Yuckie%20the%20Goblin.md)
-- Current standing: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories. [Inferred] The 2026-05-30 shared session says Lachlan's old character was captured by a gargantuan vulture-type creature; since the roster previously attached Lachlan to Yuckie, this may refer to Yuckie. [To verify]
+- Latest broader party update, 2026-10-10: Emily now plays Yuckie, formerly Lachlan's goblin character. Yuckie finishes running up to the sleeping intruders; the party surrounds them and waits. Dain is asleep and unaware, so this scene assigns no new relationship score or Dain knowledge. [Session](../Adventures/2026-10-10.md).
+- Prior Dain impression: [Character-only] Friendly camp informant, or at least willing to bring Dain absurd stories. [Inferred] The 2026-05-30 shared session says Lachlan's old character was captured by a gargantuan vulture-type creature; this may refer to Yuckie. That earlier report and any intervening return remain unresolved despite his confirmed current presence.
 - Dain's known belief: [Character-only] Yuckie is someone worth listening to when nonsense happens nearby
 - Missing details: [To verify] role in the party, how long Dain has known him, and whether the trust is mutual
 

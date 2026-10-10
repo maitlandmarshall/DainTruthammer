@@ -19,8 +19,13 @@
 
 - Player: Lachlan Pratt
   - Character: [Ollyander](../Characters/Ollyander.md)
-  - Previous character: [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md) [To verify whether Yuckie is the old character reported captured by a gargantuan vulture-type creature]
+  - Previous character: [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md), now played by Emily. Yuckie is confirmed present on 2026-10-10; the earlier possible vulture-capture report and any intervening return remain unresolved.
   - Role: Player Character
+
+- Player: Emily
+  - Character: [Yuckie the Goblin](../Characters/Yuckie%20the%20Goblin.md)
+  - Role: Player Character
+  - Confirmed on 2026-10-10: Emily is playing Lachlan's original goblin character, resolved through the existing roster to Yuckie. Yuckie finishes running up to the sleeping goblin intruders. This establishes current presence without supplying an escape/rescue history. [Session](../../Adventures/2026-10-10.md).
 
 - Player: Norhan
   - Character: [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md)
@@ -33,7 +38,7 @@
   - Role: Dungeon Master
 
 ## Roster Rules
-- Resolve real-world player names to current character names in in-world replies, summaries, image prompts and Discord captions. Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jack / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander.
+- Resolve real-world player names to current character names in in-world replies, summaries, image prompts and Discord captions. Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jack / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander; Emily means Yuckie the Goblin.
 - Preserve raw user quotes exactly; roster metadata and table-side discussion can still identify players. Unconfirmed names stay unconfirmed. This naming preference was explicitly requested by Maitland on 2026-10-10.
 - Mark player-controlled characters explicitly on their Codex character pages.
 - Preserve player aliases and character aliases when provided.
