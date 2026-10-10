@@ -38,6 +38,10 @@
 
 - Dain's shot through the fire pit and the main tent's front/back holes are supplied outcomes. His pose on Stu, prismatic color, curved trail, pit shape/unlit ash, tent construction, hole dimensions, cloth scraps and night scenery are illustrative. The view establishes no chosen damage type, general projectile rule, tent fire/collapse, occupant/contents count, creature damage or camp reaction. [Image notes](../../Adventures/2026-10-10/chromatic-orb-main-tent-image-notes.md).
 
+![Dain casts Expeditious Retreat and releases Suggestion concentration](../../Adventures/2026-10-10/dain-expeditious-retreat-suggestion-ended.png)
+
+- Dain remains in his last supplied bear-mounted posture while the concentration change is shown through symbolic fading geometry and a self-directed wrist glyph. Pose, expression, magic colors/shape, clothes and night background are illustrative. The cast and Suggestion ending are supplied; no actual Dash, movement/dismount, bear buff, captive position/reaction or physical release is established. [Image notes](../../Adventures/2026-10-10/expeditious-retreat-concentration-image-notes.md).
+
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
 
@@ -47,6 +51,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - DM: Tom.
 
 ## Status
+
+- [Latest casting/concentration change, 2026-10-10] **Casts [Expeditious Retreat](../Powers/Expeditious%20Retreat.md) and drops concentration on [Suggestion](../Powers/Suggestion.md) on the smarter captive, ending it.** [Derived standard 2014 effect] Current concentration is Expeditious Retreat. Actual movement/Dash/dismount, casting source/expenditure and captive reaction remain unreported. The last shared cuffs and Dain's HP question have no new change. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat); [Session](../../Adventures/2026-10-10.md).
 
 - [Latest personal casting, 2026-10-10] **Dain shoots [Chromatic Orb](../Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting a hole through its front and back.** The shot and both holes are confirmed. Type/roll/damage, casting level/resource, occupants and further effects remain unreported. HP after the preceding 11 grenade damage is still [To verify]. His earlier guarantee/countdown remain historical; no motive or negotiation outcome is assigned. [Session](../../Adventures/2026-10-10.md).
 
@@ -279,6 +285,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 
+- Current concentration: **[Expeditious Retreat](../Powers/Expeditious%20Retreat.md)** [Derived standard 2014 effect after confirmed casting]. Dain explicitly ends Suggestion on the smarter captive. Current remaining slots, actual movement and later ending remain unreported. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat).
+
 ## Notable Records
 - 2026-04-18: Initial character baseline created from the imported sheet and user blurb.
 - 2026-04-18: Dain's obsession with odd and impractical magic was recorded as a persistent character driver.
@@ -348,6 +356,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: **Takes 11 damage when a goblin throws a fragmentation grenade at the ground group.** HP after the hit, type/save and other party effects remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: **Shoots [Chromatic Orb](../Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting through its front and back.** Chosen type, roll/damage, resource and further consequences remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Casts Expeditious Retreat and explicitly drops Suggestion concentration on the smarter captive.** Suggestion is ended; actual next movement and the goblin's behaviour are unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 

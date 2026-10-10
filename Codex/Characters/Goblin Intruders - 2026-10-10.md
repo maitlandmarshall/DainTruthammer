@@ -16,8 +16,13 @@
 
 - Ground-group travel, Dain's bear ride and successful Suggestion follow the supplied beat. Harry's warning is reported; her roll/outcome and captive response remain open. Magic geometry, poses, fine cuffs, terrain, blimp height/design and lighting are illustrative. The staged captive placement establishes no transport arrangement, camp arrival, confession, unlimited-obedience mechanic or new damage/recovery. [Image notes](../../Adventures/2026-10-10/ground-route-suggestion-image-notes.md).
 
+![Dain casts Expeditious Retreat and releases Suggestion concentration](../../Adventures/2026-10-10/dain-expeditious-retreat-suggestion-ended.png)
+
+- Dain remains in his last supplied bear-mounted posture while the concentration change is shown through symbolic fading geometry and a self-directed wrist glyph. Pose, expression, magic colors/shape, clothes and night background are illustrative. The cast and Suggestion ending are supplied; no actual Dash, movement/dismount, bear buff, captive position/reaction or physical release is established. [Image notes](../../Adventures/2026-10-10/expeditious-retreat-concentration-image-notes.md).
+
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, now awake **at the balloon** after the party wakes them. Last confirmed linked at hands and feet, they are asked by Dain in rhyme, “why are you organised, little goblins”. Their answer and affiliation with the owl's newly found organised camp are unreported.
+
+Two unnamed balloon-carriage intruders, last awake and linked at hands and feet. Dain's Suggestion on the smarter captive **now ends by his explicit concentration drop while casting Expeditious Retreat**; their reaction, precise current location and camp affiliation remain unreported.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -26,7 +31,9 @@ Two unnamed balloon-carriage intruders, now awake **at the balloon** after the p
 
 ## Status
 
-- [Latest confirmed interaction, 2026-10-10] **[Dain](./Dain%20Truthammer.md), riding bear-form Stu, casts [Suggestion](../Powers/Suggestion.md) on the “smart” captive and says, “you must do as I say and be silent”. Success is reported. [Harry](./Hammerton%20Harry%20Drizddon.md) intimidates the “dumb” captive:** “ That brother, brothers fam, you better listen to them very carefully.” Harry's roll/outcome and that captive's response are unreported; no further command execution, confession or explanation is supplied. Spell duration/concentration/ending and expenditure remain open. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed spell ending, 2026-10-10] **Dain casts [Expeditious Retreat](../Powers/Expeditious%20Retreat.md) and drops concentration on [Suggestion](../Powers/Suggestion.md) on the smarter captive, ending it.** This supplies no physical release, escape, confession, speech, new injury or change to their hand/foot cuffs. Exact current transport/position and subsequent behaviour remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- [Earlier confirmed interaction, before the later concentration drop, 2026-10-10] **[Dain](./Dain%20Truthammer.md), riding bear-form Stu, casts [Suggestion](../Powers/Suggestion.md) on the “smart” captive and says, “you must do as I say and be silent”. Success is reported. [Harry](./Hammerton%20Harry%20Drizddon.md) intimidates the “dumb” captive:** “ That brother, brothers fam, you better listen to them very carefully.” Harry's roll/outcome and that captive's response are unreported; no further command execution, confession or explanation is supplied. Elapsed duration and casting expenditure remain open; its ending is now confirmed by Dain's later concentration drop. [Session](../../Adventures/2026-10-10.md).
 - [Current identity and handling] These are the same two awake NPC captives, now distinguished by supplied “smart”/“dumb” descriptors, without names or ability scores. Shared wrist/ankle bindings remain last confirmed. The ground/blimp split supplies no exact prisoner transport arrangement, release or new location after their preceding balloon location. Yuckie is separate and uncuffed; Harry's words establish no kinship. Older no-new-tactic/reply/waking records below describe their preceding beats.
 
 - [Preceding confirmed Dain intention; no new captive action at that point, 2026-10-10] **[Dain](./Dain%20Truthammer.md) wants these captives as leverage to learn why the [snake people](../Factions/Snake%20People.md) organise goblins—the main mission.** Leverage method, person to pressure and execution are unreported. The captives remain awake at the balloon and last linked at hands/feet, with no reply, camp-membership admission or new reaction. Kagrenac's blimp/guano plan has an unspecified target; it does not establish a threat or attack against these two. [Session](../../Adventures/2026-10-10.md).
@@ -72,9 +79,9 @@ Two unnamed balloon-carriage intruders, now awake **at the balloon** after the p
 
 ## What Is Uncertain
 
-- Latest open points: Suggestion's duration/concentration/ending and casting expenditure; later orders/compliance, Harry's intimidation roll/outcome and the other captive's reaction; present transport/position after the prior balloon location. The successful spell outcome is confirmed. Names, ability scores, kinship, camp affiliation, HP/finger injuries and the organisers' explanation remain unreported.
+- Latest open points: Suggestion's original casting expenditure and elapsed duration before the confirmed concentration drop; later orders/compliance, Harry's intimidation roll/outcome and the other captive's reaction; present transport/position after the prior balloon location. The earlier success and current ending are confirmed. Names, ability scores, kinship, camp affiliation, HP/finger injuries and the organisers' explanation remain unreported.
 
-- Current open points: Their names, camp affiliation, actual reply, exact waking actor/method, subsequent transport/position and cabin boarding, HP/injury extent, Suggestion resources/duration/ending and Harry's intimidation outcome. They remain awake and last linked at hands/feet after the preceding balloon waking; no later precise location is supplied. Older strike/waiting/dragging bullets below describe what was unreported at those times.
+- Current open points (Suggestion now ended): Their names, camp affiliation, actual reply, exact waking actor/method, subsequent transport/position and cabin boarding, HP/injury extent, Suggestion resources/elapsed duration and Harry's intimidation outcome. They remain awake and last linked at hands/feet after the preceding balloon waking; no later precise location is supplied. Older strike/waiting/dragging bullets below describe what was unreported at those times.
 - Distance covered, exact handling, transport checks/speed and any actual arrival/boarding at the balloon cabin. Yuckie's return drag has begun; completed transport is unreported.
 - Whether the goblins were trying to feed a family, any family circumstances, and whether they hear or respond to Harry's words. Her question and judgment do not establish a motive or confession.
 - The finger strike's exact implement, attack/damage rolls, numeric damage, injury extent, waking and prisoner reaction afterward. Continued sleep is not assumed; no named sleep spell or automatic ending is assigned.
