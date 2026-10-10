@@ -234,5 +234,10 @@
     "fingerprint": "3bcc3d1d1773bb3d4cfe1b9994af96ea2d42198c284bdae7bc541ec37d34358e",
     "status": "confirmed",
     "message_id": "1558393345829507133"
+  },
+  "2026-10-10-029-round-seven-harry-chest-goblins-alive": {
+    "fingerprint": "c9f03812193efbcb2e5b5ad1fc2e028ddf26bec2eebeee64523d655697582b93",
+    "status": "confirmed",
+    "message_id": "1558395677254357024"
   }
 }
