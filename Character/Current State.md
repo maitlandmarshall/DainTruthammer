@@ -12,7 +12,10 @@
 
 ## Active Session - 2026-10-10
 
-- [Latest broader camp movement] **[Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) drives the [blimp](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) toward the middle of the [camp](../Codex/Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) and commands [his owl](../Codex/Characters/Kagrenacs%20Owl.md) to flank.** Kagrenac's piloting is now confirmed. Centre arrival, altitude/speed, owl target/response and any attack remain unreported. The new table photo is an unkeyed reference. No new Dain personal action or numerical HP/resource/condition/round change is supplied. [Session](../Adventures/2026-10-10.md).
+- [Latest incoming attack and personal damage] **A [goblin](../Codex/Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) comes and throws a [fragmentation grenade](../Codex/Items/Fragmentation%20Grenade%20-%202026-10-10.md) at the ground group; Dain takes 11 damage.** HP immediately before/after, temp-HP handling, type/save/roll, other ground-group effects and attacker identity remain unreported. **Current HP is [To verify after this hit]**; 28 remains the old last supplied total before the riverside rest. No current total is invented. [Session](../Adventures/2026-10-10.md).
+- [Current boundaries] Dain's last mount is bear-form Stu; no dismount or new condition is supplied. No new personal response/retaliation, spell ending, Wet ending, slot expenditure, round/initiative or other party damage is supplied. The rows below retain preceding snapshots; their no-damage statements belong to those earlier beats.
+
+- [Preceding blimp movement and owl command, before the grenade] **[Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) drives the [blimp](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) toward the middle of the [camp](../Codex/Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) and commands [his owl](../Codex/Characters/Kagrenacs%20Owl.md) to flank.** Kagrenac's piloting is now confirmed. Centre arrival, altitude/speed, owl target/response and any attack remain unreported. The new table photo is an unkeyed reference. No new Dain personal action or numerical HP/resource/condition/round change is supplied. [Session](../Adventures/2026-10-10.md).
 
 - [Preceding rock/goop outcome] **The [dropped flanking goblin](../Codex/Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) falls, hits a rock and turns into goop, wrapping into the rock.** This supplies the previously unreported impact/change after Tona's drop in front of the fire pit. Cause, death/survival, full absorption, numerical damage and camp reply remain unknown. No new personal Dain action or party numerical resource/condition change is supplied. [Session](../Adventures/2026-10-10.md).
 
@@ -174,7 +177,7 @@
 
 ## Core Numbers
 - Max HP: [To verify] Level-4 baseline likely `29`, plus the pending Wizard 5 HP increase; `35` only if baseline 29 and fixed +6 are confirmed.
-- Current HP: **28** [Confirmed on 2026-10-03]. Previously recorded at 3 HP after the guano-cavern fight; healed to 28 during an interrupted long rest. Healing source and other rest benefits remain unrecorded.
+- Current HP: **[To verify after 11 damage on 2026-10-10]**. **11 damage taken** from the goblin's fragmentation-grenade attack is confirmed; HP immediately before/after, temporary-HP handling and any intervening recovery are unreported. Last supplied HP: **28**, confirmed 2026-10-03 before the later riverside rest. Previously 3 HP after the guano-cavern fight, healed to 28 during an interrupted long rest; healing source and other rest benefits remain unrecorded. No rest refresh or current total is assumed.
 - Temp HP: [To verify] the Temp HP field shows `--`
 - AC: [To verify exact total] **Dwarven Half Plate equipped**, confirmed 2026-10-03. With DEX +0, the prior standard magical `+2` interpretation gives **17**; the earlier `+2 AC` wording remains unclarified. The Breastplate of Balance's AC 14 is a historical baseline, not the current equipped armour.
 - Initiative: +0

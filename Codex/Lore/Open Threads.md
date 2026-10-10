@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest attack/damage] **A goblin throws a fragmentation grenade at the ground group; Dain takes 11 damage.** Current HP, type/save, attacker identity, other party effects and next response remain open. Prior owl command and rock/goop mystery stay unresolved. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest aerial movement/order] **Kagrenac drives the blimp toward the camp's middle and commands his owl to flank.** Pilot is now confirmed; arrival, owl target/response, exact positions and any attack remain open. The latest table photo is saved unchanged, without a map key or scale. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest rock/goop outcome] **The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) falls, hits a rock and turns into goop, wrapping into the rock.** Impact/change is now confirmed; cause, death/survival, full absorption and camp reply remain unknown. No extra goblin, death total or numerical damage is inferred. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -116,7 +118,9 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Kagrenac drives the blimp toward the camp's middle and commands his owl to flank.** Kagrenac's piloting is confirmed; centre arrival, owl target/response, route/height/speed, camp reply and negotiations remain unreported. The preceding flanking goblin's rock impact and goop wrapping into the rock stay recorded, with cause/death/survival unknown. Dain's earlier no-violence guarantee remains in the chronology; no actual hellfire or guano attack is supplied.
+- Status: **One goblin comes and throws a fragmentation grenade at the ground group; Dain takes 11 damage.** Current HP, damage type/save/roll, attacker identity, other party effects and actual next actions remain unreported. Kagrenac's blimp movement/pending owl command and the earlier goop/rock mystery stay recorded; Dain's earlier guarantee remains in the chronology. No retaliation, actual hellfire or guano attack is supplied.
+- Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
+- Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Record actual blimp movement/arrival and the owl's supplied target, response and outcome. “To flank” is the order, without a completed manoeuvre, Help, advantage or attack. The attached table photo stays unkeyed, with no identified miniatures, map coordinates, scale or inferred altitude.
 - Goop/rock follow-up: Record what happens next and any supplied explanation, without assigning a mimic/ooze/illusion/spell identity, completed disappearance, walking rock or a death. The narrated change does not supply a damage number or creature stat block.
 - Latest identity/position boundary: [Tona](../Characters/Tona.md) is the supplied name, with the possible Tina alias [To verify]. The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) is not identified with the earlier visible tent goblin, either captive or Yuckie; no camp population total is inferred. The preceding drop is **in front of** the fire pit. The later rock impact and goop change are now confirmed; height, numerical damage, fire contact, death/survival and any further condition remain unknown.

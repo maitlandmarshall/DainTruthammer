@@ -24,13 +24,19 @@
 
 - Kagrenac pilots the metal blimp and gives the owl its order, with camp tents ahead. Owl perch, gestures, helm/ship crop, speed/altitude, camp arrangement/count, lanterns, unlit pit and scenery are illustrative. No centre arrival, actual owl flank/flight, target, Help/advantage, attack, spell, population count or camp reaction is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-owl-order-image-notes.md).
 
+![The goblin grenade throw and Dain taking the hit](../../Adventures/2026-10-10/goblin-fragmentation-grenade-dain-hit.png)
+
+- Sequential panels show one anonymous goblin's grenade throw and Dain taking the reported 11 damage, still mounted on Stu. Attacker appearance, weapon design, fuse/detonation, blast size/fragments/light, Dain's recoil/hand pose, crop and camp scenery are illustrative. No damage type, save, other party damage, shield spell, dismount, injury detail, casualty, retaliation or current HP is established. [Image notes](../../Adventures/2026-10-10/goblin-grenade-dain-damage-image-notes.md).
+
 ## One-Line Summary
 
 An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh, now entered by Dain riding bear-form Stu with Harry and Yuckie, backed by giant-eagle Tina; Dain calls for peaceful discussion and the camp's response is unreported.
 
 ## Confirmed Discovery
 
-- [Latest confirmed aerial movement, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) drives the [blimp](./Party%20Skyship%20-%202026-08-29.md) toward the camp's middle and commands [his owl](../Characters/Kagrenacs%20Owl.md) to flank.** Pilot is now confirmed; centre arrival, owl response/target, exact position/altitude and attack remain unreported. The [new table photo](../../Adventures/2026-10-10/goblin-camp-blimp-approach-table-photo.jpg) is archived unchanged, without a supplied key/scale. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed attack, 2026-10-10] **One [goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) comes and throws a [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) at the ground group. Dain takes 11 damage.** Current HP/type/save, other ground-group effects and attacker identity remain unknown. This is the reported attack, without a total population, faction motive or universal camp response. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding blimp movement and owl command, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) drives the [blimp](./Party%20Skyship%20-%202026-08-29.md) toward the camp's middle and commands [his owl](../Characters/Kagrenacs%20Owl.md) to flank.** Pilot is now confirmed; centre arrival, owl response/target, exact position/altitude and attack remain unreported. The [new table photo](../../Adventures/2026-10-10/goblin-camp-blimp-approach-table-photo.jpg) is archived unchanged, without a supplied key/scale. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding confirmed rock/goop outcome, 2026-10-10] **The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) falls, hits a rock and turns into goop, wrapping into the rock.** The rock is now a reported contact landmark after Tona's drop in front of the fire pit. Cause, death/survival, full absorption, numerical damage and camp response remain unreported. [Session](../../Adventures/2026-10-10.md).
 
@@ -67,6 +73,12 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 
 - This later attachment accompanies Kagrenac driving toward the middle and ordering his owl to flank. It is a table reference, without a keyed layout, identified miniatures, grid scale, altitude or confirmed centre arrival/response.
 - Saved unchanged as `goblin-camp-blimp-approach-table-photo.jpg`; 295544 bytes; SHA-256 `7a2e63c849f0171f83054db23336d2674cbc2ae33d2dc323a23b7d8bdc3b8f82`. Source original remains in the remote-attachments folder. Local archive only, not posted to Discord.
+
+## Goblin Fragmentation-Grenade Attack - 2026-10-10
+
+- **One goblin comes and throws a fragmentation grenade at the ground group; Dain takes 11 damage.**
+- Exact attacker identity/position, relation to the camp/other goblins, range/radius, type/save/roll, current HP and other party effects are unreported. No camp population, faction weapon supply or casualty count is derived.
+- This follows the earlier warning, rock/goop outcome and Kagrenac's movement/order. No motive, dialogue, collective camp policy, retaliation, guano use or negotiation outcome is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Blimp Approach And Owl Flanking Order - 2026-10-10
 
@@ -144,3 +156,6 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 
 - [Tona's supplied bird-form action](../Characters/Tona.md)
 - [Flanking goblin dropped in front of the fire pit](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md)
+
+- [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md)
+- [Fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md)

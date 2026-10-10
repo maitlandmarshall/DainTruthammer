@@ -30,6 +30,10 @@
 
 - Three consecutive panels show Dain's countdown, bird-form Tona lifting the flanking goblin, and release outside the pit before impact. Eagle appearance is an illustrative continuity choice; Tona's possible Tina alias remains unconfirmed. Drop height, poses, goblin expression/clothes, unlit pit, camp arrangement, banners/marks, braziers, light and scenery are illustrative. No damage, injury/death/survival, intimidation outcome, accepted negotiations, actual hellfire or discovered faction emblem is established. [Image notes](../../Adventures/2026-10-10/countdown-bird-form-warning-image-notes.md).
 
+![The goblin grenade throw and Dain taking the hit](../../Adventures/2026-10-10/goblin-fragmentation-grenade-dain-hit.png)
+
+- Sequential panels show one anonymous goblin's grenade throw and Dain taking the reported 11 damage, still mounted on Stu. Attacker appearance, weapon design, fuse/detonation, blast size/fragments/light, Dain's recoil/hand pose, crop and camp scenery are illustrative. No damage type, save, other party damage, shield spell, dismount, injury detail, casualty, retaliation or current HP is established. [Image notes](../../Adventures/2026-10-10/goblin-grenade-dain-damage-image-notes.md).
+
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
 
@@ -40,7 +44,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
-- [Latest broader camp outcome, 2026-10-10] **The dropped [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) hits a rock and turns into goop, wrapping into the rock.** Cause, death/survival, numerical damage and camp reply are unknown. No new Dain action or reaction is supplied; the countdown remains his latest personal action. His earlier no-violence guarantee stays recorded. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed personal damage, 2026-10-10] **A [goblin](./Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) at the ground group; Dain takes 11 damage.** Current HP after the hit is [To verify]; 28 is the last supplied total before the later riverside rest. Type/save/roll, temp HP, other party damage, reaction, concentration outcome and any new condition remain unreported. No dismount, retaliation or new spell is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding rock/goop outcome, 2026-10-10] **The dropped [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) hits a rock and turns into goop, wrapping into the rock.** Cause, death/survival, numerical damage and camp reply are unknown. No new Dain action or reaction is supplied; the countdown remains his latest personal action. His earlier no-violence guarantee stays recorded. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest personal action, 2026-10-10] **Dain begins a countdown and threatens, “if you don’t reveal for negotiations we will rain hellfire down upon you”. The countdown reaches 0.** This follows his earlier no-violence guarantee; the promise and escalation both remain recorded. No actual hellfire spell, guano use or bombing is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Preceding bird-form drop, before the impact, 2026-10-10] **[Tona](./Tona.md) in bird form lifts the [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the fire pit as a warning.** Tona's identity, the goblin's condition and the camp's response remain unreported. No attack roll, damage, intimidation outcome, organisers' explanation, Wet ending or numerical resource change is assigned.
@@ -169,6 +175,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## What Is Uncertain
 
+- Current HP immediately before/after the confirmed 11 grenade damage; damage type/save/roll, temp HP, other ground-group effects, attacker identity and any supplied response or ongoing-effect outcome.
+
 - Latest rock/goop outcome: why the goblin changes, death/survival, full absorption or further movement, numerical damage, party/camp reaction and any negotiations. No new personal Dain response is reported.
 
 - Latest countdown/warning: starting count/time, camp reply or negotiation outcome, the dropped flanking goblin's condition and identity, Tona's possible Tina alias, and how the earlier no-violence guarantee is handled. “Hellfire” remains a threat with no executed fire attack reported.
@@ -261,7 +269,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Character-only] Prove that strange edge-case spells can hold wonder, elegance, and real value even when no one else sees the point.
 
 ## Mechanical Snapshot
-- Wizard 5 selected on 2026-09-12, adding **Major Image + Stinking Cloud**. Current HP **28**, confirmed 2026-10-03 after interrupted rest; maximum HP remains to verify. **Dwarven Half Plate is equipped**, clarified 2026-10-03; exact AC is unresolved, with AC 17 conditional on the recorded standard magical +2 interpretation. Speed 30 ft.; spell save DC 16; spell attack +8; CON save +5; medium armour training confirmed. Breastplate attunement was last confirmed 2026-07-11; no change is reported. See [Current State](../../Character/Current%20State.md).
+- Wizard 5 selected on 2026-09-12, adding **Major Image + Stinking Cloud**. Current HP **[To verify after 11 grenade damage on 2026-10-10]**; **28** was last supplied 2026-10-03 after an interrupted rest, before the later riverside rest. No intervening recovery or current total is assumed; maximum HP remains to verify. **Dwarven Half Plate is equipped**, clarified 2026-10-03; exact AC is unresolved, with AC 17 conditional on the recorded standard magical +2 interpretation. Speed 30 ft.; spell save DC 16; spell attack +8; CON save +5; medium armour training confirmed. Breastplate attunement was last confirmed 2026-07-11; no change is reported. See [Current State](../../Character/Current%20State.md).
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 
@@ -330,6 +338,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: Travels with the ground group while riding bear-form Stu, then successfully casts Suggestion on the smarter captive: **“you must do as I say and be silent”**. Resource expenditure, duration/concentration/ending and later response remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Enters the goblin camp riding Stu with Harry and Yuckie, backed by giant-eagle Tina. Casts Minor Illusion and delivers a booming, peaceful call for discussion with a no-violence guarantee: **“The truth needs liberation.”** No camp response or organisers' explanation is reported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Takes 11 damage when a goblin throws a fragmentation grenade at the ground group.** HP after the hit, type/save and other party effects remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 
