@@ -5,7 +5,7 @@
 *The hooded background figure is an illustrative stand-in. Christina's actual appearance and ancestry are unreported. [Prompt and references](../../Adventures/2026-10-10/stu-white-wolf-cloak-image-notes.md).*
 
 ## One-Line Summary
-The companion [Stu](./Stu.md) originally arrived with, now aboard the balloon carriage with Stu and Matt's moon elf / [Kagrenac](./The%20Astral%20Elf.md).
+The companion [Stu](./Stu.md) originally arrived with, now reported firing an arrow that destroys the last snake beside him; her exact character/player identity remains unreported.
 
 ## Table Role
 - Role and player: Unknown / To verify.
@@ -13,10 +13,20 @@ The companion [Stu](./Stu.md) originally arrived with, now aboard the balloon ca
 - Appearance, ancestry and class: Unreported.
 
 ## Confirmed Facts
+- [Broader encounter] [Confirmed latest shot, 2026-10-10] Christina fires an arrow with **17** reported; the hit snake **bursts, rips apart and is pierced to the ground**. Maitland clarifies it is **the one remaining beside Stu**. [Derived] Together with two prior deaths, all three local snakes are down. The three airborne pursuers remain unresolved. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+- [To verify mechanics] Raw-versus-modified 17, damage amount, weapon, ammunition stock, special arrow properties, shooting position and resources are unreported. No critical, class, character-name mapping or explosive arrow is inferred.
 - [Confirmed user clarification, 2026-10-10] Christina is who Stu originally arrived with. The date, place and circumstances of that arrival are unreported.
-- [Party] [Confirmed, 2026-10-10] Christina is in the balloon carriage with Stu and Kagrenac while Stu works on a white-wolf cloak. No action or dialogue is supplied for Christina. [Session](../../Adventures/2026-10-10.md).
+- [Party] [Confirmed earlier scene, 2026-10-10] Christina is in the balloon carriage with Stu and Kagrenac while Stu works on a white-wolf cloak. No action or dialogue was supplied for Christina in that earlier scene. Her current shooting position is unreported. [Session](../../Adventures/2026-10-10.md).
+
+## Arrow Destroys Stu's Last Local Snake - 2026-10-10
+
+![The arrow pins the disrupted snake to the ground; Christina remains off-frame](../../Adventures/2026-10-10/christina-arrow-destroys-last-snake-at-stu.png)
+
+- The image supports the reported shot outcome without inventing Christina's appearance. Fragmentation, arrow design/angle and impact styling are illustrative rather than damage, weapon or magical-property evidence. [Image notes](../../Adventures/2026-10-10/christina-arrow-image-notes.md).
 
 ## Related Entries
+- [Flying Snakes - 2026-10-10](./Flying%20Snakes%20-%202026-10-10.md)
+- [Snake follow-up](../Lore/Open%20Threads.md#four-flying-snakes-and-the-cliffs)
 - [Stu](./Stu.md)
 - [Kagrenac / Matt's Moon Elf](./The%20Astral%20Elf.md)
 - [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
