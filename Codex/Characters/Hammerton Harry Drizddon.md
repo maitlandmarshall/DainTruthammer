@@ -24,6 +24,8 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 
 ## Status
 
+- [Latest incoming damage, 2026-10-10] **Harry takes 6 damage from [Dain's Thunderclap](../Powers/Thunderclap.md) during his run toward the bottleneck; the reported darkness is removed, and a goblin separately takes 6.** Current HP is [To verify]; the old sheet 31/31 is not a confirmed pre-hit total. No new Harry action, reaction, movement, condition or resource use is supplied. [Session](../../Adventures/2026-10-10.md).
+
 - [Latest confirmed camp entry, 2026-10-10] **Harry enters the goblin camp on foot with Yuckie, alongside Dain riding bear-form Stu, backed by giant-eagle Tina after Kagrenac's Polymorph.** Dain makes a booming Minor Illusion announcement and guarantees no violence for the requested discussion. No Harry speech, attack, acceptance of that guarantee, new roll/resource use, prior intimidation outcome or chest-return completion is reported. The older warnings and hauling entries below remain preceding history. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding confirmed action and travel, 2026-10-10] **Harry goes on foot with Yuckie, Dain and Stu, Dain riding bear-form Stu; the others go by blimp. Harry intimidates the “dumb” captive:** “ That brother, brothers fam, you better listen to them very carefully.” The warning and attempt are confirmed; roll, mechanical outcome and captive response/compliance remain unreported. No kinship, further strike, new damage or chest-return completion is established. Dain's separate Suggestion on the smarter captive succeeds. Earlier chest-haul and punishment entries below are preceding beats. [Session](../../Adventures/2026-10-10.md).
@@ -50,6 +52,16 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] XP: 1775.
 - [Party] [Confirmed] Present at the forest camp when [Brother Taleesh](./Brother%20Taleesh.md) arrives on 2026-05-03.
 - [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
+
+## Six Damage From Dain's Thunderclap - 2026-10-10
+
+- **Takes 6 damage from Dain's Thunderclap.** The same supplied beat removes the reported darkness and deals 6 to an unidentified goblin.
+- Current HP, damage type, save/roll, exact position and any condition remain unreported. The earlier sheet snapshot 31/31 does not establish her pre-hit HP, so no current total is calculated.
+- No push/fall, retaliation, reaction, Wet change, new Harry attack or resource use is supplied. [Session](../../Adventures/2026-10-10.md).
+
+![Dain's Thunderclap clears the reported darkness and deals 6 damage each to Harry and an unidentified goblin](../../Adventures/2026-10-10/dain-thunderclap-bottleneck-darkness-cleared.png)
+
+- Two panels illustrate the supplied movement and table-reported spell outcome. Positions, poses, pulse/terrain/light are illustrative; no measured radius, push, extra damage or general darkness-dispelling property is established. [Image notes](../../Adventures/2026-10-10/bottleneck-thunderclap-image-notes.md).
 
 ## Ground Route And Captive Warning - 2026-10-10
 
@@ -142,7 +154,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 
 ## Mechanical Snapshot
 - AC: 18.
-- HP: 31/31.
+- HP: current [To verify] after 6 damage from Dain's Thunderclap on 2026-10-10. Imported sheet maximum: 31; earlier sheet snapshot `31/31` is not a verified pre-hit total for this beat.
 - Initiative: +1.
 - Speed: 35 ft.
 - Proficiency Bonus: +2.
@@ -243,6 +255,8 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-10-10: Takes the ground route with Yuckie, Dain riding bear-form Stu, then intimidates the “dumb” captive with **“ That brother, brothers fam, you better listen to them very carefully.”** Roll, outcome and reaction are unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Joins the ground group's goblin-camp entrance beside Dain riding Stu and Yuckie, backed by giant-eagle Tina. Dain calls for discussion and guarantees no violence; no new individual Harry action or intimidation result is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Takes **6 damage** from Dain's Thunderclap; current HP, type/save and exact position unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## River Prospecting - 2026-10-10
 

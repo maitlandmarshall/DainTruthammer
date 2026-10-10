@@ -52,7 +52,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
-- [Latest personal movement/discovery, 2026-10-10] **Dain runs back toward the bottleneck on the party's approach route and realises goblins emerging from a wall crack have tricked and are flanking the gang.** His current movement is running; the transition off Stu, distance, formal Dash and arrival/escape remain unreported. Expeditious Retreat is the last confirmed concentration and Suggestion is ended; no new HP/resource change or attack is supplied. Count/identities and any warning to the others remain open. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
+- [Latest personal cast, 2026-10-10] **Dain runs toward the bottleneck, casts [Thunderclap](../Powers/Thunderclap.md), removes the reported darkness and deals 6 damage each to [Harry](./Hammerton%20Harry%20Drizddon.md) and an [unidentified goblin](./Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md).** Distance/Dash/arrival, damage type/saves, recipient current HP and removal mechanism are unreported. Expeditious Retreat remains last confirmed concentration; no new own damage, condition or numeric resource change is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding personal movement/discovery, 2026-10-10] **Dain runs back toward the bottleneck on the party's approach route and realises goblins emerging from a wall crack have tricked and are flanking the gang.** His current movement is running; the transition off Stu, distance, formal Dash and arrival/escape remain unreported. Expeditious Retreat is the last confirmed concentration and Suggestion is ended; no new HP/resource change or attack is supplied. Count/identities and any warning to the others remain open. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 - [Preceding casting/concentration change, 2026-10-10] **Casts [Expeditious Retreat](../Powers/Expeditious%20Retreat.md) and drops concentration on [Suggestion](../Powers/Suggestion.md) on the smarter captive, ending it.** [Derived standard 2014 effect] Current concentration is Expeditious Retreat. The cast itself supplied no movement; the following beat records Dain running toward the approach bottleneck. Casting source/expenditure and captive reaction remain unreported; shared cuffs and Dain's HP question have no new change. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat); [session](../../Adventures/2026-10-10.md).
 
@@ -104,6 +106,16 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [To verify] Exact max HP after level 4 and Resilient: Constitution; `29` is the likely value under normal retroactive CON handling.
 - [Confirmed by user from DM] Dain and/or the Truthhammers have a half-Azer connection; exact scope and implications are [To verify].
 - [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
+
+## Thunderclap At The Bottleneck - 2026-10-10
+
+- **Runs toward the bottleneck and casts [Thunderclap](../Powers/Thunderclap.md), removing the reported darkness. Harry and the unidentified goblin each take 6 damage.**
+- This is the table-reported spell outcome. Darkness source/extent/mechanism, damage type/saves and exact positions are unreported; no general dispelling property is assigned.
+- No movement distance, formal Dash/arrival, new own damage, slot/resource cost, Wet ending or concentration change is supplied. [Session](../../Adventures/2026-10-10.md).
+
+![Dain's Thunderclap clears the reported darkness and deals 6 damage each to Harry and an unidentified goblin](../../Adventures/2026-10-10/dain-thunderclap-bottleneck-darkness-cleared.png)
+
+- Two panels illustrate the supplied movement and table-reported spell outcome. Positions, poses, pulse/terrain/light are illustrative; no measured radius, push, extra damage or general darkness-dispelling property is established. [Image notes](../../Adventures/2026-10-10/bottleneck-thunderclap-image-notes.md).
 
 ## What The Character Knows
 
@@ -190,6 +202,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] Kagrenac openly accuses Dain of murder and states that he no longer trusts him.
 
 ## What Is Uncertain
+
+- Latest Thunderclap: recipient current HP and goblin identity, type/saves/rolls/radius, exact movement/arrival and darkness source/extent/removal mechanism. Reported outcome is darkness removal and 6 damage to Harry and the goblin.
 
 - Current HP immediately before/after the confirmed 11 grenade damage; damage type/save/roll, temp HP, other ground-group effects, attacker identity and any supplied response or ongoing-effect outcome.
 
@@ -364,6 +378,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: **Casts Expeditious Retreat and explicitly drops Suggestion concentration on the smarter captive.** Suggestion is ended; actual next movement and the goblin's behaviour are unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Runs back toward the approach-route bottleneck and spots goblins emerging from a wall crack to flank the gang, realising they have tricked the group. Count/identities, warning to others, movement total/formal Dash and arrival are unreported. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Runs toward the bottleneck and casts Thunderclap, removing the reported darkness; Harry and one unidentified goblin each take **6 damage**. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 

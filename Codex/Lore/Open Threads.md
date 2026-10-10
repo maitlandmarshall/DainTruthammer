@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest bottleneck Thunderclap] **Dain runs toward the bottleneck and casts Thunderclap, removing the reported darkness and dealing 6 damage each to Harry and an unidentified goblin.** Recipient current HP and removal mechanism remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest main-tent exchange] **The snake creature facing Taleesh attacks him twice; both miss.** Contextually indexed to the encountered yuan-ti; types/rolls and next actions remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest goblin critical failure] **An unidentified goblin tries to throw a javelin, critically fails and falls to the ground.** Intended target/identity, exact roll, fall distance, damage/condition and weapon outcome remain unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -140,7 +142,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **The snake creature facing Brother Taleesh attacks him twice and misses both times.** Contextually indexed to the main-tent yuan-ti; attack types/rolls and organiser purpose remain unknown. No new personal HP/resource outcome, defensive action, Wet ending or round is supplied. The prior goblin fall, ship position/height, attached roof and other actors' states remain recorded without a new outcome.
+- Status: **Dain runs toward the bottleneck, casts Thunderclap and removes the reported darkness. Harry and one unidentified goblin each take 6 damage.** Remaining recipient HP, identity, type/saves/radius, precise movement and darkness mechanism remain unreported. Expeditious Retreat remains last confirmed concentration; prior ship/roof/Taleesh/yuan-ti and captive states have no new outcome.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Centre arrival beside the fire and current 75-foot aerial height are now confirmed after Kagrenac's 25-foot descent. Record any next ship movement/action, supplied bearing/gap and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -178,6 +180,8 @@
 - Javelin failure follow-up: Confirm the intended target when supplied, then record actual identity, roll, fall/condition/damage and weapon consequences. The provided critical failure and ground fall do not establish a natural 1, fall from the 75-foot-high blimp, death or extra fumble. [Descriptive goblin entry](../Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md).
 
 - Main-tent attack follow-up: Two attacks at Taleesh miss. Keep the attacker contextually indexed to the yuan-ti and record actual next actions, any corrected identity or supplied weapon/roll details. Do not infer a general Multiattack rule, defensive resource use, new damage or an answer to the organisers' purpose. [Taleesh scene](../Characters/Brother%20Taleesh.md#two-incoming-attacks-miss---2026-10-10).
+
+- Thunderclap follow-up: Record recipient current HP and goblin identity, supplied type/saves/radius, actual movement/arrival and darkness source/removal mechanism. Keep the reported 6 damage to each and local darkness removal without inferring a general dispelling rule, all-cloud removal, forced movement, kill or new resource/concentration outcome. [Spell record](../Powers/Thunderclap.md).
 
 ### Goblins In The Balloon Carriage
 

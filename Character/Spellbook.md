@@ -13,7 +13,7 @@
 
 ## Cantrips On Sheet
 - Ray of Frost
-- Thunderclap
+- [Thunderclap](../Codex/Powers/Thunderclap.md)
 - Infestation
 - Mage Hand [Confirmed] via Magic Initiate (Wizard)
 - [Minor Illusion](../Codex/Powers/Minor%20Illusion.md) [Confirmed] via Magic Initiate (Wizard)

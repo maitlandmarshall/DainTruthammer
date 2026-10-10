@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where the snake creature facing Brother Taleesh at the main tent, contextually the yuan-ti, attacks him twice and misses both times.
+The organised goblin camp where Dain runs toward the approach bottleneck and casts Thunderclap, removing the reported darkness and dealing 6 damage each to Harry and an unidentified goblin.
 
 ## Confirmed Discovery
 
@@ -109,6 +109,16 @@ The organised goblin camp where the snake creature facing Brother Taleesh at the
 ![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Dain Thunderclaps At The Bottleneck - 2026-10-10
+
+- **[Dain](../Characters/Dain%20Truthammer.md) runs toward the bottleneck and casts [Thunderclap](../Powers/Thunderclap.md), removing the reported darkness and dealing 6 damage each to [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) and an [unidentified goblin](../Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md).**
+- Removal is the reported table outcome; source/cloud identity, extent and mechanism remain unknown. It does not establish that all other darkness is removed, a named spell/caster, automatic concentration failure or a general Thunderclap dispelling rule.
+- Exact movement/arrival/Dash, damage type/saves/radius, goblin identity and recipient current HP are unreported. No forced movement, fall, kill, new Dain damage, condition/resource use or round is assigned. Prior ship/roof/Taleesh/yuan-ti states receive no new outcome. [Session](../../Adventures/2026-10-10.md).
+
+![Dain's Thunderclap clears the reported darkness and deals 6 damage each to Harry and an unidentified goblin](../../Adventures/2026-10-10/dain-thunderclap-bottleneck-darkness-cleared.png)
+
+- Two panels illustrate the supplied movement and table-reported spell outcome. Positions, poses, pulse/terrain/light are illustrative; no measured radius, push, extra damage or general darkness-dispelling property is established. [Image notes](../../Adventures/2026-10-10/bottleneck-thunderclap-image-notes.md).
 
 ## Snake Creature's Two Attacks Miss Taleesh - 2026-10-10
 
@@ -263,6 +273,8 @@ The organised goblin camp where the snake creature facing Brother Taleesh at the
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest Thunderclap: goblin identity and both recipient current HP, exact movement/arrival/Dash, damage type/saves/radius and darkness source/extent/removal mechanism. Darkness removal and 6 damage each to Harry and the goblin are confirmed.
 
 - Latest two misses at Taleesh: exact attacker identity if the contextual yuan-ti reading differs, attack types/weapons, raw/modified rolls, reach/range and next actions. No defensive action, personal damage/resource use or organiser explanation is supplied.
 
