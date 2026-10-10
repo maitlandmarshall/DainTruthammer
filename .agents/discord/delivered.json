@@ -149,5 +149,10 @@
     "fingerprint": "66d3a57349ea25b010778c3cecdc322e519e40a0ffd008baaf427acf5f8c41fc",
     "status": "confirmed",
     "message_id": "1558345368863903754"
+  },
+  "2026-10-10-012-nightmare-circle-and-truthammer-sleep": {
+    "fingerprint": "30ec4ac1c37fcf294a3e28ae4d0171e4efa463fe5769f77bd8ccd28af536a945",
+    "status": "confirmed",
+    "message_id": "1558348485894340608"
   }
 }
