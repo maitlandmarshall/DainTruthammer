@@ -8,11 +8,17 @@
 
 - Kagrenac's Polymorph makes Tina the giant eagle; Dain casts Minor Illusion and delivers the booming call for discussion, guaranteeing no violence. Camp response remains unreported. Poses, sound rings, plumage, camp shelters/banners/decorative devices, lights and aerial spacing are illustrative; no discovered faction emblem, tactical layout, accepted guarantee, resource ruling or attack is established. [Image notes](../../Adventures/2026-10-10/bear-eagle-camp-entrance-image-notes.md).
 
+![The visible goblin moves behind a tent and is no longer in view in the next panel](../../Adventures/2026-10-10/goblin-dashes-behind-tent.png)
+
+- Sequential staging supports the reported loss of view behind the tent. Goblin appearance/clothes, motion marks, shelter shapes/count, light and scenery are illustrative, without a stat block, player identity, map layout, stealth result, magical vanishing, motive or later destination established. [Image notes](../../Adventures/2026-10-10/goblin-behind-tent-image-notes.md).
+
 ## One-Line Summary
 
 An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh, now entered by Dain riding bear-form Stu with Harry and Yuckie, backed by giant-eagle Tina; Dain calls for peaceful discussion and the camp's response is unreported.
 
 ## Confirmed Discovery
+
+- [Latest confirmed movement, 2026-10-10] **The visible [goblin](../Characters/Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** A goblin and tent landmark are now explicitly reported; exact identity, role, route/destination and motive remain open. No total population, map coordinate, magical disappearance, alarm or spoken reply to Dain is supplied. Older no-response snapshots below record the preceding entrance/discovery context. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed ground entry, 2026-10-10] **Dain riding bear-form Stu, Harry and Yuckie now enter the camp, backed by Tina as a giant eagle following Kagrenac's Polymorph. Dain casts Minor Illusion and makes a booming announcement calling the goblins out for discussion and guaranteeing no violence. “The truth needs liberation.”** Exact entry/positions, aerial movements, camp inhabitants' response and negotiations remain unreported. The entries below record earlier discoveries and their then-unresolved arrival details. [Session](../../Adventures/2026-10-10.md).
 
@@ -37,6 +43,14 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 
 - Taleesh's discovery is confirmed; posture, gaze, vegetation, lighting and obscured shelter glimpses are illustrative. No map key, creature count, tactical layout, arrow-source clue, stealth/check result or further action is established. [Image notes](../../Adventures/2026-10-10/taleesh-goblin-camp-image-notes.md).
 
+## Goblin Disappears Behind A Tent - 2026-10-10
+
+- The one reported visible goblin **suddenly dashes behind a tent and disappears from view**.
+- This is the latest reported camp movement after Dain's announcement. A motive or causal reaction to the announcement is not supplied.
+- Behind the tent is the last reported visibility landmark, without an exact coordinate, route, tent entrance, later destination, reappearance or observer.
+- Name, affiliation/role, relation to Yuckie or the two captives, population, movement speed/distance, Dash-action/stealth ruling, alarm, trap, reinforcements and attacks remain unreported.
+- Dain's guarantee and request for discussion remain recorded; actual words in response, acceptance/negotiations and why the snake people organise the goblins remain open. [Goblin record](../Characters/Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+
 ## Ground Entrance And Peaceful Declaration - 2026-10-10
 
 - Ground group: **Dain riding Stu in bear form, Harry and Yuckie**. Their entrance is now reported; exact route, entry point, positions and movement distances remain unreported.
@@ -54,6 +68,8 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest goblin movement: identity, role, affiliation, motive, route/exact position after going behind the tent, reappearance and observer-specific visibility. Ordinary loss of view is reported; no invisibility, teleportation, stealth result, alarm or negotiated answer is supplied.
 
 - Latest entrance: camp occupants' emergence/reaction, acceptance of Dain's no-violence terms, actual dialogue/negotiations and whether his guarantee is kept. Ground entry is confirmed; exact ground/eagle/blimp positions, captive transport, Polymorph resources/duration/ending and the organisers' explanation remain open.
 

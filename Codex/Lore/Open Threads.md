@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Visible goblin now out of view] **The visible goblin suddenly dashes behind a tent and disappears from view.** Record its further position/route, identity, reappearance or actual reply when supplied. Its motive and the response to Dain's peaceful offer remain open. [Camp and questioning](#organised-goblin-camp-and-dains-question).
+
 - [Ground entry; peaceful declaration; eagle support] **Dain riding bear-form Stu, Harry and Yuckie enter the goblin camp, backed by Tina as a giant eagle following Kagrenac's Polymorph. Dain's Minor Illusion and booming voice call the goblins out for discussion, guaranteeing no violence: “The truth needs liberation.”** Record camp response/negotiations, whether the guarantee is accepted/kept, and any organisers' explanation when supplied. [Camp and questioning](#organised-goblin-camp-and-dains-question).
 - [Latest chronology] Ground-group arrival and the public announcement supersede the preceding no-arrival/latest-Suggestion snapshots below. Polymorph details and Tina's identity remain open; no attack or NPC response is inferred.
 
@@ -108,7 +110,10 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **The ground group now enters the camp: Dain riding bear-form Stu, with Harry and Yuckie, backed by Tina as a giant eagle after Kagrenac's Polymorph. Dain casts Minor Illusion and delivers a booming announcement calling the camp's goblins out for discussion and guaranteeing no violence: “The truth needs liberation.”** Camp response, accepted terms, discussion outcome and the organisers' purpose remain unreported.
+- Status: **The visible goblin suddenly dashes behind a tent and disappears from view.** Its identity, further route/position, motive and observer remain unreported. The preceding ground entrance and Dain's peaceful guarantee are unchanged; no spoken response, negotiated agreement, alarm or attack is supplied.
+- Visibility and next record: A tent is the last reported landmark. Record actual further movement, reappearance, identity or dialogue when supplied, without turning “dashes” into a named action or loss of view into invisibility/teleportation/Hidden. The report supplies one visible goblin, not the camp's total population. [Goblin record](../Characters/Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md).
+
+- Preceding entrance and declaration: **The ground group now enters the camp: Dain riding bear-form Stu, with Harry and Yuckie, backed by Tina as a giant eagle after Kagrenac's Polymorph. Dain casts Minor Illusion and delivers a booming announcement calling the camp's goblins out for discussion and guaranteeing no violence: “The truth needs liberation.”** Camp response, accepted terms, discussion outcome and the organisers' purpose remain unreported.
 - Discovery history: Kagrenac's owl first finds the organised camp; Taleesh later stumbles upon it, the next tabletop map. The attached photo remains unkeyed, with no assigned terrain/creature identities or scale. Taleesh's exact route, observations, detection and information relay remain open; the latest report adds the ground group's entrance without exact geometry or whole-party arrival.
 - Captive history: The party wakes the same two captives at the balloon. Dain asks in rhyme, “why are you organised, little goblins”, seeks them as leverage, then successfully casts Suggestion on the “smart” captive: “you must do as I say and be silent”. Harry intimidates the other: “ That brother, brothers fam, you better listen to them very carefully.” Her roll/outcome and the captive's response remain unreported. Shared hand/foot cuffs remain last confirmed; current captive transport/camp arrival remain open. Yuckie is separate.
 - Mission context: Learn **why the snake people organise goblins**, described as the main mission. Their purpose, proper faction identity and relation to the older Yuan-ti report remain unknown. Earlier captive-recovery and southwestern warning/rally objectives are not cancelled.
