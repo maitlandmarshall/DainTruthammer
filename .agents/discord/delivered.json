@@ -294,5 +294,10 @@
     "fingerprint": "ef0d2b542a5f5a89c3cd8b99dcad022e43675a773eb01f4b407e476b78bc03a0",
     "status": "confirmed",
     "message_id": "1558436365035896862"
+  },
+  "2026-10-10-041-goblin-fragmentation-grenade-dain-hit": {
+    "fingerprint": "a5e078c8519a84dc9b749f8ccf0b381b4f8b426a0d786f0f259008cf6ae01e67",
+    "status": "confirmed",
+    "message_id": "1558439078003740793"
   }
 }
