@@ -8,6 +8,7 @@
 The chest taken by the two goblins after the balloon-carriage alarm, now part of their dramatic fall and dirt slide after Kagrenac puts them to sleep; likely the ship tracker's Chest of Preserving.
 
 ## Status
+- [Encounter follow-up, 2026-10-10] [Brother Taleesh](../Characters/Brother%20Taleesh.md) manacles both goblins while they sleep, restraining them. **This supplies no chest recovery, inventory return or updated control.** [Session](../../Adventures/2026-10-10.md).
 - [Broader party encounter; Dain unaware] [Confirmed latest event, 2026-10-10] During [Stu's](../Characters/Stu.md) bear-form chase, [Kagrenac](../Characters/The%20Astral%20Elf.md) puts both goblins to sleep. **They fall dramatically to the ground, with the chest causing a dramatic slide through the dirt.** The chest was last carried by them; final resting position, grips/control and party recovery remain unreported. No damage, opened lid or spilled contents is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed earlier possession] Taleesh's grapple fails; both goblins run away carrying the chest before the reported chase, sleep and fall.
 - [Party] [Confirmed, 2026-10-10] The **Chest of Preservation**, as named by Maitland, is dropped over the [balloon carriage's](../Places/Party%20Skyship%20-%202026-08-29.md) side in the middle of the night.

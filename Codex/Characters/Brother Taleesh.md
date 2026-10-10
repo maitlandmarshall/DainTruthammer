@@ -11,8 +11,9 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - DM: Tom.
 
 ## Status
-- [Broader party encounter; Dain unaware] [Last reported Taleesh action, 2026-10-10] Taleesh tries to grapple the [goblins](./Goblin%20Intruders%20-%202026-10-10.md) but **fails to catch them**. At that point they keep running with the [chest](../Items/Chest%20of%20Preservation.md). No roll, number of attempts, injury or extra consequence is supplied; any later Taleesh action remains unreported. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
-- [Subsequent party outcome, 2026-10-10] Stu chases in brown-bear form; Kagrenac puts both goblins to sleep. They fall dramatically, with the chest causing a dirt slide. This supplies no additional Taleesh action or resource use. [Session](../../Adventures/2026-10-10.md).
+- [Broader party encounter; Dain unaware] [Latest Taleesh action, 2026-10-10] **Taleesh runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both sleeping [goblins](./Goblin%20Intruders%20-%202026-10-10.md), restraining them.** No waking, injury, chest recovery or further handling is supplied. Manacle source/count, arrangement, keys and mechanics remain unreported; no formal Restrained condition, stock deduction or ki use is assigned. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
+- [Earlier Taleesh action, 2026-10-10] Taleesh tries to grapple the goblins but fails to catch them; they continue running with the chest at that point. No roll, number of attempts, injury or extra consequence is supplied.
+- [Preceding party outcome, 2026-10-10] Stu chases in brown-bear form; Kagrenac puts both goblins to sleep. They fall dramatically, with the chest causing a dirt slide. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed earlier action, 2026-10-10] The goblins jump off the balloon carriage and disappear into two clouds of darkness. Brother Taleesh jumps down into the farther cloud and swings blindly, rolling a **natural 1**. Maitland explicitly confirms **he just misses; nothing else happens to him**. Attack form/weapon, exact target, position and cloud mechanics remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed] Onboarded from user-provided backstory and sheet images on 2026-05-03.
 - Source images: [charsheet1](../../Assets/Brother%20Taleesh/charsheet1.png), [charsheet2](../../Assets/Brother%20Taleesh/charsheet2.png).
@@ -28,6 +29,12 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Manacling The Sleeping Goblins - 2026-10-10
+
+![Brother Taleesh restrains both sleeping goblins with manacles](../../Adventures/2026-10-10/taleesh-manacles-sleeping-goblins.png)
+
+- The manacling is confirmed; cuff configuration, poses, chest placement and lighting are illustrative. Only ordinary arms are shown. No astral-arm activation, waking, injury, equipment count/source, formal condition mechanics or chest recovery is established. [Image notes](../../Adventures/2026-10-10/manacles-image-notes.md).
 
 ## Failed Grapple And Goblin Flight - 2026-10-10
 
