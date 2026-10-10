@@ -1,7 +1,8 @@
 # Open Threads
 
-- [Party] [Latest scene] **[Stu](../Characters/Stu.md), in brown-bear form, works on a white-wolf cloak in the balloon carriage with Matt's moon elf / [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).** The cloak remains in progress. [Cloak and companion follow-up](#stus-white-wolf-cloak-and-christina); [active session](../../Adventures/2026-10-10.md).
-- [Confirmed] **Current focus: Dain's airship spell research. Magic Mouth is learned; all scrolls are consumed.** Leaky Tent refinement using Stinking Cloud continues, with no revised mechanics reported. His two spell-storing stones remain one with Cure Wounds and one spell choice pending. Spell resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields, **750 XP** allocation and rest recovery remain open. [Active session](../../Adventures/2026-10-10.md)
+- [Party] [Latest scene] **The party camps near a river. Dain puts up Leaky Tent and enjoys the long rest frolicking between tent and river.** Current resource totals and casting details remain open. [Riverside follow-up](#riverside-rest-and-leaky-tent); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
+- [Party] [Earlier scene] **[Stu](../Characters/Stu.md), in brown-bear form, works on a white-wolf cloak in the balloon carriage with Matt's moon elf / [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).** No completion is reported. [Cloak and companion follow-up](#stus-white-wolf-cloak-and-christina); [active session](../../Adventures/2026-10-10.md).
+- [Carry-forward research] **Magic Mouth is learned; all scrolls are consumed.** Earlier airship Leaky Tent refinement using Stinking Cloud remains unapproved as a revision. Dain's two spell-storing stones remain one with Cure Wounds and one spell choice pending. Current resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields and **750 XP** allocation remain open. [Active session](../../Adventures/2026-10-10.md)
 
 ## Current Live Focus - 2026-10-10
 
@@ -9,7 +10,7 @@
 - [Table-side startup] [Session 2026-10-10](../../Adventures/2026-10-10.md) resumed from the final 2026-10-03 airship scene without establishing an elapsed interval, arrival or resource recovery. The first subsequent scene is Stu's cloak-making with Kagrenac and Christina; it supplies no Dain resource change.
 - [Party] [Open] Follow [Stu's white-wolf cloak and Christina](#stus-white-wolf-cloak-and-christina): record reported progress or completion, materials and properties; establish Christina's appearance and table role when supplied.
 - [Character-only] [Open] Choose the spell for Dain's second [spell-storing stone](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings), then confirm release/loading costs, eligible users, reuse and attunement with Tom. One stone already contains Cure Wounds; no spell is selected for the other at startup.
-- [To verify] Refresh the table snapshot: **28 HP last confirmed**, remaining spell slots/Hit Dice, maximum HP, prepared list, current cloud use and whether Wet has ended. Magic Mouth is learned and all scrolls are consumed; no rest reset is assumed.
+- [Party] [Confirmed] Dain puts up Leaky Tent at the new river camp and enjoys the narrated long rest frolicking. [Open] Record casting level/mode, current HP and any actual recovered slots/Hit Dice. **28 HP predates this rest**, and maximum HP/prepared list remain open. Tent entry applies Wet; no ending is reported. [Riverside rest](#riverside-rest-and-leaky-tent).
 - [Party] [Open] Identify the destination tower/current route and establish the ship's condition, burial/retrieval details, weather and any arrival. Airship travel has resumed, but those details remain unreported. [Skyship](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Character-only] [Open] Continue [Leaky Tent research](../Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03); record approved results rather than promoting the meditation or floating artwork into mechanics. Keep paternal reflection private.
 - [Party / Table-side] [Open] Reconcile [treasure and harvest](../../Character/Party%20Loot.md), mining totals/allocation, **750 XP** scope, Olly's condition and Taleesh's return aboard. No personal gem share or XP total is assigned.
@@ -138,6 +139,12 @@
 - Next possible action: Bring up the forest while planning the route and recover the warning's details before approaching it.
 - Source wording: "Remind me next session or when we head back to daddy’s to head to the dark forest the people of the town warned us about to the north of the last town we were in".
 - Source: [Session 2026-10-10](../../Adventures/2026-10-10.md).
+
+### Riverside Rest And Leaky Tent
+- Status: Open; [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md) recorded in [Session 2026-10-10](../../Adventures/2026-10-10.md).
+- [Party] [Confirmed] Dain puts up [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) and spends the narrated long rest frolicking between tent and river, enjoying himself.
+- [Open] Record current HP and recovered spell slots/Hit Dice, casting level, ritual/slot use, tent duration/ending and any drying event when supplied. No numerical rest reset is inferred.
+- [Open] Identify the river, route and ship arrangements. Do not equate this site with an earlier river camp, the northern dark forest or the destination tower without evidence.
 
 ### Stu's White Wolf Cloak And Christina
 - Status: Open; introduced in [Session 2026-10-10](../../Adventures/2026-10-10.md).

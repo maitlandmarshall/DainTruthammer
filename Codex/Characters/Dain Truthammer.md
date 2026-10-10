@@ -11,7 +11,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - DM: Tom.
 
 ## Status
-- [Confirmed latest update on 2026-10-03] Dain is travelling aboard the airship and **learns Magic Mouth from scrolls**, using up all three remaining copies. He continues Leaky Tent refinement while using Stinking Cloud. [Character-only] His father's disappointment remains a focus of reflection. No revised spell, HP change or rest recovery is reported. [Spellbook](../../Character/Spellbook.md#2nd-level-spells-learned-in-play); [Session](../../Adventures/2026-10-03.md).
+- [Party] [Confirmed, 2026-10-10] Dain is at the party's [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md). He puts up Leaky Tent and spends the narrated long rest moving between his tent and the river, frolicking and enjoying himself. Casting level/mode and recovered resources are unreported. [Session](../../Adventures/2026-10-10.md).
+- [Prior airship update on 2026-10-03] Dain travels aboard the airship and **learns Magic Mouth from scrolls**, using up all three remaining copies. He continues Leaky Tent refinement while using Stinking Cloud. [Character-only] His father's disappointment is a focus of reflection in that scene. No revised spell, HP change or rest recovery is reported there. [Spellbook](../../Character/Spellbook.md#2nd-level-spells-learned-in-play); [Session](../../Adventures/2026-10-03.md).
 - [Confirmed] Baseline imported from [Dicfuc_164465751.pdf](../../Dicfuc_164465751.pdf) on 2026-04-18.
 - [Confirmed] Mechanically a level 5 dwarf wizard with Sage background and School of Conjuration subclass.
 - [Confirmed] Alignment confirmed by user as `Chaotic Good` on 2026-04-18.
@@ -242,7 +243,15 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-07-11: Dain leaves the audience and heads with the party toward the Truthammer settlement's [bathhouses](../Places/Berronar%20Truesilver%20Bathhouses.md), associated table-side with the uncertain phrase `Barren Archer of Silver hand`, likely Berronar Truesilver. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify proper name and dedication]
 - 2026-07-11: Dain trades a truth for a truth with the [southern human traders](../Factions/Southern%20Human%20Traders.md) and [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). After the humans reveal that they seek to establish new trade and the puppet asks whether the mountain has a mine, Dain discloses that it contains one of the richest mines in the land. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify authorization, mine details, and five-truth accounting]
 
+## Riverside Frolicking - 2026-10-10
+
+![Dain thoroughly enjoys himself in the river beside his Leaky Tent](../../Adventures/2026-10-10/riverside-leaky-tent-frolicking.png)
+
+- The river camp, Leaky Tent deployment and Dain's enjoyment are confirmed. The long rest is narrated without new resource totals. [Session](../../Adventures/2026-10-10.md).
+- Splashing pose, shallow-water staging, camp equipment, tent proportions, background and light are illustrative. [Prompt and references](../../Adventures/2026-10-10/riverside-frolicking-image-notes.md).
+
 ## Related Entries
+- [Riverside Camp - 2026-10-10](../Places/Riverside%20Camp%20-%202026-10-10.md)
 - [Current State](../../Character/Current%20State.md)
 - [Inventory](../../Character/Inventory.md)
 - [Party Loot](../../Character/Party%20Loot.md)

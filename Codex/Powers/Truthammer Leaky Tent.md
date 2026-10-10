@@ -12,7 +12,16 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 - [Character-only] [Confirmed] This is the realized version of Dain's earlier anti-shelter research.
 - [To verify] Final spelling, school, components, exact rules language, saving throws, and whether it is cast as a ritual, a 1st-level spell, or both.
 
-## Current Casting - 2026-09-12
+## Current Riverside Casting - 2026-10-10
+
+![Dain frolics beside his newly put-up Leaky Tent at the river camp](../../Adventures/2026-10-10/riverside-leaky-tent-frolicking.png)
+
+- [Party] [Confirmed] Dain puts up Leaky Tent while the party camps near a river, then spends the narrated long rest going between tent and river, frolicking and enjoying himself. [Session](../../Adventures/2026-10-10.md); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
+- This is a new deployment after the earlier storm-stop casting was dismissed. Casting level, ritual/slot use, expenditure, exact size, elapsed duration and any ending event are unreported.
+- The existing Wet rules apply on entry. No new spell wording or revised mechanics are reported; the art does not establish the older 30-foot upcast.
+- Tent appearance, camp equipment, pose, terrain and sunset light are illustrative. [Prompt and references](../../Adventures/2026-10-10/riverside-frolicking-image-notes.md).
+
+## Prior Casting - 2026-09-12
 
 ![Thirty-foot third-level Leaky Tent](../../Adventures/2026-09-12/thirty-foot-leaky-tent.png)
 
