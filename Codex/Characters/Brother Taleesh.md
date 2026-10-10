@@ -7,14 +7,16 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 
 ## Table Role
 - Role: Player Character.
-- Player: Jackson / Jackbo.
+- Player: Jackson / Jack / Jackbo.
 - DM: Tom.
 
 ## Status
+- [Party] [Confirmed latest action, 2026-10-10] The goblins jump off the balloon carriage and disappear into two clouds of darkness. Brother Taleesh jumps down into the farther cloud and swings blindly, rolling a **natural 1**. Maitland explicitly confirms **he just misses; nothing else happens to him**. Attack form/weapon, exact target, position and cloud mechanics remain unreported. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
 - [Confirmed] Onboarded from user-provided backstory and sheet images on 2026-05-03.
 - Source images: [charsheet1](../../Assets/Brother%20Taleesh/charsheet1.png), [charsheet2](../../Assets/Brother%20Taleesh/charsheet2.png).
 - [Confirmed] Player: Jackson.
 - [Confirmed] Player aliases from user roster: Jackson / Jackbo.
+- Narration shorthand `Jack` is resolved through that roster entry in the 2026-10-10 blind-swing scene.
 - [To verify] The sheet image appears to list player name `Jakabo`; user specified Jackson / Jackbo, so this Codex uses the user-provided roster.
 - [Confirmed] Character name used by user and repo: Brother Taleesh.
 - [To verify] The sheet image appears to spell the name `Brother Taal'esh`; keep `Brother Taleesh` until corrected.
@@ -24,6 +26,13 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Blind Swing In The Farther Darkness Cloud - 2026-10-10
+
+![Taleesh follows the goblins into the farther darkness cloud and misses his blind swing](../../Adventures/2026-10-10/goblin-darkness-taleesh-blind-miss.png)
+
+- Reported roll: **natural 1**. Explicit result: **Taleesh just misses; nothing else happens to him**.
+- Face/clothing follow the portrait. Showing Taleesh at the cloud boundary is artistic presentation, not special vision. Exact stance, attack form, positions, distances and cloud properties remain unreported; no astral-arm activation, injury, falling mishap or additional resource use is established. [Image notes](../../Adventures/2026-10-10/goblin-darkness-image-notes.md).
 
 ## What Dain Knows
 - [Party] Brother Taleesh has arrived at the party's forest camp by camel, approached with his scimitar at low ready, and answered Dain's challenge in Common as "just a fellow traveller."

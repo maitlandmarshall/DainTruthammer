@@ -11,10 +11,11 @@
   - Table label: **Moon elf**; Maitland confirms Matt is the moon elf on 2026-10-10. This identifies Kagrenac without supplying a mechanical ancestry change.
   - Role: Player Character
 
-- Player: Jackson / Jackbo
+- Player: Jackson / Jack / Jackbo
   - Character: [Brother Taleesh](../Characters/Brother%20Taleesh.md)
   - Role: Player Character
   - Note: Prior sheet image looked like `Jakabo`; user roster now gives `Jackson/Jackbo`.
+  - Narration shorthand: `Jack`, used in the 2026-10-10 darkness-cloud attack, is resolved through Jackson / Jackbo's existing Brother Taleesh roster entry.
 
 - Player: Lachlan Pratt
   - Character: [Ollyander](../Characters/Ollyander.md)
@@ -32,7 +33,7 @@
   - Role: Dungeon Master
 
 ## Roster Rules
-- Resolve real-world player names to current character names in in-world replies, summaries, image prompts and Discord captions. Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander.
+- Resolve real-world player names to current character names in in-world replies, summaries, image prompts and Discord captions. Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jack / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander.
 - Preserve raw user quotes exactly; roster metadata and table-side discussion can still identify players. Unconfirmed names stay unconfirmed. This naming preference was explicitly requested by Maitland on 2026-10-10.
 - Mark player-controlled characters explicitly on their Codex character pages.
 - Preserve player aliases and character aliases when provided.

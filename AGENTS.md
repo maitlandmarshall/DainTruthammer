@@ -100,7 +100,7 @@ Current confirmed roster:
 
 * Matt / Matthew plays Kagrenac, formerly tracked as The Astral Elf
 * Maitland / user plays Dain Truthammer
-* Jackson / Jackbo plays Brother Taleesh
+* Jackson / Jack / Jackbo plays Brother Taleesh
 * Lachlan Pratt now plays Ollyander; Yuckie was the previously tracked Lachlan character and was reported captured by a gargantuan vulture-type creature [To verify exact status]
 * Norhan plays Hammerton Harry Drizddon, a Mountain Dwarf Fighter 3 with eldritch-martial spellcasting [To verify final subclass wording]
 * Tom is the DM
@@ -109,10 +109,19 @@ Current confirmed roster:
 
 When Maitland describes an in-world action using a real-world player's name, resolve it through [Table Roster](Codex/Lore/Table%20Roster.md) and use the current character's name in replies, story summaries, image prompts and Discord captions.
 
-* Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander, not the previously played Yuckie.
+* Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jack / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander, not the previously played Yuckie.
 * Use a familiar character short name, such as Harry or Dain, after the full name is established.
 * Keep verbatim user prompts unchanged as source evidence. Player names remain appropriate in roster metadata and table-side discussion.
 * If a mapping is unconfirmed, preserve the supplied name and mark the identity `[To verify]` rather than inventing a character.
+
+### 4c. Dice are rolled at the table
+
+Maitland always rolls in person during live play. Record the results he supplies; do not generate dice results for Dain, other party members or encounter creatures.
+
+* Treat dramatic calls such as "Roll initiative" as narration, not a request to roll on the user's behalf.
+* Keep reported raw rolls and modified totals distinct. Do not invent missing rolls, advantage/disadvantage results or turn order.
+* Apply explicit corrections to current summaries and state, preserving any superseded assistant result as marked history rather than canon.
+* Record the reported outcome of a natural 1 without adding an injury, fumble, dropped weapon or other consequence that Maitland has not supplied.
 
 ### 5. Keep it useful in play
 

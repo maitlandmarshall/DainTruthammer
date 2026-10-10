@@ -3,7 +3,7 @@
 ## Scene
 - Middle of the night: exactly two goblins are already in the balloon carriage, creeping up on the party.
 - The Chest of Preservation is dropped over the side, making the loud sound that alerts the party.
-- This reconstructs the alarm moment before any attack. Dain's requested initiative roll is 6; no other order or combat outcome is established.
+- This reconstructs the alarm moment before any attack. [Later correction] **Dain's actual table initiative is 7**, supplied by Maitland; the assistant-generated 6 was superseded and was never an IRL table result. No other order or combat outcome is established by this image.
 
 ## Generation
 - Mode: built-in imagegen; one new illustration using explicit references.

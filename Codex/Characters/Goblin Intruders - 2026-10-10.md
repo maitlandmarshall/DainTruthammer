@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![Two unnamed goblins inside the metal balloon carriage at the night-time chest-drop alarm](../../Adventures/2026-10-10/night-goblins-and-fallen-chest.png)
+![The two goblins jump into clouds of darkness, then Taleesh swings blindly in the farther cloud and misses](../../Adventures/2026-10-10/goblin-darkness-taleesh-blind-miss.png)
 
-- Their green skin, clothing, faces, poses and exact deck positions are illustrative; no weapons, statistics, identity or action outcome are established. [Image notes](../../Adventures/2026-10-10/night-goblin-alarm-image-notes.md).
+- Goblin appearance, cloud shape/spacing, exact positions and successive jump/swing poses are illustrative. The scene establishes no named darkness spell, special vision, jump height, specific attack weapon, damage or natural-1 mishap. [Image notes](../../Adventures/2026-10-10/goblin-darkness-image-notes.md).
 
 ## One-Line Summary
-Two unnamed goblins already inside the party's balloon carriage when a loud chest drop alerts the party in the middle of the night.
+Two unnamed goblins who trigger a night encounter in the balloon carriage, then jump off and disappear into two clouds of darkness.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,21 +13,26 @@ Two unnamed goblins already inside the party's balloon carriage when a loud ches
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+- [Party] [Confirmed latest action] The goblins jump off the carriage; two clouds of darkness appear, and the goblins disappear into them. No named spell, caster or complete escape is established.
+- [Party] [Confirmed response] [Brother Taleesh](./Brother%20Taleesh.md) jumps down into the farther cloud and swings blindly. **Natural 1: he just misses, with nothing else happening to him**, explicitly confirmed by Maitland.
 - [Party] [Confirmed, 2026-10-10] Exactly two goblins creep up on the party and are already in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Party] The [Chest of Preservation](../Items/Chest%20of%20Preservation.md) drops over the carriage's side, making a loud sound that alerts the party. The dropper is unreported.
-- [Combat opening] Initiative is called. Dain's requested assistant roll is **6** (`d20 6 + 0`). Goblin rolls, other party rolls, order and surprise are unreported.
-- No attack, damage, injury, death, escape or encounter outcome is reported.
+- [Corrected table result] **Dain initiative 7**, reported by Maitland, supersedes the assistant-generated 6. Goblin rolls, other party rolls, order and surprise are unreported.
+- No goblin damage, injury, death or final encounter outcome is reported. Taleesh's miss has no further consequence to him.
 
 ## What The Party Knows
 - Two goblins are already inside the carriage when the alarm sounds.
 - The chest drop caused the sound that alerted the party.
+- The goblins then jump off and disappear into the two darkness clouds; Taleesh enters the farther cloud and misses his blind swing.
 
 ## What Is Uncertain
 - Names, affiliation, appearance, weapons, armor, stat blocks, HP and exact positions.
 - How they entered, their purpose, who dropped the chest and any connection to previous goblin encounters.
-- Initiative, surprise rulings, first actions and outcome.
+- Goblin/other party initiative, complete order, surprise rulings and later outcome.
+- Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 
 ## Related Entries
+- [Brother Taleesh](./Brother%20Taleesh.md)
 - [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
 - [Chest of Preservation](../Items/Chest%20of%20Preservation.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)
