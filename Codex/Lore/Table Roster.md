@@ -32,6 +32,8 @@
   - Role: Dungeon Master
 
 ## Roster Rules
+- Resolve real-world player names to current character names in in-world replies, summaries, image prompts and Discord captions. Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander.
+- Preserve raw user quotes exactly; roster metadata and table-side discussion can still identify players. Unconfirmed names stay unconfirmed. This naming preference was explicitly requested by Maitland on 2026-10-10.
 - Mark player-controlled characters explicitly on their Codex character pages.
 - Preserve player aliases and character aliases when provided.
 - Use `[To verify]` for spelling, class, pronouns, or control details that are uncertain.

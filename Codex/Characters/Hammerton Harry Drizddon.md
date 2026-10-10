@@ -15,11 +15,12 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Retcon] The sheet confirms the character spelling as `Hammerton Harry Drizddon`; earlier repo notes used `Dresdon`.
 
 ## Status
+- [Party] [Confirmed, 2026-10-10] At the [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md), Harry asks Dain for a gold-sifting tool. Dain conjures [one for her](../Items/Conjured%20Gold%20Sifter%20-%202026-10-10.md) with a flick while frolicking; Harry begins searching for gold, then strikes the water and rocks with her hammer **to no effect**. Sifting yield and the hammer's exact identity are unreported. [Session](../../Adventures/2026-10-10.md).
 - [Latest party yield] The party stays another five hours and Jiminy mines **six more gems**. The two breaks total ten hours. No new gem allocation to Harry or Dain is reported. [Mining ledger](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#mining-ledger).
 - [Confirmed] Player: Norhan.
 - [Confirmed] Character name: Hammerton Harry Drizddon.
 - [Confirmed, 2026-10-03] Maitland confirms Norhan is still playing this character. Current tent narration uses she/her; historical source wording is retained.
-- [Confirmed latest action] Harry puts a leash on [Jiminy](./Jiminy.md), who mines very proficiently during a **five-hour break**. The [crystals he finds](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md) each can store **one 1st-level spell**; Harry gives **one to Dain**. Remaining yield, holders and use rules are unreported. [Session](../../Adventures/2026-10-03.md)
+- [Prior mining action] Harry puts a leash on [Jiminy](./Jiminy.md), who mines very proficiently during a **five-hour break**. The [crystals he finds](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md) each can store **one 1st-level spell**; Harry gives **one to Dain**. Remaining yield, holders and use rules are unreported. [Session](../../Adventures/2026-10-03.md)
 - [Earlier discovery] Harry finds a [special gem commonly associated with spell storing](../Items/Special%20Gem%20Found%20by%20Harry.md). Its relationship to the subsequently mined crystals remains to verify.
 - [Earlier scene] Sought shelter inside [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and immediately argued with her [talking hammer](../Items/Harrys%20Talking%20Hammer.md). [Derived] Harry and the hammer became Wet. The tent was subsequently dismissed; no Wet-ending event for Harry or the hammer is reported. [Session](../../Adventures/2026-10-03.md)
 - [Confirmed] Ancestry/species: Mountain Dwarf.
@@ -177,7 +178,17 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 
 *Portrait and cave continuity are preserved. Gem appearance, pose and handling illustrate the find without establishing active magic, a stored spell, identification or ownership. [Prompt and references](../../Adventures/2026-10-03/harry-special-gem-image-notes.md).*
 
+## River Prospecting - 2026-10-10
+
+![Harry receives Dain's conjured sifter, searches the river, then tries her hammer without effect](../../Adventures/2026-10-10/harry-river-gold-sifter-and-hammer.png)
+
+- Harry requests and uses a conjured gold-sifting tool, then strikes the water and rocks with a hammer. Only the hammer attempt is explicitly reported as having no effect; no gold-sifting yield is supplied.
+- Hammer shape follows the existing portrait for illustration continuity, without identifying this as the talking hammer or the sheet's +2 weapon. Tool shape, golden rim, sparks and staging are illustrative. [Prompt and references](../../Adventures/2026-10-10/harry-river-prospecting-image-notes.md).
+
 ## Related Entries
+- [Conjured Gold Sifter](../Items/Conjured%20Gold%20Sifter%20-%202026-10-10.md)
+- [Riverside Camp](../Places/Riverside%20Camp%20-%202026-10-10.md)
+- [River Gold Search](../Lore/Open%20Threads.md#harrys-river-gold-search)
 - [Jiminy](./Jiminy.md)
 - [Spell-Storing Crystals](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md)
 - [Special Gem Found by Harry](../Items/Special%20Gem%20Found%20by%20Harry.md)

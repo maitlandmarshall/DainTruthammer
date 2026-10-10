@@ -1,7 +1,8 @@
 # Open Threads
 
+- [Party] [Latest interaction] **Dain conjures a gold-sifting tool for [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) while frolicking. She begins prospecting, then strikes the river's water and rocks with her hammer to no effect.** Sifting yield and conjuration details remain open. [River gold search](#harrys-river-gold-search).
 - [Party] [Latest scene] **The party camps near a river. Dain puts up Leaky Tent and enjoys the long rest frolicking between tent and river.** Current resource totals and casting details remain open. [Riverside follow-up](#riverside-rest-and-leaky-tent); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
-- [Party] [Earlier scene] **[Stu](../Characters/Stu.md), in brown-bear form, works on a white-wolf cloak in the balloon carriage with Matt's moon elf / [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).** No completion is reported. [Cloak and companion follow-up](#stus-white-wolf-cloak-and-christina); [active session](../../Adventures/2026-10-10.md).
+- [Party] [Earlier scene] **[Stu](../Characters/Stu.md), in brown-bear form, works on a white-wolf cloak in the balloon carriage with [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).** No completion is reported. [Cloak and companion follow-up](#stus-white-wolf-cloak-and-christina); [active session](../../Adventures/2026-10-10.md).
 - [Carry-forward research] **Magic Mouth is learned; all scrolls are consumed.** Earlier airship Leaky Tent refinement using Stinking Cloud remains unapproved as a revision. Dain's two spell-storing stones remain one with Cure Wounds and one spell choice pending. Current resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields and **750 XP** allocation remain open. [Active session](../../Adventures/2026-10-10.md)
 
 ## Current Live Focus - 2026-10-10
@@ -139,6 +140,12 @@
 - Next possible action: Bring up the forest while planning the route and recover the warning's details before approaching it.
 - Source wording: "Remind me next session or when we head back to daddy’s to head to the dark forest the people of the town warned us about to the north of the last town we were in".
 - Source: [Session 2026-10-10](../../Adventures/2026-10-10.md).
+
+### Harry's River Gold Search
+- Status: Open; reported in [Session 2026-10-10](../../Adventures/2026-10-10.md).
+- [Party] [Confirmed] [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) requests a gold-sifting tool; Dain conjures [one](../Items/Conjured%20Gold%20Sifter%20-%202026-10-10.md) with a flick while frolicking. Harry begins searching for gold.
+- [Confirmed result] Harry then gets her hammer out and strikes the water and rocks **to no effect**. The gold-sifting search's yield is separately unreported.
+- [Open] Record any later find, quantity, holder and allocation. Establish the conjuration's feature/spell, duration and cost when supplied. No gold total or slot expenditure is assigned.
 
 ### Riverside Rest And Leaky Tent
 - Status: Open; [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md) recorded in [Session 2026-10-10](../../Adventures/2026-10-10.md).

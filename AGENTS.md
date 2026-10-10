@@ -105,6 +105,15 @@ Current confirmed roster:
 * Norhan plays Hammerton Harry Drizddon, a Mountain Dwarf Fighter 3 with eldritch-martial spellcasting [To verify final subclass wording]
 * Tom is the DM
 
+### 4b. Use character names in the story
+
+When Maitland describes an in-world action using a real-world player's name, resolve it through [Table Roster](Codex/Lore/Table%20Roster.md) and use the current character's name in replies, story summaries, image prompts and Discord captions.
+
+* Norhan means Hammerton Harry Drizddon; Matt / Matthew means Kagrenac; Maitland means Dain Truthammer; Jackson / Jackbo means Brother Taleesh; Lachlan Pratt means Ollyander, not the previously played Yuckie.
+* Use a familiar character short name, such as Harry or Dain, after the full name is established.
+* Keep verbatim user prompts unchanged as source evidence. Player names remain appropriate in roster metadata and table-side discussion.
+* If a mapping is unconfirmed, preserve the supplied name and mark the identity `[To verify]` rather than inventing a character.
+
 ### 5. Keep it useful in play
 
 The repo should be easy to use during a live session. Favor clear headings, short summaries, and actionable quick-reference sections.

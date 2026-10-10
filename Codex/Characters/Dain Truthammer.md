@@ -11,6 +11,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - DM: Tom.
 
 ## Status
+- [Party] [Confirmed, 2026-10-10] Still frolicking at the river, Dain answers [Harry's](./Hammerton%20Harry%20Drizddon.md) request by flicking and conjuring [a gold-sifting tool](../Items/Conjured%20Gold%20Sifter%20-%202026-10-10.md) for her. The feature/spell, resource cost and duration are unreported. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed, 2026-10-10] Dain is at the party's [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md). He puts up Leaky Tent and spends the narrated long rest moving between his tent and the river, frolicking and enjoying himself. Casting level/mode and recovered resources are unreported. [Session](../../Adventures/2026-10-10.md).
 - [Prior airship update on 2026-10-03] Dain travels aboard the airship and **learns Magic Mouth from scrolls**, using up all three remaining copies. He continues Leaky Tent refinement while using Stinking Cloud. [Character-only] His father's disappointment is a focus of reflection in that scene. No revised spell, HP change or rest recovery is reported there. [Spellbook](../../Character/Spellbook.md#2nd-level-spells-learned-in-play); [Session](../../Adventures/2026-10-03.md).
 - [Confirmed] Baseline imported from [Dicfuc_164465751.pdf](../../Dicfuc_164465751.pdf) on 2026-04-18.
