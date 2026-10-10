@@ -1,5 +1,6 @@
 # Open Threads
 
+- [Latest broader scene] **Four [flying snakes](../Characters/Flying%20Snakes%20-%202026-10-10.md) approach the party, with [cliffs behind them](../Places/Unnamed%20Cliffs%20-%202026-10-10.md).** Intent, distance and party response are open; no new Dain waking/awareness is supplied. [Follow-up](#four-flying-snakes-and-the-cliffs).
 - [Latest broader party dialogue; Dain asleep] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) says: “they shall be punished for their sins. They trying to feed their family? Punished.”** The goblins' motive or family circumstances remain unconfirmed; no prisoner response or further punishment is supplied. Truthammer remains innocent, separately asleep and unaware. [Encounter follow-up](#goblins-in-the-balloon-carriage).
 - [Latest Dain clarification] **Truthammer remains innocent** in the goblin-prisoner scene. He is separately asleep and unaware of the enemies or Harry's finger strike; no involvement or approval is established. [Session](../../Adventures/2026-10-10.md).
 - [Latest Dain scene] **Dain sleeps “like a legend, really manly”** in his Leaky Tent after returning there. He remains unaware of enemies. This supplies no rest completion, recovered resources, new condition or stat change. [Riverside follow-up](#riverside-rest-and-leaky-tent).
@@ -12,6 +13,7 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Confirmed current scene] Four flying snakes approach the party, with cliffs behind them. Record subsequent behavior and party response when supplied. [Four flying snakes and the cliffs](#four-flying-snakes-and-the-cliffs).
 - [Player reminder] **Next session, or when heading back to Dain's father: head to the dark forest north of the last town the party visited, which the townspeople warned them about.** Bring this up in chat. [Reminder and uncertainty](#visit-the-northern-dark-forest).
 - [Table-side startup] [Session 2026-10-10](../../Adventures/2026-10-10.md) resumed from the final 2026-10-03 airship scene without establishing an elapsed interval, arrival or resource recovery. The first subsequent scene is Stu's cloak-making with Kagrenac and Christina; it supplies no Dain resource change.
 - [Party] [Open] Follow [Stu's white-wolf cloak and Christina](#stus-white-wolf-cloak-and-christina): record reported progress or completion, materials and properties; establish Christina's appearance and table role when supplied.
@@ -20,6 +22,16 @@
 - [Party] [Open] Identify the destination tower/current route and establish the ship's condition, burial/retrieval details, weather and any arrival. Airship travel has resumed, but those details remain unreported. [Skyship](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Character-only] [Open] Continue [Leaky Tent research](../Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03); record approved results rather than promoting the meditation or floating artwork into mechanics. Keep paternal reflection private.
 - [Party / Table-side] [Open] Reconcile [treasure and harvest](../../Character/Party%20Loot.md), mining totals/allocation, **750 XP** scope, Olly's condition and Taleesh's return aboard. No personal gem share or XP total is assigned.
+
+### Four Flying Snakes And The Cliffs
+
+- Status: Four flying snakes approaching the party; cliffs behind them. Their intent and the party's response are unreported.
+- Tags: [Broader scene] [Confirmed count and direction] [To verify outcomes].
+- Report, 2026-10-10: The original wording is preserved in the session log. Maitland clarifies **“Approaching the party; cliffs behind them”**, resolving the initial ambiguity.
+- Open: Snake appearance/identity, behavior, distance/altitude, any actual attacks/rolls, party response and outcomes. The cliffs' name, location, scale and relationship to the campsite, goblins or northern dark forest are unreported.
+- Dain boundary: His last confirmed scene remains asleep in Leaky Tent, innocent and unaware of the goblin encounter. This new approach supplies no waking, observation, action or resource result for him. Do not assign an old initiative result to a new snake encounter.
+- Next possible actions: Record the table's next reported event. No attack, hostility, named stat block, initiative roll, party move, new arrival, item change or chest recovery is inferred.
+- Linked entries: [Flying snakes](../Characters/Flying%20Snakes%20-%202026-10-10.md), [unnamed cliffs](../Places/Unnamed%20Cliffs%20-%202026-10-10.md), [session](../../Adventures/2026-10-10.md).
 
 ### Goblins In The Balloon Carriage
 
