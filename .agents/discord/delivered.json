@@ -119,5 +119,10 @@
     "fingerprint": "9838d8e099ebc1ec27cd173a0d7717dc1d29bfbc2b8a3cd5375154fe3d456887",
     "status": "confirmed",
     "message_id": "1558328862440685669"
+  },
+  "2026-10-10-006-goblin-darkness-and-taleesh-miss": {
+    "fingerprint": "36055931bb944a4e7443f4201d0a7d43b8788fe4caa8a366d66720e4f1eae49f",
+    "status": "confirmed",
+    "message_id": "1558331932532678677"
   }
 }
