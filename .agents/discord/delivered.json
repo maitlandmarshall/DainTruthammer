@@ -229,5 +229,10 @@
     "fingerprint": "aa2754588bb3215c25c2c4d6dfe866356a178babcba5fac8ab55b9de03ce21c0",
     "status": "confirmed",
     "message_id": "1558390039224786987"
+  },
+  "2026-10-10-028-truthammer-steam-entrance": {
+    "fingerprint": "3bcc3d1d1773bb3d4cfe1b9994af96ea2d42198c284bdae7bc541ec37d34358e",
+    "status": "confirmed",
+    "message_id": "1558393345829507133"
   }
 }
