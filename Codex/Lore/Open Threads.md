@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest roof attempts] **Eagle-form Tina grips/lifts the main tent's roof but cannot completely free it and gets tugged back; her second attack is a natural 1, unable to tug again.** Roof remains attached; no additional fumble, damage, injury, collapse or form ending is supplied. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest Stu form/reaction] **Stu is in human form and reacts against the smarter captive Dain previously Suggested.** [Interpreted wording; to confirm] “mist” is read as “missed,” recording a miss. Suggestion stays ended; reaction details, human HP and positions remain open. [Captive follow-up](#goblins-in-the-balloon-carriage).
 
 - [Latest direct encounter] **Taleesh lifts the main tent Dain blasted through and comes face to face with the [yuan-ti](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** Presence is confirmed; identity/subtype, camp role, response and communication to others remain open. The organisers' purpose is still unanswered. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -132,7 +134,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the yuan-ti.** Identity, subtype, camp role, dialogue/response, organiser connection and warning to others are unreported. His preceding two dagger stabs/“jellyfies” outcome and −19 goblin figure remain recorded with target/tent identity open. Dain's run and wall-crack flank discovery, Expeditious Retreat concentration, ended Suggestion, captive state, owl death and HP question remain recorded without a new supplied change.
+- Status: **Tina, in eagle form, tries to pull the main tent's roof away; it does not come completely free and gets tugged back. Her second attack rolls natural 1 and cannot tug it again.** Roof remains attached; no extra fumble, new damage, collapse, injury or form ending is supplied. The yuan-ti/Taleesh encounter and other actors' preceding states remain recorded without a new response. Exact attachment/cause, movement, rolls beyond the raw natural 1 and organisers' purpose remain open.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Record actual blimp movement/arrival and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -164,6 +166,8 @@
 - Yuan-ti follow-up: Record the encountered yuan-ti's identity, role, words/actions, relation to the snake-people organisers/older captive mission, and any warning from Taleesh. Its main-tent presence now answers a current occupant question, but supplies no organiser confession, leadership, earlier Orb hit or mission resolution. [Encounter](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).
 
 - Latest Stu/captive development: Stu is now in human form and takes a reaction against the smarter captive formerly targeted by Suggestion. [Interpreted wording; to confirm] “mist” is read as a miss. Exact positions, trigger/type/weapon/roll and human HP remain unreported. Suggestion stays ended; no current yuan-ti response, captive release, organiser answer or new damage is supplied.
+
+- Roof follow-up: Record the actual next pull, attachment explanation, damage/movement and yuan-ti/party response when supplied. Tina's first attempt does not completely free the roof; the natural 1 on her second attack supplies only no further tug. Preserve the front/back Orb holes and ongoing eagle form without inventing a structural collapse, injury or extra fumble. [Tina record](../Characters/Tina.md#two-main-tent-roof-attempts---2026-10-10).
 
 ### Goblins In The Balloon Carriage
 

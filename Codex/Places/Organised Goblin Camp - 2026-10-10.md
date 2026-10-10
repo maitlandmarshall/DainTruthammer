@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where Brother Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with a yuan-ti whose identity and camp role remain unreported.
+The organised goblin camp where Tina, in eagle form, tries twice to remove the main tent's roof; it does not come completely free, gets tugged back and remains attached, with a natural 1 preventing her second tug.
 
 ## Confirmed Discovery
 
@@ -109,6 +109,17 @@ The organised goblin camp where Brother Taleesh goes around to the main tent Dai
 ![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Tina's Two Main-Tent Roof Attempts - 2026-10-10
+
+- **Tina, in eagle form, picks up/grips the main tent's roof and tries to pull it away. It does not come completely free, and the pull gets tugged back.**
+- **Her second attack rolls natural 1; she cannot tug it again.** The roof remains attached. No extra fumble, full removal, further tearing, collapse, crash, injury, dropped creature/object or third attack is supplied.
+- The main tent retains Dain's prior front/back Orb holes; those are preceding damage. Attachment/cause, exact movement, force/DC, first roll, modified total and new damage are unreported.
+- Eagle form remains confirmed through both attempts. No Polymorph recast/resource use/ending, yuan-ti/Taleesh response, Dain change or new round is supplied. [Tina](../Characters/Tina.md#two-main-tent-roof-attempts---2026-10-10); [session](../../Adventures/2026-10-10.md).
+
+![Tina's two unsuccessful main-tent roof attempts in eagle form](../../Adventures/2026-10-10/tina-eagle-main-tent-roof-attempts.png)
+
+- Two panels illustrate the attached roof through both attempts. Poses, grip, cloth, prior hole staging and backdrop are illustrative; no additional damage, fumble or transformation ending is supplied. [Image notes](../../Adventures/2026-10-10/tina-main-tent-roof-image-notes.md).
 
 ## Stu's Human-Form Reaction At The Former Captive Target - 2026-10-10
 
@@ -221,6 +232,8 @@ The organised goblin camp where Brother Taleesh goes around to the main tent Dai
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest Tina roof attempts: exact attachment/cause/grip, movement and force/DC, first roll and modified natural-1 total, any supplied new damage and next response. Roof remains attached; the reported second failure adds no collapse, injury or form ending.
 
 - Latest Stu reaction: whether “mist” means “missed” as currently interpreted, exact reaction type/trigger/weapon/roll, human appearance/current HP, form-change mechanics and Stu/captive positions. Suggestion stays ended; no new captive behaviour, damage or release is supplied.
 

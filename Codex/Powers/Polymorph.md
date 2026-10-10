@@ -16,6 +16,16 @@
 - The eagle is Tina's transformed form, not a summoned extra creature, Kagrenac's owl or another Stu form.
 - No eagle attack, carried passenger/target, blimp helm action or new Dain spell learning is reported. [Session](../../Adventures/2026-10-10.md).
 
+## Eagle-Form Roof Attempts - 2026-10-10
+
+- [Confirmed ongoing form] **Tina is still in eagle form** while she grips/lifts the main tent's roof and tries to pull it away. It does not come completely free and gets tugged back.
+- **Second attack: natural 1; unable to tug it again.** No additional fumble consequence, damage, crash, injury, collapse or form ending is reported.
+- This is later use of the already reported transformed form, not a new Polymorph cast. It supplies no new slot deduction, HP change, exact creature stat block/attack economy, concentration check, duration or resource refresh. [Tina](../Characters/Tina.md#two-main-tent-roof-attempts---2026-10-10); [session](../../Adventures/2026-10-10.md).
+
+![Tina's two unsuccessful main-tent roof attempts in eagle form](../../Adventures/2026-10-10/tina-eagle-main-tent-roof-attempts.png)
+
+- Two panels illustrate the attached roof through both attempts. Poses, grip, cloth, prior hole staging and backdrop are illustrative; no additional damage, fumble or transformation ending is supplied. [Image notes](../../Adventures/2026-10-10/tina-main-tent-roof-image-notes.md).
+
 ## What Is Uncertain
 
 - Casting level/source/expenditure, spell preparation or acquisition history, rolls, duration/concentration state and ending are unreported.
