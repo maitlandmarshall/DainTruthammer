@@ -1,7 +1,7 @@
 # Open Threads
 
 - [Latest Dain action] **Dain startles at the noise while "sleep drowning" at the riverbank. Unaware of any enemies, he gets up and returns to his Leaky Tent to sleep.** The broader party's alarm does not give Dain enemy knowledge; current rest recovery remains unreported. [Riverside follow-up](#riverside-rest-and-leaky-tent).
-- [Broader party encounter; Dain unaware] **The goblins jump off the carriage and disappear into two clouds of darkness. [Brother Taleesh](../Characters/Brother%20Taleesh.md) jumps into the farther cloud and misses a blind swing on a natural 1, with no further consequence to him.** Dain's corrected actual initiative remains **7**. Cloud source/mechanics, other rolls/order, later actions and fallen-chest recovery remain open. [Encounter follow-up](#goblins-in-the-balloon-carriage).
+- [Latest broader party encounter; Dain unaware] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at a goblin, pushing it out of darkness. Another patch of darkness disappears.** Damage/saves, current positions and the disappearance's cause remain open. Taleesh's earlier natural 1 is still only a miss. Dain's initiative remains **7**, without a new awareness change. [Encounter follow-up](#goblins-in-the-balloon-carriage).
 - [Party-visible posture] [Earlier moment] **Dain lies on the riverbank with the current flowing over one side of him.** [Character-only] He continues developing a spell around subtle paternal disappointment and emotional damage; no completed spell or mechanics are approved. [Research follow-up](#paternal-disappointment-spell-research).
 - [Party] [Latest interaction] **Dain conjures a gold-sifting tool for [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) while frolicking. She begins prospecting, then strikes the river's water and rocks with her hammer to no effect.** Sifting yield and conjuration details remain open. [River gold search](#harrys-river-gold-search).
 - [Party] [Current camp context] **The party camps near a river. Dain puts up Leaky Tent and enjoys the long rest frolicking between tent and river.** Current resource totals and casting details remain open. [Riverside follow-up](#riverside-rest-and-leaky-tent); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
@@ -21,14 +21,16 @@
 
 ### Goblins In The Balloon Carriage
 
-- Status: Active encounter; goblins concealed in darkness, with Taleesh's blind miss reported.
+- Status: Active encounter; Harry has pushed one goblin out of darkness with Thunderwave, and another patch of darkness has disappeared.
 - Tags: [Party] [Confirmed opening] [To verify outcomes].
 - Opening, 2026-10-10: The loud sound of the Chest of Preservation dropping over the carriage's side alerts the party to two goblins already inside.
-- Latest development: The goblins jump off, two clouds of darkness appear, and the goblins disappear into them. Taleesh jumps down into the farther cloud and swings blindly: **natural 1, simply a miss, with nothing else happening to him**.
+- Earlier development: The goblins jump off, two clouds of darkness appear, and the goblins disappear into them. Taleesh jumps down into the farther cloud and swings blindly: **natural 1, simply a miss, with nothing else happening to him**.
+- Latest development: Harry dashes/runs to the black cloud and casts Thunderwave at a goblin. **The goblin is pushed out; another patch of darkness disappears.** Which initial cloud/patch, current cloud arrangement and the other goblin's position remain unreported.
 - Dain's initiative: **7**, supplied by Maitland from the real table; the assistant-generated 6 is superseded. Record reported IRL rolls only. Other initiative/order and surprise rulings remain unreported.
 - Dain's response and knowledge: Startled by the noise while "sleep drowning" at the riverbank, he is **unaware of any enemies**, gets up and returns to Leaky Tent to sleep. His supplied initiative does not establish awareness or a combat response.
-- Next possible actions: Record further combat actions and any reported cloud source/mechanics; locate the fallen chest and establish its condition, contents and recovery. Determine who dropped it and whether the earlier Chest of Preserving tracker refers to the same container.
+- Next possible actions: Record reported damage/saves, exact push distance, Harry's casting/resources, current goblin/cloud positions and the disappearance's cause. Continue later actions and any Dain awareness change; locate the fallen chest and establish its condition, contents and recovery. Determine who dropped it and whether the earlier Chest of Preserving tracker refers to the same container.
 - State boundary: No named darkness spell, caster, duration, vision rule, teleportation or complete escape is established. Jump height, other attacks, chest/cargo loss and rest completion/interruption remain unreported. Taleesh's miss causes no additional reported consequence; Dain's "sleep drowning" narration supplies no damage or new condition. Retain previous cargo quantities and unreported resource totals.
+- Latest-result boundary: The push and patch disappearance are confirmed. No goblin damage/death, concentration failure, Action Surge use, measured push, reconstructed turn order or Dain awareness change is assigned.
 - Linked entries: [Goblin intruders](../Characters/Goblin%20Intruders%20-%202026-10-10.md), [Chest of Preservation](../Items/Chest%20of%20Preservation.md), [skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [party loot](../../Character/Party%20Loot.md#chest-of-preserving), [session](../../Adventures/2026-10-10.md).
 
 ### Paternal Disappointment Spell Research

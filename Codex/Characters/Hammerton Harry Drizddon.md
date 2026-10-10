@@ -15,6 +15,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Retcon] The sheet confirms the character spelling as `Hammerton Harry Drizddon`; earlier repo notes used `Dresdon`.
 
 ## Status
+- [Broader party encounter; Dain unaware] [Confirmed, 2026-10-10] Harry dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at one [goblin](./Goblin%20Intruders%20-%202026-10-10.md). **The goblin is pushed out of the darkness; another patch of darkness disappears.** Damage, saves, push distance, casting level/source and remaining resources are unreported. The reported movement and cast do not establish Action Surge use or complete turn order. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed, 2026-10-10] At the [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md), Harry asks Dain for a gold-sifting tool. Dain conjures [one for her](../Items/Conjured%20Gold%20Sifter%20-%202026-10-10.md) with a flick while frolicking; Harry begins searching for gold, then strikes the water and rocks with her hammer **to no effect**. Sifting yield and the hammer's exact identity are unreported. [Session](../../Adventures/2026-10-10.md).
 - [Latest party yield] The party stays another five hours and Jiminy mines **six more gems**. The two breaks total ten hours. No new gem allocation to Harry or Dain is reported. [Mining ledger](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#mining-ledger).
 - [Confirmed] Player: Norhan.
@@ -32,6 +33,12 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] XP: 1775.
 - [Party] [Confirmed] Present at the forest camp when [Brother Taleesh](./Brother%20Taleesh.md) arrives on 2026-05-03.
 - [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
+
+## Latest Encounter Scene - 2026-10-10
+
+![Harry dashes to the darkness and pushes one goblin out with Thunderwave](../../Adventures/2026-10-10/harry-thunderwave-goblin-out-of-darkness.png)
+
+- Two successive moments, with no new injury, damage/save roll or Dain awareness. The metal-deck staging, pose, spell visuals and cloud arrangement are illustrative, not a confirmed location or map. [Prompt and references](../../Adventures/2026-10-10/harry-thunderwave-image-notes.md).
 
 ## What Dain Knows
 - [Party] Dain has interacted with Hammerton Harry Drizddon enough to delegate the trader cost-setting to him; the formal in-world introduction is still [To verify].
@@ -117,6 +124,7 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 1st-level spells: `Magic Missile`, `Slivery Barbs`, `Thunderwave`.
 - [To verify] Sheet says `Slivery Barbs`; likely `Silvery Barbs`, but preserve the sheet spelling until confirmed.
 - Thunderwave sheet notation: `15ft cube-2d8 con sav+10ft push, Fail noP`.
+- [Confirmed use, 2026-10-10] Harry casts [Thunderwave](../Powers/Thunderwave.md) at a goblin in darkness, pushing it out. The earlier sheet notation is not a reported save, damage roll, current push distance or resource total for this scene.
 
 ## Proficiencies And Gear
 - Armor: all armor.

@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![The two goblins jump into clouds of darkness, then Taleesh swings blindly in the farther cloud and misses](../../Adventures/2026-10-10/goblin-darkness-taleesh-blind-miss.png)
+![Harry runs to a black cloud and pushes one goblin out with Thunderwave](../../Adventures/2026-10-10/harry-thunderwave-goblin-out-of-darkness.png)
 
-- Goblin appearance, cloud shape/spacing, exact positions and successive jump/swing poses are illustrative. The scene establishes no named darkness spell, special vision, jump height, specific attack weapon, damage or natural-1 mishap. [Image notes](../../Adventures/2026-10-10/goblin-darkness-image-notes.md).
+- Goblin appearance, cloud shape/spacing, exact positions, metal-deck staging, spell visuals and push pose are illustrative. The scene establishes no damage/save, measured distance, darkness-disappearance cause, injury, resource cost or Dain awareness change. [Image notes](../../Adventures/2026-10-10/harry-thunderwave-image-notes.md).
 
 ## One-Line Summary
-Two unnamed goblins who trigger a night encounter in the balloon carriage, then jump off and disappear into two clouds of darkness.
+Two unnamed goblins who trigger a night encounter in the balloon carriage and disappear into darkness; Harry later pushes one out with Thunderwave, while another patch of darkness disappears.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,24 +13,33 @@ Two unnamed goblins who trigger a night encounter in the balloon carriage, then 
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
-- [Party] [Confirmed latest action] The goblins jump off the carriage; two clouds of darkness appear, and the goblins disappear into them. No named spell, caster or complete escape is established.
+- [Broader party encounter; Dain unaware] [Confirmed latest outcome] [Harry](./Hammerton%20Harry%20Drizddon.md) dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at a goblin. **That goblin is pushed out of darkness. Another patch of darkness disappears.** Damage, saves, exact push distance, disappearance cause, cloud arrangement and the other goblin's current position are unreported. [Session](../../Adventures/2026-10-10.md).
+- [Party] [Confirmed earlier action] The goblins jump off the carriage; two clouds of darkness appear, and the goblins disappear into them. No named spell, caster or complete escape is established.
 - [Party] [Confirmed response] [Brother Taleesh](./Brother%20Taleesh.md) jumps down into the farther cloud and swings blindly. **Natural 1: he just misses, with nothing else happening to him**, explicitly confirmed by Maitland.
 - [Party] [Confirmed, 2026-10-10] Exactly two goblins creep up on the party and are already in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Party] The [Chest of Preservation](../Items/Chest%20of%20Preservation.md) drops over the carriage's side, making a loud sound that alerts the party. The dropper is unreported.
 - [Corrected table result] **Dain initiative 7**, reported by Maitland, supersedes the assistant-generated 6. Goblin rolls, other party rolls, order and surprise are unreported.
-- No goblin damage, injury, death or final encounter outcome is reported. Taleesh's miss has no further consequence to him.
+- Goblin damage, saves, injury, death and the final encounter outcome remain unreported. Taleesh's earlier miss has no further consequence to him.
 
 ## What The Party Knows
 - [Explicit Dain exception] **Dain is unaware of any enemies.** He is startled by the noise while "sleep drowning" at the riverbank, gets up and returns to his Leaky Tent to sleep. The encounter facts below belong to the broader party record, not established Dain knowledge. [Session](../../Adventures/2026-10-10.md).
 - Two goblins are already inside the carriage when the alarm sounds.
 - The chest drop caused the sound that alerted the party.
 - The goblins then jump off and disappear into the two darkness clouds; Taleesh enters the farther cloud and misses his blind swing.
+- Harry then casts Thunderwave at one goblin, pushing it out of darkness; another patch disappears. This supplies no updated Dain awareness.
 
 ## What Is Uncertain
 - Names, affiliation, appearance, weapons, armor, stat blocks, HP and exact positions.
 - How they entered, their purpose, who dropped the chest and any connection to previous goblin encounters.
 - Goblin/other party initiative, complete order, surprise rulings and later outcome.
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
+- Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
+
+## Earlier Darkness Pursuit
+
+![The two goblins jump into clouds of darkness, then Taleesh swings blindly in the farther cloud and misses](../../Adventures/2026-10-10/goblin-darkness-taleesh-blind-miss.png)
+
+- Cloud arrangement and jump/swing poses are illustrative. Taleesh's natural 1 is only the reported miss. [Image notes](../../Adventures/2026-10-10/goblin-darkness-image-notes.md).
 
 ## Related Entries
 - [Brother Taleesh](./Brother%20Taleesh.md)
