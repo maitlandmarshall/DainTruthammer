@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest direct encounter] **Taleesh lifts the main tent Dain blasted through and comes face to face with the [yuan-ti](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** Presence is confirmed; identity/subtype, camp role, response and communication to others remain open. The organisers' purpose is still unanswered. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest Taleesh attack] **Taleesh slips under a tent's edge, stabs a goblin twice with daggers and “jellyfies” it. Reported goblin HP/result: −19.** Target/tent identities, attack damage/rolls, exact physical outcome and further response are unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest movement and discovery] **Dain runs back toward the approach-route bottleneck and spots goblins emerging from a wall crack to flank the gang. He realises they have tricked the group.** Their count/identities, route details, arrival, any warning and the actual response remain unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -128,7 +130,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Taleesh sneaks out underneath a tent, stabs a goblin twice with daggers and “jellyfies” it; reported goblin HP/result is −19.** Target/tent identities, rolls/damage, physical meaning and further response remain unreported. Dain's preceding run and wall-crack flank discovery remain confirmed, with arrival, emerging goblin count/identities and warning unknown. Expeditious Retreat remains his concentration and Suggestion is ended; captive reaction/release and casting resource remain open. The tent holes, owl death, Dain's 11 damage/current HP question, blimp movement and rock/goop mystery remain recorded.
+- Status: **Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the yuan-ti.** Identity, subtype, camp role, dialogue/response, organiser connection and warning to others are unreported. His preceding two dagger stabs/“jellyfies” outcome and −19 goblin figure remain recorded with target/tent identity open. Dain's run and wall-crack flank discovery, Expeditious Retreat concentration, ended Suggestion, captive state, owl death and HP question remain recorded without a new supplied change.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Record actual blimp movement/arrival and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -156,6 +158,8 @@
 - Wall-crack follow-up: Dain has personally spotted the goblins' flanking move while running toward the approach bottleneck. Record the actual troop count/identities, passage details, any alert to the others and resulting actions when supplied. “Smart little gobbies” is table commentary. The photo is unkeyed; no wall/gorge merger, detailed deception plan, flanking advantage, arrival or escape is established. [Camp discovery](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10).
 
 - Taleesh follow-up: Identify the stabbed goblin and tent when supplied, record any exact HP timing/rolls/damage and further response, and clarify “jellyfies” only from table narration. Preserve the **−19** goblin figure without converting it to attack damage or Taleesh HP. No identity, magical cause or connection to the earlier rock/goop outcome is established. [Scene](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleeshs-tent-exit-and-two-dagger-strikes---2026-10-10).
+
+- Yuan-ti follow-up: Record the encountered yuan-ti's identity, role, words/actions, relation to the snake-people organisers/older captive mission, and any warning from Taleesh. Its main-tent presence now answers a current occupant question, but supplies no organiser confession, leadership, earlier Orb hit or mission resolution. [Encounter](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).
 
 ### Goblins In The Balloon Carriage
 

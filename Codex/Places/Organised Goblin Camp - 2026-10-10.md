@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where, after Dain spots goblins flanking through a wall crack, Brother Taleesh emerges under a tent and “jellyfies” an unidentified goblin with two dagger stabs; reported goblin HP/result: −19.
+The organised goblin camp where Brother Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with a yuan-ti whose identity and camp role remain unreported.
 
 ## Confirmed Discovery
 
@@ -103,6 +103,23 @@ The organised goblin camp where, after Dain spots goblins flanking through a wal
 ![Unkeyed table photo accompanying Dain's run and flank discovery](../../Adventures/2026-10-10/bottleneck-wall-crack-table-photo.jpg)
 
 - Archived unchanged. The grid, marks, miniatures and die have no supplied key, scale, north, identities or roll; this photo establishes no precise wall/crack/bottleneck geometry.
+
+### Main Tent Yuan-ti Reveal Table Photo
+
+![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
+
+- Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Taleesh Reveals The Yuan-ti At The Main Tent - 2026-10-10
+
+![Taleesh lifts the damaged main tent and encounters the yuan-ti](../../Adventures/2026-10-10/taleesh-main-tent-yuan-ti-reveal.png)
+
+- The encounter is supplied; canvas, holes, poses, scenery and the yuan-ti's appearance are illustrative. Identity, subtype and response remain open. [Image notes](../../Adventures/2026-10-10/main-tent-yuan-ti-image-notes.md).
+
+- [Confirmed] **Brother Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the [yuan-ti](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** The tent is explicitly the main tent with front/back holes from Chromatic Orb.
+- The yuan-ti's presence is directly observed by Taleesh. Name, subtype, appearance, camp role/leadership, dialogue, response and connection to the organising “snake people” remain unreported.
+- Earlier Orb occupancy/hit/damage is unreported. The preceding stabbed goblin and under-exit tent remain unidentified; no merger is supplied.
+- Exact placement, other observers and any warning remain open. No new attack, spell, roll, damage/resource change or round is reported. [Taleesh](../Characters/Brother%20Taleesh.md); [session](../../Adventures/2026-10-10.md).
 
 ## Taleesh's Tent Exit And Two Dagger Strikes - 2026-10-10
 
@@ -195,6 +212,8 @@ The organised goblin camp where, after Dain spots goblins flanking through a wal
 
 ## What Is Uncertain
 
+- Latest main-tent reveal: yuan-ti identity, subtype, appearance, camp role, dialogue/response, connection to the organisers or older captive-recovery mission, earlier Orb exposure and communication to Dain/others. Current presence is confirmed; command responsibility and the reason for goblin organisation remain open.
+
 - Latest Taleesh attack: target/tent identities, earlier goblin HP and exact timing of −19, attack/stealth rolls and per-hit damage, what “jellyfies” physically means, any relation to the earlier rock/goop event, observers and the next response. No new goblin population total, spell/creature identity, loot or shared cause is supplied.
 
 - Latest flank discovery: emerging goblin count/identities, detailed deception plan, passage beyond the wall crack, exact terrain/route geometry, Dain's movement total/formal Dash/arrival, transition off Stu, any warning and the actual party/goblin response. The wall is not silently identified with the gorge/cliffs. Stu's own next action/location and a later Expeditious Retreat ending remain unreported.
@@ -239,3 +258,5 @@ The organised goblin camp where, after Dain spots goblins flanking through a wal
 - [Chromatic Orb](../Powers/Chromatic%20Orb.md)
 
 - [Expeditious Retreat](../Powers/Expeditious%20Retreat.md)
+
+- [Yuan-ti at the main tent](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md)

@@ -12,6 +12,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 
 ## Status
 
+- [Latest confirmed reveal, 2026-10-10] **Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** Its identity/subtype/camp role, dialogue and response remain unreported. No attack, roll, ki/astral arms, personal HP/resource change, Wet ending or communication to the others is supplied. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleesh-reveals-the-yuan-ti-at-the-main-tent---2026-10-10); [session](../../Adventures/2026-10-10.md).
+
 - [Latest confirmed attack, 2026-10-10] **Taleesh sneaks out beneath a tent, stabs one goblin twice with daggers and “jellyfies” it. Reported goblin HP/result: −19.** Target/tent identities, attack/stealth rolls, per-hit damage, prior HP, exact timing and the physical meaning of “jellyfies” remain unreported. No ki/astral arms, personal damage, Wet ending, extra attack or loot handling is supplied. [Camp scene](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleeshs-tent-exit-and-two-dagger-strikes---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed discovery, 2026-10-10] **Taleesh stumbles upon the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), the next tabletop map.** Jack resolves to Brother Taleesh through the roster. Exact route, position/entry, observations, detection and communication are unreported; no roll, literal trip/fall, injury, stealth, attack, ki/astral-arm use, numerical resource change or Wet ending is supplied. The camp discovery does not confirm his preceding gorge hunch or the earlier arrow's source. [Session](../../Adventures/2026-10-10.md).
@@ -38,6 +40,17 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Main Tent And Yuan-ti Reveal - 2026-10-10
+
+![Taleesh lifts the damaged main tent and encounters the yuan-ti](../../Adventures/2026-10-10/taleesh-main-tent-yuan-ti-reveal.png)
+
+- The encounter is supplied; canvas, holes, poses, scenery and the yuan-ti's appearance are illustrative. Identity, subtype and response remain open. [Image notes](../../Adventures/2026-10-10/main-tent-yuan-ti-image-notes.md).
+
+- **Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** This main tent has the front/back Orb holes already recorded.
+- Direct observation belongs to Taleesh. Dain/other observers and any warning are unreported; the yuan-ti's identity, subtype, appearance, camp role, dialogue and response are open.
+- The preceding tent/struck goblin remain unidentified. This does not identify the yuan-ti with that target or prove it was hit by the earlier Orb.
+- No new attack, spell, roll, ki/astral arms, HP/resource change, Wet ending or round is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Tent Exit And Two Dagger Strikes - 2026-10-10
 
@@ -277,6 +290,8 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 
 - 2026-10-10: Sneaks out underneath a tent, stabs one goblin twice with daggers and “jellyfies” it; reported goblin HP/result: **−19**. Target/tent identity, attack/stealth rolls, per-stab damage and further response remain unreported. [Camp scene](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleeshs-tent-exit-and-two-dagger-strikes---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md). Identity, subtype, role, dialogue/response and warning to others remain unreported. [Session](../../Adventures/2026-10-10.md).
+
 ## Related Entries
 - [Unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md)
 - [Arrow source follow-up](../Lore/Open%20Threads.md#arrow-glances-off-harrys-armour)
@@ -288,3 +303,5 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - [Sauna Pelt](../Items/Sauna%20Pelt.md)
 - [Kagrenac](./The%20Astral%20Elf.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)
+
+- [Yuan-ti at the main tent](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md)
