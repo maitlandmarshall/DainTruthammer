@@ -1,7 +1,8 @@
 # Open Threads
 
+- [Party-visible posture] [Latest moment] **Dain lies on the riverbank with the current flowing over one side of him.** [Character-only] He continues developing a spell around subtle paternal disappointment and emotional damage; no completed spell or mechanics are approved. [Research follow-up](#paternal-disappointment-spell-research).
 - [Party] [Latest interaction] **Dain conjures a gold-sifting tool for [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) while frolicking. She begins prospecting, then strikes the river's water and rocks with her hammer to no effect.** Sifting yield and conjuration details remain open. [River gold search](#harrys-river-gold-search).
-- [Party] [Latest scene] **The party camps near a river. Dain puts up Leaky Tent and enjoys the long rest frolicking between tent and river.** Current resource totals and casting details remain open. [Riverside follow-up](#riverside-rest-and-leaky-tent); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
+- [Party] [Current camp context] **The party camps near a river. Dain puts up Leaky Tent and enjoys the long rest frolicking between tent and river.** Current resource totals and casting details remain open. [Riverside follow-up](#riverside-rest-and-leaky-tent); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
 - [Party] [Earlier scene] **[Stu](../Characters/Stu.md), in brown-bear form, works on a white-wolf cloak in the balloon carriage with [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).** No completion is reported. [Cloak and companion follow-up](#stus-white-wolf-cloak-and-christina); [active session](../../Adventures/2026-10-10.md).
 - [Carry-forward research] **Magic Mouth is learned; all scrolls are consumed.** Earlier airship Leaky Tent refinement using Stinking Cloud remains unapproved as a revision. Dain's two spell-storing stones remain one with Cure Wounds and one spell choice pending. Current resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields and **750 XP** allocation remain open. [Active session](../../Adventures/2026-10-10.md)
 
@@ -15,6 +16,16 @@
 - [Party] [Open] Identify the destination tower/current route and establish the ship's condition, burial/retrieval details, weather and any arrival. Airship travel has resumed, but those details remain unreported. [Skyship](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Character-only] [Open] Continue [Leaky Tent research](../Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03); record approved results rather than promoting the meditation or floating artwork into mechanics. Keep paternal reflection private.
 - [Party / Table-side] [Open] Reconcile [treasure and harvest](../../Character/Party%20Loot.md), mining totals/allocation, **750 XP** scope, Olly's condition and Taleesh's return aboard. No personal gem share or XP total is assigned.
+
+### Paternal Disappointment Spell Research
+
+- Status: Active research; mechanics remain idea-stage.
+- Tags: [Character-only] [Confirmed intent] [To verify mechanics].
+- Latest development, 2026-10-10: Dain lies along the riverbank with water flowing over one side of him, continuing to develop a spell that resembles the subtle feeling of a father's disappointment washing over someone.
+- Intended effect: subtle emotional damage, as described by Maitland. No published damage type, amount, target effect or actual casting is established.
+- Next possible actions: Record the spell's approved wording or a reported research result when supplied. Name, level, school, targeting, saves, duration, components, resource cost and known/prepared status remain open. Whether it is distinct from Leaky Tent or a revision remains unreported.
+- Sharing boundary: Keep the paternal inspiration in Dain's private notes; party-facing posts can show his riverside posture and quiet research.
+- Linked entries: [Research notes](../Brainstorm/Powers/Paternal%20Disappointment%20Spell%20Research.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md), [riverside camp](../Places/Riverside%20Camp%20-%202026-10-10.md), [session](../../Adventures/2026-10-10.md).
 
 ## Prior Live Focus - 2026-10-03
 
