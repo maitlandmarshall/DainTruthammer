@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest aerial movement/order] **Kagrenac drives the blimp toward the camp's middle and commands his owl to flank.** Pilot is now confirmed; arrival, owl target/response, exact positions and any attack remain open. The latest table photo is saved unchanged, without a map key or scale. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest rock/goop outcome] **The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) falls, hits a rock and turns into goop, wrapping into the rock.** Impact/change is now confirmed; cause, death/survival, full absorption and camp reply remain unknown. No extra goblin, death total or numerical damage is inferred. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest camp warning] **Dain's countdown reaches 0 after his threat of hellfire unless the goblins reveal themselves for negotiations. [Tona](../Characters/Tona.md), in bird form, picks up the [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the goblins' fire pit as a warning.** Tona's identity, damage/condition and camp response are unknown. Dain's earlier no-violence guarantee remains recorded; actual hellfire is unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -114,7 +116,8 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **The dropped flanking goblin falls, hits a rock and turns into goop, wrapping into the rock.** This follows Dain's countdown/hellfire threat and Tona's drop in front of the fire pit. Impact/change is now reported; cause, death/survival, full absorption, numerical damage, camp reply, negotiations and the organisers' purpose remain unknown. The earlier no-violence guarantee stays recorded; actual hellfire is unreported.
+- Status: **Kagrenac drives the blimp toward the camp's middle and commands his owl to flank.** Kagrenac's piloting is confirmed; centre arrival, owl target/response, route/height/speed, camp reply and negotiations remain unreported. The preceding flanking goblin's rock impact and goop wrapping into the rock stay recorded, with cause/death/survival unknown. Dain's earlier no-violence guarantee remains in the chronology; no actual hellfire or guano attack is supplied.
+- Aerial follow-up: Record actual blimp movement/arrival and the owl's supplied target, response and outcome. “To flank” is the order, without a completed manoeuvre, Help, advantage or attack. The attached table photo stays unkeyed, with no identified miniatures, map coordinates, scale or inferred altitude.
 - Goop/rock follow-up: Record what happens next and any supplied explanation, without assigning a mimic/ooze/illusion/spell identity, completed disappearance, walking rock or a death. The narrated change does not supply a damage number or creature stat block.
 - Latest identity/position boundary: [Tona](../Characters/Tona.md) is the supplied name, with the possible Tina alias [To verify]. The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) is not identified with the earlier visible tent goblin, either captive or Yuckie; no camp population total is inferred. The preceding drop is **in front of** the fire pit. The later rock impact and goop change are now confirmed; height, numerical damage, fire contact, death/survival and any further condition remain unknown.
 - Next record: Capture the actual goblin/camp reply, condition and negotiations, plus how the earlier no-violence guarantee is addressed. A stated warning does not establish fear, compliance or an intimidation result. Preserve table-supplied rolls without generating them.

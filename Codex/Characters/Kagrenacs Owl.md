@@ -6,8 +6,12 @@
 
 ![Kagrenac directs his perched owl toward three airborne snakes](../../Adventures/2026-10-10/kagrenac-directs-owl-toward-three-snakes.png)
 
+![Kagrenac pilots toward the camp and issues his owl's flanking order](../../Adventures/2026-10-10/kagrenac-blimp-camp-middle-owl-order.png)
+
+- Kagrenac pilots the metal blimp and gives the owl its order, with camp tents ahead. Owl perch, gestures, helm/ship crop, speed/altitude, camp arrangement/count, lanterns, unlit pit and scenery are illustrative. No centre arrival, actual owl flank/flight, target, Help/advantage, attack, spell, population count or camp reaction is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-owl-order-image-notes.md).
+
 ## One-Line Summary
-Kagrenac's established owl, now finding an organised goblin camp; its exact route, observations and information relay remain unreported, as does any effect on the earlier snake pursuit.
+Kagrenac's established owl, which found the organised camp and is now commanded to flank as Kagrenac drives the blimp toward its middle; the owl's target, response and precise position remain unreported.
 
 ## Table Role
 - Role: Party-associated creature belonging to [Kagrenac](./The%20Astral%20Elf.md); exact table control [To verify].
@@ -15,6 +19,8 @@ Kagrenac's established owl, now finding an organised goblin camp; its exact rout
 - Name: No individual name supplied; this page uses a descriptive label.
 
 ## Status
+
+- [Latest confirmed order, 2026-10-10] **Kagrenac commands his owl to flank while driving the blimp toward the middle of the goblin camp.** Target, side/route, timing, actual flight/position, response and outcome are unreported. No completed flanking, Help, advantage, attack, new summon, familiar feature, roll or resource cost is assigned. The owl is distinct from Tina's giant-eagle form. [Session](../../Adventures/2026-10-10.md).
 
 - [Broader party discovery; Confirmed, 2026-10-10] **Kagrenac's owl finds [an organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md).** Camp organisation is supplied; population, leader, precise features/location, distance/direction, scouting roll, return and communication method are unreported. This supplies no snake hit/interception, Help action, telepathy, familiar identity or new summoning. [Session](../../Adventures/2026-10-10.md).
 - [Broader encounter] [Confirmed, 2026-10-10] Kagrenac commands his owl toward the **three snakes flying toward the party, which is retreating toward the balloon**. These are separate from the one snake remaining at Stu; two others are confirmed dead. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
@@ -26,6 +32,8 @@ Kagrenac's established owl, now finding an organised goblin camp; its exact rout
 - These reports establish recurring use of an owl, without proving individual identity across sessions or a particular game feature.
 
 - 2026-10-10: The owl finds an organised goblin camp. No location, population, leader, prisoner affiliation or information relay is supplied. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10, latest camp movement: **Kagrenac commands the established owl to flank as he drives the blimp toward the camp's middle.** Command confirmed; target, response and effect remain unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## Visual Boundary
 - The owl in [Kagrenac's portrait](./Astral_Elf_portrait.png) guides the current scene: a white heart-shaped facial disc, dark eyes, pale breast and mottled brown/tan feathers. Appearance is illustrative rather than a confirmed species or stat block.

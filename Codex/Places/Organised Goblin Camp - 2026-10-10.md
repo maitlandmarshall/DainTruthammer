@@ -20,13 +20,19 @@
 
 - Two consecutive panels show the same dropped goblin hitting a rock, then goop wrapping around and into its crevices. Colour/composition, impact pose/contact point, clothing fate, rock shape, flow, camp layout/banners/lights and exact absorption process are illustrative. No death/survival, damage number, complete disappearance, named spell/creature type or camp/party reaction is established. [Image notes](../../Adventures/2026-10-10/flanking-goblin-rock-goop-image-notes.md).
 
+![Kagrenac pilots toward the camp and issues his owl's flanking order](../../Adventures/2026-10-10/kagrenac-blimp-camp-middle-owl-order.png)
+
+- Kagrenac pilots the metal blimp and gives the owl its order, with camp tents ahead. Owl perch, gestures, helm/ship crop, speed/altitude, camp arrangement/count, lanterns, unlit pit and scenery are illustrative. No centre arrival, actual owl flank/flight, target, Help/advantage, attack, spell, population count or camp reaction is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-owl-order-image-notes.md).
+
 ## One-Line Summary
 
 An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh, now entered by Dain riding bear-form Stu with Harry and Yuckie, backed by giant-eagle Tina; Dain calls for peaceful discussion and the camp's response is unreported.
 
 ## Confirmed Discovery
 
-- [Latest confirmed dropped-goblin outcome, 2026-10-10] **The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) falls, hits a rock and turns into goop, wrapping into the rock.** The rock is now a reported contact landmark after Tona's drop in front of the fire pit. Cause, death/survival, full absorption, numerical damage and camp response remain unreported. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed aerial movement, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) drives the [blimp](./Party%20Skyship%20-%202026-08-29.md) toward the camp's middle and commands [his owl](../Characters/Kagrenacs%20Owl.md) to flank.** Pilot is now confirmed; centre arrival, owl response/target, exact position/altitude and attack remain unreported. The [new table photo](../../Adventures/2026-10-10/goblin-camp-blimp-approach-table-photo.jpg) is archived unchanged, without a supplied key/scale. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed rock/goop outcome, 2026-10-10] **The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) falls, hits a rock and turns into goop, wrapping into the rock.** The rock is now a reported contact landmark after Tona's drop in front of the fire pit. Cause, death/survival, full absorption, numerical damage and camp response remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding countdown and bird-form warning, 2026-10-10] **Dain begins a countdown and threatens hellfire unless the goblins reveal themselves for negotiations. It reaches 0; [Tona](../Characters/Tona.md), in bird form, picks up the [goblin flanking the party](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the goblins' fire pit as a warning.** The fire pit is now a supplied landmark. Its fire state/position, drop height, goblin condition, Tona's identity and camp reply remain unreported. This follows Dain's no-violence guarantee without rewriting it. No actual hellfire or guano attack is supplied. [Session](../../Adventures/2026-10-10.md).
 
@@ -54,6 +60,19 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 ![Brother Taleesh discovers the goblin camp](../../Adventures/2026-10-10/taleesh-discovers-goblin-camp.png)
 
 - Taleesh's discovery is confirmed; posture, gaze, vegetation, lighting and obscured shelter glimpses are illustrative. No map key, creature count, tactical layout, arrow-source clue, stealth/check result or further action is established. [Image notes](../../Adventures/2026-10-10/taleesh-goblin-camp-image-notes.md).
+
+### Later Blimp Movement Table Photo
+
+![Supplied tabletop during Kagrenac's drive toward the camp middle](../../Adventures/2026-10-10/goblin-camp-blimp-approach-table-photo.jpg)
+
+- This later attachment accompanies Kagrenac driving toward the middle and ordering his owl to flank. It is a table reference, without a keyed layout, identified miniatures, grid scale, altitude or confirmed centre arrival/response.
+- Saved unchanged as `goblin-camp-blimp-approach-table-photo.jpg`; 295544 bytes; SHA-256 `7a2e63c849f0171f83054db23336d2674cbc2ae33d2dc323a23b7d8bdc3b8f82`. Source original remains in the remote-attachments folder. Local archive only, not posted to Discord.
+
+## Blimp Approach And Owl Flanking Order - 2026-10-10
+
+- **Kagrenac drives the blimp toward the middle of the camp and commands his owl to flank.** Piloting/movement and the order are confirmed.
+- Centre arrival, exact route/height/speed, owl target/side/flight/response, advantage or attack remain unreported. No new guano handling, explosion or hellfire is supplied.
+- The [attached tabletop photo](../../Adventures/2026-10-10/goblin-camp-blimp-approach-table-photo.jpg) supports the archive as an unkeyed table reference; the raised platform and miniature positions do not independently establish creature identities, altitude or a completed manoeuvre. [Session](../../Adventures/2026-10-10.md).
 
 ## Goblin Turns Into Goop At A Rock - 2026-10-10
 
@@ -93,6 +112,8 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest aerial movement: centre arrival, blimp exact geometry/altitude/speed and other passengers/thrust provider; owl flanking target, response and effect; actual camp reply or attack. Kagrenac is confirmed driving for this movement. The table photo has no supplied key/scale.
 
 - Latest impact/change: cause and process of the goblin turning into goop and wrapping into the rock, death/survival, numerical damage, completed absorption, next movement and camp/party reaction. A named power, creature type and magical/animated rock are unconfirmed.
 

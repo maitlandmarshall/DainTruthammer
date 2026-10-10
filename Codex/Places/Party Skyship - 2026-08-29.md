@@ -6,12 +6,19 @@ Earlier scene illustration (predates the tracker clarification of armament and t
 
 ![Dain prepares to board the balloon-like skyship](../../Adventures/2026-08-29/2026-08-29_boarding-balloon-skyship.png)
 
+![Kagrenac pilots toward the camp and issues his owl's flanking order](../../Adventures/2026-10-10/kagrenac-blimp-camp-middle-owl-order.png)
+
+- Kagrenac pilots the metal blimp and gives the owl its order, with camp tents ahead. Owl perch, gestures, helm/ship crop, speed/altitude, camp arrangement/count, lanterns, unlit pit and scenery are illustrative. No centre arrival, actual owl flank/flight, target, Help/advantage, attack, spell, population count or camp reaction is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-owl-order-image-notes.md).
+
 ## One-Line Summary
-The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. The two captured goblins are now awake at the balloon, and Dain asks them about organisation in rhyme. Exact cabin boarding, ship height and Harry's chest return remain unreported.
+
+The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. Kagrenac now drives it toward the middle of the goblin camp; centre arrival and any attack remain unreported.
 
 ## Status
 
-- [Latest confirmed travel, 2026-10-10] **The others now go by blimp, while Yuckie, Harry, Dain and Stu take the ground route; Dain rides Stu in bear form.** This advances travel beyond the earlier proposal. The full named passenger list, pilot, boarding sequence, height, route and destination/arrival are unreported. Kagrenac's piloting and guano attack target/execution remain unconfirmed; there is no reported guano handling, explosion, cargo return or ship-stock change. Older no-flight/takeoff statements below describe their preceding beats. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed pilot and movement, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) drives the blimp toward the middle of the [goblin camp](./Organised%20Goblin%20Camp%20-%202026-10-10.md), commanding [his owl](../Characters/Kagrenacs%20Owl.md) to flank.** Kagrenac is now confirmed piloting. Centre arrival, route/altitude/speed, thrust provider, named other passengers and owl response remain unreported. No guano handling/release, attack, cargo return or ship-stock/resource change is supplied. Earlier no-pilot/no-flight snapshots describe their preceding beats. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding ground/blimp travel split, 2026-10-10] **The others now go by blimp, while Yuckie, Harry, Dain and Stu take the ground route; Dain rides Stu in bear form.** This advances travel beyond the earlier proposal. The full named passenger list, pilot, boarding sequence, height, route and destination/arrival are unreported. Kagrenac's piloting and guano attack target/execution remain unconfirmed; there is no reported guano handling, explosion, cargo return or ship-stock change. Older no-flight/takeoff statements below describe their preceding beats. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding confirmed proposed use, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) wants to fly the blimp and “blow them up” with [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Target, piloting/helm use, boarding, takeoff, flight, guano handling, ignition, explosion and outcomes are unreported. Dain wants captive leverage to learn why the snake people organise goblins. No chosen approach, departure, cargo return or ship-stock change is supplied. [Session](../../Adventures/2026-10-10.md).
 
@@ -38,6 +45,13 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 - [Party] [Confirmed on 2026-09-12] The current tracker identifies the armament as a ballista and lists `20` bolts. Earlier narration called the weapon a cannon; whether that was shorthand, a replacement or an additional weapon remains [To verify]. Use the ballista as the current documented weapon without inventing an extra cannon.
 - [To verify] Formal name, builder, Gondian affiliation, owner, commander, crew, assigned pilot, route, destination, range, lift details, fuel, balloon material, defenses, cargo capacity and whether the party owns the vessel or merely has mission use of it.
 - [To verify] Whether this is the same Gondian airship previously used to reach Ola Dung Lot or a different vessel of a similar design.
+
+## Kagrenac Drives Toward The Camp Middle - 2026-10-10
+
+- **Kagrenac drives the blimp toward the middle of the camp and commands his owl to flank.** This confirms the pilot for the latest movement.
+- Arrival at/over the centre, exact geometry/altitude/speed, owl target/response, thrust provider, other passengers and numerical action/resource costs remain unreported.
+- The [table photo](../../Adventures/2026-10-10/goblin-camp-blimp-approach-table-photo.jpg) is archived unchanged as an unkeyed reference. Its raised grid does not assign ship altitude, creature identity or a completed manoeuvre.
+- The earlier guano proposal has no reported execution; no cargo return, attack, ignition, explosion or ship-stock change is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Ground And Blimp Travel - 2026-10-10
 
@@ -163,7 +177,7 @@ Source: Photos 2 and 4 of the [current party tracker](../../Adventures/2026-09-1
 
 ## Immediate Questions
 - Travel has resumed: how did burial/packing and recovery proceed, and is the ship or cargo affected? Those intervening details remain unreported.
-- Who commands and pilots it?
+- Kagrenac is the latest confirmed pilot, driving toward the camp's middle. Overall command, thrust provider and any earlier/future pilot changes remain [To verify].
 - Where exactly is it taking the party first?
 - What keeps the balloon aloft, and what happens if the envelope is damaged?
 - What are the ballista's range, attack bonus, loading and firing requirements, and who operates it?
@@ -185,6 +199,8 @@ Source: Photos 2 and 4 of the [current party tracker](../../Adventures/2026-09-1
 - 2026-10-10: The party wakes the two captured goblins at the balloon and Dain asks them in rhyme why they are organised. No reply, exact boarding, chest loading or departure is reported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Kagrenac wants to fly the blimp and use guano from the Bag of Holding to “blow them up”. Dain wants captive leverage to learn why snake people organise goblins. No choice, piloting, takeoff, guano handling or attack is reported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Kagrenac drives the blimp toward the camp's middle and commands his owl to flank.** Pilot now confirmed; centre arrival, owl response and attack remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Stu](../Characters/Stu.md)

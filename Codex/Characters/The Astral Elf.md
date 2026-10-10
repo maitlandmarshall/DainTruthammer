@@ -2,6 +2,10 @@
 
 ![Kagrenac portrait](./Astral_Elf_portrait.png)
 
+![Kagrenac pilots toward the camp and issues his owl's flanking order](../../Adventures/2026-10-10/kagrenac-blimp-camp-middle-owl-order.png)
+
+- Kagrenac pilots the metal blimp and gives the owl its order, with camp tents ahead. Owl perch, gestures, helm/ship crop, speed/altitude, camp arrangement/count, lanterns, unlit pit and scenery are illustrative. No centre arrival, actual owl flank/flight, target, Help/advantage, attack, spell, population count or camp reaction is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-owl-order-image-notes.md).
+
 ## One-Line Summary
 Matt's Astral Elf party member whose boldness, owl, and questionable ballista judgment have earned Dain's increased respect.
 
@@ -13,6 +17,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - DM: Tom.
 
 ## Status
+
+- [Latest confirmed action, 2026-10-10] **Kagrenac drives the [blimp](../Places/Party%20Skyship%20-%202026-08-29.md) toward the middle of the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) and commands [his owl](./Kagrenacs%20Owl.md) to flank.** This confirms the pilot for the latest movement. Centre arrival, exact route/altitude/speed, owl target/response, roll and resource costs remain unreported. No guano release, ignition, explosion, hellfire or new spell is supplied. Earlier no-pilot statements below describe their preceding beats. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed casting, 2026-10-10] **Kagrenac, the moon elf, casts [Polymorph](../Powers/Polymorph.md) on [Tina](./Tina.md), turning her into a giant eagle backing the ground group's goblin-camp entrance.** Casting level/source/expenditure, rolls, duration/concentration/ending and the caster's exact position remain unreported. The transformation is confirmed; the eagle is Tina, distinct from his owl. Dain's peaceful announcement establishes no new Kagrenac speech/agreement, piloting, attack or cancellation of his earlier guano proposal. The previous travel split reports the others by blimp without a named pilot. [Session](../../Adventures/2026-10-10.md).
 
@@ -32,6 +38,12 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
 - [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
+
+## Piloting Toward The Camp And Owl Order - 2026-10-10
+
+- **Drives the blimp toward the middle of the camp and commands his owl to flank.** Matt resolves to Kagrenac through the table roster.
+- Movement is toward the centre, without confirmed arrival. The command supplies no completed owl manoeuvre, target, advantage, Help, attack or new summon. Flight geometry, thrust provider, named other passengers and action/resource costs remain unknown.
+- The earlier guano plan stays an intention; no handling, release or explosion is reported. Polymorph, Suggestion and other ongoing effects have no newly supplied ending. [Session](../../Adventures/2026-10-10.md).
 
 ## Tina Becomes A Giant Eagle - 2026-10-10
 
@@ -143,6 +155,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-10-10: Kagrenac wants to fly the blimp and use guano from the Bag of Holding to “blow them up”, while Dain wants captive leverage to learn why the snake people organise goblins. Target, party choice and execution are unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: **Polymorphs Tina into a giant eagle** to back the ground group's goblin-camp entrance. Transformation is supplied; resources, duration/concentration/ending, exact position and later attacks remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Pilots the blimp toward the camp's middle, commanding his owl to flank.** Arrival, owl response and any attack remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 
