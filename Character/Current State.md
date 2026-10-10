@@ -12,6 +12,8 @@
 
 ## Active Session - 2026-10-10
 
+- [Latest allied hammer hit] **[Harry](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) hits the [goblin](../Codex/Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md) with a hammer, and it dies.** Contextually the preceding Thunderclap recipient. Roll, hammer damage, final HP and loot are unreported; Harry's current HP remains open after her prior 6 damage. No new Dain action/resource or concentration outcome is supplied. [Session](../Adventures/2026-10-10.md).
+
 - [Latest personal action] **Dain runs toward the bottleneck and casts [Thunderclap](../Codex/Powers/Thunderclap.md), removing the reported darkness and dealing 6 damage each to [Harry](../Codex/Characters/Hammerton%20Harry%20Drizddon.md) and the [unidentified goblin](../Codex/Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md).** Movement distance/Dash/arrival, damage type/saves and remaining recipient HP are unreported. Expeditious Retreat remains the last confirmed concentration; no new own damage, Wet ending, slot/resource change or round is supplied. [Session](../Adventures/2026-10-10.md).
 
 - [Latest broader main-tent exchange] **The snake creature facing [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) attacks him twice and misses both times.** Contextually indexed to the encountered [yuan-ti](../Codex/Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md). No new Dain/Taleesh HP/resource change, defensive action, displacement, Wet ending, concentration outcome or round is supplied. [Session](../Adventures/2026-10-10.md).

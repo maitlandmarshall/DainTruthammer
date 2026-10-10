@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest hammer kill] **Harry hits the contextual Thunderclap goblin with a hammer, and it dies.** Attack roll, numerical hammer damage and body/loot handling remain unreported; no new HP/resource outcome for Harry or Dain is supplied. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest bottleneck Thunderclap] **Dain runs toward the bottleneck and casts Thunderclap, removing the reported darkness and dealing 6 damage each to Harry and an unidentified goblin.** Recipient current HP and removal mechanism remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest main-tent exchange] **The snake creature facing Taleesh attacks him twice; both miss.** Contextually indexed to the encountered yuan-ti; types/rolls and next actions remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -142,7 +144,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Dain runs toward the bottleneck, casts Thunderclap and removes the reported darkness. Harry and one unidentified goblin each take 6 damage.** Remaining recipient HP, identity, type/saves/radius, precise movement and darkness mechanism remain unreported. Expeditious Retreat remains last confirmed concentration; prior ship/roof/Taleesh/yuan-ti and captive states have no new outcome.
+- Status: **Harry hits the contextual Thunderclap goblin with a hammer, and it dies.** The earlier 6 damage to Harry and that goblin and darkness removal remain recorded. Roll, hammer damage, numeric goblin HP and body/loot handling are unreported; Harry's current HP remains open. Dain's last confirmed concentration and other actor/ship states receive no new outcome.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Centre arrival beside the fire and current 75-foot aerial height are now confirmed after Kagrenac's 25-foot descent. Record any next ship movement/action, supplied bearing/gap and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -182,6 +184,8 @@
 - Main-tent attack follow-up: Two attacks at Taleesh miss. Keep the attacker contextually indexed to the yuan-ti and record actual next actions, any corrected identity or supplied weapon/roll details. Do not infer a general Multiattack rule, defensive resource use, new damage or an answer to the organisers' purpose. [Taleesh scene](../Characters/Brother%20Taleesh.md#two-incoming-attacks-miss---2026-10-10).
 
 - Thunderclap follow-up: Record recipient current HP and goblin identity, supplied type/saves/radius, actual movement/arrival and darkness source/removal mechanism. Keep the reported 6 damage to each and local darkness removal without inferring a general dispelling rule, all-cloud removal, forced movement, kill or new resource/concentration outcome. [Spell record](../Powers/Thunderclap.md).
+
+- Goblin death follow-up: The contextual Thunderclap recipient is now dead after Harry's hammer hit. Preserve the earlier 6 damage and this lethal follow-up separately; record actual next actions, individual identity and supplied body/loot or numeric attack details when given. [Goblin record](../Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md#harrys-hammer-hit-and-death---2026-10-10).
 
 ### Goblins In The Balloon Carriage
 

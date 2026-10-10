@@ -24,7 +24,9 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 
 ## Status
 
-- [Latest incoming damage, 2026-10-10] **Harry takes 6 damage from [Dain's Thunderclap](../Powers/Thunderclap.md) during his run toward the bottleneck; the reported darkness is removed, and a goblin separately takes 6.** Current HP is [To verify]; the old sheet 31/31 is not a confirmed pre-hit total. No new Harry action, reaction, movement, condition or resource use is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed hammer kill, 2026-10-10] **Harry hits the [goblin](./Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md) with a hammer, and it dies.** Indexed to the preceding Thunderclap recipient in context. Attack roll, numerical hammer damage, weapon identity/features and loot are unreported. Her prior 6 damage remains recorded; current HP remains [To verify]. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding incoming damage, 2026-10-10] **Harry takes 6 damage from [Dain's Thunderclap](../Powers/Thunderclap.md) during his run toward the bottleneck; the reported darkness is removed, and a goblin separately takes 6.** Current HP is [To verify]; the old sheet 31/31 is not a confirmed pre-hit total. No new Harry action, reaction, movement, condition or resource use is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed camp entry, 2026-10-10] **Harry enters the goblin camp on foot with Yuckie, alongside Dain riding bear-form Stu, backed by giant-eagle Tina after Kagrenac's Polymorph.** Dain makes a booming Minor Illusion announcement and guarantees no violence for the requested discussion. No Harry speech, attack, acceptance of that guarantee, new roll/resource use, prior intimidation outcome or chest-return completion is reported. The older warnings and hauling entries below remain preceding history. [Session](../../Adventures/2026-10-10.md).
 
@@ -52,6 +54,16 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] XP: 1775.
 - [Party] [Confirmed] Present at the forest camp when [Brother Taleesh](./Brother%20Taleesh.md) arrives on 2026-05-03.
 - [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
+
+## Hammer Hit Kills The Goblin - 2026-10-10
+
+- **Harry hits the goblin with a hammer, and it dies.** The contextual target is the [preceding Thunderclap recipient](./Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md).
+- Roll, numerical hammer damage, prior/final goblin HP, precise impact and named weapon/features remain unreported. No extra attack, critical, resource expenditure or XP/loot is assigned.
+- Harry's prior 6 damage remains recorded with current HP unreported. No healing, new personal damage, condition change, movement or resource refresh is supplied. [Session](../../Adventures/2026-10-10.md).
+
+![Harry strikes the goblin with a hammer, then it lies dead](../../Adventures/2026-10-10/harry-hammer-kills-thunderclap-goblin.png)
+
+- Scene staging is illustrative; the hammer hit and death are confirmed. [Exact prompt and image notes](../../Adventures/2026-10-10/harry-hammer-goblin-death-image-notes.md).
 
 ## Six Damage From Dain's Thunderclap - 2026-10-10
 
@@ -257,6 +269,8 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-10-10: Joins the ground group's goblin-camp entrance beside Dain riding Stu and Yuckie, backed by giant-eagle Tina. Dain calls for discussion and guarantees no violence; no new individual Harry action or intimidation result is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Takes **6 damage** from Dain's Thunderclap; current HP, type/save and exact position unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Hits the contextual Thunderclap goblin with a hammer; **it dies**. Roll and hammer damage unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## River Prospecting - 2026-10-10
 

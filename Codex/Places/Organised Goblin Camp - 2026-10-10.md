@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where Dain runs toward the approach bottleneck and casts Thunderclap, removing the reported darkness and dealing 6 damage each to Harry and an unidentified goblin.
+The organised goblin camp where Harry hits the contextual Thunderclap goblin with a hammer and it dies, following Dain's bottleneck cast and darkness removal.
 
 ## Confirmed Discovery
 
@@ -109,6 +109,16 @@ The organised goblin camp where Dain runs toward the approach bottleneck and cas
 ![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Harry's Hammer Hit Kills The Goblin - 2026-10-10
+
+- **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) hits the [goblin](../Characters/Goblin%20Hit%20By%20Thunderclap%20-%202026-10-10.md) with a hammer, and it dies.** The target is contextually the preceding Thunderclap recipient, without merging another goblin identity or adding a counted creature.
+- Roll, numeric hammer damage, prior/final HP, named weapon/features, body handling and loot/XP remain unreported. Death follows the supplied hammer hit; no extra strike, critical or gore is assigned.
+- Harry's earlier 6 damage and unconfirmed current HP remain recorded. No new Dain/other-party action, movement, damage, resource/concentration outcome, restored darkness or round is supplied. [Session](../../Adventures/2026-10-10.md).
+
+![Harry strikes the goblin with a hammer, then it lies dead](../../Adventures/2026-10-10/harry-hammer-kills-thunderclap-goblin.png)
+
+- Scene staging is illustrative; the hammer hit and death are confirmed. [Exact prompt and image notes](../../Adventures/2026-10-10/harry-hammer-goblin-death-image-notes.md).
 
 ## Dain Thunderclaps At The Bottleneck - 2026-10-10
 
@@ -273,6 +283,8 @@ The organised goblin camp where Dain runs toward the approach bottleneck and cas
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest hammer hit: goblin individual identity, attack roll, numeric damage/HP, precise weapon/impact, body/loot handling and next actions. The contextual Thunderclap goblin's death is now confirmed; Harry's current HP remains unreported after her earlier 6 damage.
 
 - Latest Thunderclap: goblin identity and both recipient current HP, exact movement/arrival/Dash, damage type/saves/radius and darkness source/extent/removal mechanism. Darkness removal and 6 damage each to Harry and the goblin are confirmed.
 
