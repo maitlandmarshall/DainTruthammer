@@ -1,11 +1,15 @@
 # Stu
 
+![Stu works on his white-wolf cloak, imagining himself wearing it](../../Adventures/2026-10-10/stu-white-wolf-cloak-daydream.png)
+
+*Brown-bear form and cloak-making are confirmed on 2026-10-10. The thought bubble is a requested imagined outfit; it establishes no completed cloak or item mechanics. [Prompt and references](../../Adventures/2026-10-10/stu-white-wolf-cloak-image-notes.md).*
+
 ![Stu in an illustrative bear form during the cavern encounter](../../Adventures/2026-09-12/thunderclap-bear-olly-cavern.png)
 
 *The bear represents the confirmed transformation; species, poses and attacks are not mechanical evidence. Stu's ordinary appearance is unknown. [Image prompt and provenance](../../Adventures/2026-09-12/chaos-managed-image-notes.md).*
 
 ## One-Line Summary
-A participant in the guano-cavern encounter who speaks with a bat using magic and later turns into a bear.
+A participant in the guano-cavern encounter who speaks with a bat using magic, turns into a bear and is now working on a white-wolf cloak aboard the balloon carriage.
 
 ## Table Role
 - Role: Unknown / To verify.
@@ -20,11 +24,21 @@ A participant in the guano-cavern encounter who speaks with a bat using magic an
 - 2026-09-12: In bear form, Stu finishes off the alpha bat after Dain hits it with thunder damage from Chromatic Orb. Exact attack and damage are unrecorded. [Session](../../Adventures/2026-09-12.md)
 
 ## Current State
-- [Confirmed] Bear form at the latest reported beat.
-- [To verify] Bear type, transformation method, duration, uses or slots spent, HP, actions and other mechanics. Do not assume Wild Shape, a druid class, a particular bear stat block or an exact attack mechanic.
+- [Confirmed, 2026-10-10] **Brown-bear form**, standing in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md) and working on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md).
+- [Confirmed] Matt's moon elf / [Kagrenac](./The%20Astral%20Elf.md) and [Christina](./Christina.md) are aboard with Stu. Maitland identifies Christina as the companion Stu originally arrived with; the original arrival date and place are unreported.
+- [To verify] Transformation method, duration, uses or slots spent, HP, crafting costs and other mechanics. The brown-bear description does not establish Wild Shape, a druid class or a specific stat block. Whether this form has persisted continuously since the cavern is unreported.
 - Ordinary appearance and identity remain unrecorded.
 
+## Cloak-Making - 2026-10-10
+- [Party] Stu works on the white-wolf cloak while standing in the balloon carriage with Kagrenac and Christina. Completion, materials, source and properties remain unreported. [Session](../../Adventures/2026-10-10.md).
+- [Illustrative request] The thought bubble shows the same brown bear wearing a finished white-wolf cloak. This previews an outfit; it is not an item acquisition, transformation or confirmed glimpse into Stu's thoughts.
+
 ## Related Entries
+- [Christina](./Christina.md)
+- [Kagrenac / Matt's Moon Elf](./The%20Astral%20Elf.md)
+- [Stu's White Wolf Cloak](../Items/Stus%20White%20Wolf%20Cloak.md)
+- [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
+- [Session 2026-10-10](../../Adventures/2026-10-10.md)
 - [Guano Cavern](../Places/Guano-Scented%20Crevasse%20-%202026-09-12.md)
 - [Giant Bats](./Giant%20Bats%20-%20Guano%20Cavern.md)
 - [Ollyander / Oleander](./Ollyander.md)

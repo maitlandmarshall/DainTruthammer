@@ -10,6 +10,7 @@ Earlier scene illustration (predates the tracker clarification of armament and t
 The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. **Airship travel has resumed**, with Dain studying aboard.
 
 ## Status
+- [Party] [Confirmed on 2026-10-10] [Stu](../Characters/Stu.md), currently a brown bear, stands in the balloon carriage working on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md), with Matt's moon elf / [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md). No new route, arrival or weather is reported. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed latest update on 2026-10-03] Dain is **travelling in the airship**, learning Magic Mouth from scrolls and continuing Leaky Tent research while using Stinking Cloud. [Derived continuity] Operation/travel has resumed after the mining breaks; burial completion, retrieval method, departure time, current route/weather and tower arrival remain unreported. No new tent casting or cargo transfer is established. [Session](../../Adventures/2026-10-03.md)
 - [Party] [Confirmed on 2026-10-03] The party describes the transport as a **metal airship** and begins burying it after surviving into night. Rain has stopped; wind, thunder and lightning remain. [Inferred identification] This is the established skyship being packed down at the same storm stop. Exact method, extent/completion, cargo access, damage and retrieval plan remain unreported. [Session](../../Adventures/2026-10-03.md)
 - [Material clarification] The latest **metal** wording overrides wooden-hull depictions in older artwork. No new refit or change to the recorded balloon-like design, folding wings or ballista is reported.
@@ -39,6 +40,13 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 
 - Dain learns Magic Mouth and uses up his remaining scrolls while travelling aboard. He continues Leaky Tent refinement using Stinking Cloud; no revised mechanics or new tent casting is reported.
 - Deck framing, study furniture, diagrams, sky colours and gas shape are illustrative. They establish no time of day, weather, specific route, casting count or moving tent. [Prompt and references](../../Adventures/2026-10-03/magic-mouth-airship-research-image-notes.md)
+
+## Cloak-Making In The Balloon Carriage - 2026-10-10
+
+![Stu makes a white-wolf cloak in the metal balloon carriage with Kagrenac and Christina](../../Adventures/2026-10-10/stu-white-wolf-cloak-daydream.png)
+
+- [Party] Stu is a brown bear, standing in the carriage and working on the white-wolf cloak with Kagrenac and Christina aboard. Christina originally arrived with Stu. [Session](../../Adventures/2026-10-10.md).
+- [Illustrative] The thought bubble previews Stu wearing the finished cloak. The depicted workstation, tools, fittings, light, sky and hooded Christina establish no ship modification, weather, time of day, cloak completion or actual appearance for Christina. [Prompt and references](../../Adventures/2026-10-10/stu-white-wolf-cloak-image-notes.md).
 
 ## Current Ship Tracker - Imported 2026-09-12
 
@@ -112,6 +120,10 @@ Source: Photos 2 and 4 of the [current party tracker](../../Adventures/2026-09-1
 - 2026-10-03: Dain is travelling aboard the airship again, learns Magic Mouth from scrolls, uses up all remaining copies and continues Leaky Tent refinement while using Stinking Cloud. Burial/retrieval details, current route/weather and any rest recovery remain unreported. [Session](../../Adventures/2026-10-03.md)
 
 ## Related Entries
+- [Stu](../Characters/Stu.md)
+- [Kagrenac / Matt's Moon Elf](../Characters/The%20Astral%20Elf.md)
+- [Christina](../Characters/Christina.md)
+- [Session 2026-10-10](../../Adventures/2026-10-10.md)
 - [Ola Dung Lot](./Ola%20Dung%20Lot.md)
 - [Samryn Torsten](../Lore/Samryn%20Torsten.md)
 - [Dain Truthammer](../Characters/Dain%20Truthammer.md)

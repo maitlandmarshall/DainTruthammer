@@ -1,11 +1,13 @@
 # Open Threads
 
+- [Party] [Latest scene] **[Stu](../Characters/Stu.md), in brown-bear form, works on a white-wolf cloak in the balloon carriage with Matt's moon elf / [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).** The cloak remains in progress. [Cloak and companion follow-up](#stus-white-wolf-cloak-and-christina); [active session](../../Adventures/2026-10-10.md).
 - [Confirmed] **Current focus: Dain's airship spell research. Magic Mouth is learned; all scrolls are consumed.** Leaky Tent refinement using Stinking Cloud continues, with no revised mechanics reported. His two spell-storing stones remain one with Cure Wounds and one spell choice pending. Spell resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields, **750 XP** allocation and rest recovery remain open. [Active session](../../Adventures/2026-10-10.md)
 
 ## Current Live Focus - 2026-10-10
 
 - [Player reminder] **Next session, or when heading back to Dain's father: head to the dark forest north of the last town the party visited, which the townspeople warned them about.** Bring this up in chat. [Reminder and uncertainty](#visit-the-northern-dark-forest).
-- [Table-side startup] [Session 2026-10-10](../../Adventures/2026-10-10.md) resumes from the final 2026-10-03 airship scene. No new in-world event, elapsed time, arrival or resource recovery is recorded.
+- [Table-side startup] [Session 2026-10-10](../../Adventures/2026-10-10.md) resumed from the final 2026-10-03 airship scene without establishing an elapsed interval, arrival or resource recovery. The first subsequent scene is Stu's cloak-making with Kagrenac and Christina; it supplies no Dain resource change.
+- [Party] [Open] Follow [Stu's white-wolf cloak and Christina](#stus-white-wolf-cloak-and-christina): record reported progress or completion, materials and properties; establish Christina's appearance and table role when supplied.
 - [Character-only] [Open] Choose the spell for Dain's second [spell-storing stone](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings), then confirm release/loading costs, eligible users, reuse and attunement with Tom. One stone already contains Cure Wounds; no spell is selected for the other at startup.
 - [To verify] Refresh the table snapshot: **28 HP last confirmed**, remaining spell slots/Hit Dice, maximum HP, prepared list, current cloud use and whether Wet has ended. Magic Mouth is learned and all scrolls are consumed; no rest reset is assumed.
 - [Party] [Open] Identify the destination tower/current route and establish the ship's condition, burial/retrieval details, weather and any arrival. Airship travel has resumed, but those details remain unreported. [Skyship](../Places/Party%20Skyship%20-%202026-08-29.md).
@@ -136,6 +138,13 @@
 - Next possible action: Bring up the forest while planning the route and recover the warning's details before approaching it.
 - Source wording: "Remind me next session or when we head back to daddy’s to head to the dark forest the people of the town warned us about to the north of the last town we were in".
 - Source: [Session 2026-10-10](../../Adventures/2026-10-10.md).
+
+### Stu's White Wolf Cloak And Christina
+- Status: Open; introduced in [Session 2026-10-10](../../Adventures/2026-10-10.md).
+- [Party] [Confirmed] [Stu](../Characters/Stu.md) works on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md) in the balloon carriage, in brown-bear form, with Matt's moon elf / [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).
+- [Confirmed user clarification] Christina originally arrived with Stu. The date, place, circumstances, appearance and table role remain unreported.
+- [Open] Record any reported cloak completion, material source, costs and properties. The requested thought-bubble image establishes no finished item or mechanical benefit.
+- Source: [Stu's cloak-making scene](../../Adventures/2026-10-10.md).
 
 ### Investigate The Guano-Scented Crevasse
 - Latest combat update: Dain is reduced to **3 HP**, hits the alpha with thunder Chromatic Orb, then Stu in bear form finishes it off. Alpha defeat is confirmed; remaining bats and overall encounter completion are unrecorded.

@@ -9,10 +9,11 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - Role: Player Character.
 - Player: Matt / Matthew.
 - Character aliases: Kagrenac; The Astral Elf.
-- Table shorthand: Moon elf [To verify whether this refers to Kagrenac or a separate elf].
+- Table shorthand: **Moon elf**, confirmed by Maitland on 2026-10-10 as Matt's identity at the table. The established roster maps Matt to Kagrenac; this clarification reports no new ancestry mechanics.
 - DM: Tom.
 
 ## Status
+- [Party] [Confirmed, 2026-10-10] Matt's moon elf / Kagrenac is aboard the balloon carriage with [Stu](./Stu.md), who is working on a white-wolf cloak in brown-bear form, and [Christina](./Christina.md). [Session](../../Adventures/2026-10-10.md).
 - [Confirmed, 2026-10-03; established roster attribution] Matt / Kagrenac loads **Cure Wounds into one of Dain's two spell-storing stones**. Dain will choose the other spell later. Exact loading method, action cost and spell-slot expenditure are unreported. [Stone contents](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings); [Session](../../Adventures/2026-10-03.md).
 - [Party] [Confirmed] Name: Kagrenac. User confirmation recorded 2026-05-03.
 - [Party] [Confirmed] Player: Matt. User confirmation recorded 2026-05-03.
@@ -39,13 +40,13 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] At the start of the new day after the forest long rest, Kagrenac warns the party that the cold winds will get worse today. [To verify source or method]
 - [Character-only] Kagrenac tells Dain in Draconic that the [Southern Human Traders](../Factions/Southern%20Human%20Traders.md) and other newcomers are glowing in magic. [To verify detection source]
 - [Party] During goblin camp breakfast diplomacy, Kagrenac / Matt poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md); the goblins eat it and forget about the party, while the leader remains charmed and happy the party is there for now. [Confirmed on 2026-05-03] [To verify plant spelling, source, quantity, and mechanics]
-- [Party] As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
-- [Party] The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
+- [Party] As the party leaves the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Confirmed on 2026-05-03] [Identity clarified by Maitland on 2026-10-10]
+- [Party] The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Confirmed on 2026-05-03] [Identity clarified by Maitland on 2026-10-10]
 - [Party] About 30 minutes after leaving the goblin camp, Kagrenac's owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): a cave/nest with fur on rocks, smoke coming out, and very large four-claw scratch marks on nearby trees. [Confirmed on 2026-05-03]
-- [Party] During the werebear fight at the smoky cave, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Confirmed on 2026-05-03] [To verify whether "moon elf" refers to Kagrenac]
+- [Party] During the werebear fight at the smoky cave, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Confirmed on 2026-05-03] [Identity clarified by Maitland on 2026-10-10]
 - [Party] Matt casts `Inflict Wounds` on the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), delivering the killing blow. [Confirmed on 2026-05-03] [To verify whether this was Kagrenac's action and exact spell source/resource]
 - [Party] After the 2026-07-11 long rest, Kagrenac states that he no longer trusts Dain and accuses him of murder. The DM later clarifies that the armor Kagrenac uses as evidence would not realistically belong to Dain's missing friend; it more likely belonged to a separate dwarf who searched for the friend. [Inferred owner; To verify identity]
-- [Party] On the approach to the Truthhammer gates, the character described as the moon elf notices airships and decides to head to the mountains first, changing his immediate priority from Agland's letter to delivering armor to Dain's father. [To verify whether moon elf means Kagrenac, which armor, carrier, and reason]
+- [Party] On the approach to the Truthhammer gates, the character described as the moon elf notices airships and decides to head to the mountains first, changing his immediate priority from Agland's letter to delivering armor to Dain's father. [Moon-elf identity clarified on 2026-10-10; To verify which armor, carrier, and reason]
 
 ## What Is Uncertain
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -72,17 +73,20 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-05-03: At the start of the next in-world day, Kagrenac tells the party that the cold winds will get worse today. [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: Kagrenac tells Dain in Draconic that the newcomers are glowing in magic shortly before a human trader produces the [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). [Session 2026-05-03](../../Adventures/2026-05-03.md)
 - 2026-05-03: During goblin camp breakfast diplomacy, Kagrenac poisons the shared food with [Sytxweed Plant](../Items/Sytxweed%20Plant.md), causing the goblins who eat it to forget about the party while the leader remains charmed and happy the party is present. [Session 2026-05-03](../../Adventures/2026-05-03.md)
-- 2026-05-03: As the party walks out of the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
-- 2026-05-03: The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
+- 2026-05-03: As the party walks out of the goblin camp, the moon elf and fighter dwarf steal a [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) while the goblins are under the influence of the styx / sytxweed potion. [Session 2026-05-03](../../Adventures/2026-05-03.md) [Identity clarified by Maitland on 2026-10-10]
+- 2026-05-03: The moon elf and Norhan open the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md) and find `500 gp` plus a [Mask of Changed Appearance](../Items/Mask%20of%20Changed%20Appearance.md). [Session 2026-05-03](../../Adventures/2026-05-03.md) [Identity clarified by Maitland on 2026-10-10]
 - 2026-05-03: About 30 minutes after leaving the goblin camp, Kagrenac's owl spots the [Smoky Scratch-Marked Cave](../Places/Smoky%20Scratch-Marked%20Cave.md): scratch-marked trees, fur on rocks, smoke, and very large four-claw marks. [Session 2026-05-03](../../Adventures/2026-05-03.md)
-- 2026-05-03: During the werebear fight, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether "moon elf" refers to Kagrenac]
+- 2026-05-03: During the werebear fight, the moon elf summons a weasel from a [Bag of Tricks](../Items/Bag%20of%20Tricks.md); the werebear tries to hit and swing at it but completely misses. [Session 2026-05-03](../../Adventures/2026-05-03.md) [Identity clarified by Maitland on 2026-10-10]
 - 2026-05-03: Matt casts `Inflict Wounds` on the [Werebear at Smoky Cave](./Werebear%20at%20Smoky%20Cave.md), delivering the killing blow. [Session 2026-05-03](../../Adventures/2026-05-03.md) [To verify whether this was Kagrenac's action]
 - 2026-07-11: Kagrenac declares he no longer trusts Dain and accuses him of murdering a dwarf connected to the hidden tunnel history. [Kagrenac's Murder Accusation](../Events/Kagrenac%27s%20Murder%20Accusation.md)
-- 2026-07-11: After another one or two hours of walking, the moon elf notices airships near the Truthhammer gates and makes reaching the mountains to deliver armor to Dain's father the immediate priority ahead of the sealed letter. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify whether this is Kagrenac]
+- 2026-07-11: After another one or two hours of walking, the moon elf notices airships near the Truthhammer gates and makes reaching the mountains to deliver armor to Dain's father the immediate priority ahead of the sealed letter. [Session 2026-07-11](../../Adventures/2026-07-11.md) [Moon-elf identity clarified on 2026-10-10]
 
 - 2026-10-03: Matt puts Cure Wounds into one of Dain's spell-storing stones. The established roster attributes the action to Kagrenac; no release or healing is reported. [Session](../../Adventures/2026-10-03.md).
 
 ## Related Entries
+- [Stu](./Stu.md)
+- [Christina](./Christina.md)
+- [Session 2026-10-10](../../Adventures/2026-10-10.md)
 - [Spell-Storing Crystals / Stones](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md)
 - [Dain Truthammer](./Dain%20Truthammer.md)
 - [Yuckie the Goblin](./Yuckie%20the%20Goblin.md)

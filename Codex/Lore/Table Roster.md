@@ -8,6 +8,7 @@
 - Player: Matt / Matthew
   - Character: [Kagrenac](../Characters/The%20Astral%20Elf.md)
   - Former label: The Astral Elf
+  - Table label: **Moon elf**; Maitland confirms Matt is the moon elf on 2026-10-10. This identifies Kagrenac without supplying a mechanical ancestry change.
   - Role: Player Character
 
 - Player: Jackson / Jackbo
@@ -38,3 +39,7 @@
 
 ## Unresolved Encounter Identity - 2026-09-12
 - [Stu](../Characters/Stu.md): user-supplied name for the person who casts Speak with Animals and later turns into a bear in the guano cavern. Player/character-name mapping, class and control are unconfirmed; do not identify Stu with an existing roster member without evidence.
+
+## Companion Clarifications - 2026-10-10
+- [Stu](../Characters/Stu.md) is now explicitly described as a **brown bear**, working on a white-wolf cloak in the balloon carriage. Player mapping and class remain unreported.
+- [Christina](../Characters/Christina.md) is the companion Stu originally arrived with and is aboard with him and Kagrenac. Appearance, character/player-name mapping, class and control remain unreported. [Session](../../Adventures/2026-10-10.md).
