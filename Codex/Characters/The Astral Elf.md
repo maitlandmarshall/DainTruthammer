@@ -13,6 +13,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - DM: Tom.
 
 ## Status
+- [Broader party encounter; Dain unaware] [Confirmed latest action, 2026-10-10] After Stu pursues the goblins in brown-bear form, **Kagrenac puts both goblins to sleep**. They fall dramatically to the ground, with the chest causing a dramatic slide through the dirt. Exact sleep method/spell, rolls, level, duration and resources are unreported; the wording does not confirm the named Sleep spell. No damage, waking, chest recovery or Dain awareness change is supplied. [Session](../../Adventures/2026-10-10.md); [goblins](./Goblin%20Intruders%20-%202026-10-10.md).
 - [Party] [Confirmed, 2026-10-10] Matt's moon elf / Kagrenac is aboard the balloon carriage with [Stu](./Stu.md), who is working on a white-wolf cloak in brown-bear form, and [Christina](./Christina.md). [Session](../../Adventures/2026-10-10.md).
 - [Confirmed, 2026-10-03; established roster attribution] Matt / Kagrenac loads **Cure Wounds into one of Dain's two spell-storing stones**. Dain will choose the other spell later. Exact loading method, action cost and spell-slot expenditure are unreported. [Stone contents](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings); [Session](../../Adventures/2026-10-03.md).
 - [Party] [Confirmed] Name: Kagrenac. User confirmation recorded 2026-05-03.
@@ -23,6 +24,12 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
 - [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
+
+## Goblins Put To Sleep - 2026-10-10
+
+![Kagrenac puts both goblins to sleep during Stu's chase, followed by their dramatic fall and the chest-caused dirt slide](../../Adventures/2026-10-10/bear-chase-goblins-asleep-and-chest-slide.png)
+
+- The effect is confirmed; the hand gesture and golden glimmer are illustrative, without assigning a named spell, components, roll, duration or resource cost. No new Dain awareness is established. [Image notes](../../Adventures/2026-10-10/bear-chase-and-sleep-image-notes.md).
 
 ## What Dain Knows
 - [Character-only] Kagrenac is audacious enough to try launching Yuckie from a ballista.

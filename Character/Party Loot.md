@@ -92,7 +92,8 @@ From Photo 2. A dash below means a blank source cell, not a zero or a confirmed 
 
 ### Chest Of Preserving
 
-- [Latest possession, 2026-10-10] After [Taleesh's](../Codex/Characters/Brother%20Taleesh.md) failed grapple, **the two goblins keep running into the distance with the [Chest of Preservation](../Codex/Items/Chest%20of%20Preservation.md)**. It is currently in their possession, with recovery pending. Identification with this tracker chest remains likely [Inferred]; no current contents or damage are reported. The table is retained as the previous ledger, not current party-accessible stock; quantities are not zeroed or declared destroyed. [Session](../Adventures/2026-10-10.md).
+- [Latest chest event, 2026-10-10] During [Stu's](../Codex/Characters/Stu.md) bear-form chase, **[Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) puts both goblins to sleep; they fall dramatically, with the [chest](../Codex/Items/Chest%20of%20Preservation.md) causing a slide through the dirt**. It was last carried by the goblins; final position/control and party recovery remain unreported. Identity against this tracker chest remains likely [Inferred]. The table is the prior ledger, not a confirmed return to party stock; quantities and condition are not changed. [Session](../Adventures/2026-10-10.md).
+- [Earlier possession] After Taleesh's failed grapple, the two goblins keep running into the distance with the chest until the subsequently reported chase and sleep outcome.
 - [Earlier chest event, 2026-10-10] The chest drops over the balloon carriage's side, making the sound that alerts the broader party. Dropper, initial landing and the goblins' pickup sequence remain unreported.
 
 | Item as shown | Count | Character | Notes |

@@ -1,14 +1,15 @@
 # Chest of Preservation
 
-![The two goblins keep running away with the chest after Taleesh's failed grapple](../../Adventures/2026-10-10/taleesh-misses-grapple-goblins-flee-with-chest.png)
+![The chest causes a dramatic dirt slide when the goblins fall asleep during Stu's chase](../../Adventures/2026-10-10/bear-chase-goblins-asleep-and-chest-slide.png)
 
-- The chest is being carried away by the goblins. Construction, carrying grips, distance and scenery are illustrative; no opened lid, cargo condition, damage, completed escape or party recovery is established. [Image notes](../../Adventures/2026-10-10/taleesh-grapple-and-flight-image-notes.md).
+- The chest is part of the goblins' fall and dirt slide. Construction, grips, dust/furrow and final positions are illustrative; no opened lid, cargo damage, final control or party recovery is established. [Image notes](../../Adventures/2026-10-10/bear-chase-and-sleep-image-notes.md).
 
 ## One-Line Summary
-The chest dropped over the balloon carriage's side during the night-time goblin alarm, now being carried away by the two goblins after Taleesh's failed grapple; likely the ship tracker's Chest of Preserving.
+The chest taken by the two goblins after the balloon-carriage alarm, now part of their dramatic fall and dirt slide after Kagrenac puts them to sleep; likely the ship tracker's Chest of Preserving.
 
 ## Status
-- [Broader party encounter; Dain unaware] [Confirmed latest possession, 2026-10-10] [Brother Taleesh](../Characters/Brother%20Taleesh.md) fails to grapple the [goblins](../Characters/Goblin%20Intruders%20-%202026-10-10.md), who **keep running into the distance with the chest**. It is in their possession, with party recovery pending. Their exact carrying/pickup method, route, destination and final escape outcome are unreported. [Session](../../Adventures/2026-10-10.md).
+- [Broader party encounter; Dain unaware] [Confirmed latest event, 2026-10-10] During [Stu's](../Characters/Stu.md) bear-form chase, [Kagrenac](../Characters/The%20Astral%20Elf.md) puts both goblins to sleep. **They fall dramatically to the ground, with the chest causing a dramatic slide through the dirt.** The chest was last carried by them; final resting position, grips/control and party recovery remain unreported. No damage, opened lid or spilled contents is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed earlier possession] Taleesh's grapple fails; both goblins run away carrying the chest before the reported chase, sleep and fall.
 - [Party] [Confirmed, 2026-10-10] The **Chest of Preservation**, as named by Maitland, is dropped over the [balloon carriage's](../Places/Party%20Skyship%20-%202026-08-29.md) side in the middle of the night.
 - Its loud sound alerts the party to [two goblins already inside the carriage](../Characters/Goblin%20Intruders%20-%202026-10-10.md).
 - [Inferred identification] The earlier ship tracker calls a container **Chest of Preserving**; this is likely the same chest. Exact identity remains [To verify].
@@ -16,11 +17,17 @@ The chest dropped over the balloon carriage's side during the night-time goblin 
 
 ## Previous Tracker Contents
 - See the retained [Chest of Preserving ledger](../../Character/Party%20Loot.md#chest-of-preserving) for the previously recorded chimera materials/eggs, blood vials and manticore materials.
-- These entries record prior stock; they do not establish current contents, survival after the drop or party access while the goblins carry the chest away. No quantity is zeroed, removed or spoiled without a reported result.
+- These entries record prior stock; they do not establish current contents, survival after the drop/fall/slide or party recovery. No quantity is zeroed, removed or spoiled without a reported result.
 
 ## What Is Uncertain
 - Exact identity against the old tracker label, appearance, material, weight and preservation mechanics.
-- Who dropped it, where it first landed, height fallen, pickup sequence, whether it opened or was damaged, current contents/condition, the goblins' destination and whether/how the party recovers it.
+- Who first dropped it, initial landing/pickup sequence, whether it opened or was damaged, current contents/condition, final slide position/control and whether/how the party recovers it.
+
+## Earlier Chest Flight
+
+![The two goblins run away with the chest after Taleesh's failed grapple](../../Adventures/2026-10-10/taleesh-misses-grapple-goblins-flee-with-chest.png)
+
+- This precedes their sleep and fall. Carrying grips, distance and scenery are illustrative. [Image notes](../../Adventures/2026-10-10/taleesh-grapple-and-flight-image-notes.md).
 
 ## Earlier Chest Drop
 
