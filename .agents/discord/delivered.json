@@ -239,5 +239,10 @@
     "fingerprint": "c9f03812193efbcb2e5b5ad1fc2e028ddf26bec2eebeee64523d655697582b93",
     "status": "confirmed",
     "message_id": "1558395677254357024"
+  },
+  "2026-10-10-030-taleesh-perimeter-sweep-gorge": {
+    "fingerprint": "47f3058bd012dbb000147b095fd017199272dada44682568f494503ac1d1baf1",
+    "status": "confirmed",
+    "message_id": "1558398522263474226"
   }
 }
