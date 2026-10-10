@@ -179,3 +179,5 @@
 - 2026-10-10: **[Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) navigates the [blimp](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) into the goblin-camp centre adjacent to the fire, then lowers it 25 feet to a current height of 75 feet in the air.** No new Dain action/resource change, attack or concentration outcome is supplied. [Session](../Adventures/2026-10-10.md).
 
 - 2026-10-10: **An [unidentified goblin](../Codex/Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md) tries to throw a javelin, critically fails and falls to the ground.** Target and identity remain unreported; no raw natural 1, fall distance/damage or new Dain resource outcome is supplied. [Session](../Adventures/2026-10-10.md).
+
+- 2026-10-10: **The snake creature makes two attacks at [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md), and both miss.** Contextually indexed to the main-tent [yuan-ti](../Codex/Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md); no attack types/rolls or new personal Dain/Taleesh resource outcome supplied. [Session](../Adventures/2026-10-10.md).

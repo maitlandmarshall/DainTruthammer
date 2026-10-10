@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest main-tent exchange] **The snake creature facing Taleesh attacks him twice; both miss.** Contextually indexed to the encountered yuan-ti; types/rolls and next actions remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest goblin critical failure] **An unidentified goblin tries to throw a javelin, critically fails and falls to the ground.** Intended target/identity, exact roll, fall distance, damage/condition and weapon outcome remain unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest blimp position] **Kagrenac reaches the camp centre beside the fire and lowers the blimp 25 feet to a current height of 75 feet in the air.** Centre arrival is confirmed; no attack, guano release, new spell, resource change or other party relocation is supplied. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -138,7 +140,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **An unidentified goblin tries to throw a javelin, critically fails and falls to the ground.** Intended target is pending clarification; goblin identity, raw roll, starting height/fall distance, damage/condition and javelin release are unreported. The preceding blimp position at the camp centre beside the fire, 75 feet in the air, and Tina/yuan-ti/Taleesh/captive states remain recorded without a new outcome.
+- Status: **The snake creature facing Brother Taleesh attacks him twice and misses both times.** Contextually indexed to the main-tent yuan-ti; attack types/rolls and organiser purpose remain unknown. No new personal HP/resource outcome, defensive action, Wet ending or round is supplied. The prior goblin fall, ship position/height, attached roof and other actors' states remain recorded without a new outcome.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Centre arrival beside the fire and current 75-foot aerial height are now confirmed after Kagrenac's 25-foot descent. Record any next ship movement/action, supplied bearing/gap and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -174,6 +176,8 @@
 - Roof follow-up: Record the actual next pull, attachment explanation, damage/movement and yuan-ti/party response when supplied. Tina's first attempt does not completely free the roof; the natural 1 on her second attack supplies only no further tug. Preserve the front/back Orb holes and ongoing eagle form without inventing a structural collapse, injury or extra fumble. [Tina record](../Characters/Tina.md#two-main-tent-roof-attempts---2026-10-10).
 
 - Javelin failure follow-up: Confirm the intended target when supplied, then record actual identity, roll, fall/condition/damage and weapon consequences. The provided critical failure and ground fall do not establish a natural 1, fall from the 75-foot-high blimp, death or extra fumble. [Descriptive goblin entry](../Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md).
+
+- Main-tent attack follow-up: Two attacks at Taleesh miss. Keep the attacker contextually indexed to the yuan-ti and record actual next actions, any corrected identity or supplied weapon/roll details. Do not infer a general Multiattack rule, defensive resource use, new damage or an answer to the organisers' purpose. [Taleesh scene](../Characters/Brother%20Taleesh.md#two-incoming-attacks-miss---2026-10-10).
 
 ### Goblins In The Balloon Carriage
 

@@ -12,6 +12,8 @@
 
 ## Active Session - 2026-10-10
 
+- [Latest broader main-tent exchange] **The snake creature facing [Brother Taleesh](../Codex/Characters/Brother%20Taleesh.md) attacks him twice and misses both times.** Contextually indexed to the encountered [yuan-ti](../Codex/Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md). No new Dain/Taleesh HP/resource change, defensive action, displacement, Wet ending, concentration outcome or round is supplied. [Session](../Adventures/2026-10-10.md).
+
 - [Latest broader enemy attempt] **An [unidentified goblin](../Codex/Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md) tries to throw a javelin, critically fails and falls to the ground.** Intended target, raw roll, starting height/fall distance, damage and formal condition are unreported. No new Dain action, HP/resource change, ship movement, concentration ending or round is supplied. [Session](../Adventures/2026-10-10.md).
 
 - [Latest broader ship movement] **[Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) brings the [blimp](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) into the camp centre beside the fire, lowering it 25 feet to 75 feet in the air.** Centre arrival and current height are now confirmed. No new Dain action/boarding, HP/resource change, concentration ending, attack or round is supplied. Dain's last confirmed position remains on foot toward the approach bottleneck; this ship movement does not relocate him. [Session](../Adventures/2026-10-10.md).

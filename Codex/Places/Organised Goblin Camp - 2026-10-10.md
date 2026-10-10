@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where an unidentified goblin critically fails a javelin attempt and falls to the ground; the blimp was last confirmed at the centre beside the fire, 75 feet in the air.
+The organised goblin camp where the snake creature facing Brother Taleesh at the main tent, contextually the yuan-ti, attacks him twice and misses both times.
 
 ## Confirmed Discovery
 
@@ -109,6 +109,16 @@ The organised goblin camp where an unidentified goblin critically fails a javeli
 ![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Snake Creature's Two Attacks Miss Taleesh - 2026-10-10
+
+- **The snake creature facing [Brother Taleesh](../Characters/Brother%20Taleesh.md) makes two attacks at him; both miss.** Jack resolves to Taleesh; “to attacks” is read as two, supported by “both.”
+- [Contextual referent] Indexed to the [yuan-ti](../Characters/Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md) from the preceding main-tent encounter. No new subtype, commander/faction identity or organiser explanation is assigned.
+- Attack types/weapons, rolls and reach/range are unreported. No new HP/resource change, defensive action, counterattack, displacement, Wet ending or round is supplied; ship height, roof state, javelin-fall goblin and other actors receive no new outcome. [Session](../../Adventures/2026-10-10.md).
+
+![Two attacks from the snake creature miss Brother Taleesh](../../Adventures/2026-10-10/yuan-ti-two-misses-taleesh.png)
+
+- One missed attack per panel; weapons/types and rolls are unreported. Appearance, poses, motion arcs and canvas/light are illustrative, without assigning defensive actions or new damage. [Image notes](../../Adventures/2026-10-10/yuan-ti-two-misses-image-notes.md).
 
 ## Goblin Javelin Failure And Fall - 2026-10-10
 
@@ -253,6 +263,8 @@ The organised goblin camp where an unidentified goblin critically fails a javeli
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest two misses at Taleesh: exact attacker identity if the contextual yuan-ti reading differs, attack types/weapons, raw/modified rolls, reach/range and next actions. No defensive action, personal damage/resource use or organiser explanation is supplied.
 
 - Latest failed javelin attempt: intended target, goblin identity, raw roll/total, starting position/height, fall distance/cause, any formal condition/damage and weapon release/destination. Critical failure and fall to the ground are confirmed; no extra fumble is assigned.
 

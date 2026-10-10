@@ -12,7 +12,9 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 
 ## Status
 
-- [Latest confirmed reveal, 2026-10-10] **Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** Its identity/subtype/camp role, dialogue and response remain unreported. No attack, roll, ki/astral arms, personal HP/resource change, Wet ending or communication to the others is supplied. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleesh-reveals-the-yuan-ti-at-the-main-tent---2026-10-10); [session](../../Adventures/2026-10-10.md).
+- [Latest incoming attacks, 2026-10-10] **The snake creature facing Taleesh makes two attacks at him; both miss.** Contextually indexed to the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md) from the preceding main-tent encounter. Attack types/weapons and rolls are unreported; no ki/astral arms, reaction/Dodge/counterattack, damage, displacement or Wet ending is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed reveal, 2026-10-10] **Taleesh goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md).** Its identity/subtype/camp role, dialogue and response remain unreported. No attack, roll, ki/astral arms, personal HP/resource change, Wet ending or communication to the others is supplied. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleesh-reveals-the-yuan-ti-at-the-main-tent---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed attack, 2026-10-10] **Taleesh sneaks out beneath a tent, stabs one goblin twice with daggers and “jellyfies” it. Reported goblin HP/result: −19.** Target/tent identities, attack/stealth rolls, per-hit damage, prior HP, exact timing and the physical meaning of “jellyfies” remain unreported. No ki/astral arms, personal damage, Wet ending, extra attack or loot handling is supplied. [Camp scene](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleeshs-tent-exit-and-two-dagger-strikes---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
@@ -40,6 +42,16 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Two Incoming Attacks Miss - 2026-10-10
+
+- **The snake creature attacks Brother Taleesh twice; both attacks miss.** Jack resolves to Taleesh, and “to attacks” is read as two, supported by “both.”
+- [Contextual referent] The attacker is indexed to the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md) he just encountered; individual identity/subtype remain open.
+- Attack types/weapons, raw/modified rolls and reach/range are unreported. No new personal damage, resource use, defensive action, counterattack, movement, astral arms, condition/Wet ending or round is supplied. [Session](../../Adventures/2026-10-10.md).
+
+![Two attacks from the snake creature miss Brother Taleesh](../../Adventures/2026-10-10/yuan-ti-two-misses-taleesh.png)
+
+- One missed attack per panel; weapons/types and rolls are unreported. Appearance, poses, motion arcs and canvas/light are illustrative, without assigning defensive actions or new damage. [Image notes](../../Adventures/2026-10-10/yuan-ti-two-misses-image-notes.md).
 
 ## Main Tent And Yuan-ti Reveal - 2026-10-10
 
@@ -291,6 +303,8 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-10-10: Sneaks out underneath a tent, stabs one goblin twice with daggers and “jellyfies” it; reported goblin HP/result: **−19**. Target/tent identity, attack/stealth rolls, per-stab damage and further response remain unreported. [Camp scene](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleeshs-tent-exit-and-two-dagger-strikes---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Goes around to the main tent Dain blasted through, lifts its canvas and comes face to face with the [yuan-ti](./Yuan-ti%20in%20the%20Main%20Tent%20-%202026-10-10.md). Identity, subtype, role, dialogue/response and warning to others remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Targeted by two attacks from the snake creature, contextually the encountered yuan-ti; **both miss**. No new personal damage/resource outcome supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md)
