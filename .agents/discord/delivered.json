@@ -124,5 +124,10 @@
     "fingerprint": "36055931bb944a4e7443f4201d0a7d43b8788fe4caa8a366d66720e4f1eae49f",
     "status": "confirmed",
     "message_id": "1558331932532678677"
+  },
+  "2026-10-10-007-dain-returns-to-tent": {
+    "fingerprint": "e6c6118441a904329b1ea945b415d6f1a08b6abcedd1fb48738635815ec00532",
+    "status": "confirmed",
+    "message_id": "1558334209263796246"
   }
 }
