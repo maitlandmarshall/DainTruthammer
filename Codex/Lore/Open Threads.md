@@ -4,6 +4,7 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Player reminder] **Next session, or when heading back to Dain's father: head to the dark forest north of the last town the party visited, which the townspeople warned them about.** Bring this up in chat. [Reminder and uncertainty](#visit-the-northern-dark-forest).
 - [Table-side startup] [Session 2026-10-10](../../Adventures/2026-10-10.md) resumes from the final 2026-10-03 airship scene. No new in-world event, elapsed time, arrival or resource recovery is recorded.
 - [Character-only] [Open] Choose the spell for Dain's second [spell-storing stone](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings), then confirm release/loading costs, eligible users, reuse and attunement with Tom. One stone already contains Cure Wounds; no spell is selected for the other at startup.
 - [To verify] Refresh the table snapshot: **28 HP last confirmed**, remaining spell slots/Hit Dice, maximum HP, prepared list, current cloud use and whether Wet has ended. Magic Mouth is learned and all scrolls are consumed; no rest reset is assumed.
@@ -124,6 +125,17 @@
 - [Party] [Confirmed] Preserve the [Agland's Sealed Letter](../Items/Aglands%20Sealed%20Letter.md) mission while the accusation and Dain's return home take precedence.
 
 ## Open
+
+### Visit The Northern Dark Forest
+- Status: Open; reminder requested on 2026-10-10.
+- Knowledge boundary: [Party] The party heard the townspeople's warning, as recalled by Maitland. The contents and truth of the warning remain [To verify].
+- Reported location: **The dark forest north of the last town the party visited**. This is a descriptive label, not a confirmed proper name. Do not identify it as Ola Dung Lot, the June town or another settlement without confirmation.
+- Reminder triggers: **The next session opening, or when the party heads back to [Dain's father](../Characters/Dains%20Father.md)**. Give Maitland the reminder directly in chat; if the hook remains open, keep it visible for a later return home.
+- Player intent: Head to the forest. No departure, route decision by the whole party or arrival is established by the reminder request.
+- To verify: Town and forest names, exact route/distance, who gave the warning, what they warned about and when it was heard.
+- Next possible action: Bring up the forest while planning the route and recover the warning's details before approaching it.
+- Source wording: "Remind me next session or when we head back to daddy’s to head to the dark forest the people of the town warned us about to the north of the last town we were in".
+- Source: [Session 2026-10-10](../../Adventures/2026-10-10.md).
 
 ### Investigate The Guano-Scented Crevasse
 - Latest combat update: Dain is reduced to **3 HP**, hits the alpha with thunder Chromatic Orb, then Stu in bear form finishes it off. Alpha defeat is confirmed; remaining bats and overall encounter completion are unrecorded.

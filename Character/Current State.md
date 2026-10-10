@@ -12,6 +12,7 @@
 
 ## Active Session - 2026-10-10
 
+- Player reminder: **Next session, or when heading back to [Dain's father](../Codex/Characters/Dains%20Father.md), prompt Maitland to head to the dark forest north of the last town the party visited, which the townspeople warned them about.** The town/forest identity and warning details remain [To verify]; no departure or arrival is recorded. [Persistent reminder](../Codex/Lore/Open%20Threads.md#visit-the-northern-dark-forest).
 - Active log: [Session 2026-10-10](../Adventures/2026-10-10.md), resuming from the final confirmed [2026-10-03 airship study](../Adventures/2026-10-03.md). Startup establishes no new in-world event, elapsed time or resource recovery.
 - Resume point: **Dain is travelling aboard the metal airship**, has **learned Magic Mouth**, and continues refining [Leaky Tent using Stinking Cloud](../Codex/Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03). Exact route, weather, tower arrival and current cloud duration/expenditure remain [To verify]. The previously dismissed tent is not newly active.
 - Last confirmed resources: **28 HP**, **0 Magic Mouth scrolls**, and **two spell-storing stones**: one containing **Cure Wounds**, loaded by Matt / Kagrenac, and the other with **spell choice pending**. Remaining slots/Hit Dice, maximum HP, prepared spells, copying costs and stone release/reuse rules remain open. [Inventory](./Inventory.md); [stone contents](../Codex/Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings).
