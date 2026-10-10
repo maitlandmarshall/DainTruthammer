@@ -11,8 +11,9 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - DM: Tom.
 
 ## Status
+- [Latest confirmed Taleesh action, 2026-10-10] **Taleesh runs into [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10), wakes [Dain](./Dain%20Truthammer.md), shares the hand-grasp meme and brings him into the battle.** Dain is now awake and participating. [Derived custom rule] Taleesh becomes **Wet** on entry: fire resistance, cold/lightning vulnerability; no ending is reported. No astral-arm activation, ki expenditure, roll or numerical resource change is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Later binding clarification, 2026-10-10] Both goblin prisoners are now **cuffed together at both hands and feet**, conjoined through their restraints. This follows Taleesh's initial manacling but assigns no new fastening/rearranging action to him or another named character. Source/count, fine cuff/chain details, keys and mechanics remain open; no waking or chest recovery is supplied. [Manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md).
-- [Broader party encounter; Dain unaware] [Latest individually reported Taleesh action, 2026-10-10] **Taleesh runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both sleeping [goblins](./Goblin%20Intruders%20-%202026-10-10.md), restraining them.** No waking, injury or chest recovery is supplied. Source/count, fine cuff/chain details, keys and mechanics remain unreported; no formal Restrained condition, stock deduction or ki use is assigned. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
+- [Earlier party encounter; Dain unaware then] [Preceding Taleesh action, 2026-10-10] **Taleesh runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both sleeping [goblins](./Goblin%20Intruders%20-%202026-10-10.md), restraining them.** That action supplied no waking, injury or chest recovery. Source/count, fine cuff/chain details, keys and mechanics remain unreported; no formal Restrained condition, stock deduction or ki use is assigned. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
 - [Earlier Taleesh action, 2026-10-10] Taleesh tries to grapple the goblins but fails to catch them; they continue running with the chest at that point. No roll, number of attempts, injury or extra consequence is supplied.
 - [Preceding party outcome, 2026-10-10] Stu chases in brown-bear form; Kagrenac puts both goblins to sleep. They fall dramatically, with the chest causing a dirt slide. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed earlier action, 2026-10-10] The goblins jump off the balloon carriage and disappear into two clouds of darkness. Brother Taleesh jumps down into the farther cloud and swings blindly, rolling a **natural 1**. Maitland explicitly confirms **he just misses; nothing else happens to him**. Attack form/weapon, exact target, position and cloud mechanics remain unreported. [Session](../../Adventures/2026-10-10.md).
@@ -30,6 +31,12 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Waking Truthammer And The Hand-Grasp - 2026-10-10
+
+![Taleesh shares the hand-grasp meme with the newly awakened Truthammer](../../Adventures/2026-10-10/taleesh-wakes-truthammer-hand-grasp.png)
+
+- Taleesh wakes Dain and brings him into the battle. The illustration freezes their clasp; pose, expression, arm emphasis and tent staging are illustrative. Only ordinary physical arms are shown; no astral arms, strength increase, Help action, advantage or resource recovery is established. [Image notes](../../Adventures/2026-10-10/taleesh-wakeup-hand-grasp-image-notes.md).
 
 ## Manacling The Sleeping Goblins - 2026-10-10
 
@@ -148,6 +155,7 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - Comeliness: 9.
 
 ## Current Session Resource Notes
+- 2026-10-10: [Derived from the established Leaky Tent rules] Taleesh becomes **Wet** when he runs inside to wake Dain: fire resistance and cold/lightning vulnerability until the recorded drying or elemental-damage ending event. No ending, damage or numerical resource expenditure is reported. The handshake and battle entry establish no ki/astral-arm use. [Session](../../Adventures/2026-10-10.md).
 - 2026-05-03: Spent 1 ki point to project ghostly astral arms from his shoulders during first contact at the forest camp. Remaining ki and exact active duration are [To verify].
 - 2026-05-03: Has a warm cloak from Dain for the remainder of the night, created through `Prestidigitation` and `Minor Conjuration`. Whether it persists afterward is [To verify].
 
@@ -214,6 +222,8 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-08-29: Taleesh succeeds at Moradin's shared-forge ritual without showing pain despite Dain's warning that the god may not protect a nonbeliever. Taleesh's success and desire for the experience itself produce a respect result of `18`. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify tracker meaning and any concealed injury]
 - 2026-08-29: During the southbound skyship attack, Taleesh rapidly descends to the ground using rope from the hot-air balloon's `chest`, then `missiles down` toward one chimera-like attacker. The party destroys both creatures. [To verify exact chest, movement/attack mechanics, damage and return to the ship] [Session 2026-08-29](../../Adventures/2026-08-29.md)
 - 2026-08-29: Taleesh gives Dain the surprised farewell, “As the moon hits the eye, I’d like to go be a pizza pie,” and leaves the immediate scene. [Session 2026-08-29](../../Adventures/2026-08-29.md) [To verify destination and meaning]
+
+- 2026-10-10: Taleesh runs into Leaky Tent, wakes Dain, shares the hand-grasp meme and brings him into the battle. [Derived] His entry applies Wet; no ending or new numerical resource use is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Relationships](../../Character/Relationships.md)

@@ -14,14 +14,19 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 
 ## Current Riverside Casting - 2026-10-10
 
+![Brother Taleesh wakes Dain and shares the hand-grasp meme inside the Leaky Tent](../../Adventures/2026-10-10/taleesh-wakes-truthammer-hand-grasp.png)
+
+- [Latest confirmed use] Taleesh runs into the already erected tent, wakes Dain, shares the hand-grasp meme and brings him into battle. Dain is now awake and participating. [Derived] Tent entry applies **Wet** to Taleesh: fire resistance and cold/lightning vulnerability; no recorded ending event is supplied. No new casting, dismissal, spell revision or numerical recovery is reported. [Session](../../Adventures/2026-10-10.md).
+- Latest image: the clasp after waking; pose, expressions, sleeve arrangement, drips and tent framing are illustrative. No Help action, advantage, strength increase, astral arms, attack or spell is established. [Prompt and references](../../Adventures/2026-10-10/taleesh-wakeup-hand-grasp-image-notes.md).
+
 ![Dain returns to the already erected Leaky Tent to sleep after a night-time noise](../../Adventures/2026-10-10/dain-returns-to-leaky-tent.png)
 
-- Latest image: consecutive riverbank startle and return to sleep, with no enemy awareness, new casting or numerical rest benefit. Camp furnishings, pose and layout are illustrative. [Prompt and references](../../Adventures/2026-10-10/dain-tent-return-image-notes.md).
+- Earlier image: consecutive riverbank startle and return to sleep, before Taleesh's latest wake-up. Camp furnishings, pose and layout are illustrative; no new casting or numerical rest benefit was established. [Prompt and references](../../Adventures/2026-10-10/dain-tent-return-image-notes.md).
 
 ![Dain frolics beside his newly put-up Leaky Tent at the river camp](../../Adventures/2026-10-10/riverside-leaky-tent-frolicking.png)
 
 - [Party] [Confirmed] Dain puts up Leaky Tent while the party camps near a river, then spends the narrated long rest going between tent and river, frolicking and enjoying himself. [Session](../../Adventures/2026-10-10.md); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
-- [Confirmed latest return] Startled by the night-time sound while "sleep drowning" at the riverbank, Dain is unaware of any enemies and returns to **this already erected tent** to sleep. No new casting, resource expenditure or completed rest recovery is reported. Its recorded Wet rules still apply; no ending event is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed earlier return] Startled by the night-time sound while "sleep drowning" at the riverbank, Dain was unaware of enemies and returned to **this already erected tent** to sleep. Taleesh's latest wake-up supersedes that sleep; it supplies no new casting or completed rest recovery. The recorded Wet rules still apply, with no ending event supplied. [Session](../../Adventures/2026-10-10.md).
 - This is a new deployment after the earlier storm-stop casting was dismissed. Casting level, ritual/slot use, expenditure, exact size, elapsed duration and any ending event are unreported.
 - The existing Wet rules apply on entry. No new spell wording or revised mechanics are reported; the art does not establish the older 30-foot upcast.
 - Tent appearance, camp equipment, pose, terrain and sunset light are illustrative. [Prompt and references](../../Adventures/2026-10-10/riverside-frolicking-image-notes.md).

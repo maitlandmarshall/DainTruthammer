@@ -15,7 +15,7 @@ Four flying snakes approaching the party, with unnamed cliffs behind them; their
 - Intent, distance, altitude, precise location, attacks and party response are unreported. The description does not establish a published monster stat block or hostile intent.
 
 ## What Dain Knows
-- Dain's last confirmed scene is asleep in Leaky Tent, innocent and unaware of the goblin encounter. This new approach supplies no waking, observation or action for him. [Current state](../../Character/Current%20State.md).
+- Dain is now awake and in the battle after Taleesh fetches him from Leaky Tent. Specific observations of these four snakes, targeting and any connection to the arrow source remain unreported; the earlier approach alone did not wake him. [Current state](../../Character/Current%20State.md); [session](../../Adventures/2026-10-10.md).
 
 ## What The Party Knows
 - [Broader scene record] Four flying snakes approach the party, with cliffs behind them. The narration identifies no specific observer or party response.

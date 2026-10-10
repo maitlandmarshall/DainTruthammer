@@ -2,9 +2,9 @@
 
 ![Dain Truthammer portrait](./Dain_Truthammer_portrait_v3.png)
 
-![Dain sleeps like a legend in his Leaky Tent while the party waits around sleeping prisoners](../../Adventures/2026-10-10/party-nightmare-circle-and-truthammer-sleep.png)
+![Dain is awake and clasps hands with Brother Taleesh as Taleesh brings him into battle](../../Adventures/2026-10-10/taleesh-wakes-truthammer-hand-grasp.png)
 
-- The scenes are simultaneous and separate; Dain remains asleep and unaware. Pose, expression, quote presentation and lighting are illustrative, with no rest recovery or stat change. [Image notes](../../Adventures/2026-10-10/nightmare-circle-image-notes.md).
+- Dain's latest scene is awake and joining the battle after Taleesh fetches him. The clasp, expression, pose and framing are illustrative; no mechanical bonus, spell, attack or rest recovery is assigned. [Image notes](../../Adventures/2026-10-10/taleesh-wakeup-hand-grasp-image-notes.md).
 
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
@@ -15,9 +15,10 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - DM: Tom.
 
 ## Status
-- [Latest Dain clarification, 2026-10-10] **Truthammer remains innocent** in the goblin-prisoner scene. He is separately asleep in Leaky Tent, unaware of the enemies or Harry's finger strike; no involvement or approval of that action is established. No new waking, roll or rest/resource result is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed Dain scene, 2026-10-10] **[Brother Taleesh](./Brother%20Taleesh.md) runs into [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10), wakes Dain, shares the hand-grasp meme and brings him into the battle. Dain is now awake and participating.** This supersedes the earlier sleep and lack of battle awareness. Exact targets, observations, briefing and knowledge of the preceding prisoner scene remain unreported. No new roll, attack, spell or numerical recovery is supplied; initiative **7** remains only the last reported result. [Session](../../Adventures/2026-10-10.md).
+- [Preceding innocence clarification, 2026-10-10] **Truthammer remains innocent** in the goblin-prisoner scene. He was separately asleep and unaware of Harry's finger strike then; his later wake-up establishes no participation in or approval of the earlier action. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader encounter; Dain asleep, 2026-10-10] [Harry](./Hammerton%20Harry%20Drizddon.md) runs up to the cuffed [goblins](./Goblin%20Intruders%20-%202026-10-10.md) and smashes their fingers. They remain last confirmed linked at hands and feet and were last asleep before the strike; damage, injury extent, waking and reaction afterward are unreported. Dain remains separately asleep and unaware. [Session](../../Adventures/2026-10-10.md).
-- [Latest Dain scene, 2026-10-10] **Dain sleeps “like a legend, really manly”** in Leaky Tent after returning there. He remains unaware of enemies; no completed rest, recovered resources, new condition or stat change is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Preceding sleep scene, 2026-10-10] **Dain sleeps “like a legend, really manly”** in Leaky Tent after returning there, unaware of enemies at that point. Taleesh's wake-up supersedes this state; no completed rest or numerical recovery is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Preceding broader encounter; Dain asleep, 2026-10-10] [Yuckie](./Yuckie%20the%20Goblin.md) finishes running up. The party surrounds the sleeping, manacled intruders and waits for them to wake. **“Nightmare nightmare nightmare”** is supplied without an individual speaker or effect. Dain is separately asleep; initiative stays **7**. That scene supplies no waking or chest recovery.
 - [Preceding broader encounter; Dain unaware, 2026-10-10] Stu chases in brown-bear form; Kagrenac puts both goblins to sleep and they fall with the chest causing a dirt slide. Taleesh then manacles both while they sleep. No additional Dain awareness or resource change is supplied.
 - [Earlier broader encounter; Dain unaware, 2026-10-10] [Harry](./Hammerton%20Harry%20Drizddon.md) dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at a goblin, pushing it out of darkness. Another patch disappears. This supplies no change to Dain's last reported action of returning to his tent to sleep, **unaware of enemies**; initiative remains **7**. [Session](../../Adventures/2026-10-10.md).
@@ -44,7 +45,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
 
 ## What The Character Knows
-- [Confirmed innocence clarification, 2026-10-10] Dain remains asleep and unaware of the enemies or Harry's attack on the prisoners. The current scene does not establish participation or approval. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed latest state, 2026-10-10] Dain has been woken by Taleesh and brought into the battle. Battle awareness is now established; exact enemy observations, the arrow's source and knowledge of Harry's earlier treatment of the prisoners remain unreported. Earlier sleep/unawareness notes below describe the preceding scenes. [Session](../../Adventures/2026-10-10.md).
+- [Preceding innocence clarification, 2026-10-10] Dain was asleep and unaware of Harry's attack on the prisoners when it occurred. Taleesh's later wake-up establishes battle awareness, without supplying a briefing about that earlier action or retroactive participation/approval. [Session](../../Adventures/2026-10-10.md).
 - [Character-only] [Confirmed, 2026-10-10] The night-time sound startles Dain at the riverbank, but **he is unaware of any enemies** and returns to his tent to sleep. The broader party's alarm and encounter record do not establish that Dain knows about the goblins or darkness clouds.
 - [Character-only] He delights in deception, illusion, and strange little magical tricks.
 - [Character-only] He would rather solve problems with baffling or obscure magic than by brute force.
@@ -258,6 +260,14 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-07-11: Dain's father offers him a bath, dinner, a place to stay, and guest-right while expressing disappointment over Dain's break with Moradin. Before leaving, Dain asks to dine with him later and receives the kind assurance that he is always welcome at his father's table. This is a personal welcome, not confirmed clan reinstatement. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify exact faith wording]
 - 2026-07-11: Dain leaves the audience and heads with the party toward the Truthammer settlement's [bathhouses](../Places/Berronar%20Truesilver%20Bathhouses.md), associated table-side with the uncertain phrase `Barren Archer of Silver hand`, likely Berronar Truesilver. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify proper name and dedication]
 - 2026-07-11: Dain trades a truth for a truth with the [southern human traders](../Factions/Southern%20Human%20Traders.md) and [Coal Mine Puppet](../Items/Coal%20Mine%20Puppet.md). After the humans reveal that they seek to establish new trade and the puppet asks whether the mountain has a mine, Dain discloses that it contains one of the richest mines in the land. [Session 2026-07-11](../../Adventures/2026-07-11.md) [To verify authorization, mine details, and five-truth accounting]
+
+- 2026-10-10: Taleesh wakes Dain in Leaky Tent, shares the hand-grasp meme and brings him into the battle. No new initiative, attack, spell or numerical recovery is reported. [Session](../../Adventures/2026-10-10.md).
+
+## Earlier Legendary Sleep - 2026-10-10
+
+![Dain sleeps like a legend while the party waits around the prisoners](../../Adventures/2026-10-10/party-nightmare-circle-and-truthammer-sleep.png)
+
+- This simultaneous scene precedes Taleesh's wake-up. Dain was separately asleep and unaware then; the latest scene supersedes that state. No rest recovery was established by the image. [Image notes](../../Adventures/2026-10-10/nightmare-circle-image-notes.md).
 
 ## Riverside Frolicking - 2026-10-10
 
