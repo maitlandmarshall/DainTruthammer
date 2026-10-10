@@ -7,11 +7,12 @@ Earlier scene illustration (predates the tracker clarification of armament and t
 ![Dain prepares to board the balloon-like skyship](../../Adventures/2026-08-29/2026-08-29_boarding-balloon-skyship.png)
 
 ## One-Line Summary
-The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. Travel resumed on 2026-10-03; the latest party scene is a riverside camp, with ship arrangements unreported.
+The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. The latest night alarm reveals two goblins already inside its carriage after a chest drops over the side; the ship's exact position and camp arrangements remain unreported.
 
 ## Status
+- [Party] [Confirmed latest encounter on 2026-10-10] In the middle of the night, [two goblins](../Characters/Goblin%20Intruders%20-%202026-10-10.md) are already inside the carriage. The [Chest of Preservation](../Items/Chest%20of%20Preservation.md) is dropped over the side with a loud sound that alerts the party. Initiative is called; Dain's requested roll is 6. Dropper, chest landing/condition/recovery, ship height/position and combat outcome remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed later scene on 2026-10-10] The party camps near a river and Dain puts up Leaky Tent for a joyful long-rest scene. The ship's landing/parking arrangements, position and condition at this camp are unreported. This supplies no tower arrival. [Riverside camp](./Riverside%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
-- [Party] [Confirmed on 2026-10-10] [Stu](../Characters/Stu.md), currently a brown bear, stands in the balloon carriage working on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md), with Matt's moon elf / [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md). No new route, arrival or weather is reported. [Session](../../Adventures/2026-10-10.md).
+- [Party] [Confirmed on 2026-10-10] [Stu](../Characters/Stu.md), currently a brown bear, stands in the balloon carriage working on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md), with [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md). No new route, arrival or weather is reported. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed latest update on 2026-10-03] Dain is **travelling in the airship**, learning Magic Mouth from scrolls and continuing Leaky Tent research while using Stinking Cloud. [Derived continuity] Operation/travel has resumed after the mining breaks; burial completion, retrieval method, departure time, current route/weather and tower arrival remain unreported. No new tent casting or cargo transfer is established. [Session](../../Adventures/2026-10-03.md)
 - [Party] [Confirmed on 2026-10-03] The party describes the transport as a **metal airship** and begins burying it after surviving into night. Rain has stopped; wind, thunder and lightning remain. [Inferred identification] This is the established skyship being packed down at the same storm stop. Exact method, extent/completion, cargo access, damage and retrieval plan remain unreported. [Session](../../Adventures/2026-10-03.md)
 - [Material clarification] The latest **metal** wording overrides wooden-hull depictions in older artwork. No new refit or change to the recorded balloon-like design, folding wings or ballista is reported.
@@ -41,6 +42,13 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 
 - Dain learns Magic Mouth and uses up his remaining scrolls while travelling aboard. He continues Leaky Tent refinement using Stinking Cloud; no revised mechanics or new tent casting is reported.
 - Deck framing, study furniture, diagrams, sky colours and gas shape are illustrative. They establish no time of day, weather, specific route, casting count or moving tent. [Prompt and references](../../Adventures/2026-10-03/magic-mouth-airship-research-image-notes.md)
+
+## Night Goblin Alarm - 2026-10-10
+
+![Two goblins already inside the metal carriage as the chest drops over the side at night](../../Adventures/2026-10-10/night-goblins-and-fallen-chest.png)
+
+- The chest drop's loud sound alerts the party to the two intruders. Initiative is called; Dain's requested roll is 6. Chest recovery and combat outcome remain open. [Session](../../Adventures/2026-10-10.md).
+- Goblin/chest appearance, deck positions, rail angle, lanterns and motion lines are illustrative. The frame establishes no current ship height, landing arrangement, named dropper, cargo damage, surprise or first attack. [Prompt and references](../../Adventures/2026-10-10/night-goblin-alarm-image-notes.md).
 
 ## Cloak-Making In The Balloon Carriage - 2026-10-10
 

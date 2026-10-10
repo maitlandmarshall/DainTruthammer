@@ -1,6 +1,7 @@
 # Open Threads
 
-- [Party-visible posture] [Latest moment] **Dain lies on the riverbank with the current flowing over one side of him.** [Character-only] He continues developing a spell around subtle paternal disappointment and emotional damage; no completed spell or mechanics are approved. [Research follow-up](#paternal-disappointment-spell-research).
+- [Party] [Latest encounter] **A loud night-time chest drop alerts the party to two goblins already inside the balloon carriage.** Dain's requested initiative is **6** (`6 + 0`, assistant-rolled); other rolls, order, surprise, actions and fallen-chest recovery remain open. [Encounter follow-up](#goblins-in-the-balloon-carriage).
+- [Party-visible posture] [Earlier moment] **Dain lies on the riverbank with the current flowing over one side of him.** [Character-only] He continues developing a spell around subtle paternal disappointment and emotional damage; no completed spell or mechanics are approved. [Research follow-up](#paternal-disappointment-spell-research).
 - [Party] [Latest interaction] **Dain conjures a gold-sifting tool for [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) while frolicking. She begins prospecting, then strikes the river's water and rocks with her hammer to no effect.** Sifting yield and conjuration details remain open. [River gold search](#harrys-river-gold-search).
 - [Party] [Current camp context] **The party camps near a river. Dain puts up Leaky Tent and enjoys the long rest frolicking between tent and river.** Current resource totals and casting details remain open. [Riverside follow-up](#riverside-rest-and-leaky-tent); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
 - [Party] [Earlier scene] **[Stu](../Characters/Stu.md), in brown-bear form, works on a white-wolf cloak in the balloon carriage with [Kagrenac](../Characters/The%20Astral%20Elf.md) and [Christina](../Characters/Christina.md).** No completion is reported. [Cloak and companion follow-up](#stus-white-wolf-cloak-and-christina); [active session](../../Adventures/2026-10-10.md).
@@ -16,6 +17,16 @@
 - [Party] [Open] Identify the destination tower/current route and establish the ship's condition, burial/retrieval details, weather and any arrival. Airship travel has resumed, but those details remain unreported. [Skyship](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Character-only] [Open] Continue [Leaky Tent research](../Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03); record approved results rather than promoting the meditation or floating artwork into mechanics. Keep paternal reflection private.
 - [Party / Table-side] [Open] Reconcile [treasure and harvest](../../Character/Party%20Loot.md), mining totals/allocation, **750 XP** scope, Olly's condition and Taleesh's return aboard. No personal gem share or XP total is assigned.
+
+### Goblins In The Balloon Carriage
+
+- Status: Active encounter; initiative called, with no round actions reported.
+- Tags: [Party] [Confirmed opening] [To verify outcomes].
+- Latest development, 2026-10-10: In the middle of the night, two goblins are already inside the balloon carriage. The loud sound of the Chest of Preservation dropping over its side alerts the party.
+- Dain's initiative: **6**, from one requested assistant roll of `d20 6 + 0`. The recorded modifier is +0; other initiative rolls/order and surprise rulings remain unreported.
+- Next possible actions: Record the remaining combat order and actions when supplied; locate the fallen chest and establish its condition, contents and recovery. Determine who dropped it and whether the earlier Chest of Preserving tracker refers to the same container.
+- State boundary: Dain's exact position, watch/sleep states, first attacks, damage, chest/cargo loss and rest completion/interruption remain unreported. Retain the previous cargo quantities; do not assign a combat outcome or numerical rest reset.
+- Linked entries: [Goblin intruders](../Characters/Goblin%20Intruders%20-%202026-10-10.md), [Chest of Preservation](../Items/Chest%20of%20Preservation.md), [skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [party loot](../../Character/Party%20Loot.md#chest-of-preserving), [session](../../Adventures/2026-10-10.md).
 
 ### Paternal Disappointment Spell Research
 

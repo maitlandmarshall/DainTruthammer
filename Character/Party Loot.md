@@ -92,6 +92,8 @@ From Photo 2. A dash below means a blank source cell, not a zero or a confirmed 
 
 ### Chest Of Preserving
 
+- [Latest reported chest event, 2026-10-10] Maitland calls it the **[Chest of Preservation](../Codex/Items/Chest%20of%20Preservation.md)**: it is dropped over the balloon carriage's side in the middle of the night, making the loud sound that alerts the party to two goblins already inside. Identification with this tracker chest is likely [Inferred]; landing, condition, contents and recovery remain unreported. The table below preserves the previous recorded contents, not a new confirmation that everything survived or was lost. [Session](../Adventures/2026-10-10.md).
+
 | Item as shown | Count | Character | Notes |
 | --- | ---: | --- | --- |
 | Chimera - Flame Organ | 1 | Kagrenac | Damaged |

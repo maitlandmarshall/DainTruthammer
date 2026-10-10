@@ -6,7 +6,8 @@
 The party's unnamed riverside camp, where [Dain Truthammer](../Characters/Dain%20Truthammer.md) puts up [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and enjoys a long-rest scene of frolicking between tent and river.
 
 ## Confirmed Scene
-- [Confirmed latest posture] Dain lies along the riverbank with the current flowing over one side of him. [Character-only] He continues [subtle emotional spell research](../Brainstorm/Powers/Paternal%20Disappointment%20Spell%20Research.md) inspired by paternal disappointment; the inspiration is not established as party knowledge.
+- [Confirmed earlier posture] Dain lies along the riverbank with the current flowing over one side of him. [Character-only] He continues [subtle emotional spell research](../Brainstorm/Powers/Paternal%20Disappointment%20Spell%20Research.md) inspired by paternal disappointment; the inspiration is not established as party knowledge.
+- [Later night alarm] Following the riverside beats, the party is alerted to [two goblins inside the balloon carriage](../Characters/Goblin%20Intruders%20-%202026-10-10.md) by the [Chest of Preservation](../Items/Chest%20of%20Preservation.md) dropping over its side. The ship's exact position relative to this camp and Dain's position at the alarm remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed later beat] [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) asks Dain for a gold-sifting tool. Dain conjures one with a flick while frolicking; Harry searches for gold, then gets her hammer out and strikes the water and rocks **to no effect**. Gold-sifting yield is unreported.
 - [Party] [Confirmed, 2026-10-10] The party camps near a river.
 - Dain puts up his Leaky Tent and spends the narrated long rest going between the tent and river, frolicking and enjoying himself.
