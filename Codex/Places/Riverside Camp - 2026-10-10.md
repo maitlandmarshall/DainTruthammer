@@ -3,9 +3,10 @@
 ![Harry strikes the cuffed goblins' fingers at the riverside night scene, with the impact hidden](../../Adventures/2026-10-10/harry-strikes-cuffed-goblin-fingers.png)
 
 ## One-Line Summary
-The party's unnamed riverside camp, where [Dain Truthammer](../Characters/Dain%20Truthammer.md) puts up [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and enjoys a long-rest scene of frolicking between tent and river.
+The party's unnamed riverside camp, where [Dain Truthammer](../Characters/Dain%20Truthammer.md) puts up [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and frolics before the night encounter. The party now retreats toward the balloon, about 100 feet away, while three snakes fly toward the retreating party.
 
 ## Confirmed Scene
+- [Latest snake follow-up and retreat] The earlier about-15 damage to [Stu](../Characters/Stu.md) came from two of the six snakes. The remaining four supply one further **1 piercing / 7 poison = 8** hit in Stu's context and **three flying toward the party retreating to the [balloon](./Party%20Skyship%20-%202026-08-29.md), about 100 feet away**. Individual party moves/targets, further hits, actual arrival/boarding and cargo/prisoner return remain unreported. Dain remains awake and in battle; no personal move or resource use is assigned. [Snake encounter](../Characters/Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 - [Latest Dain scene] **[Brother Taleesh](../Characters/Brother%20Taleesh.md) runs into [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10), wakes Dain, shares the hand-grasp meme and brings him into battle.** Dain is now awake and participating; earlier sleep/unawareness references below are historical. [Derived] Taleesh becomes Wet on tent entry; no ending, numerical recovery, attack or spell is supplied. Exact enemy positions and battle layout remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party action; Dain asleep] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) runs up to the cuffed goblins and smashes their fingers.** They were last asleep before this strike; exact implement, rolls, damage, injury extent, waking and reaction afterward are unreported. Their shared hand-and-foot [bindings](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) remain last confirmed; Yuckie is a separate party goblin. No release, chest recovery or Dain awareness change is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Preceding broader party scene; Dain asleep] Both sleeping goblins are cuffed together at hands and feet. Yuckie is present and the party surrounds them, waiting for them to wake. The earlier “Nightmare nightmare nightmare” quote has no assigned individual speaker or effect. That scene supplies no waking or chest recovery. [Session](../../Adventures/2026-10-10.md).
@@ -20,6 +21,12 @@ The party's unnamed riverside camp, where [Dain Truthammer](../Characters/Dain%2
 - Dain puts up his Leaky Tent and spends the narrated long rest going between the tent and river, frolicking and enjoying himself.
 - The river's name, precise location, route, relation to earlier camps and the airship's parking or landing arrangements are unreported. The page title is a descriptive archive label.
 - Casting level/mode and numerical rest benefits are unreported. [Session](../../Adventures/2026-10-10.md).
+
+## Three Snakes Pursue The Retreat - 2026-10-10
+
+![One further snake bites Stu while three fly toward the retreat direction and distant balloon](../../Adventures/2026-10-10/stu-next-bite-three-snakes-pursue-retreat.png)
+
+- Only the remaining four acting snakes are shown; the earlier two and specific party members are outside the frame. Terrain, ship staging, contact point, flight path and apparent distance are illustrative; no measured map, exact party movement, extra attack or completed boarding is established. [Prompt and references](../../Adventures/2026-10-10/snake-followup-retreat-image-notes.md).
 
 ## Taleesh Wakes Dain - 2026-10-10
 

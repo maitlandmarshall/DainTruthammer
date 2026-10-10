@@ -7,9 +7,10 @@ Earlier scene illustration (predates the tracker clarification of armament and t
 ![Dain prepares to board the balloon-like skyship](../../Adventures/2026-08-29/2026-08-29_boarding-balloon-skyship.png)
 
 ## One-Line Summary
-The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. Yuckie has begun dragging the linked prisoners toward its cabin; Harry now attempts the chest's return toward the balloon, continuing after an arrow glances off her armour. Arrival/loading, exact ship position and camp arrangements remain unreported.
+The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. The party now retreats toward it, about 100 feet away, while three snakes fly toward the party. Arrival/boarding, Harry's chest return, Yuckie's prisoner return and exact ship position/height remain unreported.
 
 ## Status
+- [Latest retreat destination, 2026-10-10] **The party retreats toward the balloon, about 100 feet away; three snakes fly toward the retreating party.** Specific party membership, movement, targets, later hits, actual arrival/boarding and ship takeoff are unreported. Dain is already awake and in battle after Taleesh fetches him; this broader retreat supplies no particular action or resource use for him. Harry's chest return and Yuckie's prisoner return remain open. [Snake encounter](../Characters/Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 - [Latest chest return attempt; Dain asleep, 2026-10-10] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) starts dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the balloon. An arrow from 150 feet in an unknown direction glances off her armour; she continues trying to drag it back.** Harry now handles the chest; arrival/loading, cabin access, cargo condition and ship landing/height remain unreported. Yuckie's prisoner return is also still underway. No new ship damage, shooter identity or Dain awareness/resource change is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Latest return begins; Dain asleep, 2026-10-10] **[Yuckie](../Characters/Yuckie%20the%20Goblin.md) starts dragging both [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) back toward the balloon cabin.** They remain cuffed together at hands and feet. Arrival, boarding, cabin access, ship landing/height, prisoner waking/reaction and chest recovery remain unreported. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Earlier encounter follow-up; Dain asleep, 2026-10-10] [Yuckie](../Characters/Yuckie%20the%20Goblin.md) finishes running up; the party surrounds the sleeping, manacled goblin intruders and waits for them to wake. The supplied quote is “Nightmare nightmare nightmare,” without an assigned speaker or effect. Dain separately sleeps like a legend, really manly. No waking, chest recovery, cargo return or changed ship state is reported. [Session](../../Adventures/2026-10-10.md).
@@ -31,10 +32,17 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 - [To verify] Formal name, builder, Gondian affiliation, owner, commander, crew, assigned pilot, route, destination, range, lift details, fuel, balloon material, defenses, cargo capacity and whether the party owns the vessel or merely has mission use of it.
 - [To verify] Whether this is the same Gondian airship previously used to reach Ola Dung Lot or a different vessel of a similar design.
 
+## Party Retreat - 2026-10-10
+
+![One further snake bites Stu while three fly toward the retreat direction and the distant balloon](../../Adventures/2026-10-10/stu-next-bite-three-snakes-pursue-retreat.png)
+
+- The reported balloon distance is **about 100 feet**; apparent distance and ship placement in the image are illustrative, not a measured map or a confirmed parking/landing arrangement. The party is outside the frame; no boarding, cargo/prisoner arrival, ship departure or damage is shown. [Prompt and references](../../Adventures/2026-10-10/snake-followup-retreat-image-notes.md).
+
 ## What Dain Knows
+- [Latest state] Dain is awake and in battle after Taleesh fetches him from the riverside Leaky Tent. The party's retreat toward the balloon is the broader scene record; Dain's specific observations, individual movement and exact position remain unreported. [Session](../../Adventures/2026-10-10.md).
 - The vessel is large enough to read visually as a gigantic hot-air balloon carrying a ship-like structure beneath it.
 - The current tracker records a ballista with `20` bolts; the original cannon description is preserved as unresolved terminology.
-- Earlier travel was airborne and southbound, then stopped on the tower-bound route. Burial began at night; **Dain is now travelling aboard the airship again**. The intervening burial/recovery details and current destination remain unreported.
+- Earlier travel was airborne and southbound, then stopped on the tower-bound route. Burial began at night; travel aboard resumed before the later riverside camp. The intervening burial/recovery details and destination remain unreported.
 - Two airborne `crymeria` attacked it and were destroyed. The current hold records chimera material, but its provenance is not explicitly linked to that encounter; exact creature identity, approach and ship damage remain unresolved.
 
 ## Night Burial - 2026-10-03

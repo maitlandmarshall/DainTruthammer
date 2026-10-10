@@ -9,6 +9,8 @@
 - The earlier four flying snakes' approach with cliffs behind them remains source history. How the counts relate, extra arrivals, total encounter population and whether all six fly are unreported.
 - Dain remains awake and in battle after Taleesh fetches him; specific observations/actions and the chest/prisoner return outcomes remain open.
 
+- [Later source clarification] The following [session beat](../2026-10-10.md) attributes this preceding damage to **two of the six snakes**, then reports the remaining four acting: one further 1-piercing/7-poison hit and three flying toward the party retreating to the balloon about 100 feet away. The single illustrated contact here never established attack count; this asset remains the preceding scene. [Following scene notes](./snake-followup-retreat-image-notes.md).
+
 ## Generation
 - Mode: built-in **imagegen**, reference-guided new scene followed by one targeted edit, opaque background. The repository API's earlier exhausted-credit result was not retried and no credits were purchased.
 - Style: [Kinetic Shonen Fantasy Anime](../../Codex/Images/Campaign%20Visual%20Style%20Guide.md).

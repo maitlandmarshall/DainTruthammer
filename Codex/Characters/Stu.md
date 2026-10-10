@@ -9,7 +9,7 @@
 *The bear represents the confirmed transformation; species, poses and attacks are not mechanical evidence. Stu's ordinary appearance is unknown. [Image prompt and provenance](../../Adventures/2026-09-12/chaos-managed-image-notes.md).*
 
 ## One-Line Summary
-A participant in the guano-cavern encounter who speaks with a bat using magic, turns into a bear, works on a white-wolf cloak, chases goblins, and is later fine after a critical snake hit while surrounded by six snakes in brown-bear form.
+A party participant in brown-bear form who takes about 15 damage from two snakes, then another 8 from a further hit; three other snakes fly toward the party retreating to the balloon.
 
 ## Table Role
 - Role: Unknown / To verify.
@@ -26,17 +26,26 @@ A participant in the guano-cavern encounter who speaks with a bat using magic, t
 - 2026-10-10: [Broader party encounter; Dain unaware] The bear, resolved in context to Stu's established brown-bear form, chases the goblins. Kagrenac then puts both to sleep; they fall with the chest causing a dramatic dirt slide. No bear attack, new transformation or resource cost is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Current State
-- [Confirmed latest encounter, 2026-10-10] **Brown-bear form, surrounded by six snakes; takes a critical snake hit and is fine.** Maitland clarifies **about 15 damage total; breakdown still unclear**. The initial 2 piercing / 10 poison report is preserved in the [session](../../Adventures/2026-10-10.md); it does not settle the allocation or current HP. Attack roll/count, poison status, resistance, immunity, healing, ended form and subsequent bear actions remain unreported.
+- [Confirmed latest follow-up, 2026-10-10] The earlier about-15 damage came from **two of the six snakes**. Of the remaining four, one further hit supplies **1 piercing + 7 poison = 8 damage** to Stu in context; the other three fly toward the party retreating to the balloon about 100 feet away. [Derived] About 23 reported damage across the sequence, not an exact remaining-HP figure. His current HP, post-hit condition, poison status, ended form and later actions are unreported. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed preceding hit, 2026-10-10] Stu is in brown-bear form, surrounded by six snakes, and the preceding report includes a critical snake hit for **about 15 total damage; breakdown still unclear**. He is fine at that point, before the added 8. The initial 2 piercing / 10 poison source remains preserved; the later clarification attributes this preceding damage report to two snakes without per-snake allocation or extra criticals. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed earlier chase, 2026-10-10] Stu chases the [goblins](./Goblin%20Intruders%20-%202026-10-10.md) in brown-bear form. Kagrenac puts both to sleep; they fall with the chest causing a dramatic dirt slide. No bear attack, new transformation or resource cost was supplied for that earlier scene. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed earlier scene, 2026-10-10] Stu stands in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md) and works on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md), with [Kagrenac](./The%20Astral%20Elf.md) and [Christina](./Christina.md). Christina originally arrived with Stu; the date/place and cloak completion remain unreported.
 - [To verify] Transformation method, duration, uses or slots spent, HP, crafting costs and other mechanics. The brown-bear description does not establish Wild Shape, a druid class or a specific stat block. Whether this form has persisted continuously since the cavern is unreported.
 - Ordinary appearance and identity remain unrecorded.
+
+## Further Bite And Three Airborne Pursuers - 2026-10-10
+
+![One further snake bites Stu while three fly toward the party's retreat direction and distant balloon](../../Adventures/2026-10-10/stu-next-bite-three-snakes-pursue-retreat.png)
+
+- The remaining four act after the preceding two; one additional bite supplies 8 damage in Stu's context and the other three fly toward the retreating party. Approximate cumulative damage is about 23; latest HP and condition are unreported. [Snake encounter](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+- The earlier two are outside this frame. Appearance, posture, contact point, flight path, ship staging and apparent distance are illustrative; no further attack, healing, resistance, named action, completed boarding or form ending is assigned. [Prompt and references](../../Adventures/2026-10-10/snake-followup-retreat-image-notes.md).
 
 ## Six Snakes And A Critical Hit - 2026-10-10
 
 ![Stu the brown bear is surrounded by six snakes and takes a critical hit, but is fine](../../Adventures/2026-10-10/stu-surrounded-by-six-snakes.png)
 
 - [Confirmed] Six snakes surround Stu and a critical snake hit deals about 15 damage total; he is fine. The earlier four flying snakes remain a separate source report; how the counts relate and whether all six fly are unreported. [Encounter record](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+- [Later attribution clarification] The preceding about-15 damage is from **two** of the six. The single illustrated contact does not establish attack count or per-snake allocation; the following 8 damage and three-snake flight are subsequent events.
 - [Visual boundary] Bear and snake appearances, stance, one illustrated bite contact, impact flash, ground staging and surroundings are illustrative. The frame settles no numerical HP, exact attack count, poison condition or later action. [Prompt and references](../../Adventures/2026-10-10/stu-six-snakes-critical-image-notes.md).
 
 ## Bear Chase - 2026-10-10
