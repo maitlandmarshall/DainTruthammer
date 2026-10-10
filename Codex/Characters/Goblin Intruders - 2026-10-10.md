@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![The two sleeping prisoners are cuffed together at both hands and feet, with the party waiting and Dain asleep separately](../../Adventures/2026-10-10/conjoined-goblins-hands-and-feet.png)
+![Harry strikes the cuffed goblins' fingers with the impact obscured](../../Adventures/2026-10-10/harry-strikes-cuffed-goblin-fingers.png)
 
-- Shared hand/foot bindings are confirmed; exact cuff/link construction, poses, quote presentation and scenery are illustrative. No exact stock use, formal condition mechanics, waking, injury, chest recovery or Dain awareness is established. [Image notes](../../Adventures/2026-10-10/conjoined-goblins-image-notes.md).
+- Harry's reported action is confirmed; the actual contact and any implement are obscured. Poses, expressions, motion marks, cuff details and scenery are illustrative. No damage total, injury extent, waking/reaction, continued sleep, chest recovery or Dain awareness change is established. [Image notes](../../Adventures/2026-10-10/harry-prisoner-strike-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, asleep and cuffed together at both hands and feet, surrounded by the waiting party; Yuckie is a separate party goblin and Dain sleeps elsewhere.
+Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, whose fingers Harry smashes; they were last asleep before the strike, with waking/reaction afterward unreported. Yuckie is a separate party goblin and Dain sleeps elsewhere.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,8 +13,9 @@ Two unnamed balloon-carriage intruders, asleep and cuffed together at both hands
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
-- [Latest binding clarification; Dain asleep] **Both prisoners are now cuffed together on both hands and feet, conjoined through their restraints.** Fine chain/cuff construction, source/count, keys and escape mechanics remain unreported. No named actor is newly assigned to arranging these bindings. The waiting scene continues, with no waking, injury or chest recovery supplied. [Session](../../Adventures/2026-10-10.md).
-- [Latest broader party scene; Dain asleep] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) finishes running up; the party surrounds both sleeping, manacled intruders and waits for them to wake.** The supplied quote is **“Nightmare nightmare nightmare”**, without an assigned individual speaker or mechanical effect. No waking, prisoner response, damage or chest recovery is supplied. Dain sleeps separately and remains unaware. [Session](../../Adventures/2026-10-10.md).
+- [Latest broader party action; Dain asleep] **[Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) runs up to the cuffed goblins and smashes their fingers.** Exact implement, attack/damage rolls, damage and injury extent remain unreported. They were last asleep before this strike; waking and reaction afterward are unreported. No release or chest recovery is supplied. Dain's separate sleep and lack of enemy awareness are unchanged. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed binding clarification; Dain asleep] **Both prisoners are cuffed together on both hands and feet, conjoined through their restraints.** Fine chain/cuff construction, source/count, keys and escape mechanics remain unreported. No named actor is newly assigned to arranging these bindings. This remains their last confirmed configuration after Harry's action. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed preceding party scene; Dain asleep] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) finishes running up; the party surrounds both sleeping, manacled intruders and waits for them to wake.** The supplied quote is **“Nightmare nightmare nightmare”**, without an assigned individual speaker or mechanical effect. That scene supplies no waking, prisoner response, damage or chest recovery. Dain sleeps separately and remains unaware. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding outcome] [Brother Taleesh](./Brother%20Taleesh.md) runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both goblins while they sleep, restraining them. The later clarification establishes shared hand/foot bindings; source/count, fine cuff/chain details, keys and mechanics remain unreported. Physical restraint does not establish the formal Restrained condition.
 - [Confirmed preceding outcome] [Stu](./Stu.md), in brown-bear form, chases the goblins. [Kagrenac](./The%20Astral%20Elf.md) puts both to sleep; they fall dramatically to the ground, with the [chest](../Items/Chest%20of%20Preservation.md) causing a dramatic slide through the dirt. Sleep method/duration and resources remain unreported.
 - [Broader party encounter; Dain unaware] [Confirmed earlier action] [Brother Taleesh](./Brother%20Taleesh.md) fails to grapple them; both keep running into the distance with the chest until the subsequently reported pursuit and sleep outcome.
@@ -24,7 +25,7 @@ Two unnamed balloon-carriage intruders, asleep and cuffed together at both hands
 - [Party] [Confirmed, 2026-10-10] Exactly two goblins creep up on the party and are already in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Party] The [Chest of Preservation](../Items/Chest%20of%20Preservation.md) drops over the carriage's side, making a loud sound that alerts the party. The dropper is unreported.
 - [Corrected table result] **Dain initiative 7**, reported by Maitland, supersedes the assistant-generated 6. Goblin rolls, other party rolls, order and surprise are unreported.
-- Goblin damage, saves, injury, death and the final encounter outcome remain unreported. Taleesh's earlier miss has no further consequence to him.
+- Damage totals, saves, exact injury extent, death and the final encounter outcome remain unreported. Harry's finger strike is confirmed; Taleesh's earlier miss has no further consequence to him.
 
 ## What The Party Knows
 - [Explicit Dain exception] **Dain is unaware of any enemies.** He is startled by the noise while "sleep drowning" at the riverbank, gets up and returns to his Leaky Tent to sleep. The encounter facts below belong to the broader party record, not established Dain knowledge. [Session](../../Adventures/2026-10-10.md).
@@ -38,9 +39,11 @@ Two unnamed balloon-carriage intruders, asleep and cuffed together at both hands
 
 - Yuckie finishes running up. The party surrounds the sleeping prisoners and waits for them to wake; Dain is separately asleep. The “nightmare” quote establishes no reaction or effect.
 
-- The latest clarification establishes that both prisoners are cuffed together at both hands and feet. No waking or other outcome is supplied.
+- The binding clarification establishes that both prisoners are cuffed together at both hands and feet.
+- Harry then runs up and smashes their fingers. They were last asleep before her strike; damage, injury extent, waking and reaction afterward are unreported.
 
 ## What Is Uncertain
+- The finger strike's exact implement, attack/damage rolls, numeric damage, injury extent, waking and prisoner reaction afterward. Continued sleep is not assumed; no named sleep spell or automatic ending is assigned.
 - Individual speaker of the “Nightmare nightmare nightmare” quote, actual waking time, prisoner dialogue/reaction and the outcome of this waiting scene. Yuckie is a distinct player character, not one of these intruders; any relationship between them is unreported.
 - Names, affiliation, appearance, weapons, armor, stat blocks, HP and exact positions.
 - How they entered, their purpose, who dropped the chest and any connection to previous goblin encounters.
@@ -48,6 +51,12 @@ Two unnamed balloon-carriage intruders, asleep and cuffed together at both hands
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 - Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
 - Sleep method/spell/feature, level, rolls, duration/resources, manacle source/count, fine cuff/chain construction, keys and escape mechanics, later waking/handling, final chest position/control/recovery and cargo condition. Shared bindings at both hands and feet are confirmed. The earlier grapple total, route/destination, distances and pickup sequence remain unreported.
+
+## Earlier Shared Hand And Foot Bindings
+
+![The two sleeping prisoners are cuffed together at both hands and feet, with the party waiting and Dain asleep separately](../../Adventures/2026-10-10/conjoined-goblins-hands-and-feet.png)
+
+- This precedes Harry's finger strike. Shared hand/foot bindings are confirmed; exact cuff/link construction, poses, quote presentation and scenery are illustrative. This earlier image supplies no injury, waking or chest recovery. [Image notes](../../Adventures/2026-10-10/conjoined-goblins-image-notes.md).
 
 ## Earlier Waiting Circle
 

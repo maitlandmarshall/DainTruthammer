@@ -5,7 +5,7 @@
 ## Confirmed Use
 - [Latest binding clarification, 2026-10-10] **Both goblins are now cuffed together on both hands and feet, conjoined through their restraints.** Shared hand/foot connections are confirmed. Exact chain/cuff construction, source/count, keys and mechanics remain unreported. No named actor is newly assigned to fastening or rearranging these bindings. [Session](../../Adventures/2026-10-10.md).
 - [Broader party encounter; Dain unaware] On 2026-10-10, [Brother Taleesh](../Characters/Brother%20Taleesh.md) runs up and puts manacles on both [sleeping goblins](../Characters/Goblin%20Intruders%20-%202026-10-10.md), restraining them. [Session](../../Adventures/2026-10-10.md).
-- The latest waiting scene leaves both asleep and surrounded; the binding clarification supplies no waking, injury, further prisoner outcome or chest recovery.
+- [Latest follow-up] [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) runs up to the cuffed goblins and smashes their fingers. No release or alteration of their shared hand/foot bindings is supplied. They were last asleep before the strike; damage, injury extent, waking and reaction afterward are unreported. Chest recovery remains open. [Session](../../Adventures/2026-10-10.md).
 - Physical restraint is recorded; the formal Restrained condition, checks/DCs, escape rules and costs are not established.
 
 ## Source And Count
