@@ -299,5 +299,10 @@
     "fingerprint": "a5e078c8519a84dc9b749f8ccf0b381b4f8b426a0d786f0f259008cf6ae01e67",
     "status": "confirmed",
     "message_id": "1558439078003740793"
+  },
+  "2026-10-10-042-goblin-javelin-kills-kagrenac-owl": {
+    "fingerprint": "23998f4ea2f94af6006c320ecff51465f3b69f4b3bf9d7d985ec0c5b2eba0a8b",
+    "status": "confirmed",
+    "message_id": "1558441958655918190"
   }
 }
