@@ -1,5 +1,7 @@
 # Open Threads
 
+- [Latest investigation] **[Brother Taleesh](../Characters/Brother%20Taleesh.md) does a perimeter sweep and goes to check out the [unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md).** [Taleesh belief] His vague suspicion that the earlier arrow came from there is unconfirmed. No finding, shooter, check result or communicated knowledge is supplied. [Arrow source follow-up](#arrow-glances-off-harrys-armour).
+
 - [Latest round and survival] **Round 7: [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) continues dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) toward the balloon; both [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) are still alive.** Arrival/loading, measured progress, prisoner waking/reaction and HP/injury extent remain unreported. [Encounter follow-up](#goblins-in-the-balloon-carriage).
 
 - [Latest Dain action] **Dain clicks his fingers and [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) disappears in steam. He emerges yelling, cannot pick up [Brother Taleesh](../Characters/Brother%20Taleesh.md), then runs 25 feet and does nothing further.** The tent is now dismissed; direction/endpoint, roll, costs, current resources and any Wet ending remain open. The healing-pod comparison supplies no healing or transformation. [Riverside follow-up](#riverside-rest-and-leaky-tent).
@@ -30,6 +32,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Active gorge investigation] Record Taleesh's actual sweep/gorge findings, rolls, movement or any communication of his hunch when supplied. The gorge is a suspected lead, not a confirmed firing position; no new round, elapsed time, resources or encounter outcome is inferred. [Arrow investigation](#arrow-glances-off-harrys-armour).
+
 - [Round 7; chest haul ongoing; both prisoners alive] Record the actual chest arrival/loading and any later prisoner HP, waking/reaction, release or transport outcome when supplied. The round count is separate from Dain's last reported initiative **7**; no exact elapsed time, automatic duration ending, new arrow or resource change is inferred. [Balloon goblin encounter](#goblins-in-the-balloon-carriage).
 
 - [Latest Dain turn] **The riverside tent is dismissed in steam; Dain's attempted Taleesh lift fails, and he runs 25 feet then does nothing further.** Record actual movement endpoint, later actions, current resources or a Wet ending when supplied. No named Dash/Dodge/Ready action, balloon arrival, enemy interception, healing or transformation is established. [Riverside rest and tent](#riverside-rest-and-leaky-tent).
@@ -57,13 +61,14 @@
 
 ### Arrow Glances Off Harry's Armour
 
-- Status: An arrow from 150 feet, unknown direction, glances off Harry's armour while she starts dragging the chest back toward the balloon. Harry continues trying to drag it back.
-- Tags: [Broader party encounter] [Confirmed narrated glance] [To verify source and later outcomes].
+- Status: **Taleesh conducts a perimeter sweep and goes to investigate the unnamed gorge, vaguely suspecting the earlier arrow came from there.** The source remains unconfirmed. The earlier arrow from 150 feet glanced off Harry's armour; no new shot, finding, shooter or confirmed bearing is supplied. Harry's chest haul remains last reported ongoing in round 7.
+- Tags: [Broader party encounter] [Confirmed narrated glance and investigation] [Character-only Taleesh belief] [To verify source and later outcomes].
+- Latest investigation, 2026-10-10: Taleesh sweeps the perimeter, has a vague idea that the arrow came from the gorge, and goes to check it out. The action and hunch are reported; their findings, skill checks, precise route/position and communication to others are unreported. No confirmed link to the earlier snake cliffs, older crevasse or northern forest is established.
 - Report, 2026-10-10: The user supplies the distance and unknown direction. The shooter, weapon, exact contact point, firing bearing, attack roll and damage are unreported; no additional arrow or HP/resource change is assigned.
-- Open: Arrow source, later shots or reactions and any reported rolls/outcomes. No connection to the four flying snakes, cliffs, cuffed goblins or northern dark forest is established.
+- Open: Actual gorge/sweep findings, arrow source, shooter evidence, confirmed bearing, later shots/reactions, communicated knowledge and any reported rolls/outcomes. Taleesh's hunch does not confirm the source. No connection to the four flying snakes, cliffs, cuffed goblins or northern dark forest is established; the table photo supplies no feature legend, miniature identities or measured map.
 - Continuing action: Harry now handles the chest and attempts its return; arrival/loading and contents/condition remain open. Yuckie has separately begun dragging the prisoners toward the cabin; no completed arrival is supplied for either return.
 - Dain boundary: Taleesh has now woken Dain and brought him into battle. The earlier arrow event alone did not wake him; whether he witnessed that shot, knows its source or receives a briefing remains unreported. No new roll or resource result is supplied.
-- Linked entries: [Harry](../Characters/Hammerton%20Harry%20Drizddon.md), [chest](../Items/Chest%20of%20Preservation.md), [skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [session](../../Adventures/2026-10-10.md).
+- Linked entries: [Taleesh](../Characters/Brother%20Taleesh.md), [unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md), [Harry](../Characters/Hammerton%20Harry%20Drizddon.md), [chest](../Items/Chest%20of%20Preservation.md), [skyship](../Places/Party%20Skyship%20-%202026-08-29.md), [session](../../Adventures/2026-10-10.md).
 
 ### Four Flying Snakes And The Cliffs
 

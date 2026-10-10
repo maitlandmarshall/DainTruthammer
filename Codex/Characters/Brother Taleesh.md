@@ -11,8 +11,9 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - DM: Tom.
 
 ## Status
+- [Latest confirmed action, 2026-10-10] **Taleesh does a perimeter sweep and goes to check out the [unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md).** [Character-only; Belief] He has a vague idea that the earlier arrow came from there. No confirmed firing direction, shooter, finding, skill roll, movement distance, precise position, descent, confrontation or new resource use is supplied. No communication of the hunch to Dain or others is reported; Wet has no reported ending. [Session](../../Adventures/2026-10-10.md); [arrow follow-up](../Lore/Open%20Threads.md#arrow-glances-off-harrys-armour).
 - [Latest confirmed interaction, 2026-10-10] **[Dain](./Dain%20Truthammer.md) emerges as Leaky Tent disappears in steam, yells and tries to pick up Taleesh but is unable. Dain then runs 25 feet and does nothing further.** Taleesh is not lifted/carried; his response, exact grip/position, roll and reason the attempt fails are unreported. No injury, forced movement, ki/astral-arm use, resource expenditure or Wet ending is assigned. [Session](../../Adventures/2026-10-10.md).
-- [Latest confirmed Taleesh action, 2026-10-10] **Taleesh runs into [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10), wakes [Dain](./Dain%20Truthammer.md), shares the hand-grasp meme and brings him into the battle.** Dain is now awake and participating. [Derived custom rule] Taleesh becomes **Wet** on entry: fire resistance, cold/lightning vulnerability; no ending is reported. No astral-arm activation, ki expenditure, roll or numerical resource change is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Preceding Taleesh wake-up, 2026-10-10] **Taleesh runs into [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10), wakes [Dain](./Dain%20Truthammer.md), shares the hand-grasp meme and brings him into the battle.** Dain is now awake and participating. [Derived custom rule] Taleesh becomes **Wet** on entry: fire resistance, cold/lightning vulnerability; no ending is reported. No astral-arm activation, ki expenditure, roll or numerical resource change is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Later binding clarification, 2026-10-10] Both goblin prisoners are now **cuffed together at both hands and feet**, conjoined through their restraints. This follows Taleesh's initial manacling but assigns no new fastening/rearranging action to him or another named character. Source/count, fine cuff/chain details, keys and mechanics remain open; no waking or chest recovery is supplied. [Manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md).
 - [Earlier party encounter; Dain unaware then] [Preceding Taleesh action, 2026-10-10] **Taleesh runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both sleeping [goblins](./Goblin%20Intruders%20-%202026-10-10.md), restraining them.** That action supplied no waking, injury or chest recovery. Source/count, fine cuff/chain details, keys and mechanics remain unreported; no formal Restrained condition, stock deduction or ki use is assigned. [Session](../../Adventures/2026-10-10.md); [encounter](../Lore/Open%20Threads.md#goblins-in-the-balloon-carriage).
 - [Earlier Taleesh action, 2026-10-10] Taleesh tries to grapple the goblins but fails to catch them; they continue running with the chest at that point. No roll, number of attempts, injury or extra consequence is supplied.
@@ -32,6 +33,12 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Perimeter Sweep And Gorge Investigation - 2026-10-10
+
+![Taleesh checks the gorge while the earlier arrow's source remains unconfirmed](../../Adventures/2026-10-10/taleesh-perimeter-sweep-gorge.png)
+
+- The scene illustrates Taleesh investigating, following his vague hunch. Rock geometry, scale, path, gaze, posture and lighting are illustrative; no shooter, clue, successful check, cleared area, descent, new round or confirmed bearing is established. [Image notes](../../Adventures/2026-10-10/taleesh-gorge-image-notes.md).
 
 ## Truthammer's Failed Lift - 2026-10-10
 
@@ -235,7 +242,11 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 
 - 2026-10-10: Dain unsuccessfully tries to pick up Taleesh after the finger-click steam entrance, then runs **25 feet** and does nothing further. Taleesh is not carried; no response, roll, forced movement, damage or ki use is reported. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Taleesh conducts a **perimeter sweep** and goes to check out the **unnamed gorge**, vaguely suspecting the earlier arrow came from there. His hunch is unconfirmed; no finding, shooter, check result, communicated knowledge, ki use or Wet ending is reported. [Session](../../Adventures/2026-10-10.md).
+
 ## Related Entries
+- [Unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md)
+- [Arrow source follow-up](../Lore/Open%20Threads.md#arrow-glances-off-harrys-armour)
 - [Relationships](../../Character/Relationships.md)
 - [Open Threads](../Lore/Open%20Threads.md)
 - [Taleesh's Bone Charm](../Items/Taleeshs%20Bone%20Charm.md)
