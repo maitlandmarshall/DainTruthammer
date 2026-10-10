@@ -16,10 +16,12 @@ The supplied name for the bird-form companion that picks up a flanking goblin an
 
 ## Status
 
+- [Later landing outcome, 2026-10-10] The goblin Tona dropped **falls, hits a rock and turns into goop, wrapping into the rock**. Cause, death/survival, numerical damage and camp response remain unknown. No new Tona action or confirmed Tina alias is supplied. [Session](../../Adventures/2026-10-10.md).
+
 - [Confirmed, 2026-10-10] **In bird form, picks up a goblin that was flanking the party and drops it in front of the goblins' fire pit as a warning.**
 - This happens when Dain's countdown reaches **0** after his threat of hellfire unless the goblins reveal themselves for negotiations.
 - Species, form source, exact flight/drop height, combat rolls/action costs and any transformation ending remain unreported. Eagle appearance in the accompanying scene is an illustrative continuity choice, not confirmed identity or mechanics.
-- Goblin damage, impact, injury/death/survival, fire contact and camp response remain unknown. The reported drop is **in front of**, not into, the pit.
+- [Preceding drop context] The reported drop is **in front of**, not into, the pit. The later rock impact and goop change are recorded above; numerical damage, injury/death/survival, fire contact and camp response remain unknown.
 
 ## What Is Uncertain
 

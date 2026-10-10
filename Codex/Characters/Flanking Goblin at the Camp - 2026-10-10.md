@@ -4,9 +4,13 @@
 
 - Three consecutive panels show Dain's countdown, bird-form Tona lifting the flanking goblin, and release outside the pit before impact. Eagle appearance is an illustrative continuity choice; Tona's possible Tina alias remains unconfirmed. Drop height, poses, goblin expression/clothes, unlit pit, camp arrangement, banners/marks, braziers, light and scenery are illustrative. No damage, injury/death/survival, intimidation outcome, accepted negotiations, actual hellfire or discovered faction emblem is established. [Image notes](../../Adventures/2026-10-10/countdown-bird-form-warning-image-notes.md).
 
+![The flanking goblin hits a rock, then goop wraps into the stone](../../Adventures/2026-10-10/flanking-goblin-rock-goop.png)
+
+- Two consecutive panels show the same dropped goblin hitting a rock, then goop wrapping around and into its crevices. Colour/composition, impact pose/contact point, clothing fate, rock shape, flow, camp layout/banners/lights and exact absorption process are illustrative. No death/survival, damage number, complete disappearance, named spell/creature type or camp/party reaction is established. [Image notes](../../Adventures/2026-10-10/flanking-goblin-rock-goop-image-notes.md).
+
 ## One-Line Summary
 
-The unnamed goblin reported flanking the party, which Tona in bird form picks up and drops in front of the camp's fire pit as a warning at the end of Dain's countdown.
+The unnamed goblin that was flanking the party, dropped in front of the camp's fire pit by bird-form Tona, then hits a rock and turns into goop, wrapping into the rock.
 
 ## Table Role
 
@@ -15,12 +19,14 @@ The unnamed goblin reported flanking the party, which Tona in bird form picks up
 
 ## Status
 
-- [Confirmed, 2026-10-10] **Was flanking the party. Tona in bird form picks it up and drops it in front of the goblins' fire pit as a warning.**
-- The pickup/drop happens when Dain's countdown reaches **0**, after his threat of hellfire unless the goblins reveal themselves for negotiations.
-- The drop is **in front of** the pit. Impact, damage, injury, death/survival, fire contact, subsequent HP/condition and further movement are unreported.
-- “Flanking” is the supplied positional wording, without a formal rule/advantage assignment. No roll, action cost, exact distance, drop height or grapple condition is invented.
+- [Latest confirmed outcome, 2026-10-10] **Falls, hits a rock and turns into goop, wrapping into the rock.** This is the reported outcome after Tona's drop; no death/survival, numerical damage/HP or cause is supplied.
+- [Preceding action] Was flanking the party. Tona in bird form picks it up and drops it **in front of** the goblins' fire pit as a warning when Dain's countdown reaches **0** after his hellfire threat.
+- “Wrapping into the rock” is preserved as supplied. Exact material/process, time, full absorption/disappearance and further movement remain unreported. No mimic, ooze species, illusion, spell or animated rock is identified.
+- Drop height, fire contact, combat rolls/action costs and camp reaction remain unknown. Supplied “flanking” assigns no formal rule or advantage. This entry does not derive additional goblins or a death count.
 
 ## What Is Uncertain
+
+- Whether the goblin is dead/alive, why it turns into goop and wraps into the rock, whether absorption completes, and any later movement or reply. Exact goop composition/colour, rock shape/position, numerical damage and HP are unreported.
 
 - Individual name, control, role/affiliation, HP/stat block, equipment and relation to other known goblins.
 - Exact initial position, pickup/flight/drop geometry and the pit's fire state/location.
@@ -30,6 +36,8 @@ The unnamed goblin reported flanking the party, which Tona in bird form picks up
 ## Notable Events
 
 - 2026-10-10: **Picked up and dropped in front of the fire pit as a warning by bird-form Tona after Dain's countdown reaches zero.** Raw narration is preserved in the [session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10, after the drop: **Falls, hits a rock and turns into goop, wrapping into the rock.** Impact/change is confirmed; cause, death/survival and numerical damage remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 

@@ -16,13 +16,19 @@
 
 - Three consecutive panels show Dain's countdown, bird-form Tona lifting the flanking goblin, and release outside the pit before impact. Eagle appearance is an illustrative continuity choice; Tona's possible Tina alias remains unconfirmed. Drop height, poses, goblin expression/clothes, unlit pit, camp arrangement, banners/marks, braziers, light and scenery are illustrative. No damage, injury/death/survival, intimidation outcome, accepted negotiations, actual hellfire or discovered faction emblem is established. [Image notes](../../Adventures/2026-10-10/countdown-bird-form-warning-image-notes.md).
 
+![The flanking goblin hits a rock, then goop wraps into the stone](../../Adventures/2026-10-10/flanking-goblin-rock-goop.png)
+
+- Two consecutive panels show the same dropped goblin hitting a rock, then goop wrapping around and into its crevices. Colour/composition, impact pose/contact point, clothing fate, rock shape, flow, camp layout/banners/lights and exact absorption process are illustrative. No death/survival, damage number, complete disappearance, named spell/creature type or camp/party reaction is established. [Image notes](../../Adventures/2026-10-10/flanking-goblin-rock-goop-image-notes.md).
+
 ## One-Line Summary
 
 An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh, now entered by Dain riding bear-form Stu with Harry and Yuckie, backed by giant-eagle Tina; Dain calls for peaceful discussion and the camp's response is unreported.
 
 ## Confirmed Discovery
 
-- [Latest confirmed warning, 2026-10-10] **Dain begins a countdown and threatens hellfire unless the goblins reveal themselves for negotiations. It reaches 0; [Tona](../Characters/Tona.md), in bird form, picks up the [goblin flanking the party](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the goblins' fire pit as a warning.** The fire pit is now a supplied landmark. Its fire state/position, drop height, goblin condition, Tona's identity and camp reply remain unreported. This follows Dain's no-violence guarantee without rewriting it. No actual hellfire or guano attack is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed dropped-goblin outcome, 2026-10-10] **The [flanking goblin](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) falls, hits a rock and turns into goop, wrapping into the rock.** The rock is now a reported contact landmark after Tona's drop in front of the fire pit. Cause, death/survival, full absorption, numerical damage and camp response remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding countdown and bird-form warning, 2026-10-10] **Dain begins a countdown and threatens hellfire unless the goblins reveal themselves for negotiations. It reaches 0; [Tona](../Characters/Tona.md), in bird form, picks up the [goblin flanking the party](../Characters/Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the goblins' fire pit as a warning.** The fire pit is now a supplied landmark. Its fire state/position, drop height, goblin condition, Tona's identity and camp reply remain unreported. This follows Dain's no-violence guarantee without rewriting it. No actual hellfire or guano attack is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding visible-goblin movement, 2026-10-10] **The visible [goblin](../Characters/Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** A goblin and tent landmark are now explicitly reported; exact identity, role, route/destination and motive remain open. No total population, map coordinate, magical disappearance, alarm or spoken reply to Dain is supplied. Older no-response snapshots below record the preceding entrance/discovery context. [Session](../../Adventures/2026-10-10.md).
 
@@ -48,6 +54,12 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 ![Brother Taleesh discovers the goblin camp](../../Adventures/2026-10-10/taleesh-discovers-goblin-camp.png)
 
 - Taleesh's discovery is confirmed; posture, gaze, vegetation, lighting and obscured shelter glimpses are illustrative. No map key, creature count, tactical layout, arrow-source clue, stealth/check result or further action is established. [Image notes](../../Adventures/2026-10-10/taleesh-goblin-camp-image-notes.md).
+
+## Goblin Turns Into Goop At A Rock - 2026-10-10
+
+- **The dropped flanking goblin falls, hits a rock and turns into goop, wrapping into the rock.** Impact/change is confirmed as supplied after the preceding drop in front of the fire pit.
+- The rock is a contact landmark; exact position/shape, goop composition/colour, change process, duration and completed absorption are unreported.
+- No death/survival, numerical damage, spell, creature type, rock animation, party/camp reaction or negotiation outcome is established. The goblin is not identified with the tent goblin, either captive or Yuckie. [Session](../../Adventures/2026-10-10.md).
 
 ## Countdown And Bird-Form Warning - 2026-10-10
 
@@ -81,6 +93,8 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest impact/change: cause and process of the goblin turning into goop and wrapping into the rock, death/survival, numerical damage, completed absorption, next movement and camp/party reaction. A named power, creature type and magical/animated rock are unconfirmed.
 
 - Latest countdown and drop: camp reply/negotiations, starting count/time, Tona's possible Tina identity, flanking goblin identity/condition/damage, height/flight path, fire pit exact position/fire state and handling of the earlier no-violence guarantee. No actual hellfire, bombing, fear/compliance or mechanical flanking ruling is supplied.
 

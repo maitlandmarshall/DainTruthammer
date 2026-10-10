@@ -40,8 +40,10 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
+- [Latest broader camp outcome, 2026-10-10] **The dropped [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) hits a rock and turns into goop, wrapping into the rock.** Cause, death/survival, numerical damage and camp reply are unknown. No new Dain action or reaction is supplied; the countdown remains his latest personal action. His earlier no-violence guarantee stays recorded. [Session](../../Adventures/2026-10-10.md).
+
 - [Latest personal action, 2026-10-10] **Dain begins a countdown and threatens, “if you don’t reveal for negotiations we will rain hellfire down upon you”. The countdown reaches 0.** This follows his earlier no-violence guarantee; the promise and escalation both remain recorded. No actual hellfire spell, guano use or bombing is supplied. [Session](../../Adventures/2026-10-10.md).
-- [Latest broader camp action, 2026-10-10] **[Tona](./Tona.md) in bird form lifts the [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the fire pit as a warning.** Tona's identity, the goblin's condition and the camp's response remain unreported. No attack roll, damage, intimidation outcome, organisers' explanation, Wet ending or numerical resource change is assigned.
+- [Preceding bird-form drop, before the impact, 2026-10-10] **[Tona](./Tona.md) in bird form lifts the [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the fire pit as a warning.** Tona's identity, the goblin's condition and the camp's response remain unreported. No attack roll, damage, intimidation outcome, organisers' explanation, Wet ending or numerical resource change is assigned.
 
 - [Preceding camp movement, before the countdown, 2026-10-10] **The visible [camp goblin](./Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** Exact observer, further position/route, identity and motive remain unreported. No new Dain action/reaction is supplied; his preceding Minor Illusion/booming announcement and no-violence guarantee remain his latest personal action and stated terms. The movement establishes no spoken reply, accepted/rejected peace offer, alarm or attack. [Session](../../Adventures/2026-10-10.md).
 
@@ -166,6 +168,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] Kagrenac openly accuses Dain of murder and states that he no longer trusts him.
 
 ## What Is Uncertain
+
+- Latest rock/goop outcome: why the goblin changes, death/survival, full absorption or further movement, numerical damage, party/camp reaction and any negotiations. No new personal Dain response is reported.
 
 - Latest countdown/warning: starting count/time, camp reply or negotiation outcome, the dropped flanking goblin's condition and identity, Tona's possible Tina alias, and how the earlier no-violence guarantee is handled. “Hellfire” remains a threat with no executed fire attack reported.
 
