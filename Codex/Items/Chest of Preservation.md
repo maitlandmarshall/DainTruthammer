@@ -1,28 +1,36 @@
 # Chest of Preservation
 
-![The chest causes a dramatic dirt slide when the goblins fall asleep during Stu's chase](../../Adventures/2026-10-10/bear-chase-goblins-asleep-and-chest-slide.png)
+![Harry begins returning the chest toward the balloon as an arrow glances off her armour](../../Adventures/2026-10-10/harry-drags-chest-arrow-glance.png)
 
-- The chest is part of the goblins' fall and dirt slide. Construction, grips, dust/furrow and final positions are illustrative; no opened lid, cargo damage, final control or party recovery is established. [Image notes](../../Adventures/2026-10-10/bear-chase-and-sleep-image-notes.md).
+- Harry now handles the chest and continues attempting its return. Construction, grip, pose, contact point and destination placement are illustrative; no completed arrival/loading, contents result, cargo damage or firing direction is established. [Image notes](../../Adventures/2026-10-10/harry-chest-arrow-image-notes.md).
 
 ## One-Line Summary
-The chest taken by the two goblins after the balloon-carriage alarm, now part of their dramatic fall and dirt slide after Kagrenac puts them to sleep; likely the ship tracker's Chest of Preserving.
+The chest from the balloon-carriage goblin encounter, now called Chest of Preserving in the latest source; Harry starts dragging it back toward the balloon and keeps trying after an arrow from 150 feet, direction unknown, glances off her armour. Completed return and current contents remain open.
 
 ## Status
+- [Latest confirmed handling, 2026-10-10] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) starts dragging the chest back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** An arrow from **150 feet**, unknown direction, glances off her armour; she continues trying to drag it back. Harry now has hold of the chest, superseding the earlier open post-slide handling question. Pickup sequence, completed return/loading, contents/condition and transport checks remain unreported. No cargo quantity or Dain inventory/resource change is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Naming] The latest narration uses **Chest of Preserving**, matching the prior tracker's label; earlier narration called this encounter chest **Chest of Preservation**. This page retains its established path. Correspondence with the old stock entries and current preservation mechanics remain unverified.
 - [Encounter follow-up, 2026-10-10] [Brother Taleesh](../Characters/Brother%20Taleesh.md) manacles both goblins while they sleep, restraining them. **This supplies no chest recovery, inventory return or updated control.** [Session](../../Adventures/2026-10-10.md).
 - [Broader party encounter; Dain unaware] [Confirmed latest event, 2026-10-10] During [Stu's](../Characters/Stu.md) bear-form chase, [Kagrenac](../Characters/The%20Astral%20Elf.md) puts both goblins to sleep. **They fall dramatically to the ground, with the chest causing a dramatic slide through the dirt.** The chest was last carried by them; final resting position, grips/control and party recovery remain unreported. No damage, opened lid or spilled contents is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed earlier possession] Taleesh's grapple fails; both goblins run away carrying the chest before the reported chase, sleep and fall.
 - [Party] [Confirmed, 2026-10-10] The **Chest of Preservation**, as named by Maitland, is dropped over the [balloon carriage's](../Places/Party%20Skyship%20-%202026-08-29.md) side in the middle of the night.
 - Its loud sound alerts the party to [two goblins already inside the carriage](../Characters/Goblin%20Intruders%20-%202026-10-10.md).
 - [Inferred identification] The earlier ship tracker calls a container **Chest of Preserving**; this is likely the same chest. Exact identity remains [To verify].
-- Dropper, initial landing location, pickup sequence, condition and current contents remain unreported. The goblins carrying it away is now confirmed; it is not declared destroyed, empty, recovered or permanently lost.
+- Dropper, initial landing location, pickup sequence, condition and current contents remain unreported. The earlier goblin possession is followed by Harry's confirmed dragging attempt; completed return to the balloon is unreported. No destruction, emptying or permanent loss is assigned.
 
 ## Previous Tracker Contents
 - See the retained [Chest of Preserving ledger](../../Character/Party%20Loot.md#chest-of-preserving) for the previously recorded chimera materials/eggs, blood vials and manticore materials.
-- These entries record prior stock; they do not establish current contents, survival after the drop/fall/slide or party recovery. No quantity is zeroed, removed or spoiled without a reported result.
+- These entries record prior stock; they do not establish current contents, survival after the drop/fall/slide or completed return to the balloon. Harry's current handling is confirmed, without any quantity being zeroed, removed or spoiled.
 
 ## What Is Uncertain
 - Exact identity against the old tracker label, appearance, material, weight and preservation mechanics.
-- Who first dropped it, initial landing/pickup sequence, whether it opened or was damaged, current contents/condition, final slide position/control and whether/how the party recovers it.
+- Who first dropped it, initial landing/pickup sequence, whether it opened or was damaged, current contents/condition, the exact slide position and completed arrival/loading. Harry now handles it and attempts its return; that part of the earlier control uncertainty has advanced.
+
+## Earlier Dirt Slide
+
+![The chest causes a dramatic dirt slide when the goblins fall asleep during Stu's chase](../../Adventures/2026-10-10/bear-chase-goblins-asleep-and-chest-slide.png)
+
+- This precedes Harry's current return attempt. Construction, grips, dust/furrow and final positions are illustrative; the earlier image establishes no opened lid, cargo damage or post-slide pickup sequence. [Image notes](../../Adventures/2026-10-10/bear-chase-and-sleep-image-notes.md).
 
 ## Earlier Chest Flight
 
@@ -37,6 +45,8 @@ The chest taken by the two goblins after the balloon-carriage alarm, now part of
 - Construction, motion and rail framing are illustrative; the landing and the goblins' later pickup sequence were not reported. [Image notes](../../Adventures/2026-10-10/night-goblin-alarm-image-notes.md).
 
 ## Related Entries
+- [Hammerton Harry Drizddon](../Characters/Hammerton%20Harry%20Drizddon.md)
+- [Arrow source follow-up](../Lore/Open%20Threads.md#arrow-glances-off-harrys-armour)
 - [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
 - [Goblin Intruders](../Characters/Goblin%20Intruders%20-%202026-10-10.md)
 - [Party Loot](../../Character/Party%20Loot.md#chest-of-preserving)

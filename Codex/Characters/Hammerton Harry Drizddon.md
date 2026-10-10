@@ -15,6 +15,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Retcon] The sheet confirms the character spelling as `Hammerton Harry Drizddon`; earlier repo notes used `Dresdon`.
 
 ## Status
+- [Latest broader party action; Dain asleep, 2026-10-10] **Harry starts dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). An arrow from 150 feet in an unknown direction glances off her armour; she continues trying to drag it back.** Harry now handles the chest, but arrival/loading and contents/condition remain open. Shooter, bearing, attack roll, damage, HP/resource changes and transport mechanics are unreported. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party dialogue; Dain asleep] [Confirmed, 2026-10-10] **Harry says: “they shall be punished for their sins. They trying to feed their family? Punished.”** The words and speaker are confirmed; the [goblins'](./Goblin%20Intruders%20-%202026-10-10.md) actual motive or family circumstances are not. No prisoner response or additional punishment is supplied. Dain remains innocent, separately asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Preceding broader party action; Dain asleep] [Confirmed, 2026-10-10] **Harry runs up to the cuffed [goblins](./Goblin%20Intruders%20-%202026-10-10.md) and smashes their fingers.** Their shared hand-and-foot bindings remain last confirmed. Exact implement, attack/damage rolls, damage, injury extent, waking and reaction afterward are unreported. The prisoners were last asleep before this strike; no continued sleep, resource expenditure, chest recovery or Dain awareness change is assigned. [Session](../../Adventures/2026-10-10.md).
 - [Broader party encounter; Dain unaware] [Confirmed, 2026-10-10] Harry dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at one [goblin](./Goblin%20Intruders%20-%202026-10-10.md). **The goblin is pushed out of the darkness; another patch of darkness disappears.** Damage, saves, push distance, casting level/source and remaining resources are unreported. The reported movement and cast do not establish Action Surge use or complete turn order. [Session](../../Adventures/2026-10-10.md).
@@ -37,6 +38,12 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
 
 ## Latest Encounter Scene - 2026-10-10
+
+![Harry continues pulling the chest toward the balloon as an arrow glances off her armour](../../Adventures/2026-10-10/harry-drags-chest-arrow-glance.png)
+
+- Her pull, arrow glance and continuing attempt follow the report. Pose, grip, contact point, arrow deflection angle and staging are illustrative; no firing direction, shooter, damage, armour breakage, arrival/loading or resource change is established. [Prompt and references](../../Adventures/2026-10-10/harry-chest-arrow-image-notes.md).
+
+## Earlier Punishment Statement - 2026-10-10
 
 ![Harry speaks at the moonlit riverbank](../../Adventures/2026-10-10/harry-punished-for-their-sins.png)
 
@@ -64,6 +71,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [To verify] Whether Dain knows Hammerton's quartermaster history, spellcasting, military rank, or relationship to the current mission.
 
 ## What The Party Knows
+- [Broader party; Dain unaware] Harry is now dragging the chest toward the balloon. An arrow from 150 feet in an unknown direction glances off her armour, and she keeps trying to drag it back. The source does not identify a shooter or establish completed arrival.
 - [To verify] How Hammerton joins, or has joined, the current mountain-road mission.
 - [Party] Hammerton is holding up and inspecting a severed lizard head when Brother Taleesh arrives at the forest camp. [To verify source and significance]
 - [Character-only] Dain sees Hammerton holding the severed lizard head, initially thinks it is the "lizard" Kagrenac announced, then realizes the mistake and challenges the actual arrival.
@@ -199,6 +207,8 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 ![Harry's special gem discovery in the current cave scene](../../Adventures/2026-10-03/harry-special-gem-find.png)
 
 *Portrait and cave continuity are preserved. Gem appearance, pose and handling illustrate the find without establishing active magic, a stored spell, identification or ownership. [Prompt and references](../../Adventures/2026-10-03/harry-special-gem-image-notes.md).*
+
+- 2026-10-10: Harry starts dragging the Chest of Preserving back toward the balloon, has an arrow from 150 feet in an unknown direction glance off her armour, and continues trying to drag it back. No damage or completed return is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## River Prospecting - 2026-10-10
 
