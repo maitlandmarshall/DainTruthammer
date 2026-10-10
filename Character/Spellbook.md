@@ -32,7 +32,7 @@
 - Chromatic Orb [Confirmed] via Magic Initiate (Wizard), `1 / Long Rest` or cast with spell slots
 
 ## 2nd-Level Spells On Sheet
-- Suggestion
+- [Suggestion](../Codex/Powers/Suggestion.md)
 - Invisibility
 - Mirror Image
 - Web [Confirmed from 2026-05-30 level-up handover]
@@ -124,3 +124,5 @@
 - 2026-09-12: Dain casts [Leaky Tent](../Codex/Powers/Truthammer%20Leaky%20Tent.md) at **3rd level**, producing a **30-foot tent** at the storm stop. One 3rd-level slot spent; remaining total unknown. [Session](../Adventures/2026-09-12.md)
 - 2026-10-03: Dain casts [Stinking Cloud](../Codex/Powers/Stinking%20Cloud.md) on his turn, filling Leaky Tent with horrid gas. [Derived standard casting] Action used, concentration up to 1 minute and one 3rd-level slot spent. No save outcome or new damage is reported; HP stays 28. [Session](../Adventures/2026-10-03.md)
 - 2026-10-03 rules clarification: Maitland confirms **2014**. The active Stinking Cloud uses the turn-start save and retching/action expenditure; the 2024 Poisoned effect and Bonus Action restriction do not apply. No additional cast or result occurs. [Session](../Adventures/2026-10-03.md)
+
+- 2026-10-10: **Dain casts [Suggestion](../Codex/Powers/Suggestion.md) on the “smart” captive while riding Stu in bear form and says, “you must do as I say and be silent”. Success is explicitly reported.** No save roll, casting level/source/expenditure, duration, concentration state, ending or subsequent instruction/compliance is supplied. Current numerical remaining slots are unknown; no recovery is assumed. [Session](../Adventures/2026-10-10.md).

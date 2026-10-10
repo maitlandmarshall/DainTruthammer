@@ -11,9 +11,15 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 - Former player: Lachlan Pratt, confirmed by the earlier roster.
 - DM: Tom.
 
+![Dain rides Stu with Harry and Yuckie beside him, casting Suggestion on one of the two linked goblin captives](../../Adventures/2026-10-10/ground-route-bear-ride-suggestion.png)
+
+- Ground-group travel, Dain's bear ride and successful Suggestion follow the supplied beat. Harry's warning is reported; her roll/outcome and captive response remain open. Magic geometry, poses, fine cuffs, terrain, blimp height/design and lighting are illustrative. The staged captive placement establishes no transport arrangement, camp arrival, confession, unlimited-obedience mechanic or new damage/recovery. [Image notes](../../Adventures/2026-10-10/ground-route-suggestion-image-notes.md).
+
 ## Status
 
-- [Latest broader transport outcome, 2026-10-10] The two [captives](./Goblin%20Intruders%20-%202026-10-10.md) are now **awake at the balloon**, woken by the party, after Yuckie's preceding haul. Dain asks them about organisation in rhyme. No new individual movement, waking action or dialogue is assigned to Yuckie; exact boarding/handling and the prisoners' reply remain unreported. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed personal travel, 2026-10-10] **Yuckie goes on foot with Harry, Dain and Stu; Dain rides Stu in bear form. The others go by blimp.** Yuckie remains the separate, uncuffed party goblin. No new prisoner-hauling assignment, release, boarding, destination/arrival or individual spell/action is supplied for Yuckie. The older hauling and waiting entries below are chronological history. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding broader transport outcome, 2026-10-10] The two [captives](./Goblin%20Intruders%20-%202026-10-10.md) are now **awake at the balloon**, woken by the party, after Yuckie's preceding haul. Dain asks them about organisation in rhyme. No new individual movement, waking action or dialogue is assigned to Yuckie; exact boarding/handling and the prisoners' reply remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Latest confirmed continued action, 2026-10-10] **Yuckie continues pulling the same two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** Their shared hand-and-foot cuffs remain last confirmed. No distance, check, arrival/boarding, waking/reaction, further injury or release is supplied. Dain is now awake and in battle; his specific observations/actions remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding drag start, 2026-10-10; Dain asleep then] **Yuckie starts dragging the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Both remain cuffed together at hands and feet. Arrival/boarding and prisoner waking/reaction were unreported; Yuckie is a separate party goblin, not one of the captives. Dain was innocent, separately asleep and unaware at that point. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed current player and presence, 2026-10-10] Maitland identifies Emily as playing Lachlan's original goblin character, resolved through the existing roster to **Yuckie**. Yuckie finishes running up to the [two sleeping goblin intruders](./Goblin%20Intruders%20-%202026-10-10.md), then the party surrounds them and waits for them to wake. Dain remains asleep elsewhere and unaware. [Session](../../Adventures/2026-10-10.md).
@@ -68,6 +74,8 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 - 2026-10-10: Yuckie starts dragging both linked prisoners back toward the balloon cabin; arrival/boarding and their waking/reaction remain open. Dain remains separately asleep and innocent. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Yuckie continues pulling both linked goblin prisoners toward the balloon. Arrival/boarding and their waking/reaction remain open; Dain is now awake and in battle. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Joins the ground group with Harry, Dain and bear-form Stu; Dain is riding Stu. The others travel by blimp. No captive transport arrangement or camp arrival is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)

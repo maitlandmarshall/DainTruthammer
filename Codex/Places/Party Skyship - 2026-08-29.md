@@ -11,7 +11,9 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 
 ## Status
 
-- [Confirmed proposed use, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) wants to fly the blimp and “blow them up” with [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Target, piloting/helm use, boarding, takeoff, flight, guano handling, ignition, explosion and outcomes are unreported. Dain wants captive leverage to learn why the snake people organise goblins. No chosen approach, departure, cargo return or ship-stock change is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed travel, 2026-10-10] **The others now go by blimp, while Yuckie, Harry, Dain and Stu take the ground route; Dain rides Stu in bear form.** This advances travel beyond the earlier proposal. The full named passenger list, pilot, boarding sequence, height, route and destination/arrival are unreported. Kagrenac's piloting and guano attack target/execution remain unconfirmed; there is no reported guano handling, explosion, cargo return or ship-stock change. Older no-flight/takeoff statements below describe their preceding beats. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed proposed use, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) wants to fly the blimp and “blow them up” with [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Target, piloting/helm use, boarding, takeoff, flight, guano handling, ignition, explosion and outcomes are unreported. Dain wants captive leverage to learn why the snake people organise goblins. No chosen approach, departure, cargo return or ship-stock change is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed prisoner location and waking, 2026-10-10] **The party wakes both [goblin captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md) at the balloon; [Dain](../Characters/Dain%20Truthammer.md) asks in rhyme, “why are you organised, little goblins”.** Arrival at the balloon and waking are now established; exact cabin entry/boarding, ship height, waking method, reply, chest arrival/loading and takeoff are unreported. No departure or all-party arrival is inferred. [Session](../../Adventures/2026-10-10.md).
 - [Latest prisoner return continuation, 2026-10-10] **[Yuckie](../Characters/Yuckie%20the%20Goblin.md) continues pulling both linked [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) toward the balloon.** Their shared hand-and-foot cuffs remain last confirmed; measured progress, arrival/boarding, cabin access, prisoner waking/reaction and ship position/height remain unreported. Dain is awake and in battle; no new personal action, cargo return or takeoff is supplied. [Session](../../Adventures/2026-10-10.md).
@@ -36,6 +38,13 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 - [Party] [Confirmed on 2026-09-12] The current tracker identifies the armament as a ballista and lists `20` bolts. Earlier narration called the weapon a cannon; whether that was shorthand, a replacement or an additional weapon remains [To verify]. Use the ballista as the current documented weapon without inventing an extra cannon.
 - [To verify] Formal name, builder, Gondian affiliation, owner, commander, crew, assigned pilot, route, destination, range, lift details, fuel, balloon material, defenses, cargo capacity and whether the party owns the vessel or merely has mission use of it.
 - [To verify] Whether this is the same Gondian airship previously used to reach Ola Dung Lot or a different vessel of a similar design.
+
+## Ground And Blimp Travel - 2026-10-10
+
+- Yuckie, Harry, Dain and Stu form the ground group, Dain riding bear-form Stu. **“The others” go in the blimp.**
+- Preserve that supplied passenger description without inventing a full named roster, helm operator or regroup/boarding sequence for Taleesh after his preceding camp discovery.
+- No exact flight height, speed, route, destination, arrival, guano attack or numerical ship resource change is supplied.
+- The proposal below is earlier context; blimp travel is now reported, while Kagrenac's proposed bombing remains unexecuted in the supplied account. [Session](../../Adventures/2026-10-10.md).
 
 ## Proposed Flight And Guano Use - 2026-10-10
 

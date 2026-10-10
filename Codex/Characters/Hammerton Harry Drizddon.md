@@ -14,8 +14,15 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] Onboarded from [Hammerton Harry Drizddon.pdf](../../Assets/Hammerton%20Harry%20Drizddon.pdf) on 2026-05-03.
 - [Retcon] The sheet confirms the character spelling as `Hammerton Harry Drizddon`; earlier repo notes used `Dresdon`.
 
+![Dain rides Stu with Harry and Yuckie beside him, casting Suggestion on one of the two linked goblin captives](../../Adventures/2026-10-10/ground-route-bear-ride-suggestion.png)
+
+- Ground-group travel, Dain's bear ride and successful Suggestion follow the supplied beat. Harry's warning is reported; her roll/outcome and captive response remain open. Magic geometry, poses, fine cuffs, terrain, blimp height/design and lighting are illustrative. The staged captive placement establishes no transport arrangement, camp arrival, confession, unlimited-obedience mechanic or new damage/recovery. [Image notes](../../Adventures/2026-10-10/ground-route-suggestion-image-notes.md).
+
 ## Status
-- [Latest confirmed action, round 7, 2026-10-10] **Harry continues dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). Both [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) are still alive.** No new arrow, damage, transport check, measured progress, arrival/loading or resource use is supplied. The captives' HP, finger-injury extent, waking and response remain unreported. Dain is now awake and in battle after his own steam entrance and run; the asleep references below are historical. [Session](../../Adventures/2026-10-10.md).
+
+- [Latest confirmed action and travel, 2026-10-10] **Harry goes on foot with Yuckie, Dain and Stu, Dain riding bear-form Stu; the others go by blimp. Harry intimidates the “dumb” captive:** “ That brother, brothers fam, you better listen to them very carefully.” The warning and attempt are confirmed; roll, mechanical outcome and captive response/compliance remain unreported. No kinship, further strike, new damage or chest-return completion is established. Dain's separate Suggestion on the smarter captive succeeds. Earlier chest-haul and punishment entries below are preceding beats. [Session](../../Adventures/2026-10-10.md).
+
+- [Preceding confirmed action, round 7, 2026-10-10] **Harry continues dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). Both [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) are still alive.** No new arrow, damage, transport check, measured progress, arrival/loading or resource use is supplied. The captives' HP, finger-injury extent, waking and response remain unreported. Dain is now awake and in battle after his own steam entrance and run; the asleep references below are historical. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party action; Dain asleep, 2026-10-10] **Harry starts dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). An arrow from 150 feet in an unknown direction glances off her armour; she continues trying to drag it back.** Harry now handles the chest, but arrival/loading and contents/condition remain open. Shooter, bearing, attack roll, damage, HP/resource changes and transport mechanics are unreported. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party dialogue; Dain asleep] [Confirmed, 2026-10-10] **Harry says: “they shall be punished for their sins. They trying to feed their family? Punished.”** The words and speaker are confirmed; the [goblins'](./Goblin%20Intruders%20-%202026-10-10.md) actual motive or family circumstances are not. No prisoner response or additional punishment is supplied. Dain remains innocent, separately asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Preceding broader party action; Dain asleep] [Confirmed, 2026-10-10] **Harry runs up to the cuffed [goblins](./Goblin%20Intruders%20-%202026-10-10.md) and smashes their fingers.** Their shared hand-and-foot bindings remain last confirmed. Exact implement, attack/damage rolls, damage, injury extent, waking and reaction afterward are unreported. The prisoners were last asleep before this strike; no continued sleep, resource expenditure, chest recovery or Dain awareness change is assigned. [Session](../../Adventures/2026-10-10.md).
@@ -37,6 +44,14 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Confirmed] XP: 1775.
 - [Party] [Confirmed] Present at the forest camp when [Brother Taleesh](./Brother%20Taleesh.md) arrives on 2026-05-03.
 - [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
+
+## Ground Route And Captive Warning - 2026-10-10
+
+- Harry travels on foot with Yuckie; Stu travels in bear form with Dain riding him. These four form the ground group, while the others travel by blimp.
+- Harry intimidates the captive described as “dumb” and says exactly: **“ That brother, brothers fam, you better listen to them very carefully.”**
+- Her roll, success/failure, target's reaction and actual compliance are unreported. “Brother”, “fam” and “them” are dialogue, not established family relationships or identified referents.
+- The target is one of the same two awake NPC captives. Their hand/foot links remain last confirmed; current handling/position after the preceding balloon location is unreported.
+- The next section records the preceding round-7 chest haul. Current travel establishes no chest arrival/loading, healed captive fingers or new resource change. [Session](../../Adventures/2026-10-10.md).
 
 ## Latest Encounter Scene - 2026-10-10
 
@@ -218,6 +233,8 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 - 2026-10-10: Harry starts dragging the Chest of Preserving back toward the balloon, has an arrow from 150 feet in an unknown direction glance off her armour, and continues trying to drag it back. No damage or completed return is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: **Round 7:** Harry continues dragging the Chest of Preserving toward the balloon; both goblin prisoners are still alive. No new arrow, damage, arrival/loading, transport check or numerical resource change is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Takes the ground route with Yuckie, Dain riding bear-form Stu, then intimidates the “dumb” captive with **“ That brother, brothers fam, you better listen to them very carefully.”** Roll, outcome and reaction are unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## River Prospecting - 2026-10-10
 

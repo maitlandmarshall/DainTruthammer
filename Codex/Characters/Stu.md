@@ -8,6 +8,10 @@
 
 *The bear represents the confirmed transformation; species, poses and attacks are not mechanical evidence. Stu's ordinary appearance is unknown. [Image prompt and provenance](../../Adventures/2026-09-12/chaos-managed-image-notes.md).*
 
+![Dain rides Stu with Harry and Yuckie beside him, casting Suggestion on one of the two linked goblin captives](../../Adventures/2026-10-10/ground-route-bear-ride-suggestion.png)
+
+- Ground-group travel, Dain's bear ride and successful Suggestion follow the supplied beat. Harry's warning is reported; her roll/outcome and captive response remain open. Magic geometry, poses, fine cuffs, terrain, blimp height/design and lighting are illustrative. The staged captive placement establishes no transport arrangement, camp arrival, confession, unlimited-obedience mechanic or new damage/recovery. [Image notes](../../Adventures/2026-10-10/ground-route-suggestion-image-notes.md).
+
 ## One-Line Summary
 A party participant in brown-bear form, now running back toward the captured goblins and the snakes near them; Tina fires another arrow at the snakes afterward. Bear arrival and shot outcome are unreported; the three snakes previously beside Stu remain down.
 
@@ -28,9 +32,13 @@ A party participant in brown-bear form, now running back toward the captured gob
 
 - 2026-10-10: Stu runs back toward the two captured goblins and the remaining snakes, now near them. Tina then shoots another arrow at the snakes; bear arrival and shot outcome remain unreported. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Joins the ground group in bear form and carries Dain as a rider while the others travel by blimp. Dain's Suggestion on the smarter captive succeeds. No new bear attack, damage/healing, transformation or numerical resource update is supplied. [Session](../../Adventures/2026-10-10.md).
+
 ## Current State
 
-- [Confirmed latest movement, 2026-10-10] **Stu runs back toward the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) and the [snakes](./Flying%20Snakes%20-%202026-10-10.md), which are now near the captives. Tina then shoots another arrow at the snakes.** The established brown bear resolves the supplied “bear” reference. No arrival, contact, attack, Dash, new damage/healing, form ending or resource cost is reported. Tina's identity/link to Christina and the shot outcome are unreported. About 23 remains the approximate cumulative damage ledger, not current HP. [Session](../../Adventures/2026-10-10.md).
+- [Latest confirmed travel, 2026-10-10] **Stu remains in bear form and carries [Dain](./Dain%20Truthammer.md) as a rider with the ground group: Yuckie, Harry, Dain and Stu. The others go by blimp.** Dain casts Suggestion successfully on the smarter captive. No new transformation, saddle, mount ruling, speed, HP/resource change or healing is supplied. Stu's approximate **23** cumulative reported damage remains a ledger, not current HP. Route, arrival, exact load/carry mechanics and cloak completion remain unreported. The entries below describe preceding actions. [Session](../../Adventures/2026-10-10.md).
+
+- [Confirmed preceding movement, 2026-10-10] **Stu runs back toward the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) and the [snakes](./Flying%20Snakes%20-%202026-10-10.md), which are now near the captives. Tina then shoots another arrow at the snakes.** The established brown bear resolves the supplied “bear” reference. No arrival, contact, attack, Dash, new damage/healing, form ending or resource cost is reported. Tina's identity/link to Christina and the shot outcome are unreported. About 23 remains the approximate cumulative damage ledger, not current HP. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding local clearance, 2026-10-10] **[Christina](./Christina.md) fires an arrow, reported result 17, destroying the one remaining snake beside Stu** as it bursts/rips apart and is pierced to the ground. [Derived] Two earlier deaths plus this destruction leave **all three local snakes down**. The three airborne snakes remain unresolved. No new Stu damage, healing, HP, condition, form ending, XP or loot is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding local outcome, 2026-10-10] Stu starts **“covering” the snakes; they fall, two die, and one remains at Stu**. The supplied wording does not establish a claw attack, bite, grapple, spell, smothering, crushing or covering material. No roll, damage amount, resource cost, XP or loot is supplied. Christina's later shot destroys that last local survivor; the three airborne pursuers remain open. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding damage sequence, 2026-10-10] The earlier about-15 damage came from **two of the six snakes**. Of the remaining four, one further hit supplies **1 piercing + 7 poison = 8 damage** to Stu in context; the other three fly toward the party retreating to the balloon about 100 feet away. [Derived] About 23 reported damage across the sequence, not an exact remaining-HP figure. His current HP, post-hit condition, poison status and ended form remain unreported. [Session](../../Adventures/2026-10-10.md).
@@ -39,6 +47,12 @@ A party participant in brown-bear form, now running back toward the captured gob
 - [Confirmed earlier scene, 2026-10-10] Stu stands in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md) and works on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md), with [Kagrenac](./The%20Astral%20Elf.md) and [Christina](./Christina.md). Christina originally arrived with Stu; the date/place and cloak completion remain unreported.
 - [To verify] Transformation method, duration, uses or slots spent, HP, crafting costs and other mechanics. The brown-bear description does not establish Wild Shape, a druid class or a specific stat block. Whether this form has persisted continuously since the cavern is unreported.
 - Ordinary appearance and identity remain unrecorded.
+
+## Ridden Ground Travel - 2026-10-10
+
+- Ground group: Yuckie, Harry, Dain and Stu, with Dain riding Stu in bear form. This is ground travel; Dain is not separately recorded walking.
+- Route/destination, distance, speed, mount control/initiative, carry capacity and any rider equipment remain unreported. No saddle acquisition, extra movement benefit or ending of bear form is inferred.
+- The spell cast by the rider does not supply a new Stu action or resource change. The earlier damage and cloak-making records remain unresolved where marked. [Session](../../Adventures/2026-10-10.md).
 
 ## Stu Returns And Tina Fires Again - 2026-10-10
 

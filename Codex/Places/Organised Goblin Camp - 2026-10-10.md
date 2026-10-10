@@ -31,6 +31,12 @@ An organised goblin camp first found by [Kagrenac's owl](../Characters/Kagrenacs
 
 - Taleesh's discovery is confirmed; posture, gaze, vegetation, lighting and obscured shelter glimpses are illustrative. No map key, creature count, tactical layout, arrow-source clue, stealth/check result or further action is established. [Image notes](../../Adventures/2026-10-10/taleesh-goblin-camp-image-notes.md).
 
+## Ground And Blimp Travel And Captive Commands - 2026-10-10
+
+- After Taleesh's discovery, Yuckie, Harry, Dain and Stu take the ground route, with Dain riding bear-form Stu; the others travel by blimp. This report supplies no exact route/destination, whole-party camp arrival, named flight roster/pilot, map key or additional camp observations.
+- Dain successfully casts [Suggestion](../Powers/Suggestion.md) on the smarter captive: **“you must do as I say and be silent”.** Harry intimidates the other captive with **“ That brother, brothers fam, you better listen to them very carefully.”** Her roll/outcome and that captive's response are unreported.
+- Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
+
 ## What Is Uncertain
 - Camp name, precise location, distance, direction, route, size, structures, numbers, defences, individual leader, proper faction identity, supplies and reason for its organisation. “Snake people” is now the user-supplied organising-group label for the mission; the exact camp/captive chain of command remains unreported.
 - Owl scouting roll/action, observation detail, communication method and whether the owl returns. No familiar, telepathy or new summoning is inferred.
