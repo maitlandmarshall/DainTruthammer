@@ -144,5 +144,10 @@
     "fingerprint": "e0df00d54bdc1f955d6d0e54a01fa96e0774e9ff9b45005433b8f1f86b1b15d8",
     "status": "confirmed",
     "message_id": "1558340797617803344"
+  },
+  "2026-10-10-011-taleesh-manacles-goblins": {
+    "fingerprint": "66d3a57349ea25b010778c3cecdc322e519e40a0ffd008baaf427acf5f8c41fc",
+    "status": "confirmed",
+    "message_id": "1558345368863903754"
   }
 }
