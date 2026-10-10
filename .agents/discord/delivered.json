@@ -214,5 +214,10 @@
     "fingerprint": "aefc09cfa12ff885dfcabbb99c411fab04014e93a921121490af89fa1677db97",
     "status": "confirmed",
     "message_id": "1558381758125309963"
+  },
+  "2026-10-10-025-kagrenac-fire-bolt-fails": {
+    "fingerprint": "0f605e12c6bfecfd1d843729db558a5a9150db7157797d6cfa4b98a885612959",
+    "status": "confirmed",
+    "message_id": "1558384445923528734"
   }
 }
