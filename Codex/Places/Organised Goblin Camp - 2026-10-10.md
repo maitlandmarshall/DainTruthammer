@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where Dain, running back toward the party's approach-route bottleneck, discovers goblins emerging from a wall crack to flank the gang and realises they have been tricked.
+The organised goblin camp where, after Dain spots goblins flanking through a wall crack, Brother Taleesh emerges under a tent and “jellyfies” an unidentified goblin with two dagger stabs; reported goblin HP/result: −19.
 
 ## Confirmed Discovery
 
@@ -103,6 +103,17 @@ The organised goblin camp where Dain, running back toward the party's approach-r
 ![Unkeyed table photo accompanying Dain's run and flank discovery](../../Adventures/2026-10-10/bottleneck-wall-crack-table-photo.jpg)
 
 - Archived unchanged. The grid, marks, miniatures and die have no supplied key, scale, north, identities or roll; this photo establishes no precise wall/crack/bottleneck geometry.
+
+## Taleesh's Tent Exit And Two Dagger Strikes - 2026-10-10
+
+![Taleesh slips out beneath a tent and jellyfies a goblin with two dagger stabs](../../Adventures/2026-10-10/taleesh-tent-exit-two-daggers.png)
+
+- Supplied actions are shown with illustrative staging; the goblin/tent remain unidentified and the green puddle defines no magical transformation. [Image notes](../../Adventures/2026-10-10/taleesh-tent-exit-image-notes.md).
+
+- [Confirmed] **Brother Taleesh sneaks out beneath a tent, stabs one goblin twice with daggers and “jellyfies” it.** This follows Dain's bottleneck run and flanking discovery; it supplies no warning from Dain, connection to the wall-crack goblins or whole-party awareness.
+- **−19** is the reported goblin HP/result, with previous HP, timing, rolls and per-stab damage unreported. No damage arithmetic or formal negative-HP/death rule is assigned.
+- Tent and target identities are unreported. No automatic link to the main damaged tent, dismissed Leaky Tent, grenade/javelin thrower, captive, Yuckie or earlier rock/goop goblin is established.
+- “Jellyfies” stays the supplied outcome; no named spell, ooze, enchanted dagger, poison or shared transformation cause is established. No extra attacks, stealth/Hide roll, surprise/advantage, ki/astral arms, loot, body handling or new round are supplied. [Taleesh](../Characters/Brother%20Taleesh.md); [session](../../Adventures/2026-10-10.md).
 
 ## Bottleneck And Wall Crack Flank - 2026-10-10
 
@@ -183,6 +194,8 @@ The organised goblin camp where Dain, running back toward the party's approach-r
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest Taleesh attack: target/tent identities, earlier goblin HP and exact timing of −19, attack/stealth rolls and per-hit damage, what “jellyfies” physically means, any relation to the earlier rock/goop event, observers and the next response. No new goblin population total, spell/creature identity, loot or shared cause is supplied.
 
 - Latest flank discovery: emerging goblin count/identities, detailed deception plan, passage beyond the wall crack, exact terrain/route geometry, Dain's movement total/formal Dash/arrival, transition off Stu, any warning and the actual party/goblin response. The wall is not silently identified with the gorge/cliffs. Stu's own next action/location and a later Expeditious Retreat ending remain unreported.
 

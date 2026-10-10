@@ -12,6 +12,8 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 
 ## Status
 
+- [Latest confirmed attack, 2026-10-10] **Taleesh sneaks out beneath a tent, stabs one goblin twice with daggers and “jellyfies” it. Reported goblin HP/result: −19.** Target/tent identities, attack/stealth rolls, per-hit damage, prior HP, exact timing and the physical meaning of “jellyfies” remain unreported. No ki/astral arms, personal damage, Wet ending, extra attack or loot handling is supplied. [Camp scene](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleeshs-tent-exit-and-two-dagger-strikes---2026-10-10); [session](../../Adventures/2026-10-10.md).
+
 - [Latest confirmed discovery, 2026-10-10] **Taleesh stumbles upon the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), the next tabletop map.** Jack resolves to Brother Taleesh through the roster. Exact route, position/entry, observations, detection and communication are unreported; no roll, literal trip/fall, injury, stealth, attack, ki/astral-arm use, numerical resource change or Wet ending is supplied. The camp discovery does not confirm his preceding gorge hunch or the earlier arrow's source. [Session](../../Adventures/2026-10-10.md).
 
 - [Preceding confirmed investigation, 2026-10-10] **Taleesh does a perimeter sweep and goes to check out the [unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md).** [Character-only; Belief] He has a vague idea that the earlier arrow came from there. No confirmed firing direction, shooter, finding, skill roll, movement distance, precise position, descent, confrontation or new resource use is supplied. No communication of the hunch to Dain or others is reported; Wet has no reported ending. [Session](../../Adventures/2026-10-10.md); [arrow follow-up](../Lore/Open%20Threads.md#arrow-glances-off-harrys-armour).
@@ -36,6 +38,18 @@ Jackson's lizardfolk monk, a desert survivor called the Keeper of the Dunes, car
 - [Confirmed] Alignment/faith notation on sheet: `TN (Fharlanghn)`.
 - [Party] [Confirmed] In-world arrival at the forest camp was logged on 2026-05-03.
 - [To verify] Why Brother Taleesh joins the current mountain-road mission and what he knows about it.
+
+## Tent Exit And Two Dagger Strikes - 2026-10-10
+
+![Taleesh emerges beneath a tent and makes two dagger strikes](../../Adventures/2026-10-10/taleesh-tent-exit-two-daggers.png)
+
+- The jelly-like aftermath, canvas, pose and positions are illustrative; no target/tent identity or defined transformation is assigned. [Image notes](../../Adventures/2026-10-10/taleesh-tent-exit-image-notes.md).
+
+- **Taleesh sneaks out of a tent by going under it, stabs one goblin twice with daggers and “jellyfies” it.** No door exit, canvas cut or preceding tent-entry event is invented.
+- **−19** is the supplied goblin figure, recorded as reported HP/result. It does not supply damage per stab, previous HP, an attack roll or Taleesh HP change.
+- Target identity is open; no match to an earlier named/anonymous goblin or captive is assumed. Tent identity is also open, without equating it to the main damaged tent or dismissed Leaky Tent.
+- Two dagger strikes are confirmed, with no formal attack economy, stealth/Hide roll, surprise/advantage ruling, weapon property or activated astral arms assigned. “Jellyfies” is preserved without inventing a spell/ooze identity or link to the earlier rock/goop event.
+- Personal HP/ki, numerical resources and Wet have no new supplied change. Dain/other observers and any next response remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Goblin Camp Discovery - 2026-10-10
 
@@ -181,6 +195,9 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - Comeliness: 9.
 
 ## Current Session Resource Notes
+
+- 2026-10-10: Two dagger stabs and sneaking under a tent are reported; no numerical Taleesh resource deduction, personal damage, ki/astral-arm use or Wet ending is supplied. **−19 belongs to the goblin's reported HP/result**, not Taleesh. Daggers are used; no acquisition, loss, loot or exact stock total is invented. [Session](../../Adventures/2026-10-10.md).
+
 - 2026-10-10: Dain's failed lift and steam dismissal supply no Taleesh damage, resource change or Wet ending. The tent is now gone, but no recorded drying or elemental-damage ending event is reported. [Session](../../Adventures/2026-10-10.md).
 - 2026-10-10: [Derived from the established Leaky Tent rules] Taleesh becomes **Wet** when he runs inside to wake Dain: fire resistance and cold/lightning vulnerability until the recorded drying or elemental-damage ending event. No ending, damage or numerical resource expenditure is reported. The handshake and battle entry establish no ki/astral-arm use. [Session](../../Adventures/2026-10-10.md).
 - 2026-05-03: Spent 1 ki point to project ghostly astral arms from his shoulders during first contact at the forest camp. Remaining ki and exact active duration are [To verify].
@@ -257,6 +274,8 @@ Knowledge boundary: player-provided backstory for Brother Taleesh; not establish
 - 2026-10-10: Taleesh conducts a **perimeter sweep** and goes to check out the **unnamed gorge**, vaguely suspecting the earlier arrow came from there. His hunch is unconfirmed; no finding, shooter, check result, communicated knowledge, ki use or Wet ending is reported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Taleesh stumbles upon the goblin camp as the next tabletop map comes into play. No further observation, key, route, check, confrontation, arrow-source confirmation or communication is reported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Sneaks out underneath a tent, stabs one goblin twice with daggers and “jellyfies” it; reported goblin HP/result: **−19**. Target/tent identity, attack/stealth rolls, per-stab damage and further response remain unreported. [Camp scene](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#taleeshs-tent-exit-and-two-dagger-strikes---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md)
