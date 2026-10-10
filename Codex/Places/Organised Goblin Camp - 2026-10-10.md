@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where Tina, in eagle form, tries twice to remove the main tent's roof; it does not come completely free, gets tugged back and remains attached, with a natural 1 preventing her second tug.
+The organised goblin camp where Kagrenac now positions the blimp at the centre beside the fire, 75 feet in the air after a 25-foot descent; the main tent's roof remains attached after Tina's two preceding failed attempts.
 
 ## Confirmed Discovery
 
@@ -109,6 +109,16 @@ The organised goblin camp where Tina, in eagle form, tries twice to remove the m
 ![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Kagrenac Positions The Blimp Beside The Fire - 2026-10-10
+
+- **[Kagrenac](../Characters/The%20Astral%20Elf.md) navigates the [blimp](./Party%20Skyship%20-%202026-08-29.md) into the centre of the camp, adjacent to the fire. He lowers it 25 feet, so it is now 75 feet in the air.** Centre arrival is now confirmed.
+- Exact bearing/horizontal gap, speed, thrust provider, piloting cost and next movement are unreported. This vertical movement adds no landing, attack, guano release, collision, damage, resource use or new round.
+- Earlier roof attempts, yuan-ti/Taleesh encounter, ground positions, captive states and owl death remain recorded without new responses or relocation. [Session](../../Adventures/2026-10-10.md).
+
+![Kagrenac pilots at the camp centre beside the fire, with the blimp now 75 feet in the air](../../Adventures/2026-10-10/kagrenac-blimp-centre-descent.png)
+
+- Current centre arrival, 25-foot descent and 75-foot aerial height are supplied; pose, helm/metal fittings, fire-pit shape, camp objects/layout and perspective are illustrative. No attack, owl return, landing or new resource outcome is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-centre-image-notes.md).
 
 ## Tina's Two Main-Tent Roof Attempts - 2026-10-10
 
@@ -232,6 +242,8 @@ The organised goblin camp where Tina, in eagle form, tries twice to remove the m
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest blimp position: centre arrival, adjacency to the fire, 25-foot descent and current 75-foot aerial height are confirmed. Exact bearing/horizontal gap, speed, thrust/piloting costs, named passenger positions and next movement/action remain unreported.
 
 - Latest Tina roof attempts: exact attachment/cause/grip, movement and force/DC, first roll and modified natural-1 total, any supplied new damage and next response. Roof remains attached; the reported second failure adds no collapse, injury or form ending.
 

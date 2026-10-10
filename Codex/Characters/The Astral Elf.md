@@ -22,6 +22,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 
 ## Status
 
+- [Latest confirmed piloting and height, 2026-10-10] **Kagrenac navigates the [blimp](../Places/Party%20Skyship%20-%202026-08-29.md) into the centre of the [camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), adjacent to the fire. He lowers it 25 feet, so it is now 75 feet in the air.** Centre arrival supersedes the earlier pending approach. No guano release, attack, new spell, owl return, landing, damage or concentration/resource outcome is supplied. [Session](../../Adventures/2026-10-10.md).
+
 - [Latest confirmed loss, 2026-10-10] **The same [grenade-throwing goblin](./Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a javelin at [Kagrenac's owl](./Kagrenacs%20Owl.md) and kills it.** The owl is dead. Kagrenac's reaction, attack roll/damage, body disposition and any effect on piloting or ongoing spells are unreported. The owl's previous flank order had no reported execution before the hit. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed action, 2026-10-10] **Kagrenac drives the [blimp](../Places/Party%20Skyship%20-%202026-08-29.md) toward the middle of the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) and commands [his owl](./Kagrenacs%20Owl.md) to flank.** This confirms the pilot for the latest movement. Centre arrival, exact route/altitude/speed, owl target/response, roll and resource costs remain unreported. No guano release, ignition, explosion, hellfire or new spell is supplied. Earlier no-pilot statements below describe their preceding beats. [Session](../../Adventures/2026-10-10.md).
@@ -44,6 +46,16 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
 - [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
+
+## Camp Centre And Blimp Descent - 2026-10-10
+
+- **Kagrenac pilots into the camp centre beside the fire, then lowers the blimp by 25 feet. Its current height is 75 feet in the air.**
+- These are supplied location and vertical movement facts; no horizontal distance/speed, starting height, thrust provider, piloting cost, attack or new round is assigned.
+- His owl remains dead from the earlier javelin. No owl return, guano handling/bombing, new spell, Polymorph ending or other party relocation is supplied. [Session](../../Adventures/2026-10-10.md).
+
+![Kagrenac pilots at the camp centre beside the fire, with the blimp now 75 feet in the air](../../Adventures/2026-10-10/kagrenac-blimp-centre-descent.png)
+
+- Current centre arrival, 25-foot descent and 75-foot aerial height are supplied; pose, helm/metal fittings, fire-pit shape, camp objects/layout and perspective are illustrative. No attack, owl return, landing or new resource outcome is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-centre-image-notes.md).
 
 ## Owl Killed By A Javelin - 2026-10-10
 
@@ -121,6 +133,9 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] On the approach to the Truthhammer gates, the character described as the moon elf notices airships and decides to head to the mountains first, changing his immediate priority from Agland's letter to delivering armor to Dain's father. [Moon-elf identity clarified on 2026-10-10; To verify which armor, carrier, and reason]
 
 ## What Is Uncertain
+
+- Latest piloting: exact bearing/horizontal gap beside the fire, speed, thrust provider, cost and next action remain unreported. Centre arrival, 25-foot descent and current 75-foot height are confirmed.
+
 - [To verify] The Fire Bolt attempt's spell source, individual target, attack roll and precise failure cause. No named class, multiple targets, area effect or new Dain spell is established.
 - [To verify] The owl's response to the current snake direction, any later movement/action, and the command's mechanical method or cost.
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
@@ -170,6 +185,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-10-10: **Pilots the blimp toward the camp's middle, commanding his owl to flank.** Arrival, owl response and any attack remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: **His owl is killed by a javelin thrown by the same goblin that threw the grenade.** This follows the owl flank command, without a reported completed flank or Kagrenac response. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Pilots the blimp into the camp centre beside the fire and descends 25 feet to **75 feet in the air**. Centre arrival and current height confirmed; no attack or new spell/resource outcome reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 
