@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp where Kagrenac now positions the blimp at the centre beside the fire, 75 feet in the air after a 25-foot descent; the main tent's roof remains attached after Tina's two preceding failed attempts.
+The organised goblin camp where an unidentified goblin critically fails a javelin attempt and falls to the ground; the blimp was last confirmed at the centre beside the fire, 75 feet in the air.
 
 ## Confirmed Discovery
 
@@ -109,6 +109,17 @@ The organised goblin camp where Kagrenac now positions the blimp at the centre b
 ![Unkeyed table photo accompanying Taleesh's face-to-face reveal](../../Adventures/2026-10-10/main-tent-yuan-ti-table-photo.jpg)
 
 - Archived unchanged. No miniature identity, yuan-ti subtype/weapon, scale, north or measured range is inferred.
+
+## Goblin Javelin Failure And Fall - 2026-10-10
+
+- **[Unidentified goblin](../Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md) tries to throw a javelin, critically fails and falls to the ground.** The narration omits the intended target; clarification is pending.
+- No raw natural 1, modified total, formal Prone condition, fall cause/distance, injury/damage, death or weapon release/destination is supplied. No additional fumble is invented.
+- Goblin identity and starting location/height remain unreported. Do not merge it with the prior grenade/javelin thrower, wall-crack/visible/flanking goblins, captives or Yuckie, or assign the blimp's 75-foot height as a fall distance.
+- No new ship/party movement, attack hit, Dain damage/resource use, owl return, concentration outcome or round is reported. [Session](../../Adventures/2026-10-10.md).
+
+![The unidentified goblin's failed javelin attempt ends in a ground fall](../../Adventures/2026-10-10/goblin-javelin-critical-failure-fall.png)
+
+- Two panels illustrate the supplied critical failure and fall. Appearance, weapon design, poses and ground/light are illustrative; target, raw roll, fall height/damage, formal condition and weapon outcome remain unreported. [Image notes](../../Adventures/2026-10-10/goblin-javelin-fall-image-notes.md).
 
 ## Kagrenac Positions The Blimp Beside The Fire - 2026-10-10
 
@@ -242,6 +253,8 @@ The organised goblin camp where Kagrenac now positions the blimp at the centre b
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest failed javelin attempt: intended target, goblin identity, raw roll/total, starting position/height, fall distance/cause, any formal condition/damage and weapon release/destination. Critical failure and fall to the ground are confirmed; no extra fumble is assigned.
 
 - Latest blimp position: centre arrival, adjacency to the fire, 25-foot descent and current 75-foot aerial height are confirmed. Exact bearing/horizontal gap, speed, thrust/piloting costs, named passenger positions and next movement/action remain unreported.
 

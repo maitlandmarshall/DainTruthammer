@@ -12,6 +12,8 @@
 
 ## Active Session - 2026-10-10
 
+- [Latest broader enemy attempt] **An [unidentified goblin](../Codex/Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md) tries to throw a javelin, critically fails and falls to the ground.** Intended target, raw roll, starting height/fall distance, damage and formal condition are unreported. No new Dain action, HP/resource change, ship movement, concentration ending or round is supplied. [Session](../Adventures/2026-10-10.md).
+
 - [Latest broader ship movement] **[Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) brings the [blimp](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) into the camp centre beside the fire, lowering it 25 feet to 75 feet in the air.** Centre arrival and current height are now confirmed. No new Dain action/boarding, HP/resource change, concentration ending, attack or round is supplied. Dain's last confirmed position remains on foot toward the approach bottleneck; this ship movement does not relocate him. [Session](../Adventures/2026-10-10.md).
 
 - [Latest broader party action] **[Tina](../Codex/Characters/Tina.md), in eagle form, grips/lifts the main tent's roof and tries to pull it away. It does not come completely free and gets tugged back. Her second attack is a natural 1 and cannot tug it again.** Roof detachment/collapse, damage, injury, precise movement and Polymorph ending/resources are unreported. No new personal Dain action, HP/resource change, concentration ending or round is supplied. [Camp](../Codex/Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#tinas-two-main-tent-roof-attempts---2026-10-10); [session](../Adventures/2026-10-10.md).

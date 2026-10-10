@@ -177,3 +177,5 @@
 - 2026-10-10: **[Tina](../Codex/Characters/Tina.md), in eagle form, grips/lifts the main tent's roof and tries to pull it away. It does not come completely free and gets tugged back. Her second attack rolls natural 1 and cannot tug it again.** The roof remains attached; no new damage, crash, injury, form/concentration ending, Dain resource change or round is supplied. [Session](../Adventures/2026-10-10.md).
 
 - 2026-10-10: **[Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) navigates the [blimp](../Codex/Places/Party%20Skyship%20-%202026-08-29.md) into the goblin-camp centre adjacent to the fire, then lowers it 25 feet to a current height of 75 feet in the air.** No new Dain action/resource change, attack or concentration outcome is supplied. [Session](../Adventures/2026-10-10.md).
+
+- 2026-10-10: **An [unidentified goblin](../Codex/Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md) tries to throw a javelin, critically fails and falls to the ground.** Target and identity remain unreported; no raw natural 1, fall distance/damage or new Dain resource outcome is supplied. [Session](../Adventures/2026-10-10.md).

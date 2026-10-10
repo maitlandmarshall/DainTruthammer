@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest goblin critical failure] **An unidentified goblin tries to throw a javelin, critically fails and falls to the ground.** Intended target/identity, exact roll, fall distance, damage/condition and weapon outcome remain unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest blimp position] **Kagrenac reaches the camp centre beside the fire and lowers the blimp 25 feet to a current height of 75 feet in the air.** Centre arrival is confirmed; no attack, guano release, new spell, resource change or other party relocation is supplied. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest roof attempts] **Eagle-form Tina grips/lifts the main tent's roof but cannot completely free it and gets tugged back; her second attack is a natural 1, unable to tug again.** Roof remains attached; no additional fumble, damage, injury, collapse or form ending is supplied. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -136,7 +138,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Kagrenac navigates the blimp into the camp centre adjacent to the fire and lowers it 25 feet; it is now 75 feet in the air.** Centre arrival and current height are confirmed. The main tent's roof remains attached after Tina's preceding failed attempts; yuan-ti/Taleesh, other ground/captive states and owl death are retained without new responses. Exact bearing/gap, thrust/piloting details and the organisers' purpose remain open.
+- Status: **An unidentified goblin tries to throw a javelin, critically fails and falls to the ground.** Intended target is pending clarification; goblin identity, raw roll, starting height/fall distance, damage/condition and javelin release are unreported. The preceding blimp position at the camp centre beside the fire, 75 feet in the air, and Tina/yuan-ti/Taleesh/captive states remain recorded without a new outcome.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Centre arrival beside the fire and current 75-foot aerial height are now confirmed after Kagrenac's 25-foot descent. Record any next ship movement/action, supplied bearing/gap and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -170,6 +172,8 @@
 - Latest Stu/captive development: Stu is now in human form and takes a reaction against the smarter captive formerly targeted by Suggestion. [Interpreted wording; to confirm] “mist” is read as a miss. Exact positions, trigger/type/weapon/roll and human HP remain unreported. Suggestion stays ended; no current yuan-ti response, captive release, organiser answer or new damage is supplied.
 
 - Roof follow-up: Record the actual next pull, attachment explanation, damage/movement and yuan-ti/party response when supplied. Tina's first attempt does not completely free the roof; the natural 1 on her second attack supplies only no further tug. Preserve the front/back Orb holes and ongoing eagle form without inventing a structural collapse, injury or extra fumble. [Tina record](../Characters/Tina.md#two-main-tent-roof-attempts---2026-10-10).
+
+- Javelin failure follow-up: Confirm the intended target when supplied, then record actual identity, roll, fall/condition/damage and weapon consequences. The provided critical failure and ground fall do not establish a natural 1, fall from the 75-foot-high blimp, death or extra fumble. [Descriptive goblin entry](../Characters/Goblin%20With%20The%20Failed%20Javelin%20Throw%20-%202026-10-10.md).
 
 ### Goblins In The Balloon Carriage
 
