@@ -28,11 +28,17 @@
 
 - Sequential panels show one anonymous goblin's grenade throw and Dain taking the reported 11 damage, still mounted on Stu. Attacker appearance, weapon design, fuse/detonation, blast size/fragments/light, Dain's recoil/hand pose, crop and camp scenery are illustrative. No damage type, save, other party damage, shield spell, dismount, injury detail, casualty, retaliation or current HP is established. [Image notes](../../Adventures/2026-10-10/goblin-grenade-dain-damage-image-notes.md).
 
+![The grenade thrower's javelin kills Kagrenac's owl](../../Adventures/2026-10-10/goblin-javelin-kills-kagrenac-owl.png)
+
+- Two sequential panels show the same goblin throwing one javelin and the established small brown-and-white owl killed by the strike. Attacker appearance, javelin design, owl flight/pose, impact placement, feathers and night/tent scenery are illustrative. Death and attacker continuity are supplied; range, numerical damage, exact location/body landing, familiar identity, magical disappearance and Kagrenac's reaction are unreported. [Image notes](../../Adventures/2026-10-10/goblin-javelin-owl-death-image-notes.md).
+
 ## One-Line Summary
 
-An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh, now entered by Dain riding bear-form Stu with Harry and Yuckie, backed by giant-eagle Tina; Dain calls for peaceful discussion and the camp's response is unreported.
+An organised camp found by Kagrenac's owl and Brother Taleesh, entered by Dain's ground group under an earlier no-violence guarantee; a goblin throws a grenade that deals Dain 11 damage, then kills Kagrenac's owl with a javelin.
 
 ## Confirmed Discovery
+
+- [Latest confirmed death, 2026-10-10] **The same [grenade thrower](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a javelin at [Kagrenac's owl](../Characters/Kagrenacs%20Owl.md) and kills it.** Owl death and continuity of this attacker are confirmed; roll/damage, precise location, body disposition and Kagrenac's reaction remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed attack, 2026-10-10] **One [goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) comes and throws a [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) at the ground group. Dain takes 11 damage.** Current HP/type/save, other ground-group effects and attacker identity remain unknown. This is the reported attack, without a total population, faction motive or universal camp response. [Session](../../Adventures/2026-10-10.md).
 
@@ -73,6 +79,12 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 
 - This later attachment accompanies Kagrenac driving toward the middle and ordering his owl to flank. It is a table reference, without a keyed layout, identified miniatures, grid scale, altitude or confirmed centre arrival/response.
 - Saved unchanged as `goblin-camp-blimp-approach-table-photo.jpg`; 295544 bytes; SHA-256 `7a2e63c849f0171f83054db23336d2674cbc2ae33d2dc323a23b7d8bdc3b8f82`. Source original remains in the remote-attachments folder. Local archive only, not posted to Discord.
+
+## Javelin Kills Kagrenac's Owl - 2026-10-10
+
+- **The same goblin that threw the fragmentation grenade throws a javelin at Kagrenac's established owl and kills it.**
+- Death is explicit. The previous flank order has no reported execution before the strike; the bird is now dead. It is distinct from Tina's giant-eagle form.
+- Attack roll/damage, range, exact owl position/body disposition, familiar identity and Kagrenac's response are unreported. No magical disappearance, resummoning or change to piloting/ongoing effects is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Goblin Fragmentation-Grenade Attack - 2026-10-10
 
@@ -125,7 +137,7 @@ An organised goblin camp first found by Kagrenac's owl and then Brother Taleesh,
 
 ## What Is Uncertain
 
-- Latest aerial movement: centre arrival, blimp exact geometry/altitude/speed and other passengers/thrust provider; owl flanking target, response and effect; actual camp reply or attack. Kagrenac is confirmed driving for this movement. The table photo has no supplied key/scale.
+- Aerial follow-up: Blimp centre arrival, geometry/altitude/speed, other passengers and thrust provider remain unknown. Kagrenac's owl is now confirmed dead from the grenade thrower's javelin. Earlier flank target/execution, pre-hit position, body disposition and Kagrenac's response remain unreported.
 
 - Latest impact/change: cause and process of the goblin turning into goop and wrapping into the rock, death/survival, numerical damage, completed absorption, next movement and camp/party reaction. A named power, creature type and magical/animated rock are unconfirmed.
 

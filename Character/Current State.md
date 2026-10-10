@@ -12,6 +12,8 @@
 
 ## Active Session - 2026-10-10
 
+- [Latest encounter outcome] **The same [grenade-throwing goblin](../Codex/Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a javelin at [Kagrenac's owl](../Codex/Characters/Kagrenacs%20Owl.md) and kills it.** Owl death and attacker continuity are confirmed. Earlier flanking was an order without a reported completed action; the owl is now dead. Roll/damage, body disposition and Kagrenac's response remain unreported. Blimp arrival and Dain's HP after the preceding 11 damage remain open. [Session](../Adventures/2026-10-10.md).
+
 - [Latest incoming attack and personal damage] **A [goblin](../Codex/Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) comes and throws a [fragmentation grenade](../Codex/Items/Fragmentation%20Grenade%20-%202026-10-10.md) at the ground group; Dain takes 11 damage.** HP immediately before/after, temp-HP handling, type/save/roll, other ground-group effects and attacker identity remain unreported. **Current HP is [To verify after this hit]**; 28 remains the old last supplied total before the riverside rest. No current total is invented. [Session](../Adventures/2026-10-10.md).
 - [Current boundaries] Dain's last mount is bear-form Stu; no dismount or new condition is supplied. No new personal response/retaliation, spell ending, Wet ending, slot expenditure, round/initiative or other party damage is supplied. The rows below retain preceding snapshots; their no-damage statements belong to those earlier beats.
 

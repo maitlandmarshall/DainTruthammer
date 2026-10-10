@@ -6,6 +6,10 @@
 
 - Kagrenac pilots the metal blimp and gives the owl its order, with camp tents ahead. Owl perch, gestures, helm/ship crop, speed/altitude, camp arrangement/count, lanterns, unlit pit and scenery are illustrative. No centre arrival, actual owl flank/flight, target, Help/advantage, attack, spell, population count or camp reaction is established. [Image notes](../../Adventures/2026-10-10/kagrenac-blimp-owl-order-image-notes.md).
 
+![The grenade thrower's javelin kills Kagrenac's owl](../../Adventures/2026-10-10/goblin-javelin-kills-kagrenac-owl.png)
+
+- Two sequential panels show the same goblin throwing one javelin and the established small brown-and-white owl killed by the strike. Attacker appearance, javelin design, owl flight/pose, impact placement, feathers and night/tent scenery are illustrative. Death and attacker continuity are supplied; range, numerical damage, exact location/body landing, familiar identity, magical disappearance and Kagrenac's reaction are unreported. [Image notes](../../Adventures/2026-10-10/goblin-javelin-owl-death-image-notes.md).
+
 ## One-Line Summary
 Matt's Astral Elf party member whose boldness, owl, and questionable ballista judgment have earned Dain's increased respect.
 
@@ -17,6 +21,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - DM: Tom.
 
 ## Status
+
+- [Latest confirmed loss, 2026-10-10] **The same [grenade-throwing goblin](./Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a javelin at [Kagrenac's owl](./Kagrenacs%20Owl.md) and kills it.** The owl is dead. Kagrenac's reaction, attack roll/damage, body disposition and any effect on piloting or ongoing spells are unreported. The owl's previous flank order had no reported execution before the hit. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed action, 2026-10-10] **Kagrenac drives the [blimp](../Places/Party%20Skyship%20-%202026-08-29.md) toward the middle of the [goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) and commands [his owl](./Kagrenacs%20Owl.md) to flank.** This confirms the pilot for the latest movement. Centre arrival, exact route/altitude/speed, owl target/response, roll and resource costs remain unreported. No guano release, ignition, explosion, hellfire or new spell is supplied. Earlier no-pilot statements below describe their preceding beats. [Session](../../Adventures/2026-10-10.md).
 
@@ -38,6 +44,11 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
 - [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
+
+## Owl Killed By A Javelin - 2026-10-10
+
+- **The same goblin that threw the grenade kills Kagrenac's established owl with a thrown javelin.** Death is confirmed; the owl is separate from Tina in giant-eagle form.
+- Reaction, retaliation, grief/dialogue, body disposition, familiar identity and magical/resummoning consequences are unreported. Blimp arrival/pilot changes and spell endings are not supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Piloting Toward The Camp And Owl Order - 2026-10-10
 
@@ -157,6 +168,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-10-10: **Polymorphs Tina into a giant eagle** to back the ground group's goblin-camp entrance. Transformation is supplied; resources, duration/concentration/ending, exact position and later attacks remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: **Pilots the blimp toward the camp's middle, commanding his owl to flank.** Arrival, owl response and any attack remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **His owl is killed by a javelin thrown by the same goblin that threw the grenade.** This follows the owl flank command, without a reported completed flank or Kagrenac response. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 
