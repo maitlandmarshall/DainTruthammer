@@ -11,6 +11,8 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 
 ## Status
 
+- [Confirmed proposed use, 2026-10-10] **[Kagrenac](../Characters/The%20Astral%20Elf.md) wants to fly the blimp and “blow them up” with [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Target, piloting/helm use, boarding, takeoff, flight, guano handling, ignition, explosion and outcomes are unreported. Dain wants captive leverage to learn why the snake people organise goblins. No chosen approach, departure, cargo return or ship-stock change is supplied. [Session](../../Adventures/2026-10-10.md).
+
 - [Latest confirmed prisoner location and waking, 2026-10-10] **The party wakes both [goblin captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md) at the balloon; [Dain](../Characters/Dain%20Truthammer.md) asks in rhyme, “why are you organised, little goblins”.** Arrival at the balloon and waking are now established; exact cabin entry/boarding, ship height, waking method, reply, chest arrival/loading and takeoff are unreported. No departure or all-party arrival is inferred. [Session](../../Adventures/2026-10-10.md).
 - [Latest prisoner return continuation, 2026-10-10] **[Yuckie](../Characters/Yuckie%20the%20Goblin.md) continues pulling both linked [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) toward the balloon.** Their shared hand-and-foot cuffs remain last confirmed; measured progress, arrival/boarding, cabin access, prisoner waking/reaction and ship position/height remain unreported. Dain is awake and in battle; no new personal action, cargo return or takeoff is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Latest retreat destination, 2026-10-10] **The party retreats toward the balloon, about 100 feet away; three snakes fly toward the retreating party.** Specific party membership, movement, targets, later hits, actual arrival/boarding and ship takeoff are unreported. Dain is already awake and in battle after Taleesh fetches him; this broader retreat supplies no particular action or resource use for him. Harry's chest return and Yuckie's prisoner return remain open. [Snake encounter](../Characters/Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
@@ -34,6 +36,15 @@ The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), i
 - [Party] [Confirmed on 2026-09-12] The current tracker identifies the armament as a ballista and lists `20` bolts. Earlier narration called the weapon a cannon; whether that was shorthand, a replacement or an additional weapon remains [To verify]. Use the ballista as the current documented weapon without inventing an extra cannon.
 - [To verify] Formal name, builder, Gondian affiliation, owner, commander, crew, assigned pilot, route, destination, range, lift details, fuel, balloon material, defenses, cargo capacity and whether the party owns the vessel or merely has mission use of it.
 - [To verify] Whether this is the same Gondian airship previously used to reach Ola Dung Lot or a different vessel of a similar design.
+
+## Proposed Flight And Guano Use - 2026-10-10
+
+![Dain considers captive leverage while Kagrenac imagines a blimp and holding bag in a thought bubble](../../Adventures/2026-10-10/dain-leverage-kagrenac-guano-plan.png)
+
+- The blimp and closed satchel occur only inside Kagrenac's thought bubble; this shows intention, with no flight, guano handling, target or explosion. Poses, clothes, light, carriage crop and fine cuffs are illustrative. No captive reply, injury recovery or agreed plan is established. [Image notes](../../Adventures/2026-10-10/dain-and-kagrenac-goblin-plans-image-notes.md).
+
+- Kagrenac's proposed flight/guano attack has an unreported target. The thought bubble depicts intention only; no helm operation, movement, bombardment, loaded weapon or ship upgrade is established.
+- Guano storage in the Bag of Holding is confirmed; quantity, source, bag identity and access are [To verify]. Existing ship tracker, speed, crew and armament remain unchanged. [Session](../../Adventures/2026-10-10.md).
 
 ## Continued Prisoner Return - 2026-10-10
 
@@ -163,6 +174,8 @@ Source: Photos 2 and 4 of the [current party tracker](../../Adventures/2026-09-1
 - 2026-10-10: Yuckie continues pulling both cuffed goblin prisoners toward the balloon; their arrival/boarding and waking/reaction remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: The party wakes the two captured goblins at the balloon and Dain asks them in rhyme why they are organised. No reply, exact boarding, chest loading or departure is reported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Kagrenac wants to fly the blimp and use guano from the Bag of Holding to “blow them up”. Dain wants captive leverage to learn why snake people organise goblins. No choice, piloting, takeoff, guano handling or attack is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Stu](../Characters/Stu.md)

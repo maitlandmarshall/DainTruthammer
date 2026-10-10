@@ -13,8 +13,11 @@ An organised goblin camp found by [Kagrenac's owl](../Characters/Kagrenacs%20Owl
 - No answer or captive reaction is reported. The question does not establish that the captives belong to, lead, supply or speak for this camp.
 - The captives are at the balloon in the questioning context; no camp visit, attack, departure, all-party arrival or owl return is reported.
 
+- [Confirmed user-supplied mission context, 2026-10-10] Maitland describes **[snake people](../Factions/Snake%20People.md) organising goblins**, with finding out why as the main mission. This supplies the group label, without a named leader, explanation, captive testimony or confirmed camp/captive chain of command.
+- [Confirmed intentions] Dain wants the captives as leverage to learn why; Kagrenac wants to fly the blimp and use [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md) to “blow them up”. Target remains unspecified; no camp raid, attack, party choice, launch or visit is supplied. [Session](../../Adventures/2026-10-10.md).
+
 ## What Is Uncertain
-- Camp name, precise location, distance, direction, route, size, structures, numbers, defences, leader, faction, supplies and reason for its organisation.
+- Camp name, precise location, distance, direction, route, size, structures, numbers, defences, individual leader, proper faction identity, supplies and reason for its organisation. “Snake people” is now the user-supplied organising-group label for the mission; the exact camp/captive chain of command remains unreported.
 - Owl scouting roll/action, observation detail, communication method and whether the owl returns. No familiar, telepathy or new summoning is inferred.
 - Captive affiliation, motives, answers, and connections to the gorge, cliffs, unknown archer, flying snakes, northern dark forest or older goblin/hobgoblin camps.
 - This is a separately indexed new discovery. It is not identified with an older camp or the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md).
@@ -27,3 +30,6 @@ An organised goblin camp found by [Kagrenac's owl](../Characters/Kagrenacs%20Owl
 - [Party Balloon](./Party%20Skyship%20-%202026-08-29.md)
 - [Camp and question follow-up](../Lore/Open%20Threads.md#organised-goblin-camp-and-dains-question)
 - [Session 2026-10-10](../../Adventures/2026-10-10.md)
+
+- [Snake People](../Factions/Snake%20People.md)
+- [Guano In The Bag Of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md)

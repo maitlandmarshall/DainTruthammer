@@ -100,12 +100,14 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Kagrenac's owl has found an organised goblin camp. At the balloon, the party wakes both captured goblins, and Dain asks in rhyme, “why are you organised, little goblins”.** Their answer is unreported.
-- Tags: [Broader party discovery] [Confirmed camp] [Confirmed captives awake at balloon] [Confirmed Dain dialogue] [To verify affiliation and explanation].
-- Open: Camp location, distance/direction, strength, leader/faction, actual signs and cause of organisation, owl observation/communication/return, prisoner affiliation and their answer.
-- Knowledge boundary: No camp membership, family motive, confession, shared knowledge through telepathy, past-camp identity or connection to the gorge/cliffs, unknown arrow, snakes or northern forest is inferred. Dain's quote is preserved without inventing extra verse or a social roll.
-- Next possible actions: Record the captives' actual reply and any supplied scouting detail, questions, checks or actions. No visit, raid, attack, departure, cargo loading or new round follows automatically.
-- Linked entries: [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), [owl](../Characters/Kagrenacs%20Owl.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md), [Dain](../Characters/Dain%20Truthammer.md), [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), [session](../../Adventures/2026-10-10.md).
+- Status: **Kagrenac's owl has found an organised goblin camp. At the balloon, the party wakes both captured goblins, and Dain asks in rhyme, “why are you organised, little goblins”.** Their reply is unreported. Dain now wants captive leverage to learn why snake people organise goblins—the main mission; Kagrenac wants to fly the blimp and use stored guano to “blow them up”. Both remain intentions.
+- Tags: [Broader party discovery] [Confirmed camp] [Confirmed captives awake at balloon] [Confirmed Dain dialogue and intentions] [Confirmed user-supplied mission context] [To verify purpose, target and execution].
+- Mission context: “Snake people” is the supplied organising-group label. Their purpose, named identity and relation to the older Yuan-ti report are unreported; this is not a captive confession. Earlier captive-recovery and southwestern warning/rally objectives have not been cancelled.
+- Open: Camp location, distance/direction and strength, individual leader/proper faction identity, signs and reason for organisation, owl observation/communication/return, captive affiliation and actual reply. Also Dain's leverage method/person to pressure, Kagrenac's intended target, party choice and executed actions.
+- Guano: Storage in the Bag of Holding is confirmed; amount, provenance/earlier collection, bag identity and owner/carrier are [To verify]. No explosive rule, recipe, handling, consumption, flight or damage is supplied.
+- Knowledge boundary: No camp membership, family motive, confession, telepathic relay, old-camp identity or linkage to the gorge/cliffs, unknown arrow, flying snakes or northern forest is inferred. Dain's quote remains unchanged; no extra verse, social roll, threat, negotiation or executed tactic is added. The aims establish no argument, agreement or changed relationship score.
+- Next possible actions: Record actual captive replies, scouting detail, intended target and any supplied choice, checks or executed actions. No visit, raid, takeoff, explosion, cargo loading or new round follows automatically.
+- Linked entries: [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), [snake people](../Factions/Snake%20People.md), [guano](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md), [owl](../Characters/Kagrenacs%20Owl.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md), [Dain](../Characters/Dain%20Truthammer.md), [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), [earlier captive-recovery assignment](#recover-the-cults-captives), [session](../../Adventures/2026-10-10.md).
 
 ### Goblins In The Balloon Carriage
 
@@ -353,12 +355,15 @@
 - Linked entries: [Session 2026-08-29](../../Adventures/2026-08-29.md), [Dain Requisition Wishlist](../Brainstorm/Lore/Dain%20Requisition%20Wishlist.md), [Spellbook](../../Character/Spellbook.md), [Dain Truthammer](../Characters/Dain%20Truthammer.md)
 
 ### Recover The Cult's Captives
-- Status: Active
-- Tags: [Party] [Confirmed] [To verify]
-- Why it matters: People have been taken from settlements raided by a cult, and the new mission explicitly asks the party to find and, if possible, recover them.
-- Latest development: The dwarven commander in Ola Dung Lot reveals that dwarven leadership had not known Yuan-ti were involved and assigns the recovery objective after Agland's letter is delivered.
-- Next possible actions: Name the raided settlements; establish numbers, dates, witnesses, cult signs, Yuan-ti role, likely destination, captive condition, rescue window, and whether the party should investigate or strike first.
-- Linked entries: [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samryn Torsten](./Samryn%20Torsten.md)
+
+- Status: Active; the latest supplied main-mission focus is learning why snake people organise goblins.
+- Tags: [Party] [Confirmed] [Dain intention] [To verify purpose and faction identity].
+- Why it matters: People have been taken from settlements raided by a cult, and the mission asks the party to find and, if possible, recover them. No cancellation of that assignment is supplied.
+- Earlier assignment: The dwarven commander in Ola Dung Lot reveals that dwarven leadership had not known Yuan-ti were involved and assigns the recovery objective after Agland's letter is delivered.
+- Latest development, 2026-10-10: **Dain wants the captured goblins as leverage to learn why the [snake people](../Factions/Snake%20People.md) organise goblins, described as the main mission.** Purpose, method, captive reply, named organisers and relation between “snake people” and the older Yuan-ti report are unreported.
+- Alternative intention: Kagrenac wants to fly the blimp and use guano from the Bag of Holding to “blow them up”. Target, party choice, execution and outcomes remain [To verify]; no mission resolution or recovered captive follows from the plan.
+- Next possible actions: Record actual goblin replies and executed leverage/scouting. Establish the organisers' identity and purpose, then reconcile with the earlier settlement raids, cult/Yuan-ti role, rescue objective and southwestern warning/rally task. Earlier follow-ups remain: name the raided settlements; establish numbers, dates, witnesses, cult signs, Yuan-ti role, likely destination, captive condition, rescue window, and whether the party should investigate or strike first.
+- Linked entries: [Current camp and question](#organised-goblin-camp-and-dains-question), [snake people](../Factions/Snake%20People.md), [guano](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md), [Session 2026-10-10](../../Adventures/2026-10-10.md), [Session 2026-07-11](../../Adventures/2026-07-11.md), [Session 2026-08-29](../../Adventures/2026-08-29.md), [Samryn Torsten](./Samryn%20Torsten.md).
 
 ### Rally The Humans In The Southwest
 - Status: Active

@@ -6,6 +6,13 @@
 - Shared party inventory and payments that are not Dain's personal gear.
 - [To verify] Confirm which party member physically carries each item when it matters for weight, access, theft risk, or use in combat.
 
+## Guano In The Bag Of Holding - 2026-10-10
+
+- [Confirmed current stock] **Guano is in the Bag of Holding**, according to Maitland's 2026-10-10 narration. Amount and weight are [To verify].
+- [Confirmed intention] [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) wants to fly the blimp and use it to “blow them up”. Target, execution and any explosive mechanic are unreported; no guano is removed, loaded, released or consumed.
+- [To verify] Source, earlier collection, specific bag identity, owner/carrier and access. Storage does not establish September cave harvesting or identify this with trader/spy-linked bags.
+- This is a shared holding reference, without personal Dain ownership or a newly reported loot acquisition. No amount, value, weight or older tracker stock is altered. [Item](../Codex/Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md); [session](../Adventures/2026-10-10.md).
+
 ## Precious Gems - Creature-Trail Cave - 2026-10-03
 
 - [Party] [Confirmed] The party finds **precious gems worth 5,000 gp in total** in the [cave reached by the creatures' trail](../Codex/Places/Creature-Trail%20Cave%20-%202026-10-03.md). [Session](../Adventures/2026-10-03.md)

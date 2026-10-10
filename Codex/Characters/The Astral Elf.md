@@ -14,6 +14,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 
 ## Status
 
+- [Confirmed latest intention, 2026-10-10] **Kagrenac wants to fly the blimp and “blow them up” with [guano in the Bag of Holding](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Matt resolves through the roster to Kagrenac. Target, piloting, takeoff, guano handling, ignition, explosion and outcomes are unreported. Dain separately wants captive leverage to learn why the snake people organise goblins; no choice or relationship change is supplied. Guano storage is confirmed, with amount/source/bag identity unknown. [Session](../../Adventures/2026-10-10.md).
+
 - [Broader party discovery; Confirmed, 2026-10-10] **[Kagrenac's owl](./Kagrenacs%20Owl.md) finds [an organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md).** Matt resolves through the roster to Kagrenac. No camp location, population, leader, prisoner affiliation, scouting roll, communication/return, new Kagrenac spell/action or resource cost is supplied. Effects on the earlier snake pursuit remain open. [Session](../../Adventures/2026-10-10.md).
 - [Broader encounter] [Confirmed latest spell attempt, 2026-10-10] **Kagrenac casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the snakes in the distance and fails.** No attack roll, exact failure cause, particular individual target, hit, damage, spell source/class or resource cost is supplied. The owl's response to his earlier direction remains open. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 - [Broader encounter] [Confirmed latest command, 2026-10-10] **Kagrenac commands [his established owl](./Kagrenacs%20Owl.md) toward the three airborne snakes flying toward the retreating party.** The owl's response and any effect are unreported. No flight, attack, Help action, summon, roll, spell or resource use is assigned. The target group is separate from the one snake remaining at Stu and the two confirmed deaths. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
@@ -28,6 +30,16 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
 - [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
+
+## Proposed Blimp And Guano Attack - 2026-10-10
+
+![Dain considers captive leverage while Kagrenac imagines a blimp and holding bag in a thought bubble](../../Adventures/2026-10-10/dain-leverage-kagrenac-guano-plan.png)
+
+- The blimp and closed satchel occur only inside Kagrenac's thought bubble; this shows intention, with no flight, guano handling, target or explosion. Poses, clothes, light, carriage crop and fine cuffs are illustrative. No captive reply, injury recovery or agreed plan is established. [Image notes](../../Adventures/2026-10-10/dain-and-kagrenac-goblin-plans-image-notes.md).
+
+- [Confirmed intention] Fly the blimp and use stored guano to “blow them up”. The referent of “them” remains [To verify]. No flight, attack, guano consumption or explosive rule is established.
+- [Current holding] Guano is in the Bag of Holding; quantity, source, owner/carrier and specific bag identity are unreported. No earlier harvest, recipe or spell preparation is inferred.
+- [Other stated aim] Dain wants captive leverage to learn why the snake people organise goblins. No agreement, argument, chosen approach or changed respect score is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Failed Fire Bolt Attempt - 2026-10-10
 
@@ -117,6 +129,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-10-10: Kagrenac casts Fire Bolt at the snakes in the distance and fails. No roll, failure cause, hit, damage or owl response is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Kagrenac's owl finds an organised goblin camp; location, strength, leader, prisoner connection and information relay remain unreported. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Kagrenac wants to fly the blimp and use guano from the Bag of Holding to “blow them up”, while Dain wants captive leverage to learn why the snake people organise goblins. Target, party choice and execution are unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Fire Bolt](../Powers/Fire%20Bolt.md)

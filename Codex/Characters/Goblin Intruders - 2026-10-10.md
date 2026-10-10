@@ -8,6 +8,10 @@
 
 - Yuckie is the separate, uncuffed party goblin continuing the pull; the two captives remain linked at hands and feet. Grip, poses, cuff construction, dirt movement and cabin placement are illustrative. Partly concealed faces do not settle sleep/waking; no reaction, new injury, measured progress, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-continued-pull-image-notes.md).
 
+![Dain considers captive leverage while Kagrenac imagines a blimp and holding bag in a thought bubble](../../Adventures/2026-10-10/dain-leverage-kagrenac-guano-plan.png)
+
+- The blimp and closed satchel occur only inside Kagrenac's thought bubble; this shows intention, with no flight, guano handling, target or explosion. Poses, clothes, light, carriage crop and fine cuffs are illustrative. No captive reply, injury recovery or agreed plan is established. [Image notes](../../Adventures/2026-10-10/dain-and-kagrenac-goblin-plans-image-notes.md).
+
 ## One-Line Summary
 Two unnamed balloon-carriage intruders, now awake **at the balloon** after the party wakes them. Last confirmed linked at hands and feet, they are asked by Dain in rhyme, “why are you organised, little goblins”. Their answer and affiliation with the owl's newly found organised camp are unreported.
 
@@ -17,6 +21,8 @@ Two unnamed balloon-carriage intruders, now awake **at the balloon** after the p
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+
+- [Confirmed Dain intention; no new captive action, 2026-10-10] **[Dain](./Dain%20Truthammer.md) wants these captives as leverage to learn why the [snake people](../Factions/Snake%20People.md) organise goblins—the main mission.** Leverage method, person to pressure and execution are unreported. The captives remain awake at the balloon and last linked at hands/feet, with no reply, camp-membership admission or new reaction. Kagrenac's blimp/guano plan has an unspecified target; it does not establish a threat or attack against these two. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed waking/location and question, 2026-10-10] **The party wakes both captured goblins at the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). [Dain](./Dain%20Truthammer.md) asks in rhyme, “why are you organised, little goblins”.** They are now awake and at the balloon, superseding earlier unresolved waking/return-location notes. Shared hand/foot cuffs remain last confirmed; exact boarding, waking actor/method, HP/injury extent, reply and reaction are unreported. No healing or release is supplied. The [organised camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) found by Kagrenac's owl is not confirmed as theirs. Yuckie remains a separate party goblin. [Session](../../Adventures/2026-10-10.md).
 

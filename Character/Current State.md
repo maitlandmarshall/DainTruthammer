@@ -12,6 +12,10 @@
 
 ## Active Session - 2026-10-10
 
+- [Latest confirmed intentions and mission focus] **Dain wants the two awake [goblin captives](../Codex/Characters/Goblin%20Intruders%20-%202026-10-10.md) as leverage to learn why the [snake people](../Codex/Factions/Snake%20People.md) organise goblins—the main mission. [Kagrenac](../Codex/Characters/The%20Astral%20Elf.md) wants to fly the blimp and “blow them up” using [guano in the Bag of Holding](../Codex/Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md).** Leverage method, attack target, party choice and execution are unreported; no new answer, flight, explosion or relationship-score change is supplied. The organisers' purpose and their relation to the older Yuan-ti mission remain open. [Follow-up](../Codex/Lore/Open%20Threads.md#organised-goblin-camp-and-dains-question); [session](../Adventures/2026-10-10.md).
+- [Confirmed shared holding] Guano is in the Bag of Holding; amount, provenance, specific bag identity and owner/carrier are [To verify]. [Party Loot](./Party%20Loot.md#guano-in-the-bag-of-holding---2026-10-10) records stock without inventing acquisition, consumption or Dain ownership.
+- [Current state boundary] Dain's latest executed dialogue remains the preceding rhyme at the balloon. Both captives remain awake and last linked at hands/feet; reply, exact boarding and injury extent remain open. Round 7, initiative 7, numerical HP/resources and Wet remain last recorded. No snake/shot outcome, Stu arrival, chest return or gorge finding is supplied.
+
 - Latest personal action and discovery: **[Kagrenac's owl](../Codex/Characters/Kagrenacs%20Owl.md) finds [an organised goblin camp](../Codex/Places/Organised%20Goblin%20Camp%20-%202026-10-10.md). The party wakes both [captured goblins](../Codex/Characters/Goblin%20Intruders%20-%202026-10-10.md) at the [balloon](../Codex/Places/Party%20Skyship%20-%202026-08-29.md), and Dain asks in rhyme, “why are you organised, little goblins”.** The captives are now awake and at the balloon; shared hand/foot cuffs remain last confirmed. Their answer, affiliation, camp details, owl information relay/return and exact boarding remain unreported. No new round, initiative, HP/resources, Wet ending or cargo return is supplied. [Follow-up](../Codex/Lore/Open%20Threads.md#organised-goblin-camp-and-dains-question); [session](../Adventures/2026-10-10.md).
 - [Chronology] The snapshots below describe preceding beats. Their formerly unresolved prisoner waking and location are superseded by the latest waking at the balloon; Dain's latest personal action is now the rhyming question. Snake/shot outcomes, Stu's arrival, chest return and gorge findings remain open.
 
@@ -208,6 +212,9 @@
 - Unarmed Strike: `+5`, `3` bludgeoning
 
 ## Character Priorities
+
+- [Character-only; Confirmed current aim, 2026-10-10] Use the captured goblins as leverage to learn why the [snake people](../Codex/Factions/Snake%20People.md) organise goblins, described as the main mission. Method and information gained remain unreported. Earlier captive-recovery and southwestern warning/rally objectives have not been cancelled.
+
 - [Character-only] Protect the innocent, expose wickedness, and push events toward the right outcome.
 - [Character-only] Spend every personal gold piece in kindness or goodwill rather than hoarding it; seek out gnomes to receive `Glittergold's Share` whenever practical, without limiting generosity to gnomes alone.
 - [Character-only] Make the life purchased by his friend's century-old sacrifice produce enough good to feel worthy of survival, even though Dain does not believe the debt can truly be repaid and has not forgiven himself for leaving the tunnels alive.

@@ -2,6 +2,10 @@
 
 ![Dain Truthammer portrait](./Dain_Truthammer_portrait_v3.png)
 
+![Dain considers captive leverage while Kagrenac imagines a blimp and holding bag in a thought bubble](../../Adventures/2026-10-10/dain-leverage-kagrenac-guano-plan.png)
+
+- The blimp and closed satchel occur only inside Kagrenac's thought bubble; this shows intention, with no flight, guano handling, target or explosion. Poses, clothes, light, carriage crop and fine cuffs are illustrative. No captive reply, injury recovery or agreed plan is established. [Image notes](../../Adventures/2026-10-10/dain-and-kagrenac-goblin-plans-image-notes.md).
+
 ![The owl's camp discovery and Dain questioning the two awake captives at the balloon](../../Adventures/2026-10-10/owl-organised-camp-truthammer-rhyming-question.png)
 
 - Camp layout and scene staging are illustrative. The two locations are shown in separate panels, without a route or confirmed adjacency. The captives are awake; their answer and camp affiliation remain unreported. No exact boarding, injury recovery or owl information relay is established. [Image notes](../../Adventures/2026-10-10/owl-camp-and-rhyming-question-image-notes.md).
@@ -23,6 +27,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - DM: Tom.
 
 ## Status
+
+- [Confirmed latest intention, 2026-10-10] **Dain wants the two captives as leverage to learn why the [snake people](../Factions/Snake%20People.md) organise goblins—the main mission.** Leverage method, person to pressure, new dialogue, bargain/threat, social roll and execution are unreported. [Kagrenac](./The%20Astral%20Elf.md) separately wants a blimp/guano attack; no party choice, argument or relationship-score change is supplied. Dain's preceding rhyme remains his latest executed dialogue, with no captive answer. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed Dain dialogue, 2026-10-10] **At the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), after the party wakes both [goblin captives](./Goblin%20Intruders%20-%202026-10-10.md), Dain asks in rhyme, “why are you organised, little goblins”.** No answer, extra verse, language, spell, social roll or effect is supplied. [Kagrenac's owl](./Kagrenacs%20Owl.md) finds an [organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) in the broader report; its link to the captives and how Dain receives that information are unreported. No numerical resource, Wet or initiative change is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Preceding confirmed Dain action, 2026-10-10] **Dain clicks his fingers and [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) disappears in a plume of steam. He emerges yelling, tries unsuccessfully to pick up [Brother Taleesh](./Brother%20Taleesh.md), then runs 25 feet and does nothing further.** The Goku/Namek healing-pod comparison describes the drama, not a pod, healing or transformation. The tent is now dismissed; Taleesh is not lifted/carried. Yell wording, lift failure reason, roll, action/resource costs and exact movement direction/endpoint are unreported. No drying, Wet ending, HP recovery or new initiative is supplied; **7** remains the last reported initiative. [Session](../../Adventures/2026-10-10.md).
@@ -56,6 +62,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
 
 ## What The Character Knows
+
+- [Confirmed current aim and supplied mission context, 2026-10-10] Dain seeks **why the snake people organise goblins**, with captives as intended leverage. The purpose remains unanswered; this is not a reported confession or camp-membership admission. No new information route, leader, shared briefing or relation to the older Yuan-ti report is supplied. [Snake people](../Factions/Snake%20People.md); [session](../../Adventures/2026-10-10.md).
 
 - [Confirmed latest personal interaction, 2026-10-10] Dain asks the two awake captives about organisation in rhyme, **“why are you organised, little goblins”**, at the balloon. Their answer and any confirmation of motives, leaders or camp membership are unreported. The owl-to-Dain information route and awareness of earlier prisoner abuse remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding personal action, 2026-10-10] Dain dismisses the riverside tent in steam, emerges yelling, cannot pick up Taleesh, runs **25 feet** and does nothing further. This establishes no additional enemy observation or knowledge of the earlier prisoner abuse. [Session](../../Adventures/2026-10-10.md).
@@ -197,6 +205,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - "That is a long story, and some of the witnesses are still cross."
 
 ## Near-Term Motivations
+
+- [Character-only; Confirmed current aim, 2026-10-10] Use the two [goblin captives](./Goblin%20Intruders%20-%202026-10-10.md) as leverage to learn why the [snake people](../Factions/Snake%20People.md) organise goblins. Method and outcome remain unreported. [Main-mission follow-up](../Lore/Open%20Threads.md#organised-goblin-camp-and-dains-question).
+
 - [Character-only] [Confirmed goals on 2026-09-12] Seek Glyph of Warding and the [spell research shortlist](../../Character/Spellbook.md#future-spell-acquisition-goals); these targets are not yet learned.
 - [Character-only] Help Kagrenac reach the mountain road near Samryn Torsten safely.
 - [Character-only] Deliver Commander Agland's sealed letter to the actual general.
@@ -280,6 +291,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: After Taleesh's wake-up and Christina's snake shot, Dain makes his **finger-click/steam entrance**, yells, cannot pick up Taleesh, runs **25 feet** and does nothing further. Leaky Tent is dismissed; no healing, transformation, Wet ending, new roll or numerical resource change is supplied. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: At the balloon, after both captives are woken, Dain asks in rhyme, “why are you organised, little goblins”. No reply or social/spell effect is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Dain wants captive leverage to learn why the snake people organise goblins, described as the main mission. Kagrenac separately proposes flying the blimp and using stored guano to “blow them up”. No executed tactic, attack target, agreement or new answer is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 

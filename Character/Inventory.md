@@ -72,6 +72,8 @@
 - [Party] The [Coal Mine Puppet](../Codex/Items/Coal%20Mine%20Puppet.md) survives the same holy fire and is currently tied in rat form to Harry's belt.
 - [Party] [`Magic Mouth` Spell Scrolls](../Codex/Items/Magic%20Mouth%20Scrolls.md): **0 remaining**, originally 5 acquired on 2026-08-29. After the cave-alarm accounting and one confirmed failed transcription, three remained. Dain learns the spell during airship travel on 2026-10-03 and uses up all remaining copies.
 
+- [Confirmed current holding, 2026-10-10] [Guano is in the Bag of Holding](../Codex/Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md), mentioned for Kagrenac's proposed blimp attack. Amount/weight, source/earlier collection, bag identity and owner/carrier are [To verify]; no Dain ownership, acquisition, consumption or reconciliation with older bags is supplied. See [Party Loot](./Party%20Loot.md#guano-in-the-bag-of-holding---2026-10-10).
+
 ## Carry Load
 - Weight Carried: [To verify] The earlier `73 lb.` estimate included a `53 lb.` baseline and the `20 lb.` Breastplate of Balance. Dwarven Half Plate is now worn; its weight, the breastplate's storage and the later rope/inventory changes are not reconciled into a current total.
 - Encumbered: 225 lb.
