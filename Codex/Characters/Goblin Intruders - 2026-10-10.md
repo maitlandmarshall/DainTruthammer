@@ -28,6 +28,7 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - Damage totals, saves, exact injury extent, death and the final encounter outcome remain unreported. Harry's finger strike is confirmed; Taleesh's earlier miss has no further consequence to him.
 
 ## What The Party Knows
+- [Confirmed Dain clarification] **Truthammer remains innocent** in this prisoner scene. He is separately asleep and unaware of the enemies or Harry's finger strike; no involvement or approval is established. [Session](../../Adventures/2026-10-10.md).
 - [Explicit Dain exception] **Dain is unaware of any enemies.** He is startled by the noise while "sleep drowning" at the riverbank, gets up and returns to his Leaky Tent to sleep. The encounter facts below belong to the broader party record, not established Dain knowledge. [Session](../../Adventures/2026-10-10.md).
 - Two goblins are already inside the carriage when the alarm sounds.
 - The chest drop caused the sound that alerted the party.
