@@ -114,5 +114,10 @@
     "fingerprint": "db27411352c947407908a45601ea035e853b16a869c534c48702df9e95a71cb1",
     "status": "confirmed",
     "message_id": "1558326713958793277"
+  },
+  "2026-10-10-005-night-goblin-alarm": {
+    "fingerprint": "9838d8e099ebc1ec27cd173a0d7717dc1d29bfbc2b8a3cd5375154fe3d456887",
+    "status": "confirmed",
+    "message_id": "1558328862440685669"
   }
 }
