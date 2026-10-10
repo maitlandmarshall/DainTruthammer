@@ -17,7 +17,8 @@
 - Kagrenac's Polymorph makes Tina the giant eagle; Dain casts Minor Illusion and delivers the booming call for discussion, guaranteeing no violence. Camp response remains unreported. Poses, sound rings, plumage, camp shelters/banners/decorative devices, lights and aerial spacing are illustrative; no discovered faction emblem, tactical layout, accepted guarantee, resource ruling or attack is established. [Image notes](../../Adventures/2026-10-10/bear-eagle-camp-entrance-image-notes.md).
 
 ## One-Line Summary
-A party participant in brown-bear form, now running back toward the captured goblins and the snakes near them; Tina fires another arrow at the snakes afterward. Bear arrival and shot outcome are unreported; the three snakes previously beside Stu remain down.
+
+A party participant in brown-bear form who carried Dain into the organised goblin camp; Dain is now running toward the approach-route bottleneck, while Stu's next action and position are unreported.
 
 ## Table Role
 - Role: Unknown / To verify.
@@ -41,6 +42,8 @@ A party participant in brown-bear form, now running back toward the captured gob
 - 2026-10-10: Carries Dain in bear form as the ground group enters the goblin camp, backed by Tina in giant-eagle form. Dain announces the peaceful discussion terms; no Stu attack, new damage or numerical recovery is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Current State
+
+- [Latest rider movement, 2026-10-10] **Dain now runs back toward the party's approach-route bottleneck and spots goblins emerging from a wall crack to flank the gang.** This supersedes Dain's preceding riding posture; the transition off Stu is unreported. No new Stu movement, destination, attack, damage, healing, form change or resource use is supplied. The prior approximate **23** damage ledger remains separate from unknown current HP. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed camp entry, 2026-10-10] **Stu carries Dain in bear form into the goblin camp, with Harry and Yuckie on foot and Tina as a giant eagle backing the ground group after Kagrenac's Polymorph.** Dain casts Minor Illusion and delivers a booming call for peaceful discussion. No new bear attack, transformation, healing, numerical resource change, carry/mount ruling or cloak completion is supplied. About **23** remains the prior cumulative damage ledger, not current HP. Exact position, route and eagle manoeuvres remain unreported. Earlier entries below are preceding beats. [Session](../../Adventures/2026-10-10.md).
 

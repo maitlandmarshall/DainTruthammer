@@ -6,13 +6,13 @@
 
 ## One-Line Summary
 
-A confirmed new reported casting by [Dain Truthammer](../Characters/Dain%20Truthammer.md), accompanied by his explicit concentration drop ending Suggestion on the smarter captive; actual movement remains unreported.
+A confirmed casting by [Dain Truthammer](../Characters/Dain%20Truthammer.md), ending Suggestion on the smarter captive; he subsequently runs toward the approach-route bottleneck and spots a goblin flank through a wall crack.
 
 ## Current Campaign Effect
 
 - [Confirmed, 2026-10-10] **Dain casts Expeditious Retreat and drops concentration on [Suggestion](./Suggestion.md) on the smarter goblin captive. Suggestion ends now.** [Session](../../Adventures/2026-10-10.md).
 - [Derived standard 2014 effect] Current concentration is **Expeditious Retreat**. The official spell is 1st-level, cast as a Bonus Action on self, concentrating up to 10 minutes; it offers Dash at casting and through later Bonus Actions while maintained. These are reference rules, not proof of an actual move, elapsed duration, slot level or numeric speed change. [Official D&D Beyond spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat).
-- Dain was last riding Stu in bear form; no dismount, Dash, bear movement/buff, route, distance or destination is supplied. This cast establishes no retreat outcome or escape.
+- [Subsequent confirmed movement, 2026-10-10] **Dain runs back toward the bottleneck on the party's approach route and spots goblins emerging from a wall crack to flank the gang.** Running supersedes his preceding bear-mounted posture. Transition off Stu, distance, formal Dash, bottleneck arrival or escape, and Stu's own next movement/location remain unreported. The run supplies no new spell cast, numeric speed change or bear buff. [Camp discovery](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10).
 
 ## Resources And Spell Knowledge
 

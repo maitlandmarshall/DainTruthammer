@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest movement and discovery] **Dain runs back toward the approach-route bottleneck and spots goblins emerging from a wall crack to flank the gang. He realises they have tricked the group.** Their count/identities, route details, arrival, any warning and the actual response remain unreported. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest concentration change] **Dain casts [Expeditious Retreat](../Powers/Expeditious%20Retreat.md), dropping [Suggestion](../Powers/Suggestion.md) on the smarter captive. Suggestion is ended.** [Derived standard 2014 effect] Expeditious Retreat is now the concentration spell. Record actual movement and captive response when supplied. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat); [camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Latest personal casting and tent damage] **Dain's [Chromatic Orb](../Powers/Chromatic%20Orb.md) passes through the fire pit into the main tent, blasting a hole through its front and back.** Both holes are confirmed. Type/roll/damage, casting resource, occupants and actual response remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -124,7 +126,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **Dain casts Expeditious Retreat and explicitly drops Suggestion concentration on the smarter captive, ending it.** Current concentration is Expeditious Retreat under the standard 2014 effect. Actual next movement, captive response/physical release and casting resource are unreported. The two main-tent holes, owl death, Dain's 11 damage/current HP question, blimp movement and goop/rock mystery remain recorded.
+- Status: **Dain runs back toward the approach-route bottleneck and realises goblins emerging from a wall crack have tricked and are flanking the gang.** Goblin count/identities, route geometry, movement total/formal Dash, arrival, Dain's warning and the actual response remain unreported. Expeditious Retreat remains current concentration and Suggestion is ended; captive response/physical release and casting resource are still unreported. The two tent holes, owl death, Dain's 11 damage/current HP question, blimp movement and rock/goop mystery remain recorded.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Record actual blimp movement/arrival and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -148,6 +150,8 @@
 - Main tent follow-up: Record any actual discovery through the two holes, occupant effects and camp/party response. The supplied Chromatic Orb result does not establish ignition, collapse, a casualty, a general object/penetration rule or a chosen damage type. Casting level/resource and remaining uses stay open. [Chromatic Orb](../Powers/Chromatic%20Orb.md); [camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 
 - Concentration follow-up: **Suggestion is ended; Expeditious Retreat is current concentration** [Derived standard 2014 effect]. Record Dain's actual move/Dash, casting source/expenditure and any later ending; no bear buff or movement is supplied. The smarter captive's response, shared cuff handling and position stay open. [Spell](../Powers/Expeditious%20Retreat.md); [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md); [official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat).
+
+- Wall-crack follow-up: Dain has personally spotted the goblins' flanking move while running toward the approach bottleneck. Record the actual troop count/identities, passage details, any alert to the others and resulting actions when supplied. “Smart little gobbies” is table commentary. The photo is unkeyed; no wall/gorge merger, detailed deception plan, flanking advantage, arrival or escape is established. [Camp discovery](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10).
 
 ### Goblins In The Balloon Carriage
 

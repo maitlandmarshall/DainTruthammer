@@ -52,7 +52,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
-- [Latest casting/concentration change, 2026-10-10] **Casts [Expeditious Retreat](../Powers/Expeditious%20Retreat.md) and drops concentration on [Suggestion](../Powers/Suggestion.md) on the smarter captive, ending it.** [Derived standard 2014 effect] Current concentration is Expeditious Retreat. Actual movement/Dash/dismount, casting source/expenditure and captive reaction remain unreported. The last shared cuffs and Dain's HP question have no new change. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat); [Session](../../Adventures/2026-10-10.md).
+- [Latest personal movement/discovery, 2026-10-10] **Dain runs back toward the bottleneck on the party's approach route and realises goblins emerging from a wall crack have tricked and are flanking the gang.** His current movement is running; the transition off Stu, distance, formal Dash and arrival/escape remain unreported. Expeditious Retreat is the last confirmed concentration and Suggestion is ended; no new HP/resource change or attack is supplied. Count/identities and any warning to the others remain open. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
+
+- [Preceding casting/concentration change, 2026-10-10] **Casts [Expeditious Retreat](../Powers/Expeditious%20Retreat.md) and drops concentration on [Suggestion](../Powers/Suggestion.md) on the smarter captive, ending it.** [Derived standard 2014 effect] Current concentration is Expeditious Retreat. The cast itself supplied no movement; the following beat records Dain running toward the approach bottleneck. Casting source/expenditure and captive reaction remain unreported; shared cuffs and Dain's HP question have no new change. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat); [session](../../Adventures/2026-10-10.md).
 
 - [Latest personal casting, 2026-10-10] **Dain shoots [Chromatic Orb](../Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting a hole through its front and back.** The shot and both holes are confirmed. Type/roll/damage, casting level/resource, occupants and further effects remain unreported. HP after the preceding 11 grenade damage is still [To verify]. His earlier guarantee/countdown remain historical; no motive or negotiation outcome is assigned. [Session](../../Adventures/2026-10-10.md).
 
@@ -104,6 +106,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
 
 ## What The Character Knows
+
+- [Confirmed personal observation, 2026-10-10] **Goblins emerge from a crack in a wall to flank the gang; Dain realises the goblins have tricked the group as he runs back toward the approach-route bottleneck.** Count, identities, detailed plan, what lies beyond the crack and whether Dain shares this discovery are unreported. The wall is not identified with the earlier gorge/cliffs. [Camp discovery](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 - [Latest personal interaction, 2026-10-10] Dain publicly announces the ground group's camp entry with Minor Illusion and a booming voice, asks the goblins to come out for discussion and guarantees no violence: **“The truth needs liberation.”** No reply, revealed motive, confirmed captive affiliation or accepted negotiation is supplied. The ground group is backed by Tina in giant-eagle form, transformed by Kagrenac. [Session](../../Adventures/2026-10-10.md).
 
@@ -285,7 +289,7 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - Notable features: Arcane Recovery, Minor Conjuration, Stonecunning (Tremorsense), Magic Initiate (Wizard), Resilient: Constitution.
 - Spell themes on sheet/current package: Ray of Frost, Shape Water, Mage Hand, Minor Illusion, Disguise Self, Silent Image, Suggestion, Invisibility, Mirror Image, Web, Rope Trick.
 
-- Current concentration: **[Expeditious Retreat](../Powers/Expeditious%20Retreat.md)** [Derived standard 2014 effect after confirmed casting]. Dain explicitly ends Suggestion on the smarter captive. Current remaining slots, actual movement and later ending remain unreported. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat).
+- Current concentration: **[Expeditious Retreat](../Powers/Expeditious%20Retreat.md)** [Derived standard 2014 effect after confirmed casting]. Dain explicitly ended Suggestion on the smarter captive. He now runs back toward the approach-route bottleneck; distance/formal Dash, remaining slots and a later spell ending remain unreported. [Official spell](https://www.dndbeyond.com/spells/2088-expeditious-retreat).
 
 ## Notable Records
 - 2026-04-18: Initial character baseline created from the imported sheet and user blurb.
@@ -358,6 +362,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: **Shoots [Chromatic Orb](../Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting through its front and back.** Chosen type, roll/damage, resource and further consequences remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: **Casts Expeditious Retreat and explicitly drops Suggestion concentration on the smarter captive.** Suggestion is ended; actual next movement and the goblin's behaviour are unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Runs back toward the approach-route bottleneck and spots goblins emerging from a wall crack to flank the gang, realising they have tricked the group. Count/identities, warning to others, movement total/formal Dash and arrival are unreported. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md#bottleneck-and-wall-crack-flank---2026-10-10); [session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 

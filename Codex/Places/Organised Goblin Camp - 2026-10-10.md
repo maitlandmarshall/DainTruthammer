@@ -42,7 +42,7 @@
 
 ## One-Line Summary
 
-The organised goblin camp entered by Dain's ground group; after a grenade deals Dain 11 damage and the same attacker kills Kagrenac's owl with a javelin, Dain's Chromatic Orb blasts holes through the main tent's front and back via the fire pit.
+The organised goblin camp where Dain, running back toward the party's approach-route bottleneck, discovers goblins emerging from a wall crack to flank the gang and realises they have been tricked.
 
 ## Confirmed Discovery
 
@@ -97,6 +97,24 @@ The organised goblin camp entered by Dain's ground group; after a grenade deals 
 ![Table reference accompanying Dain's Chromatic Orb through the main tent](../../Adventures/2026-10-10/chromatic-orb-main-tent-table-photo.jpg)
 
 - Supplied photo copied unchanged. The drawing, pointed area, miniatures and grid remain unkeyed: no scale, exact spell geometry, tent dimensions or individual identity is inferred. The main tent and front/back holes are confirmed by the narration. [Session](../../Adventures/2026-10-10.md).
+
+### Bottleneck And Wall Crack Table Photo
+
+![Unkeyed table photo accompanying Dain's run and flank discovery](../../Adventures/2026-10-10/bottleneck-wall-crack-table-photo.jpg)
+
+- Archived unchanged. The grid, marks, miniatures and die have no supplied key, scale, north, identities or roll; this photo establishes no precise wall/crack/bottleneck geometry.
+
+## Bottleneck And Wall Crack Flank - 2026-10-10
+
+![Dain spots anonymous goblins emerging through the wall crack](../../Adventures/2026-10-10/dain-bottleneck-wall-crack-flank.png)
+
+- Running and the discovery are confirmed; visible silhouette count, walls, torches, fissure shape and geometry are illustrative. [Image notes](../../Adventures/2026-10-10/bottleneck-wall-crack-image-notes.md).
+
+- [Confirmed movement] **Dain runs back toward the bottleneck on the route the party came from.** Running supersedes his preceding riding posture; transition off Stu, distance, formal Dash, arrival/escape and Stu's own next movement/location are unreported.
+- [Confirmed; Dain observes] **Goblins are emerging from a crack in a wall and flanking the gang. Dain realises they have tricked the group.** Count and identities are unreported; none is automatically equated with an earlier goblin. The detailed plan, tunnel contents, commander and other party awareness are unknown.
+- **“Smart little gobbies”** is supplied table commentary, without invented dialogue. Narrated flanking supplies no automatic advantage ruling or new attack/roll.
+- Bottleneck width, wall/crack dimensions or material, exact positions and connection to the earlier gorge/cliffs are unreported. The table photo has no supplied key, scale, die result or reliable geometric labels.
+- Expeditious Retreat remains the last confirmed concentration; Suggestion is ended. No new damage, resource cost, condition, round or other actor's action is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Expeditious Retreat And Suggestion Ending - 2026-10-10
 
@@ -165,6 +183,8 @@ The organised goblin camp entered by Dain's ground group; after a grenade deals 
 - Neither interaction provides an answer about why the snake people organise goblins, establishes captive membership of the camp, or reports a confession, release, guano handling or attack. Captive transport/position after the preceding balloon location remains unknown. [Session](../../Adventures/2026-10-10.md).
 
 ## What Is Uncertain
+
+- Latest flank discovery: emerging goblin count/identities, detailed deception plan, passage beyond the wall crack, exact terrain/route geometry, Dain's movement total/formal Dash/arrival, transition off Stu, any warning and the actual party/goblin response. The wall is not silently identified with the gorge/cliffs. Stu's own next action/location and a later Expeditious Retreat ending remain unreported.
 
 - Aerial follow-up: Blimp centre arrival, geometry/altitude/speed, other passengers and thrust provider remain unknown. Kagrenac's owl is now confirmed dead from the grenade thrower's javelin. Earlier flank target/execution, pre-hit position, body disposition and Kagrenac's response remain unreported.
 
