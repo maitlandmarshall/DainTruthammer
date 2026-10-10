@@ -1,13 +1,14 @@
 # Chest of Preservation
 
-![Harry begins returning the chest toward the balloon as an arrow glances off her armour](../../Adventures/2026-10-10/harry-drags-chest-arrow-glance.png)
+![Harry continues dragging the closed chest toward the balloon in round seven](../../Adventures/2026-10-10/round-seven-harry-continues-chest-return.png)
 
-- Harry now handles the chest and continues attempting its return. Construction, grip, pose, contact point and destination placement are illustrative; no completed arrival/loading, contents result, cargo damage or firing direction is established. [Image notes](../../Adventures/2026-10-10/harry-chest-arrow-image-notes.md).
+- Latest scene: Harry continues hauling the closed chest in **round 7**. Construction, grip, pose, scuff and destination placement are illustrative; no measured progress, new arrow, completed arrival/loading, contents result or cargo damage is established. [Image notes](../../Adventures/2026-10-10/round-seven-chest-return-image-notes.md).
 
 ## One-Line Summary
-The chest from the balloon-carriage goblin encounter, now called Chest of Preserving in the latest source; Harry starts dragging it back toward the balloon and keeps trying after an arrow from 150 feet, direction unknown, glances off her armour. Completed return and current contents remain open.
+The chest from the balloon-carriage goblin encounter, also called Chest of Preserving; **Harry continues dragging it toward the balloon in round 7**. Completed return/loading and current contents remain open. The earlier unknown arrow from 150 feet is a preceding event, with no new shot supplied.
 
 ## Status
+- [Latest confirmed handling, round 7, 2026-10-10] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) continues dragging this chest toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). Both goblin prisoners are still alive.** Harry's handling continues; no measured progress, transport check, new arrow, arrival/loading, lid opening, cargo damage or contents change is reported. This establishes no Dain inventory/resource change. [Session](../../Adventures/2026-10-10.md).
 - [Latest confirmed handling, 2026-10-10] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) starts dragging the chest back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** An arrow from **150 feet**, unknown direction, glances off her armour; she continues trying to drag it back. Harry now has hold of the chest, superseding the earlier open post-slide handling question. Pickup sequence, completed return/loading, contents/condition and transport checks remain unreported. No cargo quantity or Dain inventory/resource change is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Naming] The latest narration uses **Chest of Preserving**, matching the prior tracker's label; earlier narration called this encounter chest **Chest of Preservation**. This page retains its established path. Correspondence with the old stock entries and current preservation mechanics remain unverified.
 - [Encounter follow-up, 2026-10-10] [Brother Taleesh](../Characters/Brother%20Taleesh.md) manacles both goblins while they sleep, restraining them. **This supplies no chest recovery, inventory return or updated control.** [Session](../../Adventures/2026-10-10.md).
@@ -25,6 +26,12 @@ The chest from the balloon-carriage goblin encounter, now called Chest of Preser
 ## What Is Uncertain
 - Exact identity against the old tracker label, appearance, material, weight and preservation mechanics.
 - Who first dropped it, initial landing/pickup sequence, whether it opened or was damaged, current contents/condition, the exact slide position and completed arrival/loading. Harry now handles it and attempts its return; that part of the earlier control uncertainty has advanced.
+
+## Earlier Chest Return And Arrow Glance
+
+![Harry begins returning the chest when the earlier unknown arrow glances off her armour](../../Adventures/2026-10-10/harry-drags-chest-arrow-glance.png)
+
+- This is the preceding return-start scene, before the round-7 continuation. The arrow's reported range was 150 feet; no new arrow is reported in round 7. Construction, grip, pose, contact point and destination placement were illustrative; no completed arrival/loading, contents result, cargo damage or firing direction was established. [Image notes](../../Adventures/2026-10-10/harry-chest-arrow-image-notes.md).
 
 ## Earlier Dirt Slide
 

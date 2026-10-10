@@ -15,6 +15,7 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [Retcon] The sheet confirms the character spelling as `Hammerton Harry Drizddon`; earlier repo notes used `Dresdon`.
 
 ## Status
+- [Latest confirmed action, round 7, 2026-10-10] **Harry continues dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). Both [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) are still alive.** No new arrow, damage, transport check, measured progress, arrival/loading or resource use is supplied. The captives' HP, finger-injury extent, waking and response remain unreported. Dain is now awake and in battle after his own steam entrance and run; the asleep references below are historical. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party action; Dain asleep, 2026-10-10] **Harry starts dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). An arrow from 150 feet in an unknown direction glances off her armour; she continues trying to drag it back.** Harry now handles the chest, but arrival/loading and contents/condition remain open. Shooter, bearing, attack roll, damage, HP/resource changes and transport mechanics are unreported. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party dialogue; Dain asleep] [Confirmed, 2026-10-10] **Harry says: “they shall be punished for their sins. They trying to feed their family? Punished.”** The words and speaker are confirmed; the [goblins'](./Goblin%20Intruders%20-%202026-10-10.md) actual motive or family circumstances are not. No prisoner response or additional punishment is supplied. Dain remains innocent, separately asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Preceding broader party action; Dain asleep] [Confirmed, 2026-10-10] **Harry runs up to the cuffed [goblins](./Goblin%20Intruders%20-%202026-10-10.md) and smashes their fingers.** Their shared hand-and-foot bindings remain last confirmed. Exact implement, attack/damage rolls, damage, injury extent, waking and reaction afterward are unreported. The prisoners were last asleep before this strike; no continued sleep, resource expenditure, chest recovery or Dain awareness change is assigned. [Session](../../Adventures/2026-10-10.md).
@@ -38,6 +39,12 @@ Norhan's Mountain Dwarf Fighter 3, a soldier-quartermaster and hammer-forward el
 - [To verify] In-world introduction to [Dain Truthammer](./Dain%20Truthammer.md) and the party is only partly logged; his presence is established, but how he joined the mission is not.
 
 ## Latest Encounter Scene - 2026-10-10
+
+![Harry continues hauling the closed chest toward the balloon in round seven](../../Adventures/2026-10-10/round-seven-harry-continues-chest-return.png)
+
+- Latest scene: Harry's ongoing chest haul in **round 7**. Pose, grip, scuff, construction and destination placement are illustrative; no new arrow, measured progress, arrival/loading, opened chest, damage or cargo result is established. Both goblins remain alive by the supplied text; their off-frame consciousness is unreported. [Image notes](../../Adventures/2026-10-10/round-seven-chest-return-image-notes.md).
+
+### Earlier Chest Haul And Arrow Glance
 
 ![Harry continues pulling the chest toward the balloon as an arrow glances off her armour](../../Adventures/2026-10-10/harry-drags-chest-arrow-glance.png)
 
@@ -209,6 +216,8 @@ Knowledge boundary: sheet-provided backstory for Hammerton; not established as k
 *Portrait and cave continuity are preserved. Gem appearance, pose and handling illustrate the find without establishing active magic, a stored spell, identification or ownership. [Prompt and references](../../Adventures/2026-10-03/harry-special-gem-image-notes.md).*
 
 - 2026-10-10: Harry starts dragging the Chest of Preserving back toward the balloon, has an arrow from 150 feet in an unknown direction glance off her armour, and continues trying to drag it back. No damage or completed return is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Round 7:** Harry continues dragging the Chest of Preserving toward the balloon; both goblin prisoners are still alive. No new arrow, damage, arrival/loading, transport check or numerical resource change is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## River Prospecting - 2026-10-10
 

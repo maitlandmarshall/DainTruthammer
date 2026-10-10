@@ -1,5 +1,7 @@
 # Open Threads
 
+- [Latest round and survival] **Round 7: [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) continues dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) toward the balloon; both [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) are still alive.** Arrival/loading, measured progress, prisoner waking/reaction and HP/injury extent remain unreported. [Encounter follow-up](#goblins-in-the-balloon-carriage).
+
 - [Latest Dain action] **Dain clicks his fingers and [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) disappears in steam. He emerges yelling, cannot pick up [Brother Taleesh](../Characters/Brother%20Taleesh.md), then runs 25 feet and does nothing further.** The tent is now dismissed; direction/endpoint, roll, costs, current resources and any Wet ending remain open. The healing-pod comparison supplies no healing or transformation. [Riverside follow-up](#riverside-rest-and-leaky-tent).
 
 - [Latest local clearance] **[Christina](../Characters/Christina.md) fires an arrow, with 17 reported, destroying the last snake beside [Stu](../Characters/Stu.md)** as it bursts/rips apart and is pierced to the ground. [Derived] All three local snakes are down; the three airborne pursuers remain unresolved. Dain remains awake and in battle. [Snake follow-up](#four-flying-snakes-and-the-cliffs).
@@ -27,6 +29,8 @@
 - [Carry-forward research] **Magic Mouth is learned; all scrolls are consumed.** Earlier airship Leaky Tent refinement using Stinking Cloud remains unapproved as a revision. Dain's two spell-storing stones remain one with Cure Wounds and one spell choice pending. Current resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields and **750 XP** allocation remain open. [Active session](../../Adventures/2026-10-10.md)
 
 ## Current Live Focus - 2026-10-10
+
+- [Round 7; chest haul ongoing; both prisoners alive] Record the actual chest arrival/loading and any later prisoner HP, waking/reaction, release or transport outcome when supplied. The round count is separate from Dain's last reported initiative **7**; no exact elapsed time, automatic duration ending, new arrow or resource change is inferred. [Balloon goblin encounter](#goblins-in-the-balloon-carriage).
 
 - [Latest Dain turn] **The riverside tent is dismissed in steam; Dain's attempted Taleesh lift fails, and he runs 25 feet then does nothing further.** Record actual movement endpoint, later actions, current resources or a Wet ending when supplied. No named Dash/Dodge/Ready action, balloon arrival, enemy interception, healing or transformation is established. [Riverside rest and tent](#riverside-rest-and-leaky-tent).
 
@@ -79,8 +83,9 @@
 
 ### Goblins In The Balloon Carriage
 
-- Status: Yuckie continues pulling the two cuffed goblins toward the balloon; arrival/boarding and waking/reaction remain unreported. Harry's chest return remains underway after the armour glance from an arrow at 150 feet, direction unknown. Dain is awake and in battle after Taleesh fetches him; specific observations and prior-event knowledge remain unreported.
+- Status: **Round 7; both goblin prisoners are still alive. Harry continues dragging the chest toward the balloon.** Yuckie's last reported haul and their shared hand-and-foot cuffs remain established; arrival/boarding, prisoner waking/reaction and HP/injury extent remain unreported. The earlier arrow glance is a preceding event, not a new shot. Dain is awake and in battle after his steam entrance, failed Taleesh lift and 25-foot run; specific observations and prior-event knowledge remain unreported.
 - Tags: [Party] [Confirmed opening] [To verify outcomes].
+- Latest round/survival update, 2026-10-10: **Harry continues the chest return in round 7, and both goblins remain alive.** No measured distance, new arrow, roll, completed return, cargo result or prisoner reaction is supplied. Survival establishes no new waking, continued sleep, recovered health or release.
 - Opening, 2026-10-10: The loud sound of the Chest of Preservation dropping over the carriage's side alerts the party to two goblins already inside.
 - Earlier development: The goblins jump off, two clouds of darkness appear, and the goblins disappear into them. Taleesh jumps down into the farther cloud and swings blindly: **natural 1, simply a miss, with nothing else happening to him**.
 - Earlier development: Harry dashes/runs to the black cloud and casts Thunderwave at a goblin. **The goblin is pushed out; another patch of darkness disappears.** Which initial cloud/patch and current darkness arrangement remain unreported.

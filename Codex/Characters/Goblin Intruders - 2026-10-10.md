@@ -5,7 +5,7 @@
 - Yuckie is the separate, uncuffed party goblin continuing the pull; the two captives remain linked at hands and feet. Grip, poses, cuff construction, dirt movement and cabin placement are illustrative. Partly concealed faces do not settle sleep/waking; no reaction, new injury, measured progress, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-continued-pull-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, whom Yuckie continues pulling toward the balloon. Arrival and waking/reaction after Harry's preceding finger strike remain unreported; Dain is now awake and in battle.
+Two unnamed balloon-carriage intruders, **both still alive in round 7**, last confirmed cuffed together at both hands and feet and being pulled toward the balloon by Yuckie. Arrival, HP/injury extent and waking/reaction after Harry's preceding finger strike remain unreported; Dain is now awake and in battle.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,6 +13,7 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+- [Latest confirmed survival, round 7, 2026-10-10] **Both goblin prisoners are still alive.** [Harry](./Hammerton%20Harry%20Drizddon.md) continues dragging the chest toward the balloon. Survival does not establish waking/consciousness, continued sleep, recovered health, dialogue/reaction, release or arrival. Shared hand-and-foot cuffs remain last confirmed; HP and injury extent remain unreported. Yuckie remains the separate party goblin, not a captive. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader action, 2026-10-10] **[Yuckie](./Yuckie%20the%20Goblin.md) continues pulling both prisoners toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** Shared hand-and-foot bindings remain last confirmed. Distance, checks, arrival/boarding, waking/reaction, further injury and release are unreported. Dain is now awake and in battle, without a particular observation of this haul being supplied. [Session](../../Adventures/2026-10-10.md).
 - [Preceding drag start; Dain asleep then] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) starts dragging both prisoners back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Their linked hand/foot restraints remain in place. Arrival, boarding, precise handling, checks and prisoner waking/reaction were unreported. Yuckie is separate from the captives; chest recovery was open and Dain was innocent, asleep and unaware at that point. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party dialogue; Dain asleep] **[Harry](./Hammerton%20Harry%20Drizddon.md) says: “they shall be punished for their sins. They trying to feed their family? Punished.”** Her statement does not confirm their motive, family circumstances or a confession. Whether they hear or respond is unreported; no additional punishment follows from the dialogue alone. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
@@ -28,9 +29,10 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - [Party] [Confirmed, 2026-10-10] Exactly two goblins creep up on the party and are already in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md).
 - [Party] The [Chest of Preservation](../Items/Chest%20of%20Preservation.md) drops over the carriage's side, making a loud sound that alerts the party. The dropper is unreported.
 - [Corrected table result] **Dain initiative 7**, reported by Maitland, supersedes the assistant-generated 6. Goblin rolls, other party rolls, order and surprise are unreported.
-- Damage totals, saves, exact injury extent, death and the final encounter outcome remain unreported. Harry's finger strike is confirmed; Taleesh's earlier miss has no further consequence to him.
+- Damage totals, saves, exact injury extent and the final encounter outcome remain unreported. **Both prisoners are confirmed alive in round 7**; no later death is recorded. Harry's finger strike is confirmed; Taleesh's earlier miss has no further consequence to him.
 
 ## What The Party Knows
+- [Confirmed latest scene] It is **round 7**; both captives are still alive, and Harry's chest return continues toward the balloon. Their HP, waking/reaction and actual arrival remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Broader scene record] Yuckie continues pulling the two prisoners toward the balloon. They remain linked at hands and feet; no waking/reaction, arrival or boarding is reported.
 - [Confirmed Dain clarification] **Truthammer remains innocent** in this prisoner scene. He is separately asleep and unaware of the enemies or Harry's finger strike; no involvement or approval is established. [Session](../../Adventures/2026-10-10.md).
 - [Explicit Dain exception] **Dain is unaware of any enemies.** He is startled by the noise while "sleep drowning" at the riverbank, gets up and returns to his Leaky Tent to sleep. The encounter facts below belong to the broader party record, not established Dain knowledge. [Session](../../Adventures/2026-10-10.md).
@@ -112,6 +114,10 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 ![The two goblins jump into clouds of darkness, then Taleesh swings blindly in the farther cloud and misses](../../Adventures/2026-10-10/goblin-darkness-taleesh-blind-miss.png)
 
 - Cloud arrangement and jump/swing poses are illustrative. Taleesh's natural 1 is only the reported miss. [Image notes](../../Adventures/2026-10-10/goblin-darkness-image-notes.md).
+
+## Round Seven Survival - 2026-10-10
+
+- 2026-10-10: **Round 7; both intruders are still alive.** Harry continues hauling the chest toward the balloon. No new prisoner action, waking/reaction, HP total, injury extent, release or arrival is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Brother Taleesh](./Brother%20Taleesh.md)
