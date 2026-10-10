@@ -1,13 +1,14 @@
 # Riverside Camp - 2026-10-10
 
-![Dain lies along the bank with the river flowing over one side of him](../../Adventures/2026-10-10/riverbank-quiet-spell-research.png)
+![Dain startles at the riverbank, then returns to his Leaky Tent to sleep, unaware of enemies](../../Adventures/2026-10-10/dain-returns-to-leaky-tent.png)
 
 ## One-Line Summary
 The party's unnamed riverside camp, where [Dain Truthammer](../Characters/Dain%20Truthammer.md) puts up [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md) and enjoys a long-rest scene of frolicking between tent and river.
 
 ## Confirmed Scene
+- [Confirmed latest Dain action] Dain is startled by the sound while "sleep drowning" at the riverbank. **He is unaware of any enemies, gets up and returns to his Leaky Tent to sleep.** No drowning damage, new condition or numerical rest benefit is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed earlier posture] Dain lies along the riverbank with the current flowing over one side of him. [Character-only] He continues [subtle emotional spell research](../Brainstorm/Powers/Paternal%20Disappointment%20Spell%20Research.md) inspired by paternal disappointment; the inspiration is not established as party knowledge.
-- [Later night alarm] Following the riverside beats, the party is alerted to [two goblins inside the balloon carriage](../Characters/Goblin%20Intruders%20-%202026-10-10.md) by the [Chest of Preservation](../Items/Chest%20of%20Preservation.md) dropping over its side. The ship's exact position relative to this camp and Dain's position at the alarm remain unreported. [Session](../../Adventures/2026-10-10.md).
+- [Broader party night alarm; Dain unaware] Following the riverside beats, the party is alerted to [two goblins inside the balloon carriage](../Characters/Goblin%20Intruders%20-%202026-10-10.md) by the [Chest of Preservation](../Items/Chest%20of%20Preservation.md) dropping over its side. Dain is at the riverbank when startled by the sound and does not know of any enemies. The ship's exact position relative to this camp remains unreported. [Session](../../Adventures/2026-10-10.md).
 - [Party] [Confirmed later beat] [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) asks Dain for a gold-sifting tool. Dain conjures one with a flick while frolicking; Harry searches for gold, then gets her hammer out and strikes the water and rocks **to no effect**. Gold-sifting yield is unreported.
 - [Party] [Confirmed, 2026-10-10] The party camps near a river.
 - Dain puts up his Leaky Tent and spends the narrated long rest going between the tent and river, frolicking and enjoying himself.
@@ -15,9 +16,14 @@ The party's unnamed riverside camp, where [Dain Truthammer](../Characters/Dain%2
 - Casting level/mode and numerical rest benefits are unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Visual Boundary
-- Latest riverbank image: the outward reclining posture is confirmed. Expression, immersed areas, book handling, sunset light and shoreline are illustrative; no writing, completed spell, magical aura, damage or party knowledge of Dain's thoughts is established. [Prompt and references](../../Adventures/2026-10-10/riverbank-reflection-image-notes.md).
+- Latest tent-return image: the startle, lack of enemy awareness and return to sleep follow the supplied narration. Pose, moon phase, water depth, camp layout, lighting and furnishings are illustrative; no drowning damage, new condition, new casting, enemy awareness or rest recovery is established. [Prompt and references](../../Adventures/2026-10-10/dain-tent-return-image-notes.md).
+- Earlier riverbank image: the outward reclining posture is confirmed. Expression, immersed areas, book handling, sunset light and shoreline are illustrative; no writing, completed spell, magical aura, damage or party knowledge of Dain's thoughts is established. [Prompt and references](../../Adventures/2026-10-10/riverbank-reflection-image-notes.md).
 - Dain's identity and tent design follow the campaign references. Pose, shallow-water staging, sunset light, terrain, vegetation, campfire, bedrolls, lanterns and tent proportions are illustrative.
 - The scene establishes no named forest, specific river terrain, extra acquired equipment, weather, spell level or resource recovery. [Prompt and references](../../Adventures/2026-10-10/riverside-frolicking-image-notes.md).
+
+## Earlier Riverbank Reflection
+
+![Dain lies along the bank with the river flowing over one side of him](../../Adventures/2026-10-10/riverbank-quiet-spell-research.png)
 
 ## Earlier Frolicking
 

@@ -14,9 +14,14 @@ A gloriously counterproductive tent spell that appears dry on the outside while 
 
 ## Current Riverside Casting - 2026-10-10
 
+![Dain returns to the already erected Leaky Tent to sleep after a night-time noise](../../Adventures/2026-10-10/dain-returns-to-leaky-tent.png)
+
+- Latest image: consecutive riverbank startle and return to sleep, with no enemy awareness, new casting or numerical rest benefit. Camp furnishings, pose and layout are illustrative. [Prompt and references](../../Adventures/2026-10-10/dain-tent-return-image-notes.md).
+
 ![Dain frolics beside his newly put-up Leaky Tent at the river camp](../../Adventures/2026-10-10/riverside-leaky-tent-frolicking.png)
 
 - [Party] [Confirmed] Dain puts up Leaky Tent while the party camps near a river, then spends the narrated long rest going between tent and river, frolicking and enjoying himself. [Session](../../Adventures/2026-10-10.md); [camp](../Places/Riverside%20Camp%20-%202026-10-10.md).
+- [Confirmed latest return] Startled by the night-time sound while "sleep drowning" at the riverbank, Dain is unaware of any enemies and returns to **this already erected tent** to sleep. No new casting, resource expenditure or completed rest recovery is reported. Its recorded Wet rules still apply; no ending event is supplied. [Session](../../Adventures/2026-10-10.md).
 - This is a new deployment after the earlier storm-stop casting was dismissed. Casting level, ritual/slot use, expenditure, exact size, elapsed duration and any ending event are unreported.
 - The existing Wet rules apply on entry. No new spell wording or revised mechanics are reported; the art does not establish the older 30-foot upcast.
 - Tent appearance, camp equipment, pose, terrain and sunset light are illustrative. [Prompt and references](../../Adventures/2026-10-10/riverside-frolicking-image-notes.md).

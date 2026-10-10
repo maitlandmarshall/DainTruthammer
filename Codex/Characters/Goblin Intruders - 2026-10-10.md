@@ -21,6 +21,7 @@ Two unnamed goblins who trigger a night encounter in the balloon carriage, then 
 - No goblin damage, injury, death or final encounter outcome is reported. Taleesh's miss has no further consequence to him.
 
 ## What The Party Knows
+- [Explicit Dain exception] **Dain is unaware of any enemies.** He is startled by the noise while "sleep drowning" at the riverbank, gets up and returns to his Leaky Tent to sleep. The encounter facts below belong to the broader party record, not established Dain knowledge. [Session](../../Adventures/2026-10-10.md).
 - Two goblins are already inside the carriage when the alarm sounds.
 - The chest drop caused the sound that alerted the party.
 - The goblins then jump off and disappear into the two darkness clouds; Taleesh enters the farther cloud and misses his blind swing.
