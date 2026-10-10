@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![The party surrounds the sleeping goblin prisoners and waits while Dain sleeps separately](../../Adventures/2026-10-10/party-nightmare-circle-and-truthammer-sleep.png)
+![The two sleeping prisoners are cuffed together at both hands and feet, with the party waiting and Dain asleep separately](../../Adventures/2026-10-10/conjoined-goblins-hands-and-feet.png)
 
-- Individual positions, expressions, quote presentation, sleep pose, cuff arrangement and scenery are illustrative; no waking, spell, intimidation result, chest recovery or Dain awareness is established. [Image notes](../../Adventures/2026-10-10/nightmare-circle-image-notes.md).
+- Shared hand/foot bindings are confirmed; exact cuff/link construction, poses, quote presentation and scenery are illustrative. No exact stock use, formal condition mechanics, waking, injury, chest recovery or Dain awareness is established. [Image notes](../../Adventures/2026-10-10/conjoined-goblins-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, asleep and manacled, now surrounded by the party as it waits for them to wake; Yuckie is a separate party goblin and Dain sleeps elsewhere.
+Two unnamed balloon-carriage intruders, asleep and cuffed together at both hands and feet, surrounded by the waiting party; Yuckie is a separate party goblin and Dain sleeps elsewhere.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,8 +13,9 @@ Two unnamed balloon-carriage intruders, asleep and manacled, now surrounded by t
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+- [Latest binding clarification; Dain asleep] **Both prisoners are now cuffed together on both hands and feet, conjoined through their restraints.** Fine chain/cuff construction, source/count, keys and escape mechanics remain unreported. No named actor is newly assigned to arranging these bindings. The waiting scene continues, with no waking, injury or chest recovery supplied. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party scene; Dain asleep] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) finishes running up; the party surrounds both sleeping, manacled intruders and waits for them to wake.** The supplied quote is **“Nightmare nightmare nightmare”**, without an assigned individual speaker or mechanical effect. No waking, prisoner response, damage or chest recovery is supplied. Dain sleeps separately and remains unaware. [Session](../../Adventures/2026-10-10.md).
-- [Confirmed preceding outcome] [Brother Taleesh](./Brother%20Taleesh.md) runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both goblins while they sleep, restraining them. Source/count, cuff arrangement, keys and mechanics remain unreported; physical restraint does not establish the formal Restrained condition.
+- [Confirmed preceding outcome] [Brother Taleesh](./Brother%20Taleesh.md) runs up and puts [manacles](../Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both goblins while they sleep, restraining them. The later clarification establishes shared hand/foot bindings; source/count, fine cuff/chain details, keys and mechanics remain unreported. Physical restraint does not establish the formal Restrained condition.
 - [Confirmed preceding outcome] [Stu](./Stu.md), in brown-bear form, chases the goblins. [Kagrenac](./The%20Astral%20Elf.md) puts both to sleep; they fall dramatically to the ground, with the [chest](../Items/Chest%20of%20Preservation.md) causing a dramatic slide through the dirt. Sleep method/duration and resources remain unreported.
 - [Broader party encounter; Dain unaware] [Confirmed earlier action] [Brother Taleesh](./Brother%20Taleesh.md) fails to grapple them; both keep running into the distance with the chest until the subsequently reported pursuit and sleep outcome.
 - [Broader party encounter; Dain unaware] [Confirmed earlier outcome] [Harry](./Hammerton%20Harry%20Drizddon.md) dashes/runs to the black cloud and casts [Thunderwave](../Powers/Thunderwave.md) at a goblin. **That goblin is pushed out of darkness. Another patch of darkness disappears.** Damage, saves, exact push distance, disappearance cause, cloud arrangement and the other goblin's position at that point are unreported. [Session](../../Adventures/2026-10-10.md).
@@ -37,6 +38,8 @@ Two unnamed balloon-carriage intruders, asleep and manacled, now surrounded by t
 
 - Yuckie finishes running up. The party surrounds the sleeping prisoners and waits for them to wake; Dain is separately asleep. The “nightmare” quote establishes no reaction or effect.
 
+- The latest clarification establishes that both prisoners are cuffed together at both hands and feet. No waking or other outcome is supplied.
+
 ## What Is Uncertain
 - Individual speaker of the “Nightmare nightmare nightmare” quote, actual waking time, prisoner dialogue/reaction and the outcome of this waiting scene. Yuckie is a distinct player character, not one of these intruders; any relationship between them is unreported.
 - Names, affiliation, appearance, weapons, armor, stat blocks, HP and exact positions.
@@ -44,7 +47,13 @@ Two unnamed balloon-carriage intruders, asleep and manacled, now surrounded by t
 - Goblin/other party initiative, complete order, surprise rulings and later outcome.
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 - Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
-- Sleep method/spell/feature, level, rolls, duration/resources, manacle source/count, arrangement, keys and escape mechanics, later waking/handling, final chest position/control/recovery and cargo condition. The earlier grapple total, route/destination, distances and pickup sequence remain unreported.
+- Sleep method/spell/feature, level, rolls, duration/resources, manacle source/count, fine cuff/chain construction, keys and escape mechanics, later waking/handling, final chest position/control/recovery and cargo condition. Shared bindings at both hands and feet are confirmed. The earlier grapple total, route/destination, distances and pickup sequence remain unreported.
+
+## Earlier Waiting Circle
+
+![The party waits around the sleeping prisoners while Dain sleeps in his tent](../../Adventures/2026-10-10/party-nightmare-circle-and-truthammer-sleep.png)
+
+- This illustration precedes the shared hand/foot binding clarification. Its cuffs are illustrative; the latest user report establishes the linked configuration. [Image notes](../../Adventures/2026-10-10/nightmare-circle-image-notes.md).
 
 ## Earlier Manacling
 

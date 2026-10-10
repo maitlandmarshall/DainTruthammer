@@ -87,7 +87,7 @@ From Photo 2. A dash below means a blank source cell, not a zero or a confirmed 
 | Silk Rope | 710 | — | Source note: "Extra 250 from first town"; unit and inclusion of the extra 250 [To verify] |
 | Torch | 10 | — | — |
 
-- [Confirmed use; source/count unreported, 2026-10-10] Taleesh puts [manacles](../Codex/Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both sleeping goblins to restrain them. This does not establish a withdrawal from the ship's prior listing of 10 or from his recorded rusty manacles. The source and number in use remain open; no quantity is deducted. [Session](../Adventures/2026-10-10.md).
+- [Confirmed use; source/count unreported, 2026-10-10] Taleesh initially puts [manacles](../Codex/Items/Manacles%20-%20Goblin%20Restraint%20-%202026-10-10.md) on both sleeping goblins. A later clarification establishes that **both prisoners are cuffed together at both hands and feet**. This supplies no withdrawal from the ship's prior listing of 10 or from his recorded rusty manacles. The source and number of equipment units in use remain open; no quantity is deducted. [Session](../Adventures/2026-10-10.md).
 - [To verify] Reconcile the silk rope with Dain's earlier recorded `250 ft`; do not add 250 to 710 or count the same rope as both personal and ship stock without confirmation.
 - [Party] The [deck plan](../Adventures/2026-09-12-party-tracker.md#photo-4---balloon-ship-deck) additionally labels `B. of Beer x 2` and `Barrel x 2`. Whether these are four distinct barrels or overlapping labels is [To verify].
 
