@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![Yuckie starts dragging the two linked prisoners toward the balloon cabin](../../Adventures/2026-10-10/yuckie-starts-dragging-goblins-to-balloon-cabin.png)
+![Yuckie continues pulling the two linked prisoners toward the balloon](../../Adventures/2026-10-10/yuckie-continues-pulling-goblins-to-balloon.png)
 
-- Yuckie is the separate, uncuffed party goblin beginning the pull; the two captives remain linked at hands and feet. Grip, poses, cuff construction and cabin placement are illustrative. Downturned, partly concealed faces do not settle sleep/waking; no reaction, new injury, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-dragging-goblins-image-notes.md).
+- Yuckie is the separate, uncuffed party goblin continuing the pull; the two captives remain linked at hands and feet. Grip, poses, cuff construction, dirt movement and cabin placement are illustrative. Partly concealed faces do not settle sleep/waking; no reaction, new injury, measured progress, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-continued-pull-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, whom Yuckie now starts dragging back toward the balloon cabin. Arrival and waking/reaction after Harry's preceding finger strike remain unreported; Dain sleeps elsewhere.
+Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, whom Yuckie continues pulling toward the balloon. Arrival and waking/reaction after Harry's preceding finger strike remain unreported; Dain is now awake and in battle.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,7 +13,8 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
-- [Latest broader party action; Dain asleep] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) starts dragging both prisoners back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Their linked hand/foot restraints remain in place. Arrival, boarding, precise handling, checks and prisoner waking/reaction are unreported. Yuckie is separate from the captives; chest recovery remains open and Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
+- [Latest broader action, 2026-10-10] **[Yuckie](./Yuckie%20the%20Goblin.md) continues pulling both prisoners toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** Shared hand-and-foot bindings remain last confirmed. Distance, checks, arrival/boarding, waking/reaction, further injury and release are unreported. Dain is now awake and in battle, without a particular observation of this haul being supplied. [Session](../../Adventures/2026-10-10.md).
+- [Preceding drag start; Dain asleep then] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) starts dragging both prisoners back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Their linked hand/foot restraints remain in place. Arrival, boarding, precise handling, checks and prisoner waking/reaction were unreported. Yuckie is separate from the captives; chest recovery was open and Dain was innocent, asleep and unaware at that point. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party dialogue; Dain asleep] **[Harry](./Hammerton%20Harry%20Drizddon.md) says: “they shall be punished for their sins. They trying to feed their family? Punished.”** Her statement does not confirm their motive, family circumstances or a confession. Whether they hear or respond is unreported; no additional punishment follows from the dialogue alone. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party action; Dain asleep] **[Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) runs up to the cuffed goblins and smashes their fingers.** Exact implement, attack/damage rolls, damage and injury extent remain unreported. They were last asleep before this strike; waking and reaction afterward are unreported. No release or chest recovery is supplied. Dain's separate sleep and lack of enemy awareness are unchanged. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed binding clarification; Dain asleep] **Both prisoners are cuffed together on both hands and feet, conjoined through their restraints.** Fine chain/cuff construction, source/count, keys and escape mechanics remain unreported. No named actor is newly assigned to arranging these bindings. This remains their last confirmed configuration after Harry's action. [Session](../../Adventures/2026-10-10.md).
@@ -30,6 +31,7 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - Damage totals, saves, exact injury extent, death and the final encounter outcome remain unreported. Harry's finger strike is confirmed; Taleesh's earlier miss has no further consequence to him.
 
 ## What The Party Knows
+- [Broader scene record] Yuckie continues pulling the two prisoners toward the balloon. They remain linked at hands and feet; no waking/reaction, arrival or boarding is reported.
 - [Confirmed Dain clarification] **Truthammer remains innocent** in this prisoner scene. He is separately asleep and unaware of the enemies or Harry's finger strike; no involvement or approval is established. [Session](../../Adventures/2026-10-10.md).
 - [Explicit Dain exception] **Dain is unaware of any enemies.** He is startled by the noise while "sleep drowning" at the riverbank, gets up and returns to his Leaky Tent to sleep. The encounter facts below belong to the broader party record, not established Dain knowledge. [Session](../../Adventures/2026-10-10.md).
 - Two goblins are already inside the carriage when the alarm sounds.
@@ -56,6 +58,12 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 - Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
 - Sleep method/spell/feature, level, rolls, duration/resources, manacle source/count, fine cuff/chain construction, keys and escape mechanics, later waking/handling, final chest position/control/recovery and cargo condition. Shared bindings at both hands and feet are confirmed. The earlier grapple total, route/destination, distances and pickup sequence remain unreported.
+
+## Earlier Return Drag Begins
+
+![Yuckie starts dragging the two linked prisoners toward the balloon cabin](../../Adventures/2026-10-10/yuckie-starts-dragging-goblins-to-balloon-cabin.png)
+
+- The starting drag precedes the current continuation; its staging did not establish sleep/waking, arrival or boarding. [Earlier image notes](../../Adventures/2026-10-10/yuckie-dragging-goblins-image-notes.md).
 
 ## Earlier Harry Finger Strike
 

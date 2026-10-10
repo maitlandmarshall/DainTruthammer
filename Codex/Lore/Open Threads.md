@@ -1,5 +1,7 @@
 # Open Threads
 
+- [Latest prisoner movement] **[Yuckie](../Characters/Yuckie%20the%20Goblin.md) continues pulling the two linked [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) toward the balloon.** Their shared hand-and-foot bindings remain last confirmed; arrival/boarding and waking/reaction remain open. Dain remains awake and in battle. [Encounter follow-up](#goblins-in-the-balloon-carriage).
+
 - [Latest spell attempt] **[Kagrenac](../Characters/The%20Astral%20Elf.md) casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the distant snakes and fails.** No roll, exact failure cause, individual target, hit or damage is supplied. The owl's response remains open; the two dead snakes and one at Stu stay the local count. Dain remains awake and in battle. [Snake follow-up](#four-flying-snakes-and-the-cliffs).
 
 - [Latest owl command] **[Kagrenac](../Characters/The%20Astral%20Elf.md) commands [his owl](../Characters/Kagrenacs%20Owl.md) toward the three airborne snakes flying toward the retreating party.** The owl's response and any effect remain unreported. Two snakes remain dead and one remains at Stu; no new arrival or boarding is supplied. Dain remains awake and in battle. [Snake follow-up](#four-flying-snakes-and-the-cliffs).
@@ -21,6 +23,8 @@
 - [Carry-forward research] **Magic Mouth is learned; all scrolls are consumed.** Earlier airship Leaky Tent refinement using Stinking Cloud remains unapproved as a revision. Dain's two spell-storing stones remain one with Cure Wounds and one spell choice pending. Current resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields and **750 XP** allocation remain open. [Active session](../../Adventures/2026-10-10.md)
 
 ## Current Live Focus - 2026-10-10
+
+- [Latest continuing haul] **Yuckie keeps pulling the two cuffed prisoners toward the balloon.** Record actual arrival/boarding, transport results or prisoner response when supplied; no measured progress or completed return is inferred. [Goblins in the balloon carriage](#goblins-in-the-balloon-carriage).
 
 - [Latest spell attempt] **Kagrenac's Fire Bolt at the distant snakes fails.** Record later actions and the owl's response when supplied; no roll, hit, damage or precise failure cause is inferred. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 
@@ -68,7 +72,7 @@
 
 ### Goblins In The Balloon Carriage
 
-- Status: Yuckie's prisoner return and Harry's chest return remain underway, without arrival/loading or prisoner waking/reaction reported. Harry keeps trying after the armour glance from an arrow at 150 feet, direction unknown. Taleesh now wakes Dain, shares the hand-grasp meme and brings him into battle; Dain is awake and participating, with prior-event knowledge unreported.
+- Status: Yuckie continues pulling the two cuffed goblins toward the balloon; arrival/boarding and waking/reaction remain unreported. Harry's chest return remains underway after the armour glance from an arrow at 150 feet, direction unknown. Dain is awake and in battle after Taleesh fetches him; specific observations and prior-event knowledge remain unreported.
 - Tags: [Party] [Confirmed opening] [To verify outcomes].
 - Opening, 2026-10-10: The loud sound of the Chest of Preservation dropping over the carriage's side alerts the party to two goblins already inside.
 - Earlier development: The goblins jump off, two clouds of darkness appear, and the goblins disappear into them. Taleesh jumps down into the farther cloud and swings blindly: **natural 1, simply a miss, with nothing else happening to him**.
@@ -80,7 +84,8 @@
 - Latest binding clarification: **Both goblins are now cuffed together on both hands and feet, conjoined through their restraints.** Shared hand/foot connections are confirmed. Fine chain/cuff construction, source/count, keys and mechanics remain unreported; no new fastening action is assigned to a named character.
 - Latest development: **Harry runs up to the cuffed goblins and smashes their fingers.** Exact implement, attack/damage rolls, damage, injury extent, waking and prisoner response afterward remain unreported. No release or chest recovery is supplied.
 - Latest dialogue: **Harry says: “they shall be punished for their sins. They trying to feed their family? Punished.”** This confirms her words and judgment, not a family-feeding motive or confession. Whether the prisoners hear/respond is unreported; no additional punishment is supplied. Truthammer remains innocent, asleep and unaware.
-- Latest movement: **Yuckie starts dragging the two goblin prisoners back toward the balloon cabin.** The return begins with their shared hand/foot bindings still in place; exact handling, transport checks/speed, distance, arrival/boarding and prisoner waking/reaction are unreported. Yuckie is separate from the two captives; the four-snake approach supplies no resolution here.
+- Preceding movement: **Yuckie starts dragging the two goblin prisoners back toward the balloon cabin.** The return begins with their shared hand/foot bindings still in place; exact handling, transport checks/speed, distance, arrival/boarding and prisoner waking/reaction are unreported. Yuckie is separate from the two captives; the four-snake approach supplies no resolution here.
+- Latest continued movement: **Yuckie continues pulling the same two goblin prisoners toward the balloon.** Shared hand-and-foot bindings remain last confirmed; no measured progress, check, arrival/boarding, waking/reaction, release or further injury is supplied. Dain remains awake and in battle without a new chosen action or resource use.
 - Latest chest handling: **Harry starts dragging the Chest of Preserving back toward the balloon. An arrow from 150 feet in an unknown direction glances off her armour; she continues trying to drag it back.** Harry now handles the chest, advancing the earlier open post-slide control question; completed return/loading and contents/condition remain open. [Arrow source](#arrow-glances-off-harrys-armour).
 - Player/arrival continuity: Emily now plays Yuckie, Lachlan's original goblin character. Current presence is confirmed; the earlier possible vulture-capture report and any intervening return remain unresolved. [Roster](./Table%20Roster.md); [Yuckie](../Characters/Yuckie%20the%20Goblin.md).
 - Dain's initiative: **7**, supplied by Maitland from the real table; the assistant-generated 6 is superseded. Record reported IRL rolls only. Other initiative/order and surprise rulings remain unreported.
