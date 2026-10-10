@@ -1,5 +1,7 @@
 # Open Threads
 
+- [Latest spell attempt] **[Kagrenac](../Characters/The%20Astral%20Elf.md) casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the distant snakes and fails.** No roll, exact failure cause, individual target, hit or damage is supplied. The owl's response remains open; the two dead snakes and one at Stu stay the local count. Dain remains awake and in battle. [Snake follow-up](#four-flying-snakes-and-the-cliffs).
+
 - [Latest owl command] **[Kagrenac](../Characters/The%20Astral%20Elf.md) commands [his owl](../Characters/Kagrenacs%20Owl.md) toward the three airborne snakes flying toward the retreating party.** The owl's response and any effect remain unreported. Two snakes remain dead and one remains at Stu; no new arrival or boarding is supplied. Dain remains awake and in battle. [Snake follow-up](#four-flying-snakes-and-the-cliffs).
 
 - [Latest local snake outcome] **[Stu](../Characters/Stu.md) starts “covering” snakes; they fall, two die, and one remains at Stu.** Exact method, rolls, damage, costs, XP and loot are unreported. Three others remain last reported flying toward the retreating party, with no new result or boarding. Dain remains awake and in battle. [Snake follow-up](#four-flying-snakes-and-the-cliffs).
@@ -19,6 +21,8 @@
 - [Carry-forward research] **Magic Mouth is learned; all scrolls are consumed.** Earlier airship Leaky Tent refinement using Stinking Cloud remains unapproved as a revision. Dain's two spell-storing stones remain one with Cure Wounds and one spell choice pending. Current resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields and **750 XP** allocation remain open. [Active session](../../Adventures/2026-10-10.md)
 
 ## Current Live Focus - 2026-10-10
+
+- [Latest spell attempt] **Kagrenac's Fire Bolt at the distant snakes fails.** Record later actions and the owl's response when supplied; no roll, hit, damage or precise failure cause is inferred. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 
 - [Latest owl direction] **Kagrenac directs his owl toward the three airborne pursuers.** Record its response, actual movement/action and any later snake result only when supplied. The command establishes no attack, Help action, advantage or completed interception. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 
@@ -49,13 +53,14 @@
 
 ### Four Flying Snakes And The Cliffs
 
-- Status: Kagrenac commands his owl toward the three snakes flying toward the party retreating to the balloon about 100 feet away. The owl's response and any effect remain unreported. Two snakes are dead and one remains at Stu; exact action mechanics, current HP and boarding remain open.
-- Tags: [Broader encounter] [Confirmed owl command] [Confirmed two deaths and one at Stu] [Three airborne pursuers last reported] [To verify mechanics and remaining outcomes].
+- Status: Kagrenac casts Fire Bolt at the snakes in the distance and fails. The roll, particular target and exact failure cause remain unreported. His preceding owl command has no reported response. Two snakes are dead and one remains at Stu; the three airborne pursuers' next outcome, current HP and boarding remain open.
+- Tags: [Broader encounter] [Confirmed failed Fire Bolt attempt] [Confirmed owl command] [Confirmed two deaths and one at Stu] [Three airborne pursuers last reported] [To verify mechanics and remaining outcomes].
 - Earlier report, 2026-10-10: Maitland clarifies **“Approaching the party; cliffs behind them”**, resolving the initial direction ambiguity. That four-creature approach remains source history.
 - Preceding report, 2026-10-10: **Six snakes surround Stu**, in brown-bear form; the preceding report includes a critical hit for **about 15 total; breakdown still unclear** after the initial 2 piercing / 10 poison source. He is fine then, before the next hit. No per-snake allocation or critical-damage doubling is added.
 - Preceding clarification and actions, 2026-10-10: The preceding damage was **only two snakes**. The remaining four act next: one further attack supplies **1 piercing + 7 poison = 8 damage** to Stu in context, and **the other three fly toward the party retreating to the balloon, about 100 feet away**. [Derived] About 23 reported damage across Stu's sequence. No new critical, further successful hit, poison condition, healing, form ending or arrival/boarding is supplied.
 - Latest local outcome, 2026-10-10: **Stu starts “covering” snakes; they fall, two die, and one remains at Stu.** The exact action, particular dead snakes, rolls, damage, resource costs, XP and loot are unreported. No new movement, hit or outcome is supplied for the three airborne pursuers.
-- Latest command, 2026-10-10: **Kagrenac commands his established owl toward the three airborne snakes flying toward the retreating party.** Only the direction is reported; no owl flight, arrival, attack, Help action, new summoning, roll, resource use or snake response is established.
+- Preceding command, 2026-10-10: **Kagrenac commands his established owl toward the three airborne snakes flying toward the retreating party.** Only the direction is reported; no owl flight, arrival, attack, Help action, new summoning, roll, resource use or snake response is established.
+- Latest spell attempt, 2026-10-10: **Kagrenac casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the distant snakes and fails.** The particular target, attack roll, precise failure cause and spell source are unreported; no hit, damage, multiple-target effect or changed snake course is supplied. The owl's response remains open.
 - Open: Owl response, control method, actual movement/action and any effect; exact “covering” method, the snake at Stu's next action, three airborne pursuers' outcome, Stu's HP/condition, individual party moves, actual arrival/boarding and cargo/prisoner return. The preceding about-23 damage ledger remains approximate. Individual snake identities, flight capability for all six, relationship to the original four-creature approach, overall encounter population, exact flight path/altitude and any cliff/arrow/goblin/dark-forest connection remain open.
 - Dain boundary: Dain remains awake and in battle after Taleesh fetches him. The retreat is a broader party report; no particular observation, individual move, response, roll, spell or resource use is chosen for Dain.
 - Next possible actions: Record the next supplied result, including any further attack, target, actual move or boarding. No new arrival, extra critical, dice result, named stat block, completed chest/prisoner return or ship departure is inferred.

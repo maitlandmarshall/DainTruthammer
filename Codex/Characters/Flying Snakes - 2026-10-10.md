@@ -1,9 +1,9 @@
 # Flying Snakes - 2026-10-10
 
-![Kagrenac directs his perched owl toward the three airborne snakes](../../Adventures/2026-10-10/kagrenac-directs-owl-toward-three-snakes.png)
+![Kagrenac attempts Fire Bolt at three distant airborne snakes, with no contact shown](../../Adventures/2026-10-10/kagrenac-fire-bolt-fails.png)
 
 ## One-Line Summary
-Kagrenac commands his owl toward the three snakes flying toward the retreating party; its response remains unreported. Two snakes are dead and one remains at Stu.
+Kagrenac casts Fire Bolt at the distant snakes and fails; his owl's response remains unreported. Two snakes are dead and one remains at Stu.
 
 ## Table Role
 - Role: Encounter creatures; table control [To verify].
@@ -11,6 +11,7 @@ Kagrenac commands his owl toward the three snakes flying toward the retreating p
 - This page keeps the earlier four-creature approach and the later six-snake report together as encounter records. It does not establish that they describe an identical group, additional arrivals or a total encounter population. No names or handler are supplied.
 
 ## Status
+- [Confirmed latest spell attempt, 2026-10-10] **[Kagrenac](./The%20Astral%20Elf.md) casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the snakes in the distance and fails.** The three airborne pursuers are the contextual target group; the particular snake, roll and exact failure cause are unreported. No successful hit, damage, multiple-target effect, snake reaction or changed course is supplied. The owl's response remains open. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed latest command, 2026-10-10] **[Kagrenac](./The%20Astral%20Elf.md) commands [his owl](./Kagrenacs%20Owl.md) toward the three airborne pursuers.** They were last reported flying toward the party retreating to the balloon about 100 feet away. No owl response, interception, attack, snake reaction, changed course or further outcome is supplied. This does not target or relocate the one snake at Stu. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding local outcome, 2026-10-10] **[Stu](./Stu.md) starts “covering” snakes. They fall; two die; one remains at Stu.** The exact method, rolls, damage and which individual snakes die are unreported. The three that flew toward the retreating party have no new reported movement, hit, death or outcome. One remaining at Stu does not mean one left in the entire encounter. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding follow-up, 2026-10-10] **The preceding damage came from two of the six snakes. The remaining four act next: one further hit supplies 1 piercing + 7 poison = 8 damage to Stu in context; the other three fly toward the party retreating to the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), about 100 feet away.** No additional hit on the retreating party, specific target, attack roll, arrival or boarding is supplied. [Session](../../Adventures/2026-10-10.md).
@@ -23,10 +24,12 @@ Kagrenac commands his owl toward the three snakes flying toward the retreating p
 - Dain remains awake and in the battle after Taleesh fetches him from Leaky Tent. The party's retreat is a broader reported action; specific observations, individual movement, responses, targets and any connection to the arrow source remain unreported for him. [Current state](../../Character/Current%20State.md); [session](../../Adventures/2026-10-10.md).
 
 ## What The Party Knows
+- [Broader scene record] Kagrenac casts Fire Bolt at the distant snakes and fails. No further snake outcome is supplied.
 - [Broader scene record] Kagrenac directs his owl toward the three airborne snakes. Only the command is confirmed; its result remains open.
 - [Broader scene record] Following the earlier damage and three-snake pursuit, Stu starts “covering” snakes; two fall and die, and one remains at Stu. The exact method and particular dead snakes are unreported. The three airborne pursuers' last flight toward the retreating party remains open, as do party membership, individual moves and arrival/boarding.
 
 ## What Is Uncertain
+- The Fire Bolt attempt's individual target, roll, precise failure cause, spell source and any later snake outcome. The named failure establishes no measured range or area effect.
 - The owl's response, movement, actual action, mechanical effect and any later reaction/outcome for the three targeted snakes.
 - Appearance, size, anatomy, colors, names, affiliation, handler/owner, broader intent and connection to the goblins, camp or unknown arrow source.
 - Exact meaning/method of “covering,” rolls, damage, costs and individual identity of the two dead snakes. No XP, loot or harvest is supplied.
@@ -36,11 +39,16 @@ Kagrenac commands his owl toward the three snakes flying toward the retreating p
 - Cliff identity/location and any relationship to the northern dark forest.
 
 ## Visual Boundary
-- The latest command image shows Kagrenac directing a still-perched owl toward exactly three airborne targets. Gesture, perch, gaze, creature design, spacing and surroundings are illustrative; no owl flight, arrival, attack, Help action or snake response is established. [Latest image notes](../../Adventures/2026-10-10/kagrenac-owl-command-image-notes.md).
+- The latest Fire Bolt image depicts the casting attempt with a small illustrative fire cue, separated from three airborne snakes. No contact, failed-roll number, exact failure mechanism, snake reaction, damage or measured position is established. The owl remains outside the frame. [Latest image notes](../../Adventures/2026-10-10/kagrenac-fire-bolt-image-notes.md).
+- The preceding command image shows Kagrenac directing a still-perched owl toward exactly three airborne targets. Gesture, perch, gaze, creature design, spacing and surroundings are illustrative; no owl flight, arrival, attack, Help action or snake response is established. [Command image notes](../../Adventures/2026-10-10/kagrenac-owl-command-image-notes.md).
 - The preceding aftermath image shows **two dead snakes and one remaining at Stu**. No specific “covering” or killing method is depicted; body positions, closed eyes, alert survivor, posture, appearance and surroundings are illustrative. The three airborne pursuers are outside the frame, with no new outcome established. [Aftermath image notes](../../Adventures/2026-10-10/stu-two-snakes-dead-image-notes.md).
 - The preceding image shows the **remaining four** acting: one illustrative bite at Stu and three airborne pursuers toward the retreat direction/distant balloon. Appearance, contact point, posture, flight path, ship staging and apparent distance establish no further hit, exact target, measured map, post-hit condition or completed boarding. [Preceding image notes](../../Adventures/2026-10-10/snake-followup-retreat-image-notes.md).
 - The prior six-snake frame remains the preceding scene. Its one illustrated bite did not establish attack count; the later source attributes the preceding damage to two snakes. [Prior image notes](../../Adventures/2026-10-10/stu-six-snakes-critical-image-notes.md).
 - In the earlier approach image, count and cliff backdrop support the supplied scene. Wing design, color, body shape, scale, poses, geology, lighting and framing are illustrative. Angled airborne poses do not serve as a trajectory diagram. [Earlier image notes](../../Adventures/2026-10-10/flying-snakes-image-notes.md).
+
+## Earlier Owl Command - 2026-10-10
+
+![Kagrenac directs his perched owl toward the three airborne snakes](../../Adventures/2026-10-10/kagrenac-directs-owl-toward-three-snakes.png)
 
 ## Earlier Local Outcome - 2026-10-10
 
@@ -66,7 +74,10 @@ Kagrenac commands his owl toward the three snakes flying toward the retreating p
 
 - 2026-10-10: Kagrenac commands his established owl toward the three airborne pursuers. No owl response, completed movement or new snake outcome is reported. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Kagrenac casts Fire Bolt at the snakes in the distance and fails. No hit, damage, changed snake course or owl response is reported. [Session](../../Adventures/2026-10-10.md).
+
 ## Related Entries
+- [Fire Bolt](../Powers/Fire%20Bolt.md)
 - [Kagrenac](./The%20Astral%20Elf.md)
 - [Kagrenac's Owl](./Kagrenacs%20Owl.md)
 - [Party balloon / skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
