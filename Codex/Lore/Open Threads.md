@@ -1,8 +1,17 @@
 # Open Threads
 
-- [Confirmed] **Current focus: Dain's airship spell research. Magic Mouth is learned; all scrolls are consumed.** Leaky Tent refinement using Stinking Cloud continues, with no revised mechanics reported. His two spell-storing stones remain one with Cure Wounds and one spell choice pending. Spell resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields, **750 XP** allocation and rest recovery remain open. [Session](../../Adventures/2026-10-03.md)
+- [Confirmed] **Current focus: Dain's airship spell research. Magic Mouth is learned; all scrolls are consumed.** Leaky Tent refinement using Stinking Cloud continues, with no revised mechanics reported. His two spell-storing stones remain one with Cure Wounds and one spell choice pending. Spell resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields, **750 XP** allocation and rest recovery remain open. [Active session](../../Adventures/2026-10-10.md)
 
-## Current Live Focus - 2026-10-03
+## Current Live Focus - 2026-10-10
+
+- [Table-side startup] [Session 2026-10-10](../../Adventures/2026-10-10.md) resumes from the final 2026-10-03 airship scene. No new in-world event, elapsed time, arrival or resource recovery is recorded.
+- [Character-only] [Open] Choose the spell for Dain's second [spell-storing stone](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings), then confirm release/loading costs, eligible users, reuse and attunement with Tom. One stone already contains Cure Wounds; no spell is selected for the other at startup.
+- [To verify] Refresh the table snapshot: **28 HP last confirmed**, remaining spell slots/Hit Dice, maximum HP, prepared list, current cloud use and whether Wet has ended. Magic Mouth is learned and all scrolls are consumed; no rest reset is assumed.
+- [Party] [Open] Identify the destination tower/current route and establish the ship's condition, burial/retrieval details, weather and any arrival. Airship travel has resumed, but those details remain unreported. [Skyship](../Places/Party%20Skyship%20-%202026-08-29.md).
+- [Character-only] [Open] Continue [Leaky Tent research](../Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03); record approved results rather than promoting the meditation or floating artwork into mechanics. Keep paternal reflection private.
+- [Party / Table-side] [Open] Reconcile [treasure and harvest](../../Character/Party%20Loot.md), mining totals/allocation, **750 XP** scope, Olly's condition and Taleesh's return aboard. No personal gem share or XP total is assigned.
+
+## Prior Live Focus - 2026-10-03
 
 - [Resolved learning] Dain **learns Magic Mouth from the scrolls while travelling in the airship**; **all three remaining copies are used up, leaving zero**. Retry/allocation is no longer pending. [Open] Attempt order, rolls, copying time/cost and prepared status remain unreported. [Spellbook](../../Character/Spellbook.md#2nd-level-spells-learned-in-play).
 - [Confirmed research; Character-only reflection] Dain continues refining **Leaky Tent while using Stinking Cloud**, and thinking about his father's disappointment. [Open] Record any approved revised wording or result when reported. No new tent casting, mobile-tent permission or new mechanics are established. Exact cloud cast count/source, expenditure, exposure and saves remain unreported. Keep the paternal reflection out of party-facing posts. [Research](../Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03).

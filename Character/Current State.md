@@ -10,7 +10,16 @@
 - [Confirmed] 2026-06-20 live session notes imported from user notebook photos in [Session 2026-06-20 - Glittergold Road](../Adventures/2026-06-20.md).
 - [Confirmed] Later 2026-07-11 events imported on 2026-08-29 from the user-supplied PDF `Session Summary 2026.7.11` and reconciled into [Session 2026-07-11](../Adventures/2026-07-11.md).
 
-## Active Session - 2026-10-03
+## Active Session - 2026-10-10
+
+- Active log: [Session 2026-10-10](../Adventures/2026-10-10.md), resuming from the final confirmed [2026-10-03 airship study](../Adventures/2026-10-03.md). Startup establishes no new in-world event, elapsed time or resource recovery.
+- Resume point: **Dain is travelling aboard the metal airship**, has **learned Magic Mouth**, and continues refining [Leaky Tent using Stinking Cloud](../Codex/Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03). Exact route, weather, tower arrival and current cloud duration/expenditure remain [To verify]. The previously dismissed tent is not newly active.
+- Last confirmed resources: **28 HP**, **0 Magic Mouth scrolls**, and **two spell-storing stones**: one containing **Cure Wounds**, loaded by Matt / Kagrenac, and the other with **spell choice pending**. Remaining slots/Hit Dice, maximum HP, prepared spells, copying costs and stone release/reuse rules remain open. [Inventory](./Inventory.md); [stone contents](../Codex/Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings).
+- Character/equipment: **Wizard 5 / School of Conjuration**, INT 20, DC **16**, spell attack **+8**; **Dwarven Half Plate worn**, exact AC [To verify]. **2014 rules** confirmed on 2026-10-03. Maximum spell slots are **4 / 3 / 2**, not verified remaining slots.
+- Conditions and boundaries: **Wet** has no reported ending event. No completed rest, healing or stone release is assumed. [Character-only] The reflection on **his father's disappointment** remains private; no approved revised tent mechanics or art-derived abilities are established.
+- Opening follow-up: choose the second stone's spell, confirm item use/resources and the destination tower, then reconcile gem allocation, harvest yields, Olly's condition and **750 XP** scope. See [Open Threads](../Codex/Lore/Open%20Threads.md#current-live-focus---2026-10-10).
+
+## Prior Session - 2026-10-03
 
 - Latest travel/research beat: **Dain is travelling aboard the airship, learns Magic Mouth from the scrolls, and uses up all three remaining scrolls: 3 → 0** [Confirmed]. He continues refining **Leaky Tent while using Stinking Cloud**. [Character-only] He continues thinking about **his father's disappointment**. No revised spell text, new tent casting, HP change or rest recovery is reported. [Learned spell](./Spellbook.md#2nd-level-spells-learned-in-play); [research](../Codex/Powers/Truthammer%20Leaky%20Tent.md#ongoing-refinement---2026-10-03).
 
