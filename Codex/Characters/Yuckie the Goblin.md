@@ -3,7 +3,7 @@
 ![Yuckie the Goblin portrait](./Yuckie_the_Goblin_portrait.png)
 
 ## One-Line Summary
-Emily's goblin player character, previously played by Lachlan Pratt, who tells Dain absurd but useful stories; currently present with the party surrounding the sleeping goblin intruders.
+Emily's goblin player character, previously played by Lachlan Pratt, who tells Dain absurd but useful stories; now starting to drag the two linked goblin prisoners back toward the balloon cabin.
 
 ## Table Role
 - Role: Player Character.
@@ -12,6 +12,7 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 - DM: Tom.
 
 ## Status
+- [Latest confirmed action, 2026-10-10] **Yuckie starts dragging the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Both remain cuffed together at hands and feet. Arrival/boarding and prisoner waking/reaction are unreported; Yuckie is a separate party goblin, not one of the captives. Dain remains innocent, separately asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed current player and presence, 2026-10-10] Maitland identifies Emily as playing Lachlan's original goblin character, resolved through the existing roster to **Yuckie**. Yuckie finishes running up to the [two sleeping goblin intruders](./Goblin%20Intruders%20-%202026-10-10.md), then the party surrounds them and waits for them to wake. Dain remains asleep elsewhere and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Scene quote] **“Nightmare nightmare nightmare”** accompanies the waiting scene. Its individual speaker and any effect on the prisoners are unreported; no intimidation roll, spell or awakening is assigned.
 - [Character-only] [Confirmed] Yuckie told Dain that Kagrenac tried to fire him from a ballista during camp.
@@ -24,13 +25,20 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 - [Character-only] Dain treats Yuckie's nonsense as potentially meaningful rather than disposable.
 
 ## What The Party Knows
-- [Broader party; Dain unaware] Yuckie has finished running up and is present with the party around the sleeping, manacled intruders. Current participation does not establish Dain's awareness of this scene or a prior rescue account.
+- [Broader party; Dain unaware] Yuckie has reached the prisoners and now starts dragging them back toward the balloon cabin, still linked at hands and feet. Their current sleep/waking after Harry's strike and arrival at the cabin are unreported. Current participation does not establish Dain's awareness or a prior rescue account.
 - [To verify] Whether the whole party knows Yuckie gave Dain the ballista story.
 
 ## What Is Uncertain
+- The exact grip, transport checks/speed, distance covered, cabin arrival/boarding and the prisoners' waking or reaction. Yuckie's starting action supplies none of those outcomes.
 - [To verify] Whether Yuckie is in-world treated as a full party member, follower, local contact, prisoner, scout, or recurring camp presence.
 - [To verify] Whether the ballista incident was dangerous, comedic, consensual, or some mixture best not inspected too closely.
 - [To verify] Whether Yuckie was the character captured by the gargantuan vulture-type creature before Ollyander arrived.
+
+## Return Toward The Balloon Cabin - 2026-10-10
+
+![Yuckie begins dragging the two linked prisoners toward the metal balloon cabin](../../Adventures/2026-10-10/yuckie-starts-dragging-goblins-to-balloon-cabin.png)
+
+- Yuckie begins the return; the prisoners remain linked at hands and feet. His grip, pose, fine cuff design and destination placement are illustrative. Their downturned, partly concealed faces do not settle sleep/waking; no reaction, new injury, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-dragging-goblins-image-notes.md).
 
 ## Waiting Around The Sleeping Goblins - 2026-10-10
 
@@ -48,7 +56,10 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 
 - 2026-10-10: Emily is confirmed as Yuckie's current player. Yuckie finishes running up to the sleeping goblin intruders; the party surrounds them and waits for them to wake while Dain sleeps separately. No intervening rescue/escape history is supplied. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Yuckie starts dragging both linked prisoners back toward the balloon cabin; arrival/boarding and their waking/reaction remain open. Dain remains separately asleep and innocent. [Session](../../Adventures/2026-10-10.md).
+
 ## Related Entries
+- [Party Skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
 - [Table Roster](../Lore/Table%20Roster.md)
 - [Goblin intruders](./Goblin%20Intruders%20-%202026-10-10.md)
 - [Session 2026-10-10](../../Adventures/2026-10-10.md)

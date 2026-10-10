@@ -1,11 +1,11 @@
 # Goblin Intruders - 2026-10-10
 
-![Harry strikes the cuffed goblins' fingers with the impact obscured](../../Adventures/2026-10-10/harry-strikes-cuffed-goblin-fingers.png)
+![Yuckie starts dragging the two linked prisoners toward the balloon cabin](../../Adventures/2026-10-10/yuckie-starts-dragging-goblins-to-balloon-cabin.png)
 
-- Harry's reported action is confirmed; the actual contact and any implement are obscured. Poses, expressions, motion marks, cuff details and scenery are illustrative. No damage total, injury extent, waking/reaction, continued sleep, chest recovery or Dain awareness change is established. [Image notes](../../Adventures/2026-10-10/harry-prisoner-strike-image-notes.md).
+- Yuckie is the separate, uncuffed party goblin beginning the pull; the two captives remain linked at hands and feet. Grip, poses, cuff construction and cabin placement are illustrative. Downturned, partly concealed faces do not settle sleep/waking; no reaction, new injury, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-dragging-goblins-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, whose fingers Harry smashes; they were last asleep before the strike, with waking/reaction afterward unreported. Yuckie is a separate party goblin and Dain sleeps elsewhere.
+Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, whom Yuckie now starts dragging back toward the balloon cabin. Arrival and waking/reaction after Harry's preceding finger strike remain unreported; Dain sleeps elsewhere.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,6 +13,7 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+- [Latest broader party action; Dain asleep] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) starts dragging both prisoners back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Their linked hand/foot restraints remain in place. Arrival, boarding, precise handling, checks and prisoner waking/reaction are unreported. Yuckie is separate from the captives; chest recovery remains open and Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party dialogue; Dain asleep] **[Harry](./Hammerton%20Harry%20Drizddon.md) says: “they shall be punished for their sins. They trying to feed their family? Punished.”** Her statement does not confirm their motive, family circumstances or a confession. Whether they hear or respond is unreported; no additional punishment follows from the dialogue alone. Dain remains innocent, asleep and unaware. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader party action; Dain asleep] **[Hammerton Harry Drizddon](./Hammerton%20Harry%20Drizddon.md) runs up to the cuffed goblins and smashes their fingers.** Exact implement, attack/damage rolls, damage and injury extent remain unreported. They were last asleep before this strike; waking and reaction afterward are unreported. No release or chest recovery is supplied. Dain's separate sleep and lack of enemy awareness are unchanged. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed binding clarification; Dain asleep] **Both prisoners are cuffed together on both hands and feet, conjoined through their restraints.** Fine chain/cuff construction, source/count, keys and escape mechanics remain unreported. No named actor is newly assigned to arranging these bindings. This remains their last confirmed configuration after Harry's action. [Session](../../Adventures/2026-10-10.md).
@@ -45,6 +46,7 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - Harry then runs up and smashes their fingers. They were last asleep before her strike; damage, injury extent, waking and reaction afterward are unreported.
 
 ## What Is Uncertain
+- Distance covered, exact handling, transport checks/speed and any actual arrival/boarding at the balloon cabin. Yuckie's return drag has begun; completed transport is unreported.
 - Whether the goblins were trying to feed a family, any family circumstances, and whether they hear or respond to Harry's words. Her question and judgment do not establish a motive or confession.
 - The finger strike's exact implement, attack/damage rolls, numeric damage, injury extent, waking and prisoner reaction afterward. Continued sleep is not assumed; no named sleep spell or automatic ending is assigned.
 - Individual speaker of the “Nightmare nightmare nightmare” quote, actual waking time, prisoner dialogue/reaction and the outcome of this waiting scene. Yuckie is a distinct player character, not one of these intruders; any relationship between them is unreported.
@@ -54,6 +56,12 @@ Two unnamed balloon-carriage intruders, cuffed together at both hands and feet, 
 - Cloud source, caster, spell identity, dimensions, duration and vision mechanics; which goblin occupies which area remains unreported.
 - Which cloud Harry approaches, which patch disappears, its cause, remaining cloud arrangement/count and the other goblin's current position. No concentration failure is assumed.
 - Sleep method/spell/feature, level, rolls, duration/resources, manacle source/count, fine cuff/chain construction, keys and escape mechanics, later waking/handling, final chest position/control/recovery and cargo condition. Shared bindings at both hands and feet are confirmed. The earlier grapple total, route/destination, distances and pickup sequence remain unreported.
+
+## Earlier Harry Finger Strike
+
+![Harry strikes the cuffed goblins' fingers with the impact obscured](../../Adventures/2026-10-10/harry-strikes-cuffed-goblin-fingers.png)
+
+- Harry's reported action precedes Yuckie's return drag. Contact and any implement are obscured; no damage total, injury extent, waking/reaction, continued sleep or chest recovery is established by the image. [Image notes](../../Adventures/2026-10-10/harry-prisoner-strike-image-notes.md).
 
 ## Earlier Shared Hand And Foot Bindings
 
