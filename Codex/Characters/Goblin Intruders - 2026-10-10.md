@@ -1,11 +1,15 @@
 # Goblin Intruders - 2026-10-10
 
+![The owl's camp discovery and Dain questioning the two awake captives at the balloon](../../Adventures/2026-10-10/owl-organised-camp-truthammer-rhyming-question.png)
+
+- Camp layout and scene staging are illustrative. The two locations are shown in separate panels, without a route or confirmed adjacency. The captives are awake; their answer and camp affiliation remain unreported. No exact boarding, injury recovery or owl information relay is established. [Image notes](../../Adventures/2026-10-10/owl-camp-and-rhyming-question-image-notes.md).
+
 ![Yuckie continues pulling the two linked prisoners toward the balloon](../../Adventures/2026-10-10/yuckie-continues-pulling-goblins-to-balloon.png)
 
 - Yuckie is the separate, uncuffed party goblin continuing the pull; the two captives remain linked at hands and feet. Grip, poses, cuff construction, dirt movement and cabin placement are illustrative. Partly concealed faces do not settle sleep/waking; no reaction, new injury, measured progress, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-continued-pull-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, last confirmed alive in round 7 and linked at hands and feet while Yuckie pulls them toward the balloon. The remaining snakes are now nearby; Stu runs toward the group and Tina fires at the snakes. No prisoner response, new injury, waking or completed return is reported.
+Two unnamed balloon-carriage intruders, now awake **at the balloon** after the party wakes them. Last confirmed linked at hands and feet, they are asked by Dain in rhyme, “why are you organised, little goblins”. Their answer and affiliation with the owl's newly found organised camp are unreported.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,6 +17,8 @@ Two unnamed balloon-carriage intruders, last confirmed alive in round 7 and link
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+
+- [Latest confirmed waking/location and question, 2026-10-10] **The party wakes both captured goblins at the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md). [Dain](./Dain%20Truthammer.md) asks in rhyme, “why are you organised, little goblins”.** They are now awake and at the balloon, superseding earlier unresolved waking/return-location notes. Shared hand/foot cuffs remain last confirmed; exact boarding, waking actor/method, HP/injury extent, reply and reaction are unreported. No healing or release is supplied. The [organised camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) found by Kagrenac's owl is not confirmed as theirs. Yuckie remains a separate party goblin. [Session](../../Adventures/2026-10-10.md).
 
 - [Confirmed latest nearby snakes, 2026-10-10] **The remaining [snakes](./Flying%20Snakes%20-%202026-10-10.md) are now near the two captives. [Stu](./Stu.md) runs back toward the goblins and snakes, then Tina fires another arrow at the snakes.** Bear arrival and shot outcome are unreported. No snake strike against a goblin, new prisoner injury, death, waking/reaction, release or completed haul is supplied. Round 7 survival and shared hand-and-foot cuffs remain last confirmed; Yuckie remains a separate party goblin. [Session](../../Adventures/2026-10-10.md).
 - [Latest confirmed survival, round 7, 2026-10-10] **Both goblin prisoners are still alive.** [Harry](./Hammerton%20Harry%20Drizddon.md) continues dragging the chest toward the balloon. Survival does not establish waking/consciousness, continued sleep, recovered health, dialogue/reaction, release or arrival. Shared hand-and-foot cuffs remain last confirmed; HP and injury extent remain unreported. Yuckie remains the separate party goblin, not a captive. [Session](../../Adventures/2026-10-10.md).
@@ -34,7 +40,7 @@ Two unnamed balloon-carriage intruders, last confirmed alive in round 7 and link
 - Damage totals, saves, exact injury extent and the final encounter outcome remain unreported. **Both prisoners are confirmed alive in round 7**; no later death is recorded. Harry's finger strike is confirmed; Taleesh's earlier miss has no further consequence to him.
 
 ## What The Party Knows
-- [Confirmed latest scene] It is **round 7**; both captives are still alive, and Harry's chest return continues toward the balloon. Their HP, waking/reaction and actual arrival remain unreported. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed current scene] Both captives are awake at the balloon, woken by the party. Dain asks in rhyme, “why are you organised, little goblins”; their answer is unreported. Round 7 remains last reported. [Chronology] Sleep/unawareness and unreported arrival in older bullets below describe preceding scenes; Dain is now present for the question. [Session](../../Adventures/2026-10-10.md).
 - [Broader scene record] Yuckie continues pulling the two prisoners toward the balloon. They remain linked at hands and feet; no waking/reaction, arrival or boarding is reported.
 - [Confirmed Dain clarification] **Truthammer remains innocent** in this prisoner scene. He is separately asleep and unaware of the enemies or Harry's finger strike; no involvement or approval is established. [Session](../../Adventures/2026-10-10.md).
 - [Explicit Dain exception] **Dain is unaware of any enemies.** He is startled by the noise while "sleep drowning" at the riverbank, gets up and returns to his Leaky Tent to sleep. The encounter facts below belong to the broader party record, not established Dain knowledge. [Session](../../Adventures/2026-10-10.md).
@@ -52,6 +58,8 @@ Two unnamed balloon-carriage intruders, last confirmed alive in round 7 and link
 - Harry then runs up and smashes their fingers. They were last asleep before her strike; damage, injury extent, waking and reaction afterward are unreported.
 
 ## What Is Uncertain
+
+- Current open points: Their names, camp affiliation, reply, exact waking actor/method, cabin boarding and HP/injury extent. They are now awake and at the balloon; the older strike/waiting/dragging bullets below describe what was unreported at those times.
 - Distance covered, exact handling, transport checks/speed and any actual arrival/boarding at the balloon cabin. Yuckie's return drag has begun; completed transport is unreported.
 - Whether the goblins were trying to feed a family, any family circumstances, and whether they hear or respond to Harry's words. Her question and judgment do not establish a motive or confession.
 - The finger strike's exact implement, attack/damage rolls, numeric damage, injury extent, waking and prisoner reaction afterward. Continued sleep is not assumed; no named sleep spell or automatic ending is assigned.

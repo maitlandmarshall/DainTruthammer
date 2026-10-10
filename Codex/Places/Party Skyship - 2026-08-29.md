@@ -7,9 +7,11 @@ Earlier scene illustration (predates the tracker clarification of armament and t
 ![Dain prepares to board the balloon-like skyship](../../Adventures/2026-08-29/2026-08-29_boarding-balloon-skyship.png)
 
 ## One-Line Summary
-The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. The party now retreats toward it, about 100 feet away, while three snakes fly toward the party. Arrival/boarding, Harry's chest return, Yuckie's prisoner return and exact ship position/height remain unreported.
+The party's assigned sky transport from [Ola Dung Lot](./Ola%20Dung%20Lot.md), in the [Samryn Torsten](../Lore/Samryn%20Torsten.md) area: a metal, hot-air-balloon-like airship with a forward ballista, folding wings, a helm and stocked hold. The two captured goblins are now awake at the balloon, and Dain asks them about organisation in rhyme. Exact cabin boarding, ship height and Harry's chest return remain unreported.
 
 ## Status
+
+- [Latest confirmed prisoner location and waking, 2026-10-10] **The party wakes both [goblin captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md) at the balloon; [Dain](../Characters/Dain%20Truthammer.md) asks in rhyme, “why are you organised, little goblins”.** Arrival at the balloon and waking are now established; exact cabin entry/boarding, ship height, waking method, reply, chest arrival/loading and takeoff are unreported. No departure or all-party arrival is inferred. [Session](../../Adventures/2026-10-10.md).
 - [Latest prisoner return continuation, 2026-10-10] **[Yuckie](../Characters/Yuckie%20the%20Goblin.md) continues pulling both linked [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) toward the balloon.** Their shared hand-and-foot cuffs remain last confirmed; measured progress, arrival/boarding, cabin access, prisoner waking/reaction and ship position/height remain unreported. Dain is awake and in battle; no new personal action, cargo return or takeoff is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Latest retreat destination, 2026-10-10] **The party retreats toward the balloon, about 100 feet away; three snakes fly toward the retreating party.** Specific party membership, movement, targets, later hits, actual arrival/boarding and ship takeoff are unreported. Dain is already awake and in battle after Taleesh fetches him; this broader retreat supplies no particular action or resource use for him. Harry's chest return and Yuckie's prisoner return remain open. [Snake encounter](../Characters/Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 - [Latest chest return attempt; Dain asleep, 2026-10-10] **[Harry](../Characters/Hammerton%20Harry%20Drizddon.md) starts dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) back toward the balloon. An arrow from 150 feet in an unknown direction glances off her armour; she continues trying to drag it back.** Harry now handles the chest; arrival/loading, cabin access, cargo condition and ship landing/height remain unreported. Yuckie's prisoner return is also still underway. No new ship damage, shooter identity or Dain awareness/resource change is supplied. [Session](../../Adventures/2026-10-10.md).
@@ -159,6 +161,8 @@ Source: Photos 2 and 4 of the [current party tracker](../../Adventures/2026-09-1
 - 2026-10-03: Dain is travelling aboard the airship again, learns Magic Mouth from scrolls, uses up all remaining copies and continues Leaky Tent refinement while using Stinking Cloud. Burial/retrieval details, current route/weather and any rest recovery remain unreported. [Session](../../Adventures/2026-10-03.md)
 
 - 2026-10-10: Yuckie continues pulling both cuffed goblin prisoners toward the balloon; their arrival/boarding and waking/reaction remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: The party wakes the two captured goblins at the balloon and Dain asks them in rhyme why they are organised. No reply, exact boarding, chest loading or departure is reported. [Session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Stu](../Characters/Stu.md)

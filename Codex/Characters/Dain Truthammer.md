@@ -2,9 +2,13 @@
 
 ![Dain Truthammer portrait](./Dain_Truthammer_portrait_v3.png)
 
+![The owl's camp discovery and Dain questioning the two awake captives at the balloon](../../Adventures/2026-10-10/owl-organised-camp-truthammer-rhyming-question.png)
+
+- Camp layout and scene staging are illustrative. The two locations are shown in separate panels, without a route or confirmed adjacency. The captives are awake; their answer and camp affiliation remain unreported. No exact boarding, injury recovery or owl information relay is established. [Image notes](../../Adventures/2026-10-10/owl-camp-and-rhyming-question-image-notes.md).
+
 ![Dain makes a steam-filled entrance, cannot lift Taleesh, and stops after running](../../Adventures/2026-10-10/truthammer-steam-entrance-failed-lift-run.png)
 
-- Latest Dain scene: finger-click tent dismissal in steam, yelling emergence, failed Taleesh lift and a 25-foot run with nothing further. Consecutive panels, heroic framing, grip, expressions and running trail are illustrative; no healing, transformation, successful lift, Wet ending or named combat action is established. [Image notes](../../Adventures/2026-10-10/truthammer-steam-entrance-image-notes.md).
+- Preceding Dain scene: finger-click tent dismissal in steam, yelling emergence, failed Taleesh lift and a 25-foot run with nothing further. Consecutive panels, heroic framing, grip, expressions and running trail are illustrative; no healing, transformation, successful lift, Wet ending or named combat action is established. [Image notes](../../Adventures/2026-10-10/truthammer-steam-entrance-image-notes.md).
 
 ![Dain is awake and clasps hands with Brother Taleesh as Taleesh brings him into battle](../../Adventures/2026-10-10/taleesh-wakes-truthammer-hand-grasp.png)
 
@@ -19,7 +23,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - DM: Tom.
 
 ## Status
-- [Latest confirmed Dain action, 2026-10-10] **Dain clicks his fingers and [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) disappears in a plume of steam. He emerges yelling, tries unsuccessfully to pick up [Brother Taleesh](./Brother%20Taleesh.md), then runs 25 feet and does nothing further.** The Goku/Namek healing-pod comparison describes the drama, not a pod, healing or transformation. The tent is now dismissed; Taleesh is not lifted/carried. Yell wording, lift failure reason, roll, action/resource costs and exact movement direction/endpoint are unreported. No drying, Wet ending, HP recovery or new initiative is supplied; **7** remains the last reported initiative. [Session](../../Adventures/2026-10-10.md).
+
+- [Latest confirmed Dain dialogue, 2026-10-10] **At the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), after the party wakes both [goblin captives](./Goblin%20Intruders%20-%202026-10-10.md), Dain asks in rhyme, “why are you organised, little goblins”.** No answer, extra verse, language, spell, social roll or effect is supplied. [Kagrenac's owl](./Kagrenacs%20Owl.md) finds an [organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md) in the broader report; its link to the captives and how Dain receives that information are unreported. No numerical resource, Wet or initiative change is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Preceding confirmed Dain action, 2026-10-10] **Dain clicks his fingers and [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) disappears in a plume of steam. He emerges yelling, tries unsuccessfully to pick up [Brother Taleesh](./Brother%20Taleesh.md), then runs 25 feet and does nothing further.** The Goku/Namek healing-pod comparison describes the drama, not a pod, healing or transformation. The tent is now dismissed; Taleesh is not lifted/carried. Yell wording, lift failure reason, roll, action/resource costs and exact movement direction/endpoint are unreported. No drying, Wet ending, HP recovery or new initiative is supplied; **7** remains the last reported initiative. [Session](../../Adventures/2026-10-10.md).
 - [Preceding Dain wake-up, 2026-10-10] **[Brother Taleesh](./Brother%20Taleesh.md) runs into [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10), wakes Dain, shares the hand-grasp meme and brings him into the battle. Dain is now awake and participating.** This supersedes the earlier sleep and lack of battle awareness. Exact targets, observations, briefing and knowledge of the preceding prisoner scene remain unreported. No new roll, attack, spell or numerical recovery was supplied by this wake-up; initiative **7** remains only the last reported result. [Session](../../Adventures/2026-10-10.md).
 - [Preceding innocence clarification, 2026-10-10] **Truthammer remains innocent** in the goblin-prisoner scene. He was separately asleep and unaware of Harry's finger strike then; his later wake-up establishes no participation in or approval of the earlier action. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader encounter; Dain asleep, 2026-10-10] [Harry](./Hammerton%20Harry%20Drizddon.md) runs up to the cuffed [goblins](./Goblin%20Intruders%20-%202026-10-10.md) and smashes their fingers. They remain last confirmed linked at hands and feet and were last asleep before the strike; damage, injury extent, waking and reaction afterward are unreported. Dain remains separately asleep and unaware. [Session](../../Adventures/2026-10-10.md).
@@ -50,7 +56,9 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - [Party] [Confirmed on 2026-07-11] Current live scene: at the end of the hidden tunnel after a long rest, facing Kagrenac's accusation that Dain murdered a dwarf.
 
 ## What The Character Knows
-- [Confirmed latest personal action, 2026-10-10] Dain dismisses the riverside tent in steam, emerges yelling, cannot pick up Taleesh, runs **25 feet** and does nothing further. This establishes no additional enemy observation or knowledge of the earlier prisoner abuse. [Session](../../Adventures/2026-10-10.md).
+
+- [Confirmed latest personal interaction, 2026-10-10] Dain asks the two awake captives about organisation in rhyme, **“why are you organised, little goblins”**, at the balloon. Their answer and any confirmation of motives, leaders or camp membership are unreported. The owl-to-Dain information route and awareness of earlier prisoner abuse remain unreported. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed preceding personal action, 2026-10-10] Dain dismisses the riverside tent in steam, emerges yelling, cannot pick up Taleesh, runs **25 feet** and does nothing further. This establishes no additional enemy observation or knowledge of the earlier prisoner abuse. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed latest state, 2026-10-10] Dain has been woken by Taleesh and brought into the battle. Battle awareness is now established; exact enemy observations, the arrow's source and knowledge of Harry's earlier treatment of the prisoners remain unreported. Earlier sleep/unawareness notes below describe the preceding scenes. [Session](../../Adventures/2026-10-10.md).
 - [Preceding innocence clarification, 2026-10-10] Dain was asleep and unaware of Harry's attack on the prisoners when it occurred. Taleesh's later wake-up establishes battle awareness, without supplying a briefing about that earlier action or retroactive participation/approval. [Session](../../Adventures/2026-10-10.md).
 - [Character-only] [Confirmed, 2026-10-10] The night-time sound startles Dain at the riverbank, but **he is unaware of any enemies** and returns to his tent to sleep. The broader party's alarm and encounter record do not establish that Dain knows about the goblins or darkness clouds.
@@ -270,6 +278,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: Taleesh wakes Dain in Leaky Tent, shares the hand-grasp meme and brings him into the battle. No new initiative, attack, spell or numerical recovery is reported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: After Taleesh's wake-up and Christina's snake shot, Dain makes his **finger-click/steam entrance**, yells, cannot pick up Taleesh, runs **25 feet** and does nothing further. Leaky Tent is dismissed; no healing, transformation, Wet ending, new roll or numerical resource change is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: At the balloon, after both captives are woken, Dain asks in rhyme, “why are you organised, little goblins”. No reply or social/spell effect is supplied. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 

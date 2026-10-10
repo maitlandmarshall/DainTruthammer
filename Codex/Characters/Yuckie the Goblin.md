@@ -3,7 +3,7 @@
 ![Yuckie the Goblin portrait](./Yuckie_the_Goblin_portrait.png)
 
 ## One-Line Summary
-Emily's goblin player character, previously played by Lachlan Pratt, who tells Dain absurd but useful stories; now continuing to pull the two linked goblin prisoners toward the balloon.
+Emily's goblin player character, previously played by Lachlan Pratt, who tells Dain absurd but useful stories. After his preceding prisoner haul, both captives are now awake at the balloon; no new individual Yuckie action is reported.
 
 ## Table Role
 - Role: Player Character.
@@ -12,6 +12,8 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 - DM: Tom.
 
 ## Status
+
+- [Latest broader transport outcome, 2026-10-10] The two [captives](./Goblin%20Intruders%20-%202026-10-10.md) are now **awake at the balloon**, woken by the party, after Yuckie's preceding haul. Dain asks them about organisation in rhyme. No new individual movement, waking action or dialogue is assigned to Yuckie; exact boarding/handling and the prisoners' reply remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Latest confirmed continued action, 2026-10-10] **Yuckie continues pulling the same two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** Their shared hand-and-foot cuffs remain last confirmed. No distance, check, arrival/boarding, waking/reaction, further injury or release is supplied. Dain is now awake and in battle; his specific observations/actions remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding drag start, 2026-10-10; Dain asleep then] **Yuckie starts dragging the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Both remain cuffed together at hands and feet. Arrival/boarding and prisoner waking/reaction were unreported; Yuckie is a separate party goblin, not one of the captives. Dain was innocent, separately asleep and unaware at that point. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed current player and presence, 2026-10-10] Maitland identifies Emily as playing Lachlan's original goblin character, resolved through the existing roster to **Yuckie**. Yuckie finishes running up to the [two sleeping goblin intruders](./Goblin%20Intruders%20-%202026-10-10.md), then the party surrounds them and waits for them to wake. Dain remains asleep elsewhere and unaware. [Session](../../Adventures/2026-10-10.md).
@@ -26,11 +28,11 @@ Emily's goblin player character, previously played by Lachlan Pratt, who tells D
 - [Character-only] Dain treats Yuckie's nonsense as potentially meaningful rather than disposable.
 
 ## What The Party Knows
-- [Broader scene record] Yuckie continues pulling both prisoners toward the balloon, still linked at hands and feet. Their sleep/waking after Harry's strike and arrival at the cabin remain unreported. Dain is now awake and in battle, without a particular observation of the haul being assigned. This supplies no intervening rescue account.
+- [Current broader scene record] Both captives are now awake at the balloon, following Yuckie's preceding haul. Their shared hand/foot cuffs remain last confirmed. Dain questions them in rhyme; no reply, exact boarding or new individual Yuckie action is supplied. [Session](../../Adventures/2026-10-10.md).
 - [To verify] Whether the whole party knows Yuckie gave Dain the ballista story.
 
 ## What Is Uncertain
-- The exact grip, transport checks/speed, distance covered, cabin arrival/boarding and the prisoners' waking or reaction. Yuckie's starting action supplies none of those outcomes.
+- Exact grip, route, transport checks/speed, distance and cabin boarding remain unreported. Both captives' current waking and location at the balloon are established; the individual waking actor/method and reply remain unknown.
 - [To verify] Whether Yuckie is in-world treated as a full party member, follower, local contact, prisoner, scout, or recurring camp presence.
 - [To verify] Whether the ballista incident was dangerous, comedic, consensual, or some mixture best not inspected too closely.
 - [To verify] Whether Yuckie was the character captured by the gargantuan vulture-type creature before Ollyander arrived.

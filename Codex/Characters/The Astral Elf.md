@@ -13,6 +13,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - DM: Tom.
 
 ## Status
+
+- [Broader party discovery; Confirmed, 2026-10-10] **[Kagrenac's owl](./Kagrenacs%20Owl.md) finds [an organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md).** Matt resolves through the roster to Kagrenac. No camp location, population, leader, prisoner affiliation, scouting roll, communication/return, new Kagrenac spell/action or resource cost is supplied. Effects on the earlier snake pursuit remain open. [Session](../../Adventures/2026-10-10.md).
 - [Broader encounter] [Confirmed latest spell attempt, 2026-10-10] **Kagrenac casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the snakes in the distance and fails.** No attack roll, exact failure cause, particular individual target, hit, damage, spell source/class or resource cost is supplied. The owl's response to his earlier direction remains open. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 - [Broader encounter] [Confirmed latest command, 2026-10-10] **Kagrenac commands [his established owl](./Kagrenacs%20Owl.md) toward the three airborne snakes flying toward the retreating party.** The owl's response and any effect are unreported. No flight, attack, Help action, summon, roll, spell or resource use is assigned. The target group is separate from the one snake remaining at Stu and the two confirmed deaths. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 - [Broader party encounter; Dain unaware then] [Confirmed preceding action, 2026-10-10] After Stu pursues the goblins in brown-bear form, **Kagrenac puts both goblins to sleep**. They fall dramatically to the ground, with the chest causing a dramatic slide through the dirt. Exact sleep method/spell, rolls, level, duration and resources are unreported; the wording does not confirm the named Sleep spell. No damage, waking, chest recovery or Dain awareness change is supplied by that beat. [Session](../../Adventures/2026-10-10.md); [goblins](./Goblin%20Intruders%20-%202026-10-10.md).
@@ -53,6 +55,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Character-only] The 2026-07-11 notebook records `+13` respect connected to Kagrenac. [To verify direction, triggering beat, and resulting total]
 
 ## What The Party Knows
+
+- [Broader discovery record; Confirmed] Kagrenac's owl finds an organised goblin camp. Exact information relay and who receives which details are unreported. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 - [Broader encounter] Kagrenac's named Fire Bolt attempt at the distant snakes fails on 2026-10-10. The particular target, roll, failure cause and spell source remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Broader encounter] Kagrenac directs his owl toward the three airborne snakes pursuing the retreating party on 2026-10-10. The command's result remains unreported. [Session](../../Adventures/2026-10-10.md).
 - [Party] Kagrenac's owl warned the party about the approaching ogres at the creek-fork camp.
@@ -111,6 +115,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - 2026-10-10: Kagrenac commands his established owl toward the three airborne snakes flying toward the retreating party. The owl's response and any effect remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Kagrenac casts Fire Bolt at the snakes in the distance and fails. No roll, failure cause, hit, damage or owl response is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: Kagrenac's owl finds an organised goblin camp; location, strength, leader, prisoner connection and information relay remain unreported. [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 
 ## Related Entries
 - [Fire Bolt](../Powers/Fire%20Bolt.md)

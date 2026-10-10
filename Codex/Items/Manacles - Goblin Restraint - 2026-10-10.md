@@ -3,6 +3,8 @@
 ![The two sleeping goblin prisoners are cuffed together at both hands and feet](../../Adventures/2026-10-10/conjoined-goblins-hands-and-feet.png)
 
 ## Confirmed Use
+
+- [Latest captive state, 2026-10-10] Both goblins are now awake at the balloon, woken by the party; Dain asks them about organisation in rhyme. Their shared hand-and-foot cuffs remain last confirmed. No removal, rearrangement, new manacles, stock deduction, escape ruling or healed fingers is supplied. Exact boarding and prisoner reply remain open. [Session](../../Adventures/2026-10-10.md).
 - [Latest transport begins, 2026-10-10] [Yuckie](../Characters/Yuckie%20the%20Goblin.md) starts dragging both prisoners back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md). Their cuffs still join them at hands and feet; no release, rearrangement, new equipment use or completed arrival is reported. Their waking/reaction remains open after Harry's earlier strike. [Session](../../Adventures/2026-10-10.md).
 - [Latest binding clarification, 2026-10-10] **Both goblins are now cuffed together on both hands and feet, conjoined through their restraints.** Shared hand/foot connections are confirmed. Exact chain/cuff construction, source/count, keys and mechanics remain unreported. No named actor is newly assigned to fastening or rearranging these bindings. [Session](../../Adventures/2026-10-10.md).
 - [Broader party encounter; Dain unaware] On 2026-10-10, [Brother Taleesh](../Characters/Brother%20Taleesh.md) runs up and puts manacles on both [sleeping goblins](../Characters/Goblin%20Intruders%20-%202026-10-10.md), restraining them. [Session](../../Adventures/2026-10-10.md).

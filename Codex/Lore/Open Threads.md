@@ -1,12 +1,14 @@
 # Open Threads
 
+- [Latest camp discovery and Dain question] **[Kagrenac's owl](../Characters/Kagrenacs%20Owl.md) finds [an organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md). At the balloon, the party wakes both [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md), and Dain asks in rhyme, “why are you organised, little goblins”.** Their reply, camp details and prisoner affiliation remain unreported. [Follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest snake proximity and arrow attempt] **[Stu](../Characters/Stu.md) runs back toward the two [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md) and the [snakes](../Characters/Flying%20Snakes%20-%202026-10-10.md), now near the goblins; Tina then fires another arrow at the snakes.** Arrival, shot roll/target/result, captive response and Tina's character-name mapping/link to Christina remain open. The preceding 17 is a separate shot; no new snake death is established. [Follow-up](#four-flying-snakes-and-the-cliffs).
 
 - [Latest investigation] **[Brother Taleesh](../Characters/Brother%20Taleesh.md) does a perimeter sweep and goes to check out the [unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md).** [Taleesh belief] His vague suspicion that the earlier arrow came from there is unconfirmed. No finding, shooter, check result or communicated knowledge is supplied. [Arrow source follow-up](#arrow-glances-off-harrys-armour).
 
 - [Latest round and survival] **Round 7: [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) continues dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) toward the balloon; both [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) are still alive.** Arrival/loading, measured progress, prisoner waking/reaction and HP/injury extent remain unreported. [Encounter follow-up](#goblins-in-the-balloon-carriage).
 
-- [Latest Dain action] **Dain clicks his fingers and [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) disappears in steam. He emerges yelling, cannot pick up [Brother Taleesh](../Characters/Brother%20Taleesh.md), then runs 25 feet and does nothing further.** The tent is now dismissed; direction/endpoint, roll, costs, current resources and any Wet ending remain open. The healing-pod comparison supplies no healing or transformation. [Riverside follow-up](#riverside-rest-and-leaky-tent).
+- [Preceding Dain action] **Dain clicks his fingers and [Leaky Tent](../Powers/Truthammer%20Leaky%20Tent.md#current-riverside-casting---2026-10-10) disappears in steam. He emerges yelling, cannot pick up [Brother Taleesh](../Characters/Brother%20Taleesh.md), then runs 25 feet and does nothing further.** The tent is now dismissed; direction/endpoint, roll, costs, current resources and any Wet ending remain open. The healing-pod comparison supplies no healing or transformation. [Riverside follow-up](#riverside-rest-and-leaky-tent).
 
 - [Latest local clearance] **[Christina](../Characters/Christina.md) fires an arrow, with 17 reported, destroying the last snake beside [Stu](../Characters/Stu.md)** as it bursts/rips apart and is pierced to the ground. [Derived] All three local snakes are down; the three airborne pursuers remain unresolved. Dain remains awake and in battle. [Snake follow-up](#four-flying-snakes-and-the-cliffs).
 
@@ -34,19 +36,21 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Captives awake at balloon; new camp; answer pending] Record the actual goblin reply to Dain's rhyming question and any reported camp location, strength, leader, organisation or affiliation. Waking and return-to-balloon location are now confirmed; exact boarding, HP/injury extent, owl relay/return and chest loading remain open. No new round or other combat outcome is inferred. [Camp and question](#organised-goblin-camp-and-dains-question).
+
 - [New shot pending; snakes near captives] Record Tina's shot roll, target and outcome, the supplied name's character mapping/link to Christina, and Stu's actual arrival or later action when reported. The remaining snakes are near the captives; Stu is running toward them. Three prior local snakes stay down, with no new death or prisoner response. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 
 - [Active gorge investigation] Record Taleesh's actual sweep/gorge findings, rolls, movement or any communication of his hunch when supplied. The gorge is a suspected lead, not a confirmed firing position; no new round, elapsed time, resources or encounter outcome is inferred. [Arrow investigation](#arrow-glances-off-harrys-armour).
 
-- [Round 7; chest haul ongoing; both prisoners alive] Record the actual chest arrival/loading and any later prisoner HP, waking/reaction, release or transport outcome when supplied. The round count is separate from Dain's last reported initiative **7**; no exact elapsed time, automatic duration ending, new arrow or resource change is inferred. [Balloon goblin encounter](#goblins-in-the-balloon-carriage).
+- [Round 7 last reported; captives now awake at balloon] Record exact boarding, later prisoner responses and any actual chest arrival/loading when supplied. No round advance, exact elapsed time, automatic resource recovery or inferred chest return follows from the latest waking. [Balloon goblin encounter](#goblins-in-the-balloon-carriage).
 
-- [Latest Dain turn] **The riverside tent is dismissed in steam; Dain's attempted Taleesh lift fails, and he runs 25 feet then does nothing further.** Record actual movement endpoint, later actions, current resources or a Wet ending when supplied. No named Dash/Dodge/Ready action, balloon arrival, enemy interception, healing or transformation is established. [Riverside rest and tent](#riverside-rest-and-leaky-tent).
+- [Preceding Dain movement; latest question at balloon] The tent remains dismissed in steam after Dain's failed Taleesh lift and 25-foot run. His latest personal action is the rhyming question to the awake captives. Record any later action, resources or Wet ending when supplied. [Camp and question](#organised-goblin-camp-and-dains-question).
 
-- [Latest continuing haul] **Yuckie keeps pulling the two cuffed prisoners toward the balloon.** Record actual arrival/boarding, transport results or prisoner response when supplied; no measured progress or completed return is inferred. [Goblins in the balloon carriage](#goblins-in-the-balloon-carriage).
+- [Prisoner return location resolved] The two goblin captives are now awake **at the balloon**, after Yuckie's preceding haul. Exact cabin boarding, waking actor/method and their answer remain unreported. No new individual action is assigned to Yuckie. [Goblins](#goblins-in-the-balloon-carriage).
 
 - [Latest spell attempt] **Kagrenac's Fire Bolt at the distant snakes fails.** Record later actions and the owl's response when supplied; no roll, hit, damage or precise failure cause is inferred. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 
-- [Latest owl direction] **Kagrenac directs his owl toward the three airborne pursuers.** Record its response, actual movement/action and any later snake result only when supplied. The command establishes no attack, Help action, advantage or completed interception. [Snake encounter](#four-flying-snakes-and-the-cliffs).
+- [Latest owl direction] **Kagrenac directs his owl toward the three airborne pursuers.** The owl now finds an organised camp; its response affecting the snakes, return and any later snake result remain unreported. The command establishes no attack, Help action, advantage or completed interception. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 
 - [Local trio resolved; airborne pursuit open] **Christina's arrow destroys the last snake beside Stu**, following the two earlier deaths. Record later outcomes for the three airborne pursuers and the owl's response when supplied. This resolves the reported local trio while the broader encounter and retreat remain open. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 - [Latest snake hit and pursuit] Two snakes account for the preceding about 15; the remaining four supply one further **1 piercing / 7 poison = 8** hit in Stu's context and three airborne pursuers of the party retreating to the balloon about 100 feet away. [Derived] About 23 reported damage across Stu's sequence. Record his current HP/condition and any further targets/hits, party moves or actual arrival/boarding when supplied. [Snake encounter](#four-flying-snakes-and-the-cliffs).
@@ -76,9 +80,11 @@
 
 ### Four Flying Snakes And The Cliffs
 
+- Latest broader follow-up, 2026-10-10: The owl finds an organised goblin camp and both captives are woken at the balloon. This reports a scouting discovery, without resolving the earlier owl command's effect on the snakes, Tina's arrow, Stu's arrival or the snakes' new position. No camp/snake connection is established.
+
 - Latest movement and arrow attempt, 2026-10-10: **Stu runs back toward the captives and snakes, now near the captives; Tina shoots another arrow at the snakes.** Only approach and shot attempt are established. The current context is the three remaining airborne snakes, without a new count/population report. No arrival/contact, individual target, roll, hit/miss, damage, new death, prisoner attack or response is supplied. [To verify] Tina's identity/link to Christina; the prior 17 belongs to Christina's earlier local kill.
 
-- Status: The remaining snakes are now near the two goblin prisoners; Stu runs back toward them, then Tina fires another arrow at the snakes. Shot roll/target/outcome, bear arrival and Tina's identity/link to Christina are unreported. The contextual three airborne pursuers remain unresolved; all three former local snakes stay down. Owl response, Stu's HP/condition and boarding remain open.
+- Status: The last snake report places the remaining trio near the captives as Stu runs toward them and Tina fires another arrow. No shot result or bear arrival is supplied. The captives subsequently wake at the balloon, and Kagrenac's owl finds an organised camp; neither update gives a new snake position or outcome. Three former local snakes stay down. Owl effects on the snakes, Stu's HP/condition and Tina's identity/link to Christina remain open.
 - Tags: [Broader encounter] [Confirmed arrow destroys last snake at Stu] [Derived local trio down] [Three airborne pursuers unresolved] [To verify mechanics and remaining outcomes].
 - Earlier report, 2026-10-10: Maitland clarifies **“Approaching the party; cliffs behind them”**, resolving the initial direction ambiguity. That four-creature approach remains source history.
 - Preceding report, 2026-10-10: **Six snakes surround Stu**, in brown-bear form; the preceding report includes a critical hit for **about 15 total; breakdown still unclear** after the initial 2 piercing / 10 poison source. He is fine then, before the next hit. No per-snake allocation or critical-damage doubling is added.
@@ -92,11 +98,22 @@
 - Next possible actions: Record the next supplied result, including any further attack, target, actual move or boarding. No new arrival, extra critical, dice result, named stat block, completed chest/prisoner return or ship departure is inferred.
 - Linked entries: [Kagrenac](../Characters/The%20Astral%20Elf.md), [Kagrenac's Owl](../Characters/Kagrenacs%20Owl.md), [Stu](../Characters/Stu.md), [snake encounter](../Characters/Flying%20Snakes%20-%202026-10-10.md), [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), [unnamed cliffs](../Places/Unnamed%20Cliffs%20-%202026-10-10.md), [session](../../Adventures/2026-10-10.md).
 
+### Organised Goblin Camp And Dain's Question
+
+- Status: **Kagrenac's owl has found an organised goblin camp. At the balloon, the party wakes both captured goblins, and Dain asks in rhyme, “why are you organised, little goblins”.** Their answer is unreported.
+- Tags: [Broader party discovery] [Confirmed camp] [Confirmed captives awake at balloon] [Confirmed Dain dialogue] [To verify affiliation and explanation].
+- Open: Camp location, distance/direction, strength, leader/faction, actual signs and cause of organisation, owl observation/communication/return, prisoner affiliation and their answer.
+- Knowledge boundary: No camp membership, family motive, confession, shared knowledge through telepathy, past-camp identity or connection to the gorge/cliffs, unknown arrow, snakes or northern forest is inferred. Dain's quote is preserved without inventing extra verse or a social roll.
+- Next possible actions: Record the captives' actual reply and any supplied scouting detail, questions, checks or actions. No visit, raid, attack, departure, cargo loading or new round follows automatically.
+- Linked entries: [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), [owl](../Characters/Kagrenacs%20Owl.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md), [Dain](../Characters/Dain%20Truthammer.md), [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), [session](../../Adventures/2026-10-10.md).
+
 ### Goblins In The Balloon Carriage
+
+- Latest waking and dialogue, 2026-10-10: **The party wakes both captured goblins at the balloon. Dain asks them in rhyme, “why are you organised, little goblins”.** Waking/location are resolved; answer, exact boarding, waking actor/method, injuries and any relationship to the owl's newly found organised camp remain unreported. No release, new harm or healed fingers is supplied.
 
 - Latest nearby movement, 2026-10-10: The remaining snakes are now near the two captives; Stu approaches that group and Tina fires at the snakes. No snake attack against the goblins, bear arrival/contact, new prisoner injury, waking/reaction, death, release or completed return is supplied. Yuckie is separate from the prisoners.
 
-- Status: The snakes are now near the two captured intruders; Stu runs back toward them, then Tina shoots another arrow at the snakes with no reported result. Round 7 remains last reported and both prisoners remain last confirmed alive, linked at hands and feet. Yuckie's haul, Harry's chest return, waking/reaction, HP/injury extent and arrival/boarding remain unresolved. Dain's latest steam entrance, failed Taleesh lift and 25-foot run are unchanged.
+- Status: Both captives are now awake and at the balloon, woken by the party. Dain asks in rhyme, “why are you organised, little goblins”; their answer is unreported. Shared hand/foot cuffs remain last confirmed. Exact boarding, waking method, injury extent, camp affiliation and Harry's chest return remain open. Round 7 remains last reported; no further snake, shot or bear outcome is supplied.
 - Tags: [Party] [Confirmed opening] [To verify outcomes].
 - Latest round/survival update, 2026-10-10: **Harry continues the chest return in round 7, and both goblins remain alive.** No measured distance, new arrow, roll, completed return, cargo result or prisoner reaction is supplied. Survival establishes no new waking, continued sleep, recovered health or release.
 - Opening, 2026-10-10: The loud sound of the Chest of Preservation dropping over the carriage's side alerts the party to two goblins already inside.

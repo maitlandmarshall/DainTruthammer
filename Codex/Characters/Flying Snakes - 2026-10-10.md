@@ -3,7 +3,7 @@
 ![Christina's arrow destroys the last snake beside Stu and pins its disrupted body to the ground](../../Adventures/2026-10-10/christina-arrow-destroys-last-snake-at-stu.png)
 
 ## One-Line Summary
-The remaining snakes are now near the two goblin prisoners; Stu runs back toward the group, then Tina fires another arrow at the snakes. Shot outcome and bear arrival are unreported. The contextual three airborne pursuers remain unresolved, while the three snakes previously beside Stu stay down.
+The remaining trio's last report puts them near the captives as Stu approaches and Tina fires again; the subsequent owl camp discovery and prisoner wake-up at the balloon supply no new snake position or shot result. The three former local snakes stay down.
 
 ## Table Role
 - Role: Encounter creatures; table control [To verify].
@@ -11,6 +11,8 @@ The remaining snakes are now near the two goblin prisoners; Stu runs back toward
 - This page keeps the earlier four-creature approach and the later six-snake report together as encounter records. It does not establish that they describe an identical group, additional arrivals or a total encounter population. No names or handler are supplied.
 
 ## Status
+
+- [Latest broader scouting/waking update, 2026-10-10] Kagrenac's owl finds an [organised goblin camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), and both captives are woken at the balloon. No new snake position, death, injury, Tina arrow outcome, Stu arrival or owl action affecting the snakes is reported. The last proximity report was near the captives before this waking; it does not automatically move the snakes to the balloon. [Session](../../Adventures/2026-10-10.md).
 
 - [Confirmed latest proximity and arrow attempt, 2026-10-10] **The snakes are now near the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md). [Stu](./Stu.md) runs back toward them; Tina then shoots another arrow at the snakes.** The contextual remaining count is the prior three airborne pursuers, without an independently supplied recount or new group. No individual target, roll, hit/miss, damage, new death, snake attack on a prisoner, reaction or completed bear arrival is reported. [To verify] Tina's identity/link to Christina. The earlier 17 applies only to Christina's prior destruction of Stu's last local snake. All three former local snakes stay down; owl response and wider encounter outcome remain open. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding arrow destruction, 2026-10-10] **[Christina](./Christina.md) fires an arrow—17 reported—and the snake bursts, rips apart and is pierced to the ground.** Maitland identifies it as **the one remaining beside [Stu](./Stu.md)**. Raw-versus-modified roll and damage are unreported. [Derived count] Two preceding deaths plus this destruction leave **three local snakes down, with no survivor in that local trio**. No new result is supplied for the three airborne snakes. [Session](../../Adventures/2026-10-10.md).
