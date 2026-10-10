@@ -344,5 +344,10 @@
     "fingerprint": "691f7e3e427c1a95d603e720161ad4c604215eb345911e70adafc4689a99fece",
     "status": "confirmed",
     "message_id": "1558462131010273372"
+  },
+  "2026-10-10-051-goblin-javelin-critical-failure-fall": {
+    "fingerprint": "dd0a6c03195eea39f345dab71280336e15602af5a69673ffe0252e2c0a5a0997",
+    "status": "confirmed",
+    "message_id": "1558463677185785967"
   }
 }
