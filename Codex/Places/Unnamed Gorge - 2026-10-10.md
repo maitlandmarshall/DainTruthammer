@@ -6,9 +6,12 @@
 The unnamed gorge Brother Taleesh checks after a perimeter sweep, while vaguely suspecting it as the source of the earlier arrow.
 
 ## Status
+
+- [Later discovery, 2026-10-10] **[Brother Taleesh](../Characters/Brother%20Taleesh.md) stumbles upon the [goblin camp](./Organised%20Goblin%20Camp%20-%202026-10-10.md), the next tabletop map.** This follows his gorge investigation in the record, without mapping a route or establishing that the camp is inside, beyond or adjacent to the gorge. The discovery supplies no arrow-source evidence or confirmed bearing. [Session](../../Adventures/2026-10-10.md).
+
 - [Confirmed, 2026-10-10] [Brother Taleesh](../Characters/Brother%20Taleesh.md) does a perimeter sweep and **goes to check out the gorge**. The page title is a descriptive archive label, not a supplied place name. [Session](../../Adventures/2026-10-10.md).
 - [Character-only; Taleesh belief] He has **a vague idea that the earlier arrow came from here**. This is not a confirmed shooter location, firing bearing or discovered clue; no communication of the hunch to others is supplied.
-- No skill roll, sweep/gorge finding, discovery, confrontation, clearing, descent or completed exploration is reported. The previous arrow's range remains the supplied **150 feet**, without a new measurement or shot.
+- [Preceding gorge-check report] No skill roll, sweep/gorge finding, discovery, confrontation, clearing, descent or completed exploration was supplied in that report. The later camp discovery is recorded above, without confirming a gorge clue or route. The previous arrow's range remains the supplied **150 feet**, without a new measurement or shot.
 
 ## What Is Uncertain
 - Name, exact position/route, distance from camp or balloon, gorge geometry, depth, length, entrances, terrain and visibility.
