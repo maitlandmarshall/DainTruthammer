@@ -1,9 +1,9 @@
 # Flying Snakes - 2026-10-10
 
-![Stu beside two fallen dead snakes and one remaining alert snake](../../Adventures/2026-10-10/stu-two-snakes-dead-one-remains.png)
+![Kagrenac directs his perched owl toward the three airborne snakes](../../Adventures/2026-10-10/kagrenac-directs-owl-toward-three-snakes.png)
 
 ## One-Line Summary
-Two snakes fall and die after Stu starts “covering” them; one remains at Stu. Three others were last reported flying toward the party retreating to the balloon about 100 feet away, with no new result.
+Kagrenac commands his owl toward the three snakes flying toward the retreating party; its response remains unreported. Two snakes are dead and one remains at Stu.
 
 ## Table Role
 - Role: Encounter creatures; table control [To verify].
@@ -11,7 +11,8 @@ Two snakes fall and die after Stu starts “covering” them; one remains at Stu
 - This page keeps the earlier four-creature approach and the later six-snake report together as encounter records. It does not establish that they describe an identical group, additional arrivals or a total encounter population. No names or handler are supplied.
 
 ## Status
-- [Confirmed latest outcome, 2026-10-10] **[Stu](./Stu.md) starts “covering” snakes. They fall; two die; one remains at Stu.** The exact method, rolls, damage and which individual snakes die are unreported. The three that flew toward the retreating party have no new reported movement, hit, death or outcome. One remaining at Stu does not mean one left in the entire encounter. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed latest command, 2026-10-10] **[Kagrenac](./The%20Astral%20Elf.md) commands [his owl](./Kagrenacs%20Owl.md) toward the three airborne pursuers.** They were last reported flying toward the party retreating to the balloon about 100 feet away. No owl response, interception, attack, snake reaction, changed course or further outcome is supplied. This does not target or relocate the one snake at Stu. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed preceding local outcome, 2026-10-10] **[Stu](./Stu.md) starts “covering” snakes. They fall; two die; one remains at Stu.** The exact method, rolls, damage and which individual snakes die are unreported. The three that flew toward the retreating party have no new reported movement, hit, death or outcome. One remaining at Stu does not mean one left in the entire encounter. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding follow-up, 2026-10-10] **The preceding damage came from two of the six snakes. The remaining four act next: one further hit supplies 1 piercing + 7 poison = 8 damage to Stu in context; the other three fly toward the party retreating to the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), about 100 feet away.** No additional hit on the retreating party, specific target, attack roll, arrival or boarding is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Derived] About 15 preceding + 8 further = **about 23 reported damage across Stu's sequence**. His current HP and condition after the added hit remain unreported; the earlier “he's fine” predates it. No new critical, extra doubling, Poisoned condition, resistance, immunity, healing or ended form is assigned.
 - [Confirmed preceding report, 2026-10-10] **Six snakes surround Stu**, in brown-bear form; the preceding damage report includes a critical hit for **about 15 total damage; breakdown still unclear**. He is fine at that point. Maitland later attributes this damage report to **two** of the six, without per-snake allocation. The initial 2 piercing / 10 poison report remains source history. [Session](../../Adventures/2026-10-10.md).
@@ -22,9 +23,11 @@ Two snakes fall and die after Stu starts “covering” them; one remains at Stu
 - Dain remains awake and in the battle after Taleesh fetches him from Leaky Tent. The party's retreat is a broader reported action; specific observations, individual movement, responses, targets and any connection to the arrow source remain unreported for him. [Current state](../../Character/Current%20State.md); [session](../../Adventures/2026-10-10.md).
 
 ## What The Party Knows
+- [Broader scene record] Kagrenac directs his owl toward the three airborne snakes. Only the command is confirmed; its result remains open.
 - [Broader scene record] Following the earlier damage and three-snake pursuit, Stu starts “covering” snakes; two fall and die, and one remains at Stu. The exact method and particular dead snakes are unreported. The three airborne pursuers' last flight toward the retreating party remains open, as do party membership, individual moves and arrival/boarding.
 
 ## What Is Uncertain
+- The owl's response, movement, actual action, mechanical effect and any later reaction/outcome for the three targeted snakes.
 - Appearance, size, anatomy, colors, names, affiliation, handler/owner, broader intent and connection to the goblins, camp or unknown arrow source.
 - Exact meaning/method of “covering,” rolls, damage, costs and individual identity of the two dead snakes. No XP, loot or harvest is supplied.
 - Relationship to the initial four-creature approach, total encounter population, flight capability for all six and any later result for the three pursuers. One survivor's presence at Stu and two deaths are confirmed locally.
@@ -33,10 +36,15 @@ Two snakes fall and die after Stu starts “covering” them; one remains at Stu
 - Cliff identity/location and any relationship to the northern dark forest.
 
 ## Visual Boundary
-- The latest aftermath image shows **two dead snakes and one remaining at Stu**. No specific “covering” or killing method is depicted; body positions, closed eyes, alert survivor, posture, appearance and surroundings are illustrative. The three airborne pursuers are outside the frame, with no new outcome established. [Latest image notes](../../Adventures/2026-10-10/stu-two-snakes-dead-image-notes.md).
+- The latest command image shows Kagrenac directing a still-perched owl toward exactly three airborne targets. Gesture, perch, gaze, creature design, spacing and surroundings are illustrative; no owl flight, arrival, attack, Help action or snake response is established. [Latest image notes](../../Adventures/2026-10-10/kagrenac-owl-command-image-notes.md).
+- The preceding aftermath image shows **two dead snakes and one remaining at Stu**. No specific “covering” or killing method is depicted; body positions, closed eyes, alert survivor, posture, appearance and surroundings are illustrative. The three airborne pursuers are outside the frame, with no new outcome established. [Aftermath image notes](../../Adventures/2026-10-10/stu-two-snakes-dead-image-notes.md).
 - The preceding image shows the **remaining four** acting: one illustrative bite at Stu and three airborne pursuers toward the retreat direction/distant balloon. Appearance, contact point, posture, flight path, ship staging and apparent distance establish no further hit, exact target, measured map, post-hit condition or completed boarding. [Preceding image notes](../../Adventures/2026-10-10/snake-followup-retreat-image-notes.md).
 - The prior six-snake frame remains the preceding scene. Its one illustrated bite did not establish attack count; the later source attributes the preceding damage to two snakes. [Prior image notes](../../Adventures/2026-10-10/stu-six-snakes-critical-image-notes.md).
 - In the earlier approach image, count and cliff backdrop support the supplied scene. Wing design, color, body shape, scale, poses, geology, lighting and framing are illustrative. Angled airborne poses do not serve as a trajectory diagram. [Earlier image notes](../../Adventures/2026-10-10/flying-snakes-image-notes.md).
+
+## Earlier Local Outcome - 2026-10-10
+
+![Stu beside two fallen dead snakes and one remaining alert snake](../../Adventures/2026-10-10/stu-two-snakes-dead-one-remains.png)
 
 ## Earlier Further Hit And Pursuit - 2026-10-10
 
@@ -56,7 +64,11 @@ Two snakes fall and die after Stu starts “covering” them; one remains at Stu
 - 2026-10-10: Maitland clarifies that the preceding damage involved two snakes. Of the remaining four, one supplies another 1 piercing / 7 poison in Stu's context, and three fly toward the party retreating to the balloon about 100 feet away. [Derived] About 23 damage across Stu's sequence; HP and post-hit condition remain open. [Session](../../Adventures/2026-10-10.md).
 - 2026-10-10: Stu starts “covering” snakes; they fall, two die, and one remains at Stu. The method and which two are unreported; no further result is supplied for the three airborne pursuers. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Kagrenac commands his established owl toward the three airborne pursuers. No owl response, completed movement or new snake outcome is reported. [Session](../../Adventures/2026-10-10.md).
+
 ## Related Entries
+- [Kagrenac](./The%20Astral%20Elf.md)
+- [Kagrenac's Owl](./Kagrenacs%20Owl.md)
 - [Party balloon / skyship](../Places/Party%20Skyship%20-%202026-08-29.md)
 - [Stu](./Stu.md)
 - [Unnamed cliffs](../Places/Unnamed%20Cliffs%20-%202026-10-10.md)

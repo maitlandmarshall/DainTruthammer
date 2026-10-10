@@ -13,7 +13,8 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - DM: Tom.
 
 ## Status
-- [Broader party encounter; Dain unaware] [Confirmed latest action, 2026-10-10] After Stu pursues the goblins in brown-bear form, **Kagrenac puts both goblins to sleep**. They fall dramatically to the ground, with the chest causing a dramatic slide through the dirt. Exact sleep method/spell, rolls, level, duration and resources are unreported; the wording does not confirm the named Sleep spell. No damage, waking, chest recovery or Dain awareness change is supplied. [Session](../../Adventures/2026-10-10.md); [goblins](./Goblin%20Intruders%20-%202026-10-10.md).
+- [Broader encounter] [Confirmed latest command, 2026-10-10] **Kagrenac commands [his established owl](./Kagrenacs%20Owl.md) toward the three airborne snakes flying toward the retreating party.** The owl's response and any effect are unreported. No flight, attack, Help action, summon, roll, spell or resource use is assigned. The target group is separate from the one snake remaining at Stu and the two confirmed deaths. [Snakes](./Flying%20Snakes%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+- [Broader party encounter; Dain unaware then] [Confirmed preceding action, 2026-10-10] After Stu pursues the goblins in brown-bear form, **Kagrenac puts both goblins to sleep**. They fall dramatically to the ground, with the chest causing a dramatic slide through the dirt. Exact sleep method/spell, rolls, level, duration and resources are unreported; the wording does not confirm the named Sleep spell. No damage, waking, chest recovery or Dain awareness change is supplied by that beat. [Session](../../Adventures/2026-10-10.md); [goblins](./Goblin%20Intruders%20-%202026-10-10.md).
 - [Party] [Confirmed, 2026-10-10] Matt's moon elf / Kagrenac is aboard the balloon carriage with [Stu](./Stu.md), who is working on a white-wolf cloak in brown-bear form, and [Christina](./Christina.md). [Session](../../Adventures/2026-10-10.md).
 - [Confirmed, 2026-10-03; established roster attribution] Matt / Kagrenac loads **Cure Wounds into one of Dain's two spell-storing stones**. Dain will choose the other spell later. Exact loading method, action cost and spell-slot expenditure are unreported. [Stone contents](../Items/Spell-Storing%20Crystals%20-%202026-10-03.md#current-holdings); [Session](../../Adventures/2026-10-03.md).
 - [Party] [Confirmed] Name: Kagrenac. User confirmation recorded 2026-05-03.
@@ -24,6 +25,12 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] [Confirmed] Kagrenac did not receive or wear the `Ghostly Form Tattoo`; Dain received that reward instead. [Retcon] User correction recorded 2026-05-03.
 - [Party] [Confirmed on 2026-07-11] Kagrenac declares that he no longer trusts Dain and accuses Dain of murdering a dwarf connected to the hidden tunnel history.
 - [To verify] Class, pronouns, motives, and relationship to Yuckie.
+
+## Owl Command - 2026-10-10
+
+![Kagrenac gives his perched owl a direction toward three airborne snakes](../../Adventures/2026-10-10/kagrenac-directs-owl-toward-three-snakes.png)
+
+- The directing gesture and perched owl stage the command without illustrating a completed owl action. Posture, perch, head orientation and spacing are illustrative; no flight, interception, attack or Help effect is established. [Image notes](../../Adventures/2026-10-10/kagrenac-owl-command-image-notes.md).
 
 ## Goblins Put To Sleep - 2026-10-10
 
@@ -39,6 +46,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Character-only] The 2026-07-11 notebook records `+13` respect connected to Kagrenac. [To verify direction, triggering beat, and resulting total]
 
 ## What The Party Knows
+- [Broader encounter] Kagrenac directs his owl toward the three airborne snakes pursuing the retreating party on 2026-10-10. The command's result remains unreported. [Session](../../Adventures/2026-10-10.md).
 - [Party] Kagrenac's owl warned the party about the approaching ogres at the creek-fork camp.
 - [Party] Kagrenac killed Dain's suggested enemy before the party could exploit the enchantment further after the harpy fight.
 - [Party] Kagrenac cast `Thaumaturgy` on himself and addressed Brother Taleesh in Draconic when Taleesh arrived at the forest camp.
@@ -56,6 +64,7 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 - [Party] On the approach to the Truthhammer gates, the character described as the moon elf notices airships and decides to head to the mountains first, changing his immediate priority from Agland's letter to delivering armor to Dain's father. [Moon-elf identity clarified on 2026-10-10; To verify which armor, carrier, and reason]
 
 ## What Is Uncertain
+- [To verify] The owl's response to the current snake direction, any later movement/action, and the command's mechanical method or cost.
 - [To verify] Whether Kagrenac understood Dain's plan for the suggested enemy.
 - [To verify] Whether the owl is familiar, companion, trained scout, or another magical feature.
 - [To verify] Whether Draconic is one of Kagrenac's known languages or was enabled by another feature.
@@ -90,7 +99,11 @@ Matt's Astral Elf party member whose boldness, owl, and questionable ballista ju
 
 - 2026-10-03: Matt puts Cure Wounds into one of Dain's spell-storing stones. The established roster attributes the action to Kagrenac; no release or healing is reported. [Session](../../Adventures/2026-10-03.md).
 
+- 2026-10-10: Kagrenac commands his established owl toward the three airborne snakes flying toward the retreating party. The owl's response and any effect remain unreported. [Session](../../Adventures/2026-10-10.md).
+
 ## Related Entries
+- [Kagrenac's Owl](./Kagrenacs%20Owl.md)
+- [Flying Snakes - 2026-10-10](./Flying%20Snakes%20-%202026-10-10.md)
 - [Stu](./Stu.md)
 - [Christina](./Christina.md)
 - [Session 2026-10-10](../../Adventures/2026-10-10.md)
