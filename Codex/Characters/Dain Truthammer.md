@@ -34,6 +34,10 @@
 
 - Sequential panels show one anonymous goblin's grenade throw and Dain taking the reported 11 damage, still mounted on Stu. Attacker appearance, weapon design, fuse/detonation, blast size/fragments/light, Dain's recoil/hand pose, crop and camp scenery are illustrative. No damage type, save, other party damage, shield spell, dismount, injury detail, casualty, retaliation or current HP is established. [Image notes](../../Adventures/2026-10-10/goblin-grenade-dain-damage-image-notes.md).
 
+![Dain's Chromatic Orb passes through the fire pit and blasts both walls of the main tent](../../Adventures/2026-10-10/dain-chromatic-orb-main-tent.png)
+
+- Dain's shot through the fire pit and the main tent's front/back holes are supplied outcomes. His pose on Stu, prismatic color, curved trail, pit shape/unlit ash, tent construction, hole dimensions, cloth scraps and night scenery are illustrative. The view establishes no chosen damage type, general projectile rule, tent fire/collapse, occupant/contents count, creature damage or camp reaction. [Image notes](../../Adventures/2026-10-10/chromatic-orb-main-tent-image-notes.md).
+
 ## One-Line Summary
 A dwarf wizard with the bearing of an honest magistrate and the soul of a delighted meddler, drawn to deception, strange magic, and the hidden usefulness of apparently silly spells.
 
@@ -44,11 +48,13 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 
 ## Status
 
+- [Latest personal casting, 2026-10-10] **Dain shoots [Chromatic Orb](../Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting a hole through its front and back.** The shot and both holes are confirmed. Type/roll/damage, casting level/resource, occupants and further effects remain unreported. HP after the preceding 11 grenade damage is still [To verify]. His earlier guarantee/countdown remain historical; no motive or negotiation outcome is assigned. [Session](../../Adventures/2026-10-10.md).
+
 - [Latest confirmed personal damage, 2026-10-10] **A [goblin](./Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) at the ground group; Dain takes 11 damage.** Current HP after the hit is [To verify]; 28 is the last supplied total before the later riverside rest. Type/save/roll, temp HP, other party damage, reaction, concentration outcome and any new condition remain unreported. No dismount, retaliation or new spell is supplied. [Session](../../Adventures/2026-10-10.md).
 
-- [Preceding rock/goop outcome, 2026-10-10] **The dropped [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) hits a rock and turns into goop, wrapping into the rock.** Cause, death/survival, numerical damage and camp reply are unknown. No new Dain action or reaction is supplied; the countdown remains his latest personal action. His earlier no-violence guarantee stays recorded. [Session](../../Adventures/2026-10-10.md).
+- [Preceding rock/goop outcome, 2026-10-10] **The dropped [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) hits a rock and turns into goop, wrapping into the rock.** Cause, death/survival, numerical damage and camp reply are unknown. No new Dain action or reaction is supplied; the countdown was his latest personal action at that preceding beat. His earlier no-violence guarantee stays recorded. [Session](../../Adventures/2026-10-10.md).
 
-- [Latest personal action, 2026-10-10] **Dain begins a countdown and threatens, “if you don’t reveal for negotiations we will rain hellfire down upon you”. The countdown reaches 0.** This follows his earlier no-violence guarantee; the promise and escalation both remain recorded. No actual hellfire spell, guano use or bombing is supplied. [Session](../../Adventures/2026-10-10.md).
+- [Earlier countdown, 2026-10-10] **Dain begins a countdown and threatens, “if you don’t reveal for negotiations we will rain hellfire down upon you”. The countdown reaches 0.** This follows his earlier no-violence guarantee; the promise and escalation both remain recorded. No actual hellfire spell, guano use or bombing is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Preceding bird-form drop, before the impact, 2026-10-10] **[Tona](./Tona.md) in bird form lifts the [flanking goblin](./Flanking%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) and drops it in front of the fire pit as a warning.** Tona's identity, the goblin's condition and the camp's response remain unreported. No attack roll, damage, intimidation outcome, organisers' explanation, Wet ending or numerical resource change is assigned.
 
 - [Preceding camp movement, before the countdown, 2026-10-10] **The visible [camp goblin](./Visible%20Goblin%20at%20the%20Camp%20-%202026-10-10.md) suddenly dashes behind a tent and disappears from view.** Exact observer, further position/route, identity and motive remain unreported. No new Dain action/reaction is supplied; his preceding Minor Illusion/booming announcement and no-violence guarantee remain his latest personal action and stated terms. The movement establishes no spoken reply, accepted/rejected peace offer, alarm or attack. [Session](../../Adventures/2026-10-10.md).
@@ -340,6 +346,8 @@ A dwarf wizard with the bearing of an honest magistrate and the soul of a deligh
 - 2026-10-10: Enters the goblin camp riding Stu with Harry and Yuckie, backed by giant-eagle Tina. Casts Minor Illusion and delivers a booming, peaceful call for discussion with a no-violence guarantee: **“The truth needs liberation.”** No camp response or organisers' explanation is reported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: **Takes 11 damage when a goblin throws a fragmentation grenade at the ground group.** HP after the hit, type/save and other party effects remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Shoots [Chromatic Orb](../Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting through its front and back.** Chosen type, roll/damage, resource and further consequences remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 ## Earlier Legendary Sleep - 2026-10-10
 

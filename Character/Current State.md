@@ -12,6 +12,8 @@
 
 ## Active Session - 2026-10-10
 
+- [Latest personal casting] **Dain casts [Chromatic Orb](../Codex/Powers/Chromatic%20Orb.md) through the fire pit into the main tent and blasts a hole through its front and back.** Both holes and the shot route are confirmed; chosen type, roll/damage, casting level/resource and any occupant/other effects remain unreported. Last supplied mount is Stu; no dismount is reported. Current HP after the earlier 11 grenade damage remains [To verify]. [Session](../Adventures/2026-10-10.md).
+
 - [Latest encounter outcome] **The same [grenade-throwing goblin](../Codex/Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a javelin at [Kagrenac's owl](../Codex/Characters/Kagrenacs%20Owl.md) and kills it.** Owl death and attacker continuity are confirmed. Earlier flanking was an order without a reported completed action; the owl is now dead. Roll/damage, body disposition and Kagrenac's response remain unreported. Blimp arrival and Dain's HP after the preceding 11 damage remain open. [Session](../Adventures/2026-10-10.md).
 
 - [Latest incoming attack and personal damage] **A [goblin](../Codex/Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) comes and throws a [fragmentation grenade](../Codex/Items/Fragmentation%20Grenade%20-%202026-10-10.md) at the ground group; Dain takes 11 damage.** HP immediately before/after, temp-HP handling, type/save/roll, other ground-group effects and attacker identity remain unreported. **Current HP is [To verify after this hit]**; 28 remains the old last supplied total before the riverside rest. No current total is invented. [Session](../Adventures/2026-10-10.md).
@@ -214,7 +216,9 @@
 
 ## Resources
 
-- Latest Dain spell use, 2026-10-10: **[Minor Illusion](../Codex/Powers/Minor%20Illusion.md)** accompanies the booming camp announcement. The known cantrip is not newly learned; no numerical resource use or effect ending is supplied. Kagrenac's Polymorph transforms Tina into a giant eagle; it does not change Dain's spell list or known slot maximums. Earlier Suggestion expenditure/duration/ending and current remaining slots remain unreported.
+- Latest Dain spell use, 2026-10-10: **[Chromatic Orb](../Codex/Powers/Chromatic%20Orb.md) through the fire pit and both walls of the main tent.** Casting level, numerical expenditure and slot versus Magic Initiate use remain [To verify]. The known spell is not newly learned; no exact remaining slot/use total is inferred.
+
+- Preceding Dain spell use, 2026-10-10: **[Minor Illusion](../Codex/Powers/Minor%20Illusion.md)** accompanies the booming camp announcement. The known cantrip is not newly learned; no numerical resource use or effect ending is supplied. Kagrenac's Polymorph transforms Tina into a giant eagle; it does not change Dain's spell list or known slot maximums. Earlier Suggestion expenditure/duration/ending and current remaining slots remain unreported.
 
 - Preceding spell use, 2026-10-10: **[Suggestion](../Codex/Powers/Suggestion.md) succeeds on the smarter goblin captive** with “you must do as I say and be silent”. Casting level/source/expenditure and current duration/concentration/ending remain [To verify]. The maximum slot counts below remain unchanged; current remaining slots are still unknown.
 
@@ -222,7 +226,7 @@
 - Attunement: `1 / 3` confirmed slots occupied by the [Breastplate of Balance](../Codex/Items/Breastplate%20of%20Balance.md). The [Ghostly Form Tattoo](../Codex/Items/Ghostly%20Form%20Tattoo.md)'s attunement requirement and applied state remain [To verify].
 - Arcane Recovery: recover up to `3` total spell levels during a short rest; remaining use [To verify]. Once per long rest in 2024 / once per day in 2014.
 - Stonecunning (Tremorsense): prior sheet `2 / Long Rest`; `3 / Long Rest` if using the 2024 proficiency-based feature [To verify table version and remaining uses].
-- Chromatic Orb: Cast at the [Werebear at Smoky Cave](../Codex/Characters/Werebear%20at%20Smoky%20Cave.md) for `11` acid damage on 2026-05-03. [To verify] Whether this spent a 1st-level spell slot, the refreshed Magic Initiate `1 / Long Rest` use, or another table-specific resource.
+- Earlier Chromatic Orb use: Cast at the [Werebear at Smoky Cave](../Codex/Characters/Werebear%20at%20Smoky%20Cave.md) for `11` acid damage on 2026-05-03. [To verify] Whether this spent a 1st-level spell slot, the refreshed Magic Initiate `1 / Long Rest` use, or another table-specific resource.
 - Ghostly Form Tattoo: Dain received this harpy-fight reward; exact charges, attunement, and whether it has been applied are [To verify]. [Character-only] [Confirmed] [Retcon] User correction recorded 2026-05-03.
 - Breastplate of Balance: Dain owns this rare medium armour and last confirmed attunement on 2026-07-11. He is now wearing Dwarven Half Plate instead. Current storage, charges and any attunement change remain unrecorded.
 - Dwarven Half Plate: [Confirmed] Acquired 2026-08-29 and **currently worn**, clarified 2026-10-03. Earlier description: `+2 AC`. Standard magical `+2` interpretation gives AC 17 at DEX +0; exact bonus, Stealth effect and attunement remain to verify.

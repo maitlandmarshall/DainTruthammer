@@ -32,11 +32,17 @@
 
 - Two sequential panels show the same goblin throwing one javelin and the established small brown-and-white owl killed by the strike. Attacker appearance, javelin design, owl flight/pose, impact placement, feathers and night/tent scenery are illustrative. Death and attacker continuity are supplied; range, numerical damage, exact location/body landing, familiar identity, magical disappearance and Kagrenac's reaction are unreported. [Image notes](../../Adventures/2026-10-10/goblin-javelin-owl-death-image-notes.md).
 
+![Dain's Chromatic Orb passes through the fire pit and blasts both walls of the main tent](../../Adventures/2026-10-10/dain-chromatic-orb-main-tent.png)
+
+- Dain's shot through the fire pit and the main tent's front/back holes are supplied outcomes. His pose on Stu, prismatic color, curved trail, pit shape/unlit ash, tent construction, hole dimensions, cloth scraps and night scenery are illustrative. The view establishes no chosen damage type, general projectile rule, tent fire/collapse, occupant/contents count, creature damage or camp reaction. [Image notes](../../Adventures/2026-10-10/chromatic-orb-main-tent-image-notes.md).
+
 ## One-Line Summary
 
-An organised camp found by Kagrenac's owl and Brother Taleesh, entered by Dain's ground group under an earlier no-violence guarantee; a goblin throws a grenade that deals Dain 11 damage, then kills Kagrenac's owl with a javelin.
+The organised goblin camp entered by Dain's ground group; after a grenade deals Dain 11 damage and the same attacker kills Kagrenac's owl with a javelin, Dain's Chromatic Orb blasts holes through the main tent's front and back via the fire pit.
 
 ## Confirmed Discovery
+
+- [Latest confirmed tent damage, 2026-10-10] **Dain shoots [Chromatic Orb](../Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting a hole through its front and back.** The main tent and both holes are confirmed. Type/roll/damage, casting resource, occupants and further effects remain unreported. [Session](../../Adventures/2026-10-10.md).
 
 - [Latest confirmed death, 2026-10-10] **The same [grenade thrower](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) throws a javelin at [Kagrenac's owl](../Characters/Kagrenacs%20Owl.md) and kills it.** Owl death and continuity of this attacker are confirmed; roll/damage, precise location, body disposition and Kagrenac's reaction remain unreported. [Session](../../Adventures/2026-10-10.md).
 
@@ -79,6 +85,18 @@ An organised camp found by Kagrenac's owl and Brother Taleesh, entered by Dain's
 
 - This later attachment accompanies Kagrenac driving toward the middle and ordering his owl to flank. It is a table reference, without a keyed layout, identified miniatures, grid scale, altitude or confirmed centre arrival/response.
 - Saved unchanged as `goblin-camp-blimp-approach-table-photo.jpg`; 295544 bytes; SHA-256 `7a2e63c849f0171f83054db23336d2674cbc2ae33d2dc323a23b7d8bdc3b8f82`. Source original remains in the remote-attachments folder. Local archive only, not posted to Discord.
+
+### Chromatic Orb And Main Tent Table Photo
+
+![Table reference accompanying Dain's Chromatic Orb through the main tent](../../Adventures/2026-10-10/chromatic-orb-main-tent-table-photo.jpg)
+
+- Supplied photo copied unchanged. The drawing, pointed area, miniatures and grid remain unkeyed: no scale, exact spell geometry, tent dimensions or individual identity is inferred. The main tent and front/back holes are confirmed by the narration. [Session](../../Adventures/2026-10-10.md).
+
+## Chromatic Orb Through The Main Tent - 2026-10-10
+
+- **Dain shoots Chromatic Orb through the fire pit into the main tent and blasts a hole through its front and back.** The fire pit lies along this shot's supplied route, without a keyed position or dimensions.
+- Both holes are confirmed; tent shape/size, occupants/contents, creature hits, ignition, collapse and reactions remain unreported. Fire-pit burning state and numerical damage/type/roll are not supplied.
+- Casting level/resource and any ongoing-effect outcome remain unknown. This follows the owl's death; motive and retaliation are not assigned. [Session](../../Adventures/2026-10-10.md).
 
 ## Javelin Kills Kagrenac's Owl - 2026-10-10
 
@@ -152,6 +170,8 @@ An organised camp found by Kagrenac's owl and Brother Taleesh, entered by Dain's
 - Captive affiliation, motives, answers, and connections to the gorge, cliffs, unknown archer, flying snakes, northern dark forest or older goblin/hobgoblin camps.
 - This is a separately indexed new discovery. It is not identified with an older camp or the [Goblin Camp Chest](../Items/Goblin%20Camp%20Chest.md).
 
+- Main tent after the orb: exact geometry, hole sizes, occupants/contents, creature effects, fire/collapse, discoveries and actual response. The new table photo is unkeyed and supplies no exact coordinates, range, scale or damage type.
+
 ## Related Entries
 - [Kagrenac](../Characters/The%20Astral%20Elf.md)
 - [Kagrenac's Owl](../Characters/Kagrenacs%20Owl.md)
@@ -171,3 +191,5 @@ An organised camp found by Kagrenac's owl and Brother Taleesh, entered by Dain's
 
 - [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md)
 - [Fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md)
+
+- [Chromatic Orb](../Powers/Chromatic%20Orb.md)

@@ -36,6 +36,8 @@
 
 ## Current Live Focus - 2026-10-10
 
+- [Latest personal casting and tent damage] **Dain's [Chromatic Orb](../Powers/Chromatic%20Orb.md) passes through the fire pit into the main tent, blasting a hole through its front and back.** Both holes are confirmed. Type/roll/damage, casting resource, occupants and actual response remain open. [Camp follow-up](#organised-goblin-camp-and-dains-question).
+
 - [Latest confirmed death] **The grenade thrower also throws the javelin that kills [Kagrenac's owl](../Characters/Kagrenacs%20Owl.md).** The owl is dead; the earlier flank order had no reported execution before the hit. Record Kagrenac's actual response and any body disposition when supplied. [Camp follow-up](#organised-goblin-camp-and-dains-question).
 
 - [Preceding attack/damage] **A goblin throws a fragmentation grenade at the ground group; Dain takes 11 damage.** Current HP/type/save, other party effects and next response remain open. The same goblin subsequently kills the owl with a javelin; the rock/goop mystery stays unresolved. [Camp follow-up](#organised-goblin-camp-and-dains-question).
@@ -120,7 +122,7 @@
 
 ### Organised Goblin Camp And Dain's Question
 
-- Status: **The same grenade-throwing goblin throws a javelin at Kagrenac's owl and kills it.** Owl death and attacker continuity are confirmed. Kagrenac's response, body disposition, attack roll/damage and subsequent actions remain unreported. Dain's preceding 11 damage/current HP question, blimp movement, goop/rock mystery and earlier guarantee remain recorded.
+- Status: **Dain shoots Chromatic Orb through the fire pit into the main tent, blasting a hole through its front and back.** Both holes and the route are confirmed; chosen type, roll/damage, casting resource, occupants and subsequent actions remain unreported. The same grenade thrower's earlier javelin killed Kagrenac's owl. Dain's preceding 11 damage/current HP question, blimp movement, goop/rock mystery and earlier guarantee remain recorded.
 - Damage follow-up: Record Dain's supplied current HP after the 11 damage and any table-confirmed type/save, temp HP, other group effects, condition or concentration result. The old 28 before the riverside rest is not a verified starting HP for this hit.
 - Attacker/weapon boundary: [Grenade-throwing goblin](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md) and [fragmentation grenade](../Items/Fragmentation%20Grenade%20-%202026-10-10.md) are recorded under their supplied descriptions. Identity, relation to known goblins, weapon rules/source, remaining stock and collective camp motive remain unknown.
 - Aerial follow-up: Record actual blimp movement/arrival and Kagrenac's response to his owl's death. The earlier flank order had no reported execution before the same grenade thrower killed the owl with a javelin; exact pre-hit owl position/target and body disposition remain unknown. The table photo stays unkeyed, without inferred altitude.
@@ -140,6 +142,8 @@
 - Linked entries: [Camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md), [map photo](../../Adventures/2026-10-10/goblin-camp-next-map-table-photo.jpg), [Dain](../Characters/Dain%20Truthammer.md), [Stu](../Characters/Stu.md), [Harry](../Characters/Hammerton%20Harry%20Drizddon.md), [Yuckie](../Characters/Yuckie%20the%20Goblin.md), [Tina](../Characters/Tina.md), [Kagrenac](../Characters/The%20Astral%20Elf.md), [Minor Illusion](../Powers/Minor%20Illusion.md), [Polymorph](../Powers/Polymorph.md), [Suggestion](../Powers/Suggestion.md), [Taleesh](../Characters/Brother%20Taleesh.md), [owl](../Characters/Kagrenacs%20Owl.md), [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md), [snake people](../Factions/Snake%20People.md), [guano](../Items/Guano%20in%20the%20Bag%20of%20Holding%20-%202026-10-10.md), [balloon](../Places/Party%20Skyship%20-%202026-08-29.md), [earlier captive-recovery assignment](#recover-the-cults-captives), [session](../../Adventures/2026-10-10.md).
 
 - Owl death: **Confirmed dead from the same attacker's javelin.** Familiar identity, magical disappearance and any resummoning/resource consequence are unreported. The owl is separate from Tina's giant-eagle form. [Owl](../Characters/Kagrenacs%20Owl.md); [attacker](../Characters/Grenade-Throwing%20Goblin%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
+
+- Main tent follow-up: Record any actual discovery through the two holes, occupant effects and camp/party response. The supplied Chromatic Orb result does not establish ignition, collapse, a casualty, a general object/penetration rule or a chosen damage type. Casting level/resource and remaining uses stay open. [Chromatic Orb](../Powers/Chromatic%20Orb.md); [camp](../Places/Organised%20Goblin%20Camp%20-%202026-10-10.md); [session](../../Adventures/2026-10-10.md).
 
 ### Goblins In The Balloon Carriage
 

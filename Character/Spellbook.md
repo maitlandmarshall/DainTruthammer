@@ -29,7 +29,7 @@
 - Thunderwave
 - Disguise Self
 - Silent Image
-- Chromatic Orb [Confirmed] via Magic Initiate (Wizard), `1 / Long Rest` or cast with spell slots
+- [Chromatic Orb](../Codex/Powers/Chromatic%20Orb.md) [Confirmed] via Magic Initiate (Wizard), `1 / Long Rest` or cast with spell slots
 
 ## 2nd-Level Spells On Sheet
 - [Suggestion](../Codex/Powers/Suggestion.md)
@@ -128,3 +128,5 @@
 - 2026-10-10: **Dain casts [Suggestion](../Codex/Powers/Suggestion.md) on the “smart” captive while riding Stu in bear form and says, “you must do as I say and be silent”. Success is explicitly reported.** No save roll, casting level/source/expenditure, duration, concentration state, ending or subsequent instruction/compliance is supplied. Current numerical remaining slots are unknown; no recovery is assumed. [Session](../Adventures/2026-10-10.md).
 
 - 2026-10-10: **Dain casts [Minor Illusion](../Codex/Powers/Minor%20Illusion.md) and uses a booming voice on entering the goblin camp riding Stu, calling the goblins out for discussion and guaranteeing no violence: “The truth needs liberation.”** The spell and delivery are supplied; exact source/volume/duration of the booming effect, any separate named spell, rolls, resource use and NPC response are unreported. No new spell learning, ended Suggestion or numerical recovery is inferred. Kagrenac separately Polymorphs Tina into a giant eagle; this is not added to Dain's learned spells. [Session](../Adventures/2026-10-10.md).
+
+- 2026-10-10: **Dain shoots [Chromatic Orb](../Codex/Powers/Chromatic%20Orb.md) through the fire pit into the main tent, blasting a hole through its front and back.** Chosen damage type, attack/damage roll, casting level and resource source/expenditure are unreported. The established Magic Initiate/slot options are not resolved by this narration; remaining uses/slots stay unknown. [Session](../Adventures/2026-10-10.md).
