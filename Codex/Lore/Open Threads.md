@@ -1,5 +1,7 @@
 # Open Threads
 
+- [Latest snake proximity and arrow attempt] **[Stu](../Characters/Stu.md) runs back toward the two [captives](../Characters/Goblin%20Intruders%20-%202026-10-10.md) and the [snakes](../Characters/Flying%20Snakes%20-%202026-10-10.md), now near the goblins; Tina then fires another arrow at the snakes.** Arrival, shot roll/target/result, captive response and Tina's character-name mapping/link to Christina remain open. The preceding 17 is a separate shot; no new snake death is established. [Follow-up](#four-flying-snakes-and-the-cliffs).
+
 - [Latest investigation] **[Brother Taleesh](../Characters/Brother%20Taleesh.md) does a perimeter sweep and goes to check out the [unnamed gorge](../Places/Unnamed%20Gorge%20-%202026-10-10.md).** [Taleesh belief] His vague suspicion that the earlier arrow came from there is unconfirmed. No finding, shooter, check result or communicated knowledge is supplied. [Arrow source follow-up](#arrow-glances-off-harrys-armour).
 
 - [Latest round and survival] **Round 7: [Harry](../Characters/Hammerton%20Harry%20Drizddon.md) continues dragging the [Chest of Preserving](../Items/Chest%20of%20Preservation.md) toward the balloon; both [goblin prisoners](../Characters/Goblin%20Intruders%20-%202026-10-10.md) are still alive.** Arrival/loading, measured progress, prisoner waking/reaction and HP/injury extent remain unreported. [Encounter follow-up](#goblins-in-the-balloon-carriage).
@@ -31,6 +33,8 @@
 - [Carry-forward research] **Magic Mouth is learned; all scrolls are consumed.** Earlier airship Leaky Tent refinement using Stinking Cloud remains unapproved as a revision. Dain's two spell-storing stones remain one with Cure Wounds and one spell choice pending. Current resources, copying costs, stone rules, mining totals/allocation, burial/recovery details, harvest yields and **750 XP** allocation remain open. [Active session](../../Adventures/2026-10-10.md)
 
 ## Current Live Focus - 2026-10-10
+
+- [New shot pending; snakes near captives] Record Tina's shot roll, target and outcome, the supplied name's character mapping/link to Christina, and Stu's actual arrival or later action when reported. The remaining snakes are near the captives; Stu is running toward them. Three prior local snakes stay down, with no new death or prisoner response. [Snake encounter](#four-flying-snakes-and-the-cliffs).
 
 - [Active gorge investigation] Record Taleesh's actual sweep/gorge findings, rolls, movement or any communication of his hunch when supplied. The gorge is a suspected lead, not a confirmed firing position; no new round, elapsed time, resources or encounter outcome is inferred. [Arrow investigation](#arrow-glances-off-harrys-armour).
 
@@ -72,7 +76,9 @@
 
 ### Four Flying Snakes And The Cliffs
 
-- Status: Christina's arrow, reported result 17, destroys the last snake beside Stu; it bursts/rips apart and is pierced to the ground. [Derived] All three local snakes are down. The three airborne pursuers and the owl's response remain unresolved; shot damage, Stu's HP/condition and boarding remain open.
+- Latest movement and arrow attempt, 2026-10-10: **Stu runs back toward the captives and snakes, now near the captives; Tina shoots another arrow at the snakes.** Only approach and shot attempt are established. The current context is the three remaining airborne snakes, without a new count/population report. No arrival/contact, individual target, roll, hit/miss, damage, new death, prisoner attack or response is supplied. [To verify] Tina's identity/link to Christina; the prior 17 belongs to Christina's earlier local kill.
+
+- Status: The remaining snakes are now near the two goblin prisoners; Stu runs back toward them, then Tina fires another arrow at the snakes. Shot roll/target/outcome, bear arrival and Tina's identity/link to Christina are unreported. The contextual three airborne pursuers remain unresolved; all three former local snakes stay down. Owl response, Stu's HP/condition and boarding remain open.
 - Tags: [Broader encounter] [Confirmed arrow destroys last snake at Stu] [Derived local trio down] [Three airborne pursuers unresolved] [To verify mechanics and remaining outcomes].
 - Earlier report, 2026-10-10: Maitland clarifies **“Approaching the party; cliffs behind them”**, resolving the initial direction ambiguity. That four-creature approach remains source history.
 - Preceding report, 2026-10-10: **Six snakes surround Stu**, in brown-bear form; the preceding report includes a critical hit for **about 15 total; breakdown still unclear** after the initial 2 piercing / 10 poison source. He is fine then, before the next hit. No per-snake allocation or critical-damage doubling is added.
@@ -88,7 +94,9 @@
 
 ### Goblins In The Balloon Carriage
 
-- Status: **Round 7; both goblin prisoners are still alive. Harry continues dragging the chest toward the balloon.** Yuckie's last reported haul and their shared hand-and-foot cuffs remain established; arrival/boarding, prisoner waking/reaction and HP/injury extent remain unreported. The earlier arrow glance is a preceding event, not a new shot. Dain is awake and in battle after his steam entrance, failed Taleesh lift and 25-foot run; specific observations and prior-event knowledge remain unreported.
+- Latest nearby movement, 2026-10-10: The remaining snakes are now near the two captives; Stu approaches that group and Tina fires at the snakes. No snake attack against the goblins, bear arrival/contact, new prisoner injury, waking/reaction, death, release or completed return is supplied. Yuckie is separate from the prisoners.
+
+- Status: The snakes are now near the two captured intruders; Stu runs back toward them, then Tina shoots another arrow at the snakes with no reported result. Round 7 remains last reported and both prisoners remain last confirmed alive, linked at hands and feet. Yuckie's haul, Harry's chest return, waking/reaction, HP/injury extent and arrival/boarding remain unresolved. Dain's latest steam entrance, failed Taleesh lift and 25-foot run are unchanged.
 - Tags: [Party] [Confirmed opening] [To verify outcomes].
 - Latest round/survival update, 2026-10-10: **Harry continues the chest return in round 7, and both goblins remain alive.** No measured distance, new arrow, roll, completed return, cargo result or prisoner reaction is supplied. Survival establishes no new waking, continued sleep, recovered health or release.
 - Opening, 2026-10-10: The loud sound of the Chest of Preservation dropping over the carriage's side alerts the party to two goblins already inside.

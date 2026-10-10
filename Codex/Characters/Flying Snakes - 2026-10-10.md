@@ -3,7 +3,7 @@
 ![Christina's arrow destroys the last snake beside Stu and pins its disrupted body to the ground](../../Adventures/2026-10-10/christina-arrow-destroys-last-snake-at-stu.png)
 
 ## One-Line Summary
-Christina's arrow destroys the last snake beside Stu, with 17 reported; all three local snakes are down. The three airborne pursuers and the owl's response remain unresolved.
+The remaining snakes are now near the two goblin prisoners; Stu runs back toward the group, then Tina fires another arrow at the snakes. Shot outcome and bear arrival are unreported. The contextual three airborne pursuers remain unresolved, while the three snakes previously beside Stu stay down.
 
 ## Table Role
 - Role: Encounter creatures; table control [To verify].
@@ -11,7 +11,9 @@ Christina's arrow destroys the last snake beside Stu, with 17 reported; all thre
 - This page keeps the earlier four-creature approach and the later six-snake report together as encounter records. It does not establish that they describe an identical group, additional arrivals or a total encounter population. No names or handler are supplied.
 
 ## Status
-- [Confirmed latest arrow destruction, 2026-10-10] **[Christina](./Christina.md) fires an arrow—17 reported—and the snake bursts, rips apart and is pierced to the ground.** Maitland identifies it as **the one remaining beside [Stu](./Stu.md)**. Raw-versus-modified roll and damage are unreported. [Derived count] Two preceding deaths plus this destruction leave **three local snakes down, with no survivor in that local trio**. No new result is supplied for the three airborne snakes. [Session](../../Adventures/2026-10-10.md).
+
+- [Confirmed latest proximity and arrow attempt, 2026-10-10] **The snakes are now near the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md). [Stu](./Stu.md) runs back toward them; Tina then shoots another arrow at the snakes.** The contextual remaining count is the prior three airborne pursuers, without an independently supplied recount or new group. No individual target, roll, hit/miss, damage, new death, snake attack on a prisoner, reaction or completed bear arrival is reported. [To verify] Tina's identity/link to Christina. The earlier 17 applies only to Christina's prior destruction of Stu's last local snake. All three former local snakes stay down; owl response and wider encounter outcome remain open. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed preceding arrow destruction, 2026-10-10] **[Christina](./Christina.md) fires an arrow—17 reported—and the snake bursts, rips apart and is pierced to the ground.** Maitland identifies it as **the one remaining beside [Stu](./Stu.md)**. Raw-versus-modified roll and damage are unreported. [Derived count] Two preceding deaths plus this destruction leave **three local snakes down, with no survivor in that local trio**. No new result is supplied for the three airborne snakes. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed latest spell attempt, 2026-10-10] **[Kagrenac](./The%20Astral%20Elf.md) casts [Fire Bolt](../Powers/Fire%20Bolt.md) at the snakes in the distance and fails.** The three airborne pursuers are the contextual target group; the particular snake, roll and exact failure cause are unreported. No successful hit, damage, multiple-target effect, snake reaction or changed course is supplied. The owl's response remains open. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed latest command, 2026-10-10] **[Kagrenac](./The%20Astral%20Elf.md) commands [his owl](./Kagrenacs%20Owl.md) toward the three airborne pursuers.** They were last reported flying toward the party retreating to the balloon about 100 feet away. No owl response, interception, attack, snake reaction, changed course or further outcome is supplied. This does not target or relocate the one snake at Stu. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding local outcome, 2026-10-10] **[Stu](./Stu.md) starts “covering” snakes. They fall; two die; one remains at Stu.** The exact method, rolls, damage and which individual snakes die are unreported. The three that flew toward the retreating party have no new reported movement, hit, death or outcome. One remaining at Stu does not mean one left in the entire encounter. [Session](../../Adventures/2026-10-10.md).
@@ -85,6 +87,12 @@ Christina's arrow destroys the last snake beside Stu, with 17 reported; all thre
 - 2026-10-10: Kagrenac casts Fire Bolt at the snakes in the distance and fails. No hit, damage, changed snake course or owl response is reported. [Session](../../Adventures/2026-10-10.md).
 
 - 2026-10-10: Christina's arrow, reported result 17, destroys the last snake beside Stu; it bursts/rips apart and is pierced to the ground. [Derived] All three local snakes are down. The three airborne pursuers remain unresolved. [Session](../../Adventures/2026-10-10.md).
+
+## Stu Returns And Tina Fires Again - 2026-10-10
+
+![Stu approaches the prisoners and nearby snakes, then an arrow remains in flight](../../Adventures/2026-10-10/stu-returns-tina-arrow-at-snakes.png)
+
+- The two panels show the same contextual three remaining snakes. Stu's arrival and the arrow's outcome are unreported; no new death, captive reaction or Tina/Christina identity mapping is established. Poses, terrain, distances and arrow design are illustrative. [Image notes](../../Adventures/2026-10-10/stu-return-and-tina-arrow-image-notes.md).
 
 ## Related Entries
 - [Christina](./Christina.md)

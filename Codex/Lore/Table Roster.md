@@ -51,3 +51,5 @@
 ## Companion Clarifications - 2026-10-10
 - [Stu](../Characters/Stu.md) is now explicitly described as a **brown bear**, working on a white-wolf cloak in the balloon carriage. Player mapping and class remain unreported.
 - [Christina](../Characters/Christina.md) is the companion Stu originally arrived with and is aboard with him and Kagrenac. Appearance, character/player-name mapping, class and control remain unreported. [Session](../../Adventures/2026-10-10.md).
+
+- [To verify] **Tina** is the latest supplied shooter name. The context suggests a possible link to [Christina](../Characters/Christina.md), but no explicit alias/character/player mapping is supplied. Preserve Tina in the new beat; do not create or merge a character identity without confirmation. Her new arrow's outcome is unreported. [Session](../../Adventures/2026-10-10.md).

@@ -9,7 +9,7 @@
 *The bear represents the confirmed transformation; species, poses and attacks are not mechanical evidence. Stu's ordinary appearance is unknown. [Image prompt and provenance](../../Adventures/2026-09-12/chaos-managed-image-notes.md).*
 
 ## One-Line Summary
-A party participant in brown-bear form whose local snake group is now down: two die after his “covering” action, and Christina's arrow destroys the last one beside him. Three airborne pursuers remain unresolved.
+A party participant in brown-bear form, now running back toward the captured goblins and the snakes near them; Tina fires another arrow at the snakes afterward. Bear arrival and shot outcome are unreported; the three snakes previously beside Stu remain down.
 
 ## Table Role
 - Role: Unknown / To verify.
@@ -26,8 +26,12 @@ A party participant in brown-bear form whose local snake group is now down: two 
 - 2026-10-10: [Broader party encounter; Dain unaware] The bear, resolved in context to Stu's established brown-bear form, chases the goblins. Kagrenac then puts both to sleep; they fall with the chest causing a dramatic dirt slide. No bear attack, new transformation or resource cost is reported. [Session](../../Adventures/2026-10-10.md).
 - 2026-10-10: Stu starts **“covering” snakes**; they fall, two die, and one remains at Stu. Exact method, rolls, damage and costs remain unreported. [Session](../../Adventures/2026-10-10.md).
 
+- 2026-10-10: Stu runs back toward the two captured goblins and the remaining snakes, now near them. Tina then shoots another arrow at the snakes; bear arrival and shot outcome remain unreported. [Session](../../Adventures/2026-10-10.md).
+
 ## Current State
-- [Confirmed latest local clearance, 2026-10-10] **[Christina](./Christina.md) fires an arrow, reported result 17, destroying the one remaining snake beside Stu** as it bursts/rips apart and is pierced to the ground. [Derived] Two earlier deaths plus this destruction leave **all three local snakes down**. The three airborne snakes remain unresolved. No new Stu damage, healing, HP, condition, form ending, XP or loot is supplied. [Session](../../Adventures/2026-10-10.md).
+
+- [Confirmed latest movement, 2026-10-10] **Stu runs back toward the two [goblin prisoners](./Goblin%20Intruders%20-%202026-10-10.md) and the [snakes](./Flying%20Snakes%20-%202026-10-10.md), which are now near the captives. Tina then shoots another arrow at the snakes.** The established brown bear resolves the supplied “bear” reference. No arrival, contact, attack, Dash, new damage/healing, form ending or resource cost is reported. Tina's identity/link to Christina and the shot outcome are unreported. About 23 remains the approximate cumulative damage ledger, not current HP. [Session](../../Adventures/2026-10-10.md).
+- [Confirmed preceding local clearance, 2026-10-10] **[Christina](./Christina.md) fires an arrow, reported result 17, destroying the one remaining snake beside Stu** as it bursts/rips apart and is pierced to the ground. [Derived] Two earlier deaths plus this destruction leave **all three local snakes down**. The three airborne snakes remain unresolved. No new Stu damage, healing, HP, condition, form ending, XP or loot is supplied. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding local outcome, 2026-10-10] Stu starts **“covering” the snakes; they fall, two die, and one remains at Stu**. The supplied wording does not establish a claw attack, bite, grapple, spell, smothering, crushing or covering material. No roll, damage amount, resource cost, XP or loot is supplied. Christina's later shot destroys that last local survivor; the three airborne pursuers remain open. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding damage sequence, 2026-10-10] The earlier about-15 damage came from **two of the six snakes**. Of the remaining four, one further hit supplies **1 piercing + 7 poison = 8 damage** to Stu in context; the other three fly toward the party retreating to the balloon about 100 feet away. [Derived] About 23 reported damage across the sequence, not an exact remaining-HP figure. His current HP, post-hit condition, poison status and ended form remain unreported. [Session](../../Adventures/2026-10-10.md).
 - [Confirmed preceding hit, 2026-10-10] Stu is in brown-bear form, surrounded by six snakes, and the preceding report includes a critical snake hit for **about 15 total damage; breakdown still unclear**. He is fine at that point, before the added 8. The initial 2 piercing / 10 poison source remains preserved; the later clarification attributes this preceding damage report to two snakes without per-snake allocation or extra criticals. [Session](../../Adventures/2026-10-10.md).
@@ -35,6 +39,12 @@ A party participant in brown-bear form whose local snake group is now down: two 
 - [Confirmed earlier scene, 2026-10-10] Stu stands in the [balloon carriage](../Places/Party%20Skyship%20-%202026-08-29.md) and works on a [white-wolf cloak](../Items/Stus%20White%20Wolf%20Cloak.md), with [Kagrenac](./The%20Astral%20Elf.md) and [Christina](./Christina.md). Christina originally arrived with Stu; the date/place and cloak completion remain unreported.
 - [To verify] Transformation method, duration, uses or slots spent, HP, crafting costs and other mechanics. The brown-bear description does not establish Wild Shape, a druid class or a specific stat block. Whether this form has persisted continuously since the cavern is unreported.
 - Ordinary appearance and identity remain unrecorded.
+
+## Stu Returns And Tina Fires Again - 2026-10-10
+
+![Stu approaches the prisoners and nearby snakes, then an arrow remains in flight](../../Adventures/2026-10-10/stu-returns-tina-arrow-at-snakes.png)
+
+- The two panels show the same contextual three remaining snakes. Stu's arrival and the arrow's outcome are unreported; no new death, captive reaction or Tina/Christina identity mapping is established. Poses, terrain, distances and arrow design are illustrative. [Image notes](../../Adventures/2026-10-10/stu-return-and-tina-arrow-image-notes.md).
 
 ## Christina Destroys The Last Local Snake - 2026-10-10
 

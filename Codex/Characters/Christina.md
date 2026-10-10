@@ -8,6 +8,8 @@
 The companion [Stu](./Stu.md) originally arrived with, now reported firing an arrow that destroys the last snake beside him; her exact character/player identity remains unreported.
 
 ## Table Role
+
+- [To verify name link, 2026-10-10] The latest narration names **Tina**, firing another arrow at the snakes now near the captive goblins. Whether Tina is Christina, another character or player shorthand is unconfirmed. Preserve the supplied name until resolved; do not assign this new shot or its unreported outcome to Christina as confirmed fact. [Session](../../Adventures/2026-10-10.md).
 - Role and player: Unknown / To verify.
 - Name: Christina, as supplied by Maitland. Whether this is a character name or player shorthand is unreported.
 - Appearance, ancestry and class: Unreported.

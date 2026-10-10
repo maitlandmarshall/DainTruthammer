@@ -5,7 +5,7 @@
 - Yuckie is the separate, uncuffed party goblin continuing the pull; the two captives remain linked at hands and feet. Grip, poses, cuff construction, dirt movement and cabin placement are illustrative. Partly concealed faces do not settle sleep/waking; no reaction, new injury, measured progress, arrival, boarding or chest recovery is established. [Image notes](../../Adventures/2026-10-10/yuckie-continued-pull-image-notes.md).
 
 ## One-Line Summary
-Two unnamed balloon-carriage intruders, **both still alive in round 7**, last confirmed cuffed together at both hands and feet and being pulled toward the balloon by Yuckie. Arrival, HP/injury extent and waking/reaction after Harry's preceding finger strike remain unreported; Dain is now awake and in battle.
+Two unnamed balloon-carriage intruders, last confirmed alive in round 7 and linked at hands and feet while Yuckie pulls them toward the balloon. The remaining snakes are now nearby; Stu runs toward the group and Tina fires at the snakes. No prisoner response, new injury, waking or completed return is reported.
 
 ## Table Role
 - Role: DM-controlled encounter creatures / NPCs.
@@ -13,6 +13,8 @@ Two unnamed balloon-carriage intruders, **both still alive in round 7**, last co
 - This page groups the two intruders; it does not identify them as any earlier named goblin.
 
 ## Status
+
+- [Confirmed latest nearby snakes, 2026-10-10] **The remaining [snakes](./Flying%20Snakes%20-%202026-10-10.md) are now near the two captives. [Stu](./Stu.md) runs back toward the goblins and snakes, then Tina fires another arrow at the snakes.** Bear arrival and shot outcome are unreported. No snake strike against a goblin, new prisoner injury, death, waking/reaction, release or completed haul is supplied. Round 7 survival and shared hand-and-foot cuffs remain last confirmed; Yuckie remains a separate party goblin. [Session](../../Adventures/2026-10-10.md).
 - [Latest confirmed survival, round 7, 2026-10-10] **Both goblin prisoners are still alive.** [Harry](./Hammerton%20Harry%20Drizddon.md) continues dragging the chest toward the balloon. Survival does not establish waking/consciousness, continued sleep, recovered health, dialogue/reaction, release or arrival. Shared hand-and-foot cuffs remain last confirmed; HP and injury extent remain unreported. Yuckie remains the separate party goblin, not a captive. [Session](../../Adventures/2026-10-10.md).
 - [Latest broader action, 2026-10-10] **[Yuckie](./Yuckie%20the%20Goblin.md) continues pulling both prisoners toward the [balloon](../Places/Party%20Skyship%20-%202026-08-29.md).** Shared hand-and-foot bindings remain last confirmed. Distance, checks, arrival/boarding, waking/reaction, further injury and release are unreported. Dain is now awake and in battle, without a particular observation of this haul being supplied. [Session](../../Adventures/2026-10-10.md).
 - [Preceding drag start; Dain asleep then] **[Yuckie the Goblin](./Yuckie%20the%20Goblin.md) starts dragging both prisoners back toward the [balloon cabin](../Places/Party%20Skyship%20-%202026-08-29.md).** Their linked hand/foot restraints remain in place. Arrival, boarding, precise handling, checks and prisoner waking/reaction were unreported. Yuckie is separate from the captives; chest recovery was open and Dain was innocent, asleep and unaware at that point. [Session](../../Adventures/2026-10-10.md).
